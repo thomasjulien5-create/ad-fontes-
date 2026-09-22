@@ -1,0 +1,74 @@
+name: Vérification quotidienne
+
+# Objectif : chaque jour à 7 h, heure de Paris, contrôler que les
+# journées à venir sont prêtes et prévenir par courriel s'il manque
+# un texte ou une validation.
+#
+# Le cron de GitHub Actions est en UTC et ne connaît pas l'heure d'été.
+# On déclenche donc aux deux heures UTC qui peuvent correspondre à 7 h
+# à Paris — 05:00 (CEST, été) et 06:00 (CET, hiver) — puis on écarte
+# le déclenchement qui ne tombe pas sur 7 h locales.
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    inputs:
+      fenetre:
+        description: "Nombre de jours à vérifier (aujourd'hui inclus)"
+        required: false
+        default: "7"
+
+permissions:
+  contents: read
+
+jobs:
+  verifier:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Ne garder que le déclenchement de 7 h à Paris
+        id: heure
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Déclenchement manuel : on poursuit."
+            echo "poursuivre=oui" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          heure=$(TZ=Europe/Paris date +%H)
+          echo "Il est ${heure} h à Paris."
+          if [ "$heure" = "07" ]; then
+            echo "poursuivre=oui" >> "$GITHUB_OUTPUT"
+          else
+            echo "poursuivre=non" >> "$GITHUB_OUTPUT"
+            echo "Ce déclenchement ne correspond pas à 7 h locales : on s'arrête."
+          fi
+
+      - name: Vérifier la préparation des journées
+        id: verif
+        if: steps.heure.outputs.poursuivre == 'oui'
+        continue-on-error: true
+        env:
+          ADF_FENETRE: ${{ github.event.inputs.fenetre || '7' }}
+        run: node .github/scripts/verifier-jour.mjs
+
+      - name: Conserver le rapport
+        if: steps.heure.outputs.poursuivre == 'oui'
+        uses: actions/upload-artifact@v4
+        with:
+          name: rapport-preparation
+          path: rapport.json
+          if-no-files-found: warn
+
+      - name: Avertir par courriel si une journée n'est pas prête
+        if: steps.heure.outputs.poursuivre == 'oui' && steps.verif.outcome == 'failure'
+        env:
+          SMTP_SERVEUR: ${{ secrets.SMTP_SERVEUR }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_UTILISATEUR: ${{ secrets.SMTP_UTILISATEUR }}
+          SMTP_MOTDEPASSE: ${{ secrets.SMTP_MOTDEPASSE }}
+          DESTINATAIRE: ${{ secrets.DESTINATAIRE }}
+        run: python3 .github/scripts/envoyer-alerte.py
