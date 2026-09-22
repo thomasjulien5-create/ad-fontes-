@@ -69,10 +69,17 @@ const PIECES = [
 
 const rempli = (v) => Array.isArray(v) ? v.some(x => String(x).trim()) : String(v ?? "").trim() !== "";
 
-/* Une pièce doit porter le latin ET le français. */
+/* Une pièce doit porter le latin ET le français.
+   Exception : la liturgie elle-même supprime certaines pièces (ainsi l'Alléluia
+   aux féries des Quatre-Temps). Une pièce peut donc déclarer son absence par
+   { omis: "motif" } ; le motif est exigé, pour qu'un oubli ne puisse pas se
+   déguiser en rubrique. */
 function verifierPiece(propre, [, libelle, variantes]) {
   const piece = variantes.map(v => propre?.[v]).find(p => p && typeof p === "object");
   if (!piece) return `${libelle} : absent`;
+  if (piece.omis) {
+    return String(piece.omis).trim() ? null : `${libelle} : absence déclarée sans motif`;
+  }
   const manque = [];
   if (!rempli(piece.latin)) manque.push("latin");
   if (!rempli(piece.francais)) manque.push("français");
