@@ -124,6 +124,9 @@ span.chip{border-color:transparent;font-style:italic;opacity:.85}
 .sheet{position:relative;z-index:3;padding:0 14px}
 .wcard{background:var(--paper);color:var(--ink);border:1px solid var(--cardline);border-radius:14px;padding:22px 20px;margin:0 0 14px;box-shadow:var(--shadow)}
 .notice{text-align:center;color:var(--won);opacity:.8;font-style:italic;font-size:.9rem;line-height:1.4;margin:-4px 8px 12px}
+.fete{margin:14px 0 2px;padding:14px 16px;background:var(--paper2);border:1px solid var(--cardline);border-radius:10px}
+.fete h3{margin:0 0 .5em;font-size:.78em;letter-spacing:.11em;text-transform:uppercase;color:var(--gold);font-weight:700}
+.fete p{margin:0;text-align:justify;hyphens:auto;font-size:.96em;line-height:1.62}
 .sep{width:44px;height:1px;background:var(--gold2);margin:16px auto}
 .prose p,.rtext p,.srctext p{text-align:justify;hyphens:auto;-webkit-hyphens:auto}
 .h2{font-weight:700;font-size:1.5rem;line-height:1.2;color:var(--navy);margin:0 0 10px}
@@ -376,6 +379,7 @@ const JOURS = {
  },
  "2026-09-23": {
   "textes": {
+   "brouillon": "Commentaire, trois points et résolution en brouillon : à valider avant publication.",
    "liturgie": {
     "nom": "Mercredi des Quatre-Temps de septembre",
     "qualite": "Férie des Quatre-Temps",
@@ -545,83 +549,64 @@ const JOURS = {
     "ref": "Marc 9, 23"
    },
    "commentaire": {
-    "mode": "editorial",
-    "portee": "Semaine du 23 au 29 septembre 2026 — Quatre-Temps de septembre, XVIIIe dimanche après la Pentecôte, saint Michel",
-    "verif": "Jour liturgique établi sur le moteur de Divinum Officium (rubriques de 1960) exécuté hors ligne ; propre de la messe d’après le Missel romain de 1962 ; Écriture en français d’après la Bible Crampon 1923 (Wikisource) ; oraisons traduites par Ad Fontes. Chaque référence thomiste renvoie à la page vérifiée du Corpus Thomisticum. Validé le 22 septembre 2026.",
+    "mode": "synthese",
+    "portee": "Évangile, Marc 9, 16-28 — l’enfant possédé que les disciples n’ont pu guérir",
+    "verif": "Saint Thomas n’a pas commenté saint Marc. Le commentaire s’appuie sur sa lecture du récit parallèle de Matthieu 17, lue sur le Corpus Thomisticum, et le dit plutôt que de prêter à Thomas un commentaire de Marc qu’il n’a pas écrit.",
     "sections": [
      {
-      "titre": "Une semaine que le calendrier ne donne pas d’avance",
+      "titre": "Un reproche qui ne vise pas les disciples",
       "paragraphes": [
-       "Cette semaine est commandée par les **Quatre-Temps de septembre**, qui tombent cette année les mercredi 23, vendredi 25 et samedi 26. Leur date n’est pas fixe : ils suivent le troisième dimanche de septembre. C’est pourquoi le dimanche 27 porte la messe du **XVIIIe dimanche après la Pentecôte** — la messe « Da pacem » suit toujours les Quatre-Temps — et non celle du XVIIe qu’un simple comptage des dimanches donnerait.",
-       "Les trois jours de jeûne encadrent ainsi le dimanche, et la semaine s’achève le 29 sur la **Dédicace de saint Michel Archange**, de Ire classe. Le mouvement d’ensemble va donc de la pénitence à la louange, en passant par le pardon."
-      ]
-     },
-     {
-      "titre": "Ce que demandent les Quatre-Temps",
-      "paragraphes": [
-       "Les lectures des trois jours de jeûne ne parlent pas d’abord de privation mais de **récolte et de joie** : Amos annonce les montagnes qui dégouttent de vin nouveau, Esdras fait lire la Loi au peuple et lui défend de pleurer — **« la joie du Seigneur est votre force »** —, le Lévitique prescrit la fête des Tentes. Le jeûne de septembre est un jeûne d’action de grâces.",
-       "Saint Thomas donne la raison de cet ordre : le jeûne n’est pas bon par lui-même, il est **ordonné à un bien** — réprimer la convoitise, rendre l’esprit libre pour les choses divines, satisfaire pour le péché. Une abstinence qui ne servirait pas ces fins manquerait sa raison d’être. Les collectes du mercredi le disent exactement : s’abstenir des aliments du corps pour **« jeûner aussi des vices par l’esprit »**."
-      ]
-     },
-     {
-      "titre": "Le pardon comme centre",
-      "paragraphes": [
-       "L’Évangile du dimanche — le paralytique auquel le Christ dit d’abord **« tes péchés te sont remis »**, avant de le guérir — donne la clef de la semaine. Les scribes s’en scandalisent ; le Christ prouve le pouvoir invisible par le signe visible.",
-       "La même logique traverse les autres jours : la pécheresse pardonnée chez Simon le vendredi, la femme courbée depuis dix-huit ans redressée le samedi, le figuier à qui l’on accorde une année de plus. **Ce que la semaine met au centre, ce n’est pas l’effort de l’homme, mais le délai que Dieu consent.**",
-       "La collecte du dimanche le formule sans détour : **« sans vous nous ne pouvons vous plaire »**. C’est la doctrine de saint Thomas sur la nécessité de la grâce : l’homme ne peut ni commencer ni achever le bien surnaturel par ses seules forces."
+       "Les disciples ont échoué, et c’est le père qui le dit. On attendrait que le Christ les reprenne ; or sa parole — **« ô génération incrédule »** — passe au-dessus d’eux et atteint toute une génération. Commentant le récit parallèle de Matthieu, saint Thomas le note expressément : l’échec **ne venait pas de l’impuissance des disciples, mais de l’incrédulité de ceux qui les entouraient**, lesquels leur imputaient ensuite leur propre faute.",
+       "Il ajoute, avec saint Jérôme, une précision sur le ton : le Seigneur ne parle pas ainsi **en homme irrité, mais à la manière d’un médecin**. Le reproche est un diagnostic, non un mouvement d’humeur."
       ],
       "citation": {
-       "texte": "« L’homme ne peut mériter la vie éternelle sans la grâce. »",
-       "ref": "Somme théologique, I-II, q. 114, a. 2 (page couvrant I-II, q. 109-114)",
-       "url": "https://www.corpusthomisticum.org/sth2109.html"
+       "texte": "« Le Seigneur ne dit pas cela comme s’il était irrité, mais il parle à la manière d’un médecin. »",
+       "ref": "Super Matthaeum, cap. 17 (Reportatio Leodegarii Bissuntini), sur « generatio incredula »",
+       "url": "https://www.corpusthomisticum.org/cml17.html"
       }
      },
      {
-      "titre": "Et saint Michel pour finir",
+      "titre": "Pourquoi ils n’ont pas pu",
       "paragraphes": [
-       "La semaine s’achève sur les anges, et l’Évangile de la fête est celui de l’enfant placé au milieu des disciples : **« leurs anges dans le ciel voient sans cesse la face de mon Père »**. La grandeur, dans le royaume, se mesure à l’abaissement.",
-       "C’est le même renversement que tout le reste de la semaine : le jeûne qui est une fête, le paralytique dont le péché est remis avant la marche, l’enfant donné en modèle aux apôtres qui se demandaient qui serait le plus grand."
+       "À la question des disciples — *pourquoi n’avons-nous pas pu ?* — la réponse du Seigneur est : **à cause de votre incrédulité**. Saint Thomas explique ce que cela suppose : avant d’avoir reçu l’Esprit Saint dans la plénitude de la Pentecôte, les apôtres **souffraient encore certaines faiblesses**, et le Seigneur les en reprenait.",
+       "L’aveu du père — *je crois, venez au secours de mon incrédulité* — est donc au centre du récit et non à sa marge : il dit la condition de tous ceux qui, ce jour-là, ne peuvent rien."
+      ]
+     },
+     {
+      "titre": "La prière et le jeûne, aux Quatre-Temps",
+      "paragraphes": [
+       "Le récit s’achève sur un enseignement que saint Thomas relève comme une règle générale et non comme une remarque de circonstance : **ce genre ne se chasse que par la prière et le jeûne**. La liturgie place cet Évangile au premier des trois jours de jeûne de septembre ; le rapprochement n’est pas ornemental.",
+       "Les deux leçons du jour l’éclairent en sens inverse. Amos annonce des montagnes ruisselantes de vin nouveau, Esdras fait lire la Loi et **défend au peuple de pleurer** : « la joie du Seigneur est votre force » — l’antienne de communion reprend ces mots mêmes. Le jeûne de septembre est un jeûne de moisson."
       ]
      }
     ]
    },
    "essentiel": [
-    "Les Quatre-Temps ne sont pas un jeûne triste : les lectures y parlent de moisson, de Loi retrouvée et de fête — « la joie du Seigneur est votre force ».",
-    "Au centre de la semaine, le Christ remet les péchés avant de guérir : ce que Dieu donne précède ce que je fais.",
-    "La grandeur promise se mesure à l’abaissement : l’enfant est placé au milieu des apôtres qui disputaient du premier rang."
+    "L’échec des disciples ne vient pas de leur impuissance : le reproche vise l’incrédulité qui les entoure.",
+    "Le Christ ne réprimande pas en homme irrité mais en médecin : le reproche est un diagnostic.",
+    "« Je crois, venez au secours de mon incrédulité » : c’est la prière de qui ne peut rien, et elle est exaucée."
    ],
-   "resolution": "Cette semaine, choisir une privation menue et déterminée — un repas, un écran, une parole — et la rapporter chaque fois à une action de grâces précise, pour que l’abstinence serve à quelque chose et non à elle-même.",
+   "resolution": "Aujourd’hui, joindre au jeûne une demande précise que je n’ai pas la force d’obtenir seul, et la formuler comme le père de l’enfant : sans cacher ce qui me manque.",
    "sources": [
     {
-     "label": "Missel romain de 1962, rubriques de 1960 — jour liturgique et propre de la messe",
-     "detail": "Établis sur le moteur de Divinum Officium (données et code du projet, licence libre), exécuté hors ligne : le site divinumofficium.com refuse les requêtes de ce type d’adresse.",
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 17",
+     "detail": "Récit parallèle de Marc 9 ; texte latin de l’édition de Turin 1951, reportation de Léger de Besançon. Saint Thomas n’a pas commenté saint Marc.",
+     "url": "https://www.corpusthomisticum.org/cml17.html"
+    },
+    {
+     "label": "Missel romain de 1962, mercredi des Quatre-Temps de septembre",
+     "detail": "Deux leçons, deux graduels, pas d’Alléluia ; antienne de communion tirée d’Esdras 8, 10."
+    },
+    {
+     "label": "Missel romain de 1962 et rubriques de 1960, Quatre-Temps de septembre",
+     "detail": "Propre et rang du jour établis sur les données libres du projet Divinum Officium.",
      "url": "https://github.com/DivinumOfficium/divinum-officium"
-    },
-    {
-     "label": "Bible Crampon 1923 — Écriture en français",
-     "detail": "Relevée sur l’édition numérisée de Wikisource. La Vulgate liturgique et la Crampon ne numérotent pas les psaumes de la même manière : la correspondance est indiquée à chaque pièce.",
-     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923"
-    },
-    {
-     "label": "Oraisons en français — traduction d’Ad Fontes",
-     "detail": "Collectes, secrètes, postcommunions et antiennes non scripturaires sont traduites du latin par Ad Fontes, faute de traduction française libre de droit."
-    },
-    {
-     "label": "Somme théologique, I-II, q. 114 — la grâce et le mérite",
-     "detail": "Texte latin de l’édition léonine sur le Corpus Thomisticum ; la page couvre I-II, q. 109-114.",
-     "url": "https://www.corpusthomisticum.org/sth2109.html"
-    },
-    {
-     "label": "Somme théologique, II-II, q. 147 — le jeûne",
-     "detail": "Référence mobilisée dans le deuxième mouvement ; texte latin de l’édition léonine, la page couvrant II-II, q. 146-154.",
-     "url": "https://www.corpusthomisticum.org/sth3146.html"
-    },
-    {
-     "label": "Une réserve d’attribution : les méditations des 28 et 29 septembre",
-     "detail": "Elles reposent sur le « De l’amour de Dieu » que l’édition de 1930 range parmi les opuscules de saint Thomas. Le Corpus Thomisticum publie ce traité sous le nom d’Helvic le Teuton, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes ne s’appuie, lui, que sur des œuvres authentiques.",
-     "url": "https://www.corpusthomisticum.org/xao.html"
     }
-   ]
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Quatre fois l’an, au passage des saisons, l’Église marque trois jours de jeûne — le mercredi, le vendredi et le samedi : ce sont les Quatre-Temps. Ceux de septembre suivent le troisième dimanche du mois et ouvrent l’automne. Ils ont un triple objet : rendre grâces pour les fruits que la terre vient de donner, demander pardon par la pénitence, et préparer les ordinations que l’évêque confère le samedi. Le jeûne n’y est donc pas une austérité isolée : il est l’envers d’une moisson. De là vient que les lectures du jour parlent de vendanges et de Loi retrouvée plutôt que de privation, et que l’antienne de communion ose cette parole d’Esdras : « la joie du Seigneur est votre force »."
+   }
   },
   "meditation": {
    "titre": "Quatre conditions nécessaires pour remplir le précepte de l’amour de Dieu",
@@ -691,6 +676,7 @@ const JOURS = {
  },
  "2026-09-24": {
   "textes": {
+   "brouillon": "Commentaire, trois points et résolution en brouillon : à valider avant publication.",
    "liturgie": {
     "nom": "Bienheureuse Vierge Marie de la Merci",
     "qualite": "Notre-Dame de la Merci",
@@ -802,83 +788,64 @@ const JOURS = {
     "ref": "Luc 11, 28"
    },
    "commentaire": {
-    "mode": "editorial",
-    "portee": "Semaine du 23 au 29 septembre 2026 — Quatre-Temps de septembre, XVIIIe dimanche après la Pentecôte, saint Michel",
-    "verif": "Jour liturgique établi sur le moteur de Divinum Officium (rubriques de 1960) exécuté hors ligne ; propre de la messe d’après le Missel romain de 1962 ; Écriture en français d’après la Bible Crampon 1923 (Wikisource) ; oraisons traduites par Ad Fontes. Chaque référence thomiste renvoie à la page vérifiée du Corpus Thomisticum. Validé le 22 septembre 2026.",
+    "mode": "synthese",
+    "portee": "Évangile, Luc 11, 27-28, et antienne d’offertoire « Ave Maria »",
+    "verif": "Saint Thomas n’a pas commenté saint Luc. Le commentaire s’appuie sur son Expositio salutationis angelicae, opuscule authentique, lu sur le Corpus Thomisticum : l’offertoire du jour est précisément la salutation angélique.",
     "sections": [
      {
-      "titre": "Une semaine que le calendrier ne donne pas d’avance",
+      "titre": "Un renversement dont on n’avait jamais entendu parler",
       "paragraphes": [
-       "Cette semaine est commandée par les **Quatre-Temps de septembre**, qui tombent cette année les mercredi 23, vendredi 25 et samedi 26. Leur date n’est pas fixe : ils suivent le troisième dimanche de septembre. C’est pourquoi le dimanche 27 porte la messe du **XVIIIe dimanche après la Pentecôte** — la messe « Da pacem » suit toujours les Quatre-Temps — et non celle du XVIIe qu’un simple comptage des dimanches donnerait.",
-       "Les trois jours de jeûne encadrent ainsi le dimanche, et la semaine s’achève le 29 sur la **Dédicace de saint Michel Archange**, de Ire classe. Le mouvement d’ensemble va donc de la pénitence à la louange, en passant par le pardon."
-      ]
-     },
-     {
-      "titre": "Ce que demandent les Quatre-Temps",
-      "paragraphes": [
-       "Les lectures des trois jours de jeûne ne parlent pas d’abord de privation mais de **récolte et de joie** : Amos annonce les montagnes qui dégouttent de vin nouveau, Esdras fait lire la Loi au peuple et lui défend de pleurer — **« la joie du Seigneur est votre force »** —, le Lévitique prescrit la fête des Tentes. Le jeûne de septembre est un jeûne d’action de grâces.",
-       "Saint Thomas donne la raison de cet ordre : le jeûne n’est pas bon par lui-même, il est **ordonné à un bien** — réprimer la convoitise, rendre l’esprit libre pour les choses divines, satisfaire pour le péché. Une abstinence qui ne servirait pas ces fins manquerait sa raison d’être. Les collectes du mercredi le disent exactement : s’abstenir des aliments du corps pour **« jeûner aussi des vices par l’esprit »**."
-      ]
-     },
-     {
-      "titre": "Le pardon comme centre",
-      "paragraphes": [
-       "L’Évangile du dimanche — le paralytique auquel le Christ dit d’abord **« tes péchés te sont remis »**, avant de le guérir — donne la clef de la semaine. Les scribes s’en scandalisent ; le Christ prouve le pouvoir invisible par le signe visible.",
-       "La même logique traverse les autres jours : la pécheresse pardonnée chez Simon le vendredi, la femme courbée depuis dix-huit ans redressée le samedi, le figuier à qui l’on accorde une année de plus. **Ce que la semaine met au centre, ce n’est pas l’effort de l’homme, mais le délai que Dieu consent.**",
-       "La collecte du dimanche le formule sans détour : **« sans vous nous ne pouvons vous plaire »**. C’est la doctrine de saint Thomas sur la nécessité de la grâce : l’homme ne peut ni commencer ni achever le bien surnaturel par ses seules forces."
+       "L’offertoire de cette messe est l’*Ave Maria*. Saint Thomas en a laissé une explication suivie, et il l’ouvre sur une remarque d’histoire : dans l’ancienne alliance, **c’était un grand fait qu’un ange apparût à un homme**, et l’on tenait à grand honneur de lui rendre révérence. Abraham est loué d’avoir reçu les anges et de les avoir honorés.",
+       "Mais **qu’un ange rende révérence à un homme, on ne l’avait jamais entendu** — jusqu’à ce qu’il salue la Vierge en disant : *Ave*. Le renversement est le sujet même de l’opuscule."
       ],
       "citation": {
-       "texte": "« L’homme ne peut mériter la vie éternelle sans la grâce. »",
-       "ref": "Somme théologique, I-II, q. 114, a. 2 (page couvrant I-II, q. 109-114)",
-       "url": "https://www.corpusthomisticum.org/sth2109.html"
+       "texte": "« Qu’un ange rendît révérence à un homme, jamais on ne l’avait entendu, sinon après qu’il eut salué la bienheureuse Vierge en disant avec révérence : Je vous salue. »",
+       "ref": "Expositio salutationis angelicae, article 1",
+       "url": "https://www.corpusthomisticum.org/cst.html"
       }
      },
      {
-      "titre": "Et saint Michel pour finir",
+      "titre": "Pourquoi l’ange passait avant l’homme",
       "paragraphes": [
-       "La semaine s’achève sur les anges, et l’Évangile de la fête est celui de l’enfant placé au milieu des disciples : **« leurs anges dans le ciel voient sans cesse la face de mon Père »**. La grandeur, dans le royaume, se mesure à l’abaissement.",
-       "C’est le même renversement que tout le reste de la semaine : le jeûne qui est une fête, le paralytique dont le péché est remis avant la marche, l’enfant donné en modèle aux apôtres qui se demandaient qui serait le plus grand."
+       "Saint Thomas explique la raison de l’usage ancien : l’ange était plus grand que l’homme, et d’abord **quant à la dignité**, étant d’une nature spirituelle, tandis que l’homme est de nature corruptible — d’où le mot d’Abraham : *je parlerai à mon Seigneur, moi qui suis poussière et cendre*.",
+       "C’est cette hiérarchie que la salutation renverse. Non que la nature humaine ait changé, mais parce que celle qui est saluée porte en elle celui devant qui les anges se tiennent."
+      ]
+     },
+     {
+      "titre": "Ce que le Christ corrige dans la louange",
+      "paragraphes": [
+       "L’Évangile du jour va dans le même sens. Une femme proclame heureux **le sein qui l’a porté** ; le Christ ne la contredit pas, il déplace la louange : **heureux plutôt ceux qui écoutent la parole de Dieu et la gardent**.",
+       "La béatitude de Marie n’est donc pas diminuée mais fondée : elle est bienheureuse d’abord pour avoir cru et gardé, et la maternité elle-même est le fruit de cette écoute. La fête de la Merci, qui célèbre la délivrance de captifs, ajoute que cette écoute se paie : l’ordre fondé sous ce vocable s’engageait à se livrer en échange des prisonniers."
       ]
      }
     ]
    },
    "essentiel": [
-    "Les Quatre-Temps ne sont pas un jeûne triste : les lectures y parlent de moisson, de Loi retrouvée et de fête — « la joie du Seigneur est votre force ».",
-    "Au centre de la semaine, le Christ remet les péchés avant de guérir : ce que Dieu donne précède ce que je fais.",
-    "La grandeur promise se mesure à l’abaissement : l’enfant est placé au milieu des apôtres qui disputaient du premier rang."
+    "Jamais un ange n’avait rendu révérence à un homme avant de saluer la Vierge.",
+    "Le Christ ne retire pas sa louange à sa mère : il la fonde sur l’écoute plutôt que sur la chair.",
+    "Être bienheureux, c’est entendre la parole de Dieu et la garder — cela est offert à tous."
    ],
-   "resolution": "Cette semaine, choisir une privation menue et déterminée — un repas, un écran, une parole — et la rapporter chaque fois à une action de grâces précise, pour que l’abstinence serve à quelque chose et non à elle-même.",
+   "resolution": "Aujourd’hui, dire une fois l’Ave Maria lentement, en m’arrêtant sur le premier mot, celui que l’ange a dit le premier.",
    "sources": [
     {
-     "label": "Missel romain de 1962, rubriques de 1960 — jour liturgique et propre de la messe",
-     "detail": "Établis sur le moteur de Divinum Officium (données et code du projet, licence libre), exécuté hors ligne : le site divinumofficium.com refuse les requêtes de ce type d’adresse.",
+     "label": "Saint Thomas d’Aquin, Expositio salutationis angelicae",
+     "detail": "Opuscule authentique ; texte latin de l’édition de Turin 1954, prooemium et article 1.",
+     "url": "https://www.corpusthomisticum.org/cst.html"
+    },
+    {
+     "label": "Missel romain de 1962, Bienheureuse Vierge Marie de la Merci",
+     "detail": "IIIe classe ; offertoire tiré de Luc 1, 28 et 42."
+    },
+    {
+     "label": "Bréviaire romain, leçon IV des matines du 24 septembre",
+     "detail": "Leçon historique de la Bienheureuse Vierge Marie de la Merci, d’après les données libres du projet Divinum Officium.",
      "url": "https://github.com/DivinumOfficium/divinum-officium"
-    },
-    {
-     "label": "Bible Crampon 1923 — Écriture en français",
-     "detail": "Relevée sur l’édition numérisée de Wikisource. La Vulgate liturgique et la Crampon ne numérotent pas les psaumes de la même manière : la correspondance est indiquée à chaque pièce.",
-     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923"
-    },
-    {
-     "label": "Oraisons en français — traduction d’Ad Fontes",
-     "detail": "Collectes, secrètes, postcommunions et antiennes non scripturaires sont traduites du latin par Ad Fontes, faute de traduction française libre de droit."
-    },
-    {
-     "label": "Somme théologique, I-II, q. 114 — la grâce et le mérite",
-     "detail": "Texte latin de l’édition léonine sur le Corpus Thomisticum ; la page couvre I-II, q. 109-114.",
-     "url": "https://www.corpusthomisticum.org/sth2109.html"
-    },
-    {
-     "label": "Somme théologique, II-II, q. 147 — le jeûne",
-     "detail": "Référence mobilisée dans le deuxième mouvement ; texte latin de l’édition léonine, la page couvrant II-II, q. 146-154.",
-     "url": "https://www.corpusthomisticum.org/sth3146.html"
-    },
-    {
-     "label": "Une réserve d’attribution : les méditations des 28 et 29 septembre",
-     "detail": "Elles reposent sur le « De l’amour de Dieu » que l’édition de 1930 range parmi les opuscules de saint Thomas. Le Corpus Thomisticum publie ce traité sous le nom d’Helvic le Teuton, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes ne s’appuie, lui, que sur des œuvres authentiques.",
-     "url": "https://www.corpusthomisticum.org/xao.html"
     }
-   ]
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "La leçon des matines rappelle qu’au temps où la plus grande partie de l’Espagne gémissait sous le joug des Sarrasins, d’innombrables chrétiens étaient retenus en captivité, au péril d’abjurer la foi et de perdre le salut éternel. C’est alors, dit le Bréviaire, que la Vierge se montra à saint Pierre Nolasque, homme riche et pieux qui cherchait sans relâche comment secourir ces captifs, et lui déclara qu’il serait très agréable à son Fils qu’un ordre religieux fût institué en son honneur pour les délivrer. Ainsi naquit l’ordre de la Merci, dont les religieux faisaient vœu de se livrer eux-mêmes en échange des prisonniers — « que chacun donne sa vie pour ses amis »."
+   }
   },
   "meditation": {
    "titre": "Comment il est possible en cette vie d’avoir la charité parfaite",
@@ -937,6 +904,7 @@ const JOURS = {
  },
  "2026-09-25": {
   "textes": {
+   "brouillon": "Commentaire, trois points et résolution en brouillon : à valider avant publication.",
    "liturgie": {
     "nom": "Vendredi des Quatre-Temps de septembre",
     "qualite": "Férie des Quatre-Temps",
@@ -1043,83 +1011,64 @@ const JOURS = {
     "ref": "Luc 7, 47"
    },
    "commentaire": {
-    "mode": "editorial",
-    "portee": "Semaine du 23 au 29 septembre 2026 — Quatre-Temps de septembre, XVIIIe dimanche après la Pentecôte, saint Michel",
-    "verif": "Jour liturgique établi sur le moteur de Divinum Officium (rubriques de 1960) exécuté hors ligne ; propre de la messe d’après le Missel romain de 1962 ; Écriture en français d’après la Bible Crampon 1923 (Wikisource) ; oraisons traduites par Ad Fontes. Chaque référence thomiste renvoie à la page vérifiée du Corpus Thomisticum. Validé le 22 septembre 2026.",
+    "mode": "synthese",
+    "portee": "Évangile, Luc 7, 36-50 — la pécheresse chez Simon le pharisien",
+    "verif": "Saint Thomas n’a pas commenté saint Luc. Il traite en revanche expressément cette péricope dans la Somme théologique, III, q. 86, lue sur le Corpus Thomisticum ; c’est là que le commentaire puise.",
     "sections": [
      {
-      "titre": "Une semaine que le calendrier ne donne pas d’avance",
+      "titre": "Le pardon donné hors du sacrement",
       "paragraphes": [
-       "Cette semaine est commandée par les **Quatre-Temps de septembre**, qui tombent cette année les mercredi 23, vendredi 25 et samedi 26. Leur date n’est pas fixe : ils suivent le troisième dimanche de septembre. C’est pourquoi le dimanche 27 porte la messe du **XVIIIe dimanche après la Pentecôte** — la messe « Da pacem » suit toujours les Quatre-Temps — et non celle du XVIIe qu’un simple comptage des dimanches donnerait.",
-       "Les trois jours de jeûne encadrent ainsi le dimanche, et la semaine s’achève le 29 sur la **Dédicace de saint Michel Archange**, de Ire classe. Le mouvement d’ensemble va donc de la pénitence à la louange, en passant par le pardon."
-      ]
-     },
-     {
-      "titre": "Ce que demandent les Quatre-Temps",
-      "paragraphes": [
-       "Les lectures des trois jours de jeûne ne parlent pas d’abord de privation mais de **récolte et de joie** : Amos annonce les montagnes qui dégouttent de vin nouveau, Esdras fait lire la Loi au peuple et lui défend de pleurer — **« la joie du Seigneur est votre force »** —, le Lévitique prescrit la fête des Tentes. Le jeûne de septembre est un jeûne d’action de grâces.",
-       "Saint Thomas donne la raison de cet ordre : le jeûne n’est pas bon par lui-même, il est **ordonné à un bien** — réprimer la convoitise, rendre l’esprit libre pour les choses divines, satisfaire pour le péché. Une abstinence qui ne servirait pas ces fins manquerait sa raison d’être. Les collectes du mercredi le disent exactement : s’abstenir des aliments du corps pour **« jeûner aussi des vices par l’esprit »**."
-      ]
-     },
-     {
-      "titre": "Le pardon comme centre",
-      "paragraphes": [
-       "L’Évangile du dimanche — le paralytique auquel le Christ dit d’abord **« tes péchés te sont remis »**, avant de le guérir — donne la clef de la semaine. Les scribes s’en scandalisent ; le Christ prouve le pouvoir invisible par le signe visible.",
-       "La même logique traverse les autres jours : la pécheresse pardonnée chez Simon le vendredi, la femme courbée depuis dix-huit ans redressée le samedi, le figuier à qui l’on accorde une année de plus. **Ce que la semaine met au centre, ce n’est pas l’effort de l’homme, mais le délai que Dieu consent.**",
-       "La collecte du dimanche le formule sans détour : **« sans vous nous ne pouvons vous plaire »**. C’est la doctrine de saint Thomas sur la nécessité de la grâce : l’homme ne peut ni commencer ni achever le bien surnaturel par ses seules forces."
+       "Le récit pose une difficulté que saint Thomas aborde de front : le Christ remet les péchés de cette femme **sans confession ni absolution**. Il s’en sert même comme argument : Dieu peut remettre le péché sans le ministère du prêtre, **« comme le Christ l’a remis à la femme adultère, en Jean 8, et à la pécheresse, en Luc 7 »**.",
+       "Mais il ajoute aussitôt la restriction décisive : **il ne leur a pas remis leurs péchés sans la vertu de pénitence**. Ce qui manque au récit, c’est le rite, non la conversion."
       ],
       "citation": {
-       "texte": "« L’homme ne peut mériter la vie éternelle sans la grâce. »",
-       "ref": "Somme théologique, I-II, q. 114, a. 2 (page couvrant I-II, q. 109-114)",
-       "url": "https://www.corpusthomisticum.org/sth2109.html"
+       "texte": "« Il ne leur a pas pour autant remis les péchés sans la vertu de pénitence ; car, comme dit saint Grégoire, il attirait au dedans par la grâce celle qu’il recevait au dehors par miséricorde. »",
+       "ref": "Somme théologique, III, q. 86, a. 2 (page couvrant III, q. 84-90)",
+       "url": "https://www.corpusthomisticum.org/sth4084.html"
       }
      },
      {
-      "titre": "Et saint Michel pour finir",
+      "titre": "Les larmes avant les paroles",
       "paragraphes": [
-       "La semaine s’achève sur les anges, et l’Évangile de la fête est celui de l’enfant placé au milieu des disciples : **« leurs anges dans le ciel voient sans cesse la face de mon Père »**. La grandeur, dans le royaume, se mesure à l’abaissement.",
-       "C’est le même renversement que tout le reste de la semaine : le jeûne qui est une fête, le paralytique dont le péché est remis avant la marche, l’enfant donné en modèle aux apôtres qui se demandaient qui serait le plus grand."
+       "La formule de saint Grégoire que Thomas reprend décrit exactement la scène : **au dehors**, le Christ se laisse toucher, oindre, pleurer dessus, sans rien dire ; **au dedans**, la grâce fait son travail. Le pardon prononcé à la fin ne crée pas la conversion, il la constate et l’achève.",
+       "C’est pourquoi la phrase du Christ à Simon n’est pas un calcul de proportion mais une lecture : *ses péchés nombreux lui sont pardonnés, parce qu’elle a beaucoup aimé*."
+      ]
+     },
+     {
+      "titre": "Guérir d’un coup, ou peu à peu",
+      "paragraphes": [
+       "Saint Thomas revient à ce même récit pour une question plus rude : la faute pardonnée, **les restes du péché demeurent-ils ?** Il répond que Dieu guérit l’homme tout entier, mais **tantôt d’un coup, tantôt par étapes**. Et il donne cette femme en exemple du premier cas : une conversion si violente que la santé spirituelle est rendue d’un seul mouvement, **non seulement la faute remise, mais tous les restes du péché enlevés**.",
+       "L’autre voie est la plus ordinaire : la faute d’abord remise par la grâce opérante, puis les restes ôtés peu à peu par la grâce coopérante. Le jeûne des Quatre-Temps appartient à cette seconde voie — et la leçon d’Osée lui donne sa formule : *Convertissez-vous, prenez avec vous des paroles*."
       ]
      }
     ]
    },
    "essentiel": [
-    "Les Quatre-Temps ne sont pas un jeûne triste : les lectures y parlent de moisson, de Loi retrouvée et de fête — « la joie du Seigneur est votre force ».",
-    "Au centre de la semaine, le Christ remet les péchés avant de guérir : ce que Dieu donne précède ce que je fais.",
-    "La grandeur promise se mesure à l’abaissement : l’enfant est placé au milieu des apôtres qui disputaient du premier rang."
+    "Ce qui manque au récit, c’est le rite, non la conversion : le pardon ne se donne jamais sans pénitence intérieure.",
+    "Dieu attire au dedans par la grâce celle qu’il reçoit au dehors par miséricorde.",
+    "La faute peut être remise d’un coup ; les restes du péché s’en vont le plus souvent peu à peu, et c’est à quoi sert le jeûne."
    ],
-   "resolution": "Cette semaine, choisir une privation menue et déterminée — un repas, un écran, une parole — et la rapporter chaque fois à une action de grâces précise, pour que l’abstinence serve à quelque chose et non à elle-même.",
+   "resolution": "Aujourd’hui, nommer un reste de péché déjà pardonné — une habitude, un réflexe — et lui opposer un acte contraire, un seul.",
    "sources": [
     {
-     "label": "Missel romain de 1962, rubriques de 1960 — jour liturgique et propre de la messe",
-     "detail": "Établis sur le moteur de Divinum Officium (données et code du projet, licence libre), exécuté hors ligne : le site divinumofficium.com refuse les requêtes de ce type d’adresse.",
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 86, a. 2 et a. 5",
+     "detail": "Texte latin de l’édition léonine ; la page couvre III, q. 84-90. Saint Thomas y cite nommément la pécheresse de Luc 7.",
+     "url": "https://www.corpusthomisticum.org/sth4084.html"
+    },
+    {
+     "label": "Missel romain de 1962, vendredi des Quatre-Temps de septembre",
+     "detail": "Leçon d’Osée 14, 2-10 ; pas d’Alléluia."
+    },
+    {
+     "label": "Missel romain de 1962, vendredi des Quatre-Temps de septembre",
+     "detail": "Absence d’Alléluia et de trait constatée sur le propre du jour, établi d’après les données libres du projet Divinum Officium.",
      "url": "https://github.com/DivinumOfficium/divinum-officium"
-    },
-    {
-     "label": "Bible Crampon 1923 — Écriture en français",
-     "detail": "Relevée sur l’édition numérisée de Wikisource. La Vulgate liturgique et la Crampon ne numérotent pas les psaumes de la même manière : la correspondance est indiquée à chaque pièce.",
-     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923"
-    },
-    {
-     "label": "Oraisons en français — traduction d’Ad Fontes",
-     "detail": "Collectes, secrètes, postcommunions et antiennes non scripturaires sont traduites du latin par Ad Fontes, faute de traduction française libre de droit."
-    },
-    {
-     "label": "Somme théologique, I-II, q. 114 — la grâce et le mérite",
-     "detail": "Texte latin de l’édition léonine sur le Corpus Thomisticum ; la page couvre I-II, q. 109-114.",
-     "url": "https://www.corpusthomisticum.org/sth2109.html"
-    },
-    {
-     "label": "Somme théologique, II-II, q. 147 — le jeûne",
-     "detail": "Référence mobilisée dans le deuxième mouvement ; texte latin de l’édition léonine, la page couvrant II-II, q. 146-154.",
-     "url": "https://www.corpusthomisticum.org/sth3146.html"
-    },
-    {
-     "label": "Une réserve d’attribution : les méditations des 28 et 29 septembre",
-     "detail": "Elles reposent sur le « De l’amour de Dieu » que l’édition de 1930 range parmi les opuscules de saint Thomas. Le Corpus Thomisticum publie ce traité sous le nom d’Helvic le Teuton, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes ne s’appuie, lui, que sur des œuvres authentiques.",
-     "url": "https://www.corpusthomisticum.org/xao.html"
     }
-   ]
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Deuxième des trois jours de jeûne de septembre. Le vendredi des Quatre-Temps n’a ni Alléluia ni trait : la messe va du graduel directement à l’Évangile, et cette sobriété est elle-même une rubrique. La leçon d’Osée en donne le mouvement : « Convertissez-vous, prenez avec vous des paroles » — c’est-à-dire revenez sans rien apporter d’autre que l’aveu. L’Évangile y répond par la pécheresse qui ne dit pas un mot et obtient tout. Le jeûne de ce jour ne cherche donc pas à mériter le pardon, qui est donné avant d’être demandé ; il travaille à défaire ce que le péché a laissé derrière lui."
+   }
   },
   "meditation": {
    "titre": "De l’augmentation de la charité",
@@ -1184,6 +1133,7 @@ const JOURS = {
  },
  "2026-09-26": {
   "textes": {
+   "brouillon": "Commentaire, trois points et résolution en brouillon : à valider avant publication.",
    "liturgie": {
     "nom": "Samedi des Quatre-Temps de septembre",
     "qualite": "Férie des Quatre-Temps",
@@ -1404,83 +1354,64 @@ const JOURS = {
     "ref": "Luc 13, 16"
    },
    "commentaire": {
-    "mode": "editorial",
-    "portee": "Semaine du 23 au 29 septembre 2026 — Quatre-Temps de septembre, XVIIIe dimanche après la Pentecôte, saint Michel",
-    "verif": "Jour liturgique établi sur le moteur de Divinum Officium (rubriques de 1960) exécuté hors ligne ; propre de la messe d’après le Missel romain de 1962 ; Écriture en français d’après la Bible Crampon 1923 (Wikisource) ; oraisons traduites par Ad Fontes. Chaque référence thomiste renvoie à la page vérifiée du Corpus Thomisticum. Validé le 22 septembre 2026.",
+    "mode": "direct",
+    "portee": "Épître, Hébreux 9, 2-12 — le tabernacle ancien et le sacerdoce du Christ",
+    "verif": "Saint Thomas a commenté l’Épître aux Hébreux. Le commentaire est pris sur sa lecture du chapitre 9, lue sur le Corpus Thomisticum.",
     "sections": [
      {
-      "titre": "Une semaine que le calendrier ne donne pas d’avance",
+      "titre": "Un tabernacle que nulle main n’a fait",
       "paragraphes": [
-       "Cette semaine est commandée par les **Quatre-Temps de septembre**, qui tombent cette année les mercredi 23, vendredi 25 et samedi 26. Leur date n’est pas fixe : ils suivent le troisième dimanche de septembre. C’est pourquoi le dimanche 27 porte la messe du **XVIIIe dimanche après la Pentecôte** — la messe « Da pacem » suit toujours les Quatre-Temps — et non celle du XVIIe qu’un simple comptage des dimanches donnerait.",
-       "Les trois jours de jeûne encadrent ainsi le dimanche, et la semaine s’achève le 29 sur la **Dédicace de saint Michel Archange**, de Ire classe. Le mouvement d’ensemble va donc de la pénitence à la louange, en passant par le pardon."
-      ]
-     },
-     {
-      "titre": "Ce que demandent les Quatre-Temps",
-      "paragraphes": [
-       "Les lectures des trois jours de jeûne ne parlent pas d’abord de privation mais de **récolte et de joie** : Amos annonce les montagnes qui dégouttent de vin nouveau, Esdras fait lire la Loi au peuple et lui défend de pleurer — **« la joie du Seigneur est votre force »** —, le Lévitique prescrit la fête des Tentes. Le jeûne de septembre est un jeûne d’action de grâces.",
-       "Saint Thomas donne la raison de cet ordre : le jeûne n’est pas bon par lui-même, il est **ordonné à un bien** — réprimer la convoitise, rendre l’esprit libre pour les choses divines, satisfaire pour le péché. Une abstinence qui ne servirait pas ces fins manquerait sa raison d’être. Les collectes du mercredi le disent exactement : s’abstenir des aliments du corps pour **« jeûner aussi des vices par l’esprit »**."
-      ]
-     },
-     {
-      "titre": "Le pardon comme centre",
-      "paragraphes": [
-       "L’Évangile du dimanche — le paralytique auquel le Christ dit d’abord **« tes péchés te sont remis »**, avant de le guérir — donne la clef de la semaine. Les scribes s’en scandalisent ; le Christ prouve le pouvoir invisible par le signe visible.",
-       "La même logique traverse les autres jours : la pécheresse pardonnée chez Simon le vendredi, la femme courbée depuis dix-huit ans redressée le samedi, le figuier à qui l’on accorde une année de plus. **Ce que la semaine met au centre, ce n’est pas l’effort de l’homme, mais le délai que Dieu consent.**",
-       "La collecte du dimanche le formule sans détour : **« sans vous nous ne pouvons vous plaire »**. C’est la doctrine de saint Thomas sur la nécessité de la grâce : l’homme ne peut ni commencer ni achever le bien surnaturel par ses seules forces."
+       "L’épître oppose au sanctuaire de l’ancienne alliance un **tabernacle plus ample et plus parfait, qui n’est pas fait de main d’homme**. Saint Thomas retient d’abord la différence de condition : l’ancien fut fait de main d’homme, celui-ci **de la main de Dieu**.",
+       "Puis il donne une seconde lecture, plus serrée : **ce tabernacle peut s’entendre du corps du Christ**, dans lequel il a combattu contre le démon. Plus ample, parce qu’en lui **habite corporellement toute la plénitude de la divinité** ; non fait de main d’homme, **parce qu’il n’est pas né d’une semence virile** — la pierre détachée de la montagne sans le secours d’aucune main."
       ],
       "citation": {
-       "texte": "« L’homme ne peut mériter la vie éternelle sans la grâce. »",
-       "ref": "Somme théologique, I-II, q. 114, a. 2 (page couvrant I-II, q. 109-114)",
-       "url": "https://www.corpusthomisticum.org/sth2109.html"
+       "texte": "« Non fait de main d’homme, parce qu’il n’est pas d’une semence virile. »",
+       "ref": "Super Epistolam ad Hebraeos, cap. 9 (page couvrant les chapitres 7 à 10)",
+       "url": "https://www.corpusthomisticum.org/che07.html"
       }
      },
      {
-      "titre": "Et saint Michel pour finir",
+      "titre": "Son sang, et non celui d’un autre",
       "paragraphes": [
-       "La semaine s’achève sur les anges, et l’Évangile de la fête est celui de l’enfant placé au milieu des disciples : **« leurs anges dans le ciel voient sans cesse la face de mon Père »**. La grandeur, dans le royaume, se mesure à l’abaissement.",
-       "C’est le même renversement que tout le reste de la semaine : le jeûne qui est une fête, le paralytique dont le péché est remis avant la marche, l’enfant donné en modèle aux apôtres qui se demandaient qui serait le plus grand."
+       "Le grand prêtre ancien entrait avec du sang, mais **avec un sang étranger** — celui des boucs et des taureaux. Saint Thomas souligne la rupture : le Christ entre **par son propre sang, qu’il a immolé pour notre salut sur la croix**.",
+       "Il relève encore la fréquence : le pontife entrait **une fois l’an**, et donc plusieurs fois au long des années ; le Christ **est entré une fois**, et une seule fois a répandu son sang. Et depuis qu’il est entré dans les choses célestes, **il y est toujours**."
+      ]
+     },
+     {
+      "titre": "Pourquoi ce texte le jour des ordinations",
+      "paragraphes": [
+       "Le samedi des Quatre-Temps est le jour où l’Église confère les ordres sacrés, et l’épître de ce jour est précisément celle qui décrit le sacerdoce du Christ. Les cinq leçons qui la précèdent viennent toutes de l’ancienne alliance : le jour des Expiations, la fête des Tentes, le pardon promis par Michée, les jeûnes changés en joie chez Zacharie, la fournaise de Daniel.",
+       "Elles disent le régime des figures ; l’épître dit ce qui les accomplit. **Le prêtre ordonné ce jour-là n’inaugure pas un sacerdoce, il entre dans celui d’un autre.**"
       ]
      }
     ]
    },
    "essentiel": [
-    "Les Quatre-Temps ne sont pas un jeûne triste : les lectures y parlent de moisson, de Loi retrouvée et de fête — « la joie du Seigneur est votre force ».",
-    "Au centre de la semaine, le Christ remet les péchés avant de guérir : ce que Dieu donne précède ce que je fais.",
-    "La grandeur promise se mesure à l’abaissement : l’enfant est placé au milieu des apôtres qui disputaient du premier rang."
+    "Le tabernacle plus parfait, c’est le corps du Christ : non fait de main d’homme, parce que non né d’une semence virile.",
+    "L’ancien pontife entrait avec un sang étranger ; le Christ est entré par le sien.",
+    "Il est entré une fois pour toutes — et depuis qu’il est entré, il y demeure toujours."
    ],
-   "resolution": "Cette semaine, choisir une privation menue et déterminée — un repas, un écran, une parole — et la rapporter chaque fois à une action de grâces précise, pour que l’abstinence serve à quelque chose et non à elle-même.",
+   "resolution": "Aujourd’hui, prier nommément pour un prêtre — celui qui m’a confessé, ou celui de ma paroisse — puisque c’est le jour où l’Église en ordonne.",
    "sources": [
     {
-     "label": "Missel romain de 1962, rubriques de 1960 — jour liturgique et propre de la messe",
-     "detail": "Établis sur le moteur de Divinum Officium (données et code du projet, licence libre), exécuté hors ligne : le site divinumofficium.com refuse les requêtes de ce type d’adresse.",
+     "label": "Saint Thomas d’Aquin, Super Epistolam B. Pauli ad Hebraeos lectura, cap. 9",
+     "detail": "Texte latin de l’édition de Turin ; la page couvre les chapitres 7 à 10.",
+     "url": "https://www.corpusthomisticum.org/che07.html"
+    },
+    {
+     "label": "Missel romain de 1962, samedi des Quatre-Temps de septembre",
+     "detail": "Messe à six lectures, jour traditionnel des ordinations ; trait au lieu de l’Alléluia."
+    },
+    {
+     "label": "Missel romain de 1962, samedi des Quatre-Temps de septembre",
+     "detail": "Messe à six lectures et trait au lieu de l’Alléluia, d’après le propre du jour établi sur les données libres du projet Divinum Officium.",
      "url": "https://github.com/DivinumOfficium/divinum-officium"
-    },
-    {
-     "label": "Bible Crampon 1923 — Écriture en français",
-     "detail": "Relevée sur l’édition numérisée de Wikisource. La Vulgate liturgique et la Crampon ne numérotent pas les psaumes de la même manière : la correspondance est indiquée à chaque pièce.",
-     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923"
-    },
-    {
-     "label": "Oraisons en français — traduction d’Ad Fontes",
-     "detail": "Collectes, secrètes, postcommunions et antiennes non scripturaires sont traduites du latin par Ad Fontes, faute de traduction française libre de droit."
-    },
-    {
-     "label": "Somme théologique, I-II, q. 114 — la grâce et le mérite",
-     "detail": "Texte latin de l’édition léonine sur le Corpus Thomisticum ; la page couvre I-II, q. 109-114.",
-     "url": "https://www.corpusthomisticum.org/sth2109.html"
-    },
-    {
-     "label": "Somme théologique, II-II, q. 147 — le jeûne",
-     "detail": "Référence mobilisée dans le deuxième mouvement ; texte latin de l’édition léonine, la page couvrant II-II, q. 146-154.",
-     "url": "https://www.corpusthomisticum.org/sth3146.html"
-    },
-    {
-     "label": "Une réserve d’attribution : les méditations des 28 et 29 septembre",
-     "detail": "Elles reposent sur le « De l’amour de Dieu » que l’édition de 1930 range parmi les opuscules de saint Thomas. Le Corpus Thomisticum publie ce traité sous le nom d’Helvic le Teuton, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes ne s’appuie, lui, que sur des œuvres authentiques.",
-     "url": "https://www.corpusthomisticum.org/xao.html"
     }
-   ]
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Le samedi des Quatre-Temps est, depuis les premiers siècles, le jour où l’évêque confère les ordres sacrés. De là vient la forme singulière de sa messe : cinq leçons, chacune précédée de sa collecte et suivie de son graduel, puis l’épître — six lectures en tout, qui occupaient autrefois la nuit entière pendant que les ordinands veillaient. Les cinq premières viennent de l’ancienne alliance : le jour des Expiations, la fête des Tentes, le pardon promis par Michée, les jeûnes changés en joie chez Zacharie, les trois enfants dans la fournaise. L’épître aux Hébreux vient après elles dire ce qui les accomplit : un sacerdoce entré une fois pour toutes, par son propre sang."
+   }
   },
   "meditation": {
    "titre": "Du triple degré de la charité",
@@ -1537,6 +1468,7 @@ const JOURS = {
  },
  "2026-09-27": {
   "textes": {
+   "brouillon": "Commentaire, trois points et résolution en brouillon : à valider avant publication.",
    "liturgie": {
     "nom": "XVIIIe dimanche après la Pentecôte",
     "qualite": "Dimanche après les Quatre-Temps de septembre",
@@ -1648,83 +1580,76 @@ const JOURS = {
     "ref": "Matthieu 9, 2"
    },
    "commentaire": {
-    "mode": "editorial",
-    "portee": "Semaine du 23 au 29 septembre 2026 — Quatre-Temps de septembre, XVIIIe dimanche après la Pentecôte, saint Michel",
-    "verif": "Jour liturgique établi sur le moteur de Divinum Officium (rubriques de 1960) exécuté hors ligne ; propre de la messe d’après le Missel romain de 1962 ; Écriture en français d’après la Bible Crampon 1923 (Wikisource) ; oraisons traduites par Ad Fontes. Chaque référence thomiste renvoie à la page vérifiée du Corpus Thomisticum. Validé le 22 septembre 2026.",
+    "mode": "direct",
+    "portee": "Évangile, Matthieu 9, 1-8, et Épître, I Corinthiens 1, 4-8",
+    "verif": "Saint Thomas a commenté l’un et l’autre. Le commentaire est pris sur sa lecture de Matthieu 9 et sur sa lecture de la Première aux Corinthiens, lues sur le Corpus Thomisticum.",
     "sections": [
      {
-      "titre": "Une semaine que le calendrier ne donne pas d’avance",
+      "titre": "Un homme que d’autres portent",
       "paragraphes": [
-       "Cette semaine est commandée par les **Quatre-Temps de septembre**, qui tombent cette année les mercredi 23, vendredi 25 et samedi 26. Leur date n’est pas fixe : ils suivent le troisième dimanche de septembre. C’est pourquoi le dimanche 27 porte la messe du **XVIIIe dimanche après la Pentecôte** — la messe « Da pacem » suit toujours les Quatre-Temps — et non celle du XVIIe qu’un simple comptage des dimanches donnerait.",
-       "Les trois jours de jeûne encadrent ainsi le dimanche, et la semaine s’achève le 29 sur la **Dédicace de saint Michel Archange**, de Ire classe. Le mouvement d’ensemble va donc de la pénitence à la louange, en passant par le pardon."
+       "Saint Thomas lit le paralytique comme la figure du **pécheur gisant dans son péché** : de même que le paralytique ne peut se mouvoir lui-même, celui-là non plus. Et il donne aussitôt leur rôle à ceux qui le portent : **ce sont ceux qui, par leurs avertissements, le portent jusqu’à Dieu**.",
+       "D’où la phrase que l’on passe trop vite : *voyant leur foi*. Le Seigneur, note Thomas, **guérit tantôt à cause de la foi du malade, tantôt à cause des prières des autres**. Ici, la foi qui obtient n’est pas celle du paralytique."
       ]
      },
      {
-      "titre": "Ce que demandent les Quatre-Temps",
+      "titre": "Le médecin qui soigne la cause",
       "paragraphes": [
-       "Les lectures des trois jours de jeûne ne parlent pas d’abord de privation mais de **récolte et de joie** : Amos annonce les montagnes qui dégouttent de vin nouveau, Esdras fait lire la Loi au peuple et lui défend de pleurer — **« la joie du Seigneur est votre force »** —, le Lévitique prescrit la fête des Tentes. Le jeûne de septembre est un jeûne d’action de grâces.",
-       "Saint Thomas donne la raison de cet ordre : le jeûne n’est pas bon par lui-même, il est **ordonné à un bien** — réprimer la convoitise, rendre l’esprit libre pour les choses divines, satisfaire pour le péché. Une abstinence qui ne servirait pas ces fins manquerait sa raison d’être. Les collectes du mercredi le disent exactement : s’abstenir des aliments du corps pour **« jeûner aussi des vices par l’esprit »**."
-      ]
-     },
-     {
-      "titre": "Le pardon comme centre",
-      "paragraphes": [
-       "L’Évangile du dimanche — le paralytique auquel le Christ dit d’abord **« tes péchés te sont remis »**, avant de le guérir — donne la clef de la semaine. Les scribes s’en scandalisent ; le Christ prouve le pouvoir invisible par le signe visible.",
-       "La même logique traverse les autres jours : la pécheresse pardonnée chez Simon le vendredi, la femme courbée depuis dix-huit ans redressée le samedi, le figuier à qui l’on accorde une année de plus. **Ce que la semaine met au centre, ce n’est pas l’effort de l’homme, mais le délai que Dieu consent.**",
-       "La collecte du dimanche le formule sans détour : **« sans vous nous ne pouvons vous plaire »**. C’est la doctrine de saint Thomas sur la nécessité de la grâce : l’homme ne peut ni commencer ni achever le bien surnaturel par ses seules forces."
+       "Suit une remarque d’une grande simplicité et d’une grande portée. **Que demandait cet homme ? La santé du corps ; et le Seigneur donne la santé de l’âme.** Pourquoi ? Parce que le péché était la cause de la maladie.",
+       "Thomas conclut par une comparaison qu’il ne développe pas et qui suffit : **Dieu a fait comme le bon médecin, qui guérit la cause.** L’ordre des deux paroles du Christ — d’abord le pardon, ensuite *lève-toi* — n’est donc pas un retard, c’est une méthode."
       ],
       "citation": {
-       "texte": "« L’homme ne peut mériter la vie éternelle sans la grâce. »",
-       "ref": "Somme théologique, I-II, q. 114, a. 2 (page couvrant I-II, q. 109-114)",
-       "url": "https://www.corpusthomisticum.org/sth2109.html"
+       "texte": "« Dieu a fait comme un bon médecin, qui guérit la cause. »",
+       "ref": "Super Matthaeum, cap. 9, lect. 1 (page couvrant cap. 6 v. 19 à cap. 12)",
+       "url": "https://www.corpusthomisticum.org/cml0619.html"
       }
      },
      {
-      "titre": "Et saint Michel pour finir",
+      "titre": "Ce que les scribes ne voyaient pas",
       "paragraphes": [
-       "La semaine s’achève sur les anges, et l’Évangile de la fête est celui de l’enfant placé au milieu des disciples : **« leurs anges dans le ciel voient sans cesse la face de mon Père »**. La grandeur, dans le royaume, se mesure à l’abaissement.",
-       "C’est le même renversement que tout le reste de la semaine : le jeûne qui est une fête, le paralytique dont le péché est remis avant la marche, l’enfant donné en modèle aux apôtres qui se demandaient qui serait le plus grand."
+       "Le scandale des scribes tient en une phrase de Thomas : **ils voyaient l’homme et ne voyaient pas Dieu** ; or remettre les péchés n’appartient qu’à Dieu seul. Leur raisonnement est juste, leur vue est courte.",
+       "Sur *lequel est le plus aisé de dire*, il suit saint Jérôme : il est plus facile de dire que de faire ; quant au fait, il est plus fort de guérir l’âme que le corps ; mais **quant au pouvoir, c’est le même pouvoir de part et d’autre**. Le miracle visible ne prouve pas autre chose que cela."
+      ]
+     },
+     {
+      "titre": "Rendre grâces toujours",
+      "paragraphes": [
+       "L’épître du jour s’ouvre sur une action de grâces. Saint Thomas explique le *toujours* : cette action de grâces **procède de l’affection de charité**, laquelle était continuelle dans le cœur de l’Apôtre — *en tout temps aime celui qui est ami*.",
+       "Il cite ensuite saint Augustin sur la raison de se réjouir des dons d’autrui : **si tu aimes l’unité à laquelle tu tiens, tu possèdes tout ce qu’un autre possède en elle ; ôte l’envie, et ce qu’un autre a est à toi.**"
       ]
      }
     ]
    },
    "essentiel": [
-    "Les Quatre-Temps ne sont pas un jeûne triste : les lectures y parlent de moisson, de Loi retrouvée et de fête — « la joie du Seigneur est votre force ».",
-    "Au centre de la semaine, le Christ remet les péchés avant de guérir : ce que Dieu donne précède ce que je fais.",
-    "La grandeur promise se mesure à l’abaissement : l’enfant est placé au milieu des apôtres qui disputaient du premier rang."
+    "La foi qui obtient la guérison n’est pas toujours celle du malade : d’autres le portent.",
+    "Dieu agit en bon médecin : il guérit la cause avant le symptôme, le péché avant la paralysie.",
+    "Ôte l’envie, et ce qu’un autre possède devient tien."
    ],
-   "resolution": "Cette semaine, choisir une privation menue et déterminée — un repas, un écran, une parole — et la rapporter chaque fois à une action de grâces précise, pour que l’abstinence serve à quelque chose et non à elle-même.",
+   "resolution": "Cette semaine, porter quelqu’un jusqu’à Dieu comme les quatre porteurs : prier pour une personne précise qui ne prie pas pour elle-même.",
    "sources": [
     {
-     "label": "Missel romain de 1962, rubriques de 1960 — jour liturgique et propre de la messe",
-     "detail": "Établis sur le moteur de Divinum Officium (données et code du projet, licence libre), exécuté hors ligne : le site divinumofficium.com refuse les requêtes de ce type d’adresse.",
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 9, lect. 1",
+     "detail": "Texte latin ; la page couvre le chapitre 6 v. 19 au chapitre 12.",
+     "url": "https://www.corpusthomisticum.org/cml0619.html"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super I Epistolam ad Corinthios, cap. 1, lect. 1",
+     "detail": "Texte latin ; exposition de l’action de grâces, versets 4 à 8.",
+     "url": "https://www.corpusthomisticum.org/c1c.html"
+    },
+    {
+     "label": "Missel romain de 1962, XVIIIe dimanche après la Pentecôte",
+     "detail": "Messe « Da pacem », qui suit toujours les Quatre-Temps de septembre."
+    },
+    {
+     "label": "Missel romain de 1962, XVIIIe dimanche après la Pentecôte",
+     "detail": "Rang du dimanche et messe « Da pacem » établis sur les données libres du projet Divinum Officium.",
      "url": "https://github.com/DivinumOfficium/divinum-officium"
-    },
-    {
-     "label": "Bible Crampon 1923 — Écriture en français",
-     "detail": "Relevée sur l’édition numérisée de Wikisource. La Vulgate liturgique et la Crampon ne numérotent pas les psaumes de la même manière : la correspondance est indiquée à chaque pièce.",
-     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923"
-    },
-    {
-     "label": "Oraisons en français — traduction d’Ad Fontes",
-     "detail": "Collectes, secrètes, postcommunions et antiennes non scripturaires sont traduites du latin par Ad Fontes, faute de traduction française libre de droit."
-    },
-    {
-     "label": "Somme théologique, I-II, q. 114 — la grâce et le mérite",
-     "detail": "Texte latin de l’édition léonine sur le Corpus Thomisticum ; la page couvre I-II, q. 109-114.",
-     "url": "https://www.corpusthomisticum.org/sth2109.html"
-    },
-    {
-     "label": "Somme théologique, II-II, q. 147 — le jeûne",
-     "detail": "Référence mobilisée dans le deuxième mouvement ; texte latin de l’édition léonine, la page couvrant II-II, q. 146-154.",
-     "url": "https://www.corpusthomisticum.org/sth3146.html"
-    },
-    {
-     "label": "Une réserve d’attribution : les méditations des 28 et 29 septembre",
-     "detail": "Elles reposent sur le « De l’amour de Dieu » que l’édition de 1930 range parmi les opuscules de saint Thomas. Le Corpus Thomisticum publie ce traité sous le nom d’Helvic le Teuton, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes ne s’appuie, lui, que sur des œuvres authentiques.",
-     "url": "https://www.corpusthomisticum.org/xao.html"
     }
-   ]
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Ce dimanche est celui qui suit les Quatre-Temps de septembre, et le Missel lui assigne toujours, à ce titre, la messe du dix-huitième dimanche après la Pentecôte — quel que soit le compte des dimanches écoulés depuis. Elle s’ouvre sur une demande de paix empruntée à l’Ecclésiastique : « Donnez la paix, Seigneur, à ceux qui vous attendent. » Après trois jours de jeûne, l’Église ne demande donc pas d’abord la force, mais la paix ; et la collecte avoue pourquoi : « sans vous, nous ne pouvons vous plaire ». L’Évangile du paralytique lui répond en montrant un homme qui ne peut rien, pas même s’approcher, et à qui tout est donné."
+   }
   },
   "meditation": {
    "titre": "Des conditions requises pour acquérir et augmenter la charité",
@@ -1779,6 +1704,7 @@ const JOURS = {
  },
  "2026-09-28": {
   "textes": {
+   "brouillon": "Commentaire, trois points et résolution en brouillon : à valider avant publication.",
    "liturgie": {
     "nom": "Saint Wenceslas",
     "qualite": "Duc et martyr",
@@ -1890,83 +1816,65 @@ const JOURS = {
     "ref": "Matthieu 10, 38"
    },
    "commentaire": {
-    "mode": "editorial",
-    "portee": "Semaine du 23 au 29 septembre 2026 — Quatre-Temps de septembre, XVIIIe dimanche après la Pentecôte, saint Michel",
-    "verif": "Jour liturgique établi sur le moteur de Divinum Officium (rubriques de 1960) exécuté hors ligne ; propre de la messe d’après le Missel romain de 1962 ; Écriture en français d’après la Bible Crampon 1923 (Wikisource) ; oraisons traduites par Ad Fontes. Chaque référence thomiste renvoie à la page vérifiée du Corpus Thomisticum. Validé le 22 septembre 2026.",
+    "mode": "direct",
+    "portee": "Évangile, Matthieu 10, 34-42 — « je ne suis pas venu apporter la paix, mais le glaive »",
+    "verif": "Commentaire pris sur la lecture de Matthieu 10 par saint Thomas, lue sur le Corpus Thomisticum.",
     "sections": [
      {
-      "titre": "Une semaine que le calendrier ne donne pas d’avance",
+      "titre": "Deux paix, dont une seule est bonne",
       "paragraphes": [
-       "Cette semaine est commandée par les **Quatre-Temps de septembre**, qui tombent cette année les mercredi 23, vendredi 25 et samedi 26. Leur date n’est pas fixe : ils suivent le troisième dimanche de septembre. C’est pourquoi le dimanche 27 porte la messe du **XVIIIe dimanche après la Pentecôte** — la messe « Da pacem » suit toujours les Quatre-Temps — et non celle du XVIIe qu’un simple comptage des dimanches donnerait.",
-       "Les trois jours de jeûne encadrent ainsi le dimanche, et la semaine s’achève le 29 sur la **Dédicace de saint Michel Archange**, de Ire classe. Le mouvement d’ensemble va donc de la pénitence à la louange, en passant par le pardon."
-      ]
-     },
-     {
-      "titre": "Ce que demandent les Quatre-Temps",
-      "paragraphes": [
-       "Les lectures des trois jours de jeûne ne parlent pas d’abord de privation mais de **récolte et de joie** : Amos annonce les montagnes qui dégouttent de vin nouveau, Esdras fait lire la Loi au peuple et lui défend de pleurer — **« la joie du Seigneur est votre force »** —, le Lévitique prescrit la fête des Tentes. Le jeûne de septembre est un jeûne d’action de grâces.",
-       "Saint Thomas donne la raison de cet ordre : le jeûne n’est pas bon par lui-même, il est **ordonné à un bien** — réprimer la convoitise, rendre l’esprit libre pour les choses divines, satisfaire pour le péché. Une abstinence qui ne servirait pas ces fins manquerait sa raison d’être. Les collectes du mercredi le disent exactement : s’abstenir des aliments du corps pour **« jeûner aussi des vices par l’esprit »**."
-      ]
-     },
-     {
-      "titre": "Le pardon comme centre",
-      "paragraphes": [
-       "L’Évangile du dimanche — le paralytique auquel le Christ dit d’abord **« tes péchés te sont remis »**, avant de le guérir — donne la clef de la semaine. Les scribes s’en scandalisent ; le Christ prouve le pouvoir invisible par le signe visible.",
-       "La même logique traverse les autres jours : la pécheresse pardonnée chez Simon le vendredi, la femme courbée depuis dix-huit ans redressée le samedi, le figuier à qui l’on accorde une année de plus. **Ce que la semaine met au centre, ce n’est pas l’effort de l’homme, mais le délai que Dieu consent.**",
-       "La collecte du dimanche le formule sans détour : **« sans vous nous ne pouvons vous plaire »**. C’est la doctrine de saint Thomas sur la nécessité de la grâce : l’homme ne peut ni commencer ni achever le bien surnaturel par ses seules forces."
+       "La parole heurte : les anges ont chanté la paix, l’évêque salue par la paix, et le Christ dit qu’il n’est pas venu l’apporter. Saint Thomas pose la distinction qui dénoue tout : **il y a deux paix, l’une bonne, l’autre mauvaise**.",
+       "La mauvaise est **la paix des affections charnelles** — celle dont le livre de la Sagesse dit que des hommes vivant dans une grande guerre d’ignorance appellent paix de si grands maux. **Celle-là, il n’est pas venu la mettre.** La bonne est celle dont l’Apôtre dit : *il est notre paix, lui qui des deux a fait un* ; et c’est celle que les anges ont chantée."
       ],
       "citation": {
-       "texte": "« L’homme ne peut mériter la vie éternelle sans la grâce. »",
-       "ref": "Somme théologique, I-II, q. 114, a. 2 (page couvrant I-II, q. 109-114)",
-       "url": "https://www.corpusthomisticum.org/sth2109.html"
+       "texte": "« Il y a une paix mauvaise… c’est la paix des affections charnelles. Celle-là, je ne suis pas venu la mettre. »",
+       "ref": "Super Matthaeum, cap. 10 (page couvrant cap. 6 v. 19 à cap. 12)",
+       "url": "https://www.corpusthomisticum.org/cml0619.html"
       }
      },
      {
-      "titre": "Et saint Michel pour finir",
+      "titre": "Le glaive est une parole",
       "paragraphes": [
-       "La semaine s’achève sur les anges, et l’Évangile de la fête est celui de l’enfant placé au milieu des disciples : **« leurs anges dans le ciel voient sans cesse la face de mon Père »**. La grandeur, dans le royaume, se mesure à l’abaissement.",
-       "C’est le même renversement que tout le reste de la semaine : le jeûne qui est une fête, le paralytique dont le péché est remis avant la marche, l’enfant donné en modèle aux apôtres qui se demandaient qui serait le plus grand."
+       "Thomas identifie l’arme sans détour : **il appartient au glaive de diviser ; ce glaive est la parole de Dieu** — *vivante est la parole de Dieu, efficace et plus pénétrante qu’un glaive à deux tranchants*.",
+       "La division ne vient donc pas d’une volonté de rupture mais de l’effet d’une parole sur des auditeurs inégaux : **les uns ont cru, les autres non**. Et le partage ne passe pas entre étrangers : il passe **entre les plus étroitement unis**, l’union naturelle et l’union domestique."
+      ]
+     },
+     {
+      "titre": "Jusqu’où va l’obéissance",
+      "paragraphes": [
+       "Reste l’objection que Thomas se fait à lui-même : la Loi commande d’honorer son père et sa mère, et le Christ a dit qu’il ne venait pas abolir la Loi. Sa réponse est d’une netteté qui tranche : **tu dois lui obéir là où il ne te retire pas de l’amour de Dieu ; mais là où il t’en retire, tu n’es pas tenu d’obéir.**",
+       "La fête du jour donne à cette règle un visage. Wenceslas, duc de Bohême, fut élevé par sa grand-mère chrétienne, gouverna contre le parti de sa mère, et périt de la main de son frère : *les ennemis de l’homme seront les gens de sa maison*."
       ]
      }
     ]
    },
    "essentiel": [
-    "Les Quatre-Temps ne sont pas un jeûne triste : les lectures y parlent de moisson, de Loi retrouvée et de fête — « la joie du Seigneur est votre force ».",
-    "Au centre de la semaine, le Christ remet les péchés avant de guérir : ce que Dieu donne précède ce que je fais.",
-    "La grandeur promise se mesure à l’abaissement : l’enfant est placé au milieu des apôtres qui disputaient du premier rang."
+    "Ce que le Christ refuse d’apporter, c’est la paix des affections charnelles, non la paix véritable.",
+    "Le glaive qui divise est la parole de Dieu : la division vient de ce qu’on y répond diversement.",
+    "L’obéissance aux siens cesse exactement là où elle détournerait de l’amour de Dieu."
    ],
-   "resolution": "Cette semaine, choisir une privation menue et déterminée — un repas, un écran, une parole — et la rapporter chaque fois à une action de grâces précise, pour que l’abstinence serve à quelque chose et non à elle-même.",
+   "resolution": "Aujourd’hui, tenir sur un point où céder me vaudrait la paix dans mon entourage, mais au prix de ce que je crois.",
    "sources": [
     {
-     "label": "Missel romain de 1962, rubriques de 1960 — jour liturgique et propre de la messe",
-     "detail": "Établis sur le moteur de Divinum Officium (données et code du projet, licence libre), exécuté hors ligne : le site divinumofficium.com refuse les requêtes de ce type d’adresse.",
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 10",
+     "detail": "Texte latin ; la page couvre le chapitre 6 v. 19 au chapitre 12.",
+     "url": "https://www.corpusthomisticum.org/cml0619.html"
+    },
+    {
+     "label": "Bréviaire romain, leçon historique de saint Wenceslas",
+     "detail": "Leçon IV des matines du 28 septembre, d’après les données libres du projet Divinum Officium.",
      "url": "https://github.com/DivinumOfficium/divinum-officium"
     },
     {
-     "label": "Bible Crampon 1923 — Écriture en français",
-     "detail": "Relevée sur l’édition numérisée de Wikisource. La Vulgate liturgique et la Crampon ne numérotent pas les psaumes de la même manière : la correspondance est indiquée à chaque pièce.",
-     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923"
-    },
-    {
-     "label": "Oraisons en français — traduction d’Ad Fontes",
-     "detail": "Collectes, secrètes, postcommunions et antiennes non scripturaires sont traduites du latin par Ad Fontes, faute de traduction française libre de droit."
-    },
-    {
-     "label": "Somme théologique, I-II, q. 114 — la grâce et le mérite",
-     "detail": "Texte latin de l’édition léonine sur le Corpus Thomisticum ; la page couvre I-II, q. 109-114.",
-     "url": "https://www.corpusthomisticum.org/sth2109.html"
-    },
-    {
-     "label": "Somme théologique, II-II, q. 147 — le jeûne",
-     "detail": "Référence mobilisée dans le deuxième mouvement ; texte latin de l’édition léonine, la page couvrant II-II, q. 146-154.",
-     "url": "https://www.corpusthomisticum.org/sth3146.html"
-    },
-    {
-     "label": "Une réserve d’attribution : les méditations des 28 et 29 septembre",
-     "detail": "Elles reposent sur le « De l’amour de Dieu » que l’édition de 1930 range parmi les opuscules de saint Thomas. Le Corpus Thomisticum publie ce traité sous le nom d’Helvic le Teuton, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes ne s’appuie, lui, que sur des œuvres authentiques.",
-     "url": "https://www.corpusthomisticum.org/xao.html"
+     "label": "Bréviaire romain, leçon IV des matines du 28 septembre",
+     "detail": "Leçon historique de saint Wenceslas, duc et martyr, d’après les données libres du projet Divinum Officium.",
+     "url": "https://github.com/DivinumOfficium/divinum-officium"
     }
-   ]
+   ],
+   "fete": {
+    "titre": "Le saint du jour",
+    "texte": "La leçon des matines le présente ainsi : Wenceslas, duc de Bohême, naquit d’un père chrétien, Wratislas, et d’une mère païenne, Drahomira. Élevé pieusement par son aïeule sainte Ludmila, il fut remarquable en tout genre de vertu et garda toute sa vie, au prix du plus grand soin, une virginité sans tache. Sa mère, parvenue au gouvernement du royaume par le meurtre de Ludmila, vécut avec son fils cadet Boleslas de manière impie et souleva contre elle l’indignation des grands ; lassés de cette tyrannie, ceux-ci secouèrent le joug et saluèrent Wenceslas roi dans la ville de Prague. Il devait périr de la main de ce frère — ce qui donne à l’Évangile du jour son tranchant littéral."
+   }
   },
   "meditation": {
    "titre": "De l’amour de Dieu souverainement délectable",
@@ -2027,6 +1935,7 @@ const JOURS = {
  },
  "2026-09-29": {
   "textes": {
+   "brouillon": "Commentaire, trois points et résolution en brouillon : à valider avant publication.",
    "liturgie": {
     "nom": "Dédicace de saint Michel Archange",
     "qualite": "Archange",
@@ -2140,83 +2049,65 @@ const JOURS = {
     "ref": "Matthieu 18, 10"
    },
    "commentaire": {
-    "mode": "editorial",
-    "portee": "Semaine du 23 au 29 septembre 2026 — Quatre-Temps de septembre, XVIIIe dimanche après la Pentecôte, saint Michel",
-    "verif": "Jour liturgique établi sur le moteur de Divinum Officium (rubriques de 1960) exécuté hors ligne ; propre de la messe d’après le Missel romain de 1962 ; Écriture en français d’après la Bible Crampon 1923 (Wikisource) ; oraisons traduites par Ad Fontes. Chaque référence thomiste renvoie à la page vérifiée du Corpus Thomisticum. Validé le 22 septembre 2026.",
+    "mode": "direct",
+    "portee": "Évangile, Matthieu 18, 1-10 — l’enfant placé au milieu et les anges gardiens",
+    "verif": "Commentaire pris sur la lecture de Matthieu 18 par saint Thomas, lue sur le Corpus Thomisticum.",
     "sections": [
      {
-      "titre": "Une semaine que le calendrier ne donne pas d’avance",
+      "titre": "On n’y monte pas par la grandeur",
       "paragraphes": [
-       "Cette semaine est commandée par les **Quatre-Temps de septembre**, qui tombent cette année les mercredi 23, vendredi 25 et samedi 26. Leur date n’est pas fixe : ils suivent le troisième dimanche de septembre. C’est pourquoi le dimanche 27 porte la messe du **XVIIIe dimanche après la Pentecôte** — la messe « Da pacem » suit toujours les Quatre-Temps — et non celle du XVIIe qu’un simple comptage des dimanches donnerait.",
-       "Les trois jours de jeûne encadrent ainsi le dimanche, et la semaine s’achève le 29 sur la **Dédicace de saint Michel Archange**, de Ire classe. Le mouvement d’ensemble va donc de la pénitence à la louange, en passant par le pardon."
-      ]
-     },
-     {
-      "titre": "Ce que demandent les Quatre-Temps",
-      "paragraphes": [
-       "Les lectures des trois jours de jeûne ne parlent pas d’abord de privation mais de **récolte et de joie** : Amos annonce les montagnes qui dégouttent de vin nouveau, Esdras fait lire la Loi au peuple et lui défend de pleurer — **« la joie du Seigneur est votre force »** —, le Lévitique prescrit la fête des Tentes. Le jeûne de septembre est un jeûne d’action de grâces.",
-       "Saint Thomas donne la raison de cet ordre : le jeûne n’est pas bon par lui-même, il est **ordonné à un bien** — réprimer la convoitise, rendre l’esprit libre pour les choses divines, satisfaire pour le péché. Une abstinence qui ne servirait pas ces fins manquerait sa raison d’être. Les collectes du mercredi le disent exactement : s’abstenir des aliments du corps pour **« jeûner aussi des vices par l’esprit »**."
-      ]
-     },
-     {
-      "titre": "Le pardon comme centre",
-      "paragraphes": [
-       "L’Évangile du dimanche — le paralytique auquel le Christ dit d’abord **« tes péchés te sont remis »**, avant de le guérir — donne la clef de la semaine. Les scribes s’en scandalisent ; le Christ prouve le pouvoir invisible par le signe visible.",
-       "La même logique traverse les autres jours : la pécheresse pardonnée chez Simon le vendredi, la femme courbée depuis dix-huit ans redressée le samedi, le figuier à qui l’on accorde une année de plus. **Ce que la semaine met au centre, ce n’est pas l’effort de l’homme, mais le délai que Dieu consent.**",
-       "La collecte du dimanche le formule sans détour : **« sans vous nous ne pouvons vous plaire »**. C’est la doctrine de saint Thomas sur la nécessité de la grâce : l’homme ne peut ni commencer ni achever le bien surnaturel par ses seules forces."
+       "Les disciples demandent qui est le plus grand. Saint Thomas relève d’abord ce qu’il y a de bon dans leur question : **ils ne convoitaient pas les choses de la terre, mais celles du ciel**. Puis il redresse : **on n’y parvient pas par la grandeur, mais par l’esprit d’humilité**.",
+       "Il introduit alors une distinction qu’on attend peu : rechercher l’éminence dans le royaume se fait de deux manières. **Nous estimer dignes : c’est l’orgueil.** Mais **désirer une grâce plus grande afin que notre gloire soit plus grande n’est pas un mal** — *ayez de l’émulation pour les dons les meilleurs*."
       ],
       "citation": {
-       "texte": "« L’homme ne peut mériter la vie éternelle sans la grâce. »",
-       "ref": "Somme théologique, I-II, q. 114, a. 2 (page couvrant I-II, q. 109-114)",
-       "url": "https://www.corpusthomisticum.org/sth2109.html"
+       "texte": "« On n’y parvient pas par la grandeur, mais par l’esprit d’humilité. »",
+       "ref": "Super Matthaeum, cap. 18 (page couvrant cap. 17 à 20)",
+       "url": "https://www.corpusthomisticum.org/cml17.html"
       }
      },
      {
-      "titre": "Et saint Michel pour finir",
+      "titre": "Pourquoi « leurs » anges",
       "paragraphes": [
-       "La semaine s’achève sur les anges, et l’Évangile de la fête est celui de l’enfant placé au milieu des disciples : **« leurs anges dans le ciel voient sans cesse la face de mon Père »**. La grandeur, dans le royaume, se mesure à l’abaissement.",
-       "C’est le même renversement que tout le reste de la semaine : le jeûne qui est une fête, le paralytique dont le péché est remis avant la marche, l’enfant donné en modèle aux apôtres qui se demandaient qui serait le plus grand."
+       "Sur le dernier verset, Thomas s’arrête à un mot : le Christ ne dit pas *les anges*, mais **leurs anges**. Pourquoi ce possessif ? **Parce qu’ils sont députés à leur garde** — et il cite saint Jérôme : *à chaque homme est député un ange pour le garder*.",
+       "Le raisonnement du Christ est un argument de convenance tiré de la providence : **ceux dont Dieu prend un tel soin ne sont pas à mépriser**. La grandeur de l’enfant ne se lit pas sur lui, mais sur celui qui le garde."
+      ]
+     },
+     {
+      "titre": "Les anges portent nos prières",
+      "paragraphes": [
+       "Thomas ajoute l’office propre des anges : ils nous apportent et nous annoncent les choses divines ; et **ils portent nos prières jusqu’à Dieu et les présentent**. Il le prouve par un verset de l’Apocalypse : *la fumée des parfums, formés des prières des saints, monta de la main de l’ange devant Dieu*.",
+       "Ce verset est **l’antienne d’offertoire de la messe de ce jour**. Le rapprochement n’est pas d’Ad Fontes : c’est le texte même que saint Thomas convoque, et que la liturgie chante au moment où l’on présente le pain et le vin."
       ]
      }
     ]
    },
    "essentiel": [
-    "Les Quatre-Temps ne sont pas un jeûne triste : les lectures y parlent de moisson, de Loi retrouvée et de fête — « la joie du Seigneur est votre force ».",
-    "Au centre de la semaine, le Christ remet les péchés avant de guérir : ce que Dieu donne précède ce que je fais.",
-    "La grandeur promise se mesure à l’abaissement : l’enfant est placé au milieu des apôtres qui disputaient du premier rang."
+    "On n’entre pas dans le royaume par la grandeur, mais par l’esprit d’humilité.",
+    "Désirer une grâce plus grande n’est pas de l’orgueil ; s’estimer digne en est.",
+    "L’ange est dit « leur » ange parce qu’il leur est député : la dignité du petit se mesure à qui le garde."
    ],
-   "resolution": "Cette semaine, choisir une privation menue et déterminée — un repas, un écran, une parole — et la rapporter chaque fois à une action de grâces précise, pour que l’abstinence serve à quelque chose et non à elle-même.",
+   "resolution": "Aujourd’hui, à l’offertoire ou au moment de la prière du soir, confier expressément à mon ange gardien une demande que je porte depuis longtemps.",
    "sources": [
     {
-     "label": "Missel romain de 1962, rubriques de 1960 — jour liturgique et propre de la messe",
-     "detail": "Établis sur le moteur de Divinum Officium (données et code du projet, licence libre), exécuté hors ligne : le site divinumofficium.com refuse les requêtes de ce type d’adresse.",
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 18",
+     "detail": "Texte latin ; la page couvre les chapitres 17 à 20.",
+     "url": "https://www.corpusthomisticum.org/cml17.html"
+    },
+    {
+     "label": "Bréviaire romain, homélie de saint Grégoire sur les neuf chœurs",
+     "detail": "Leçon IV des matines du 29 septembre (Homélie 34 sur les Évangiles), d’après les données libres du projet Divinum Officium.",
      "url": "https://github.com/DivinumOfficium/divinum-officium"
     },
     {
-     "label": "Bible Crampon 1923 — Écriture en français",
-     "detail": "Relevée sur l’édition numérisée de Wikisource. La Vulgate liturgique et la Crampon ne numérotent pas les psaumes de la même manière : la correspondance est indiquée à chaque pièce.",
-     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923"
-    },
-    {
-     "label": "Oraisons en français — traduction d’Ad Fontes",
-     "detail": "Collectes, secrètes, postcommunions et antiennes non scripturaires sont traduites du latin par Ad Fontes, faute de traduction française libre de droit."
-    },
-    {
-     "label": "Somme théologique, I-II, q. 114 — la grâce et le mérite",
-     "detail": "Texte latin de l’édition léonine sur le Corpus Thomisticum ; la page couvre I-II, q. 109-114.",
-     "url": "https://www.corpusthomisticum.org/sth2109.html"
-    },
-    {
-     "label": "Somme théologique, II-II, q. 147 — le jeûne",
-     "detail": "Référence mobilisée dans le deuxième mouvement ; texte latin de l’édition léonine, la page couvrant II-II, q. 146-154.",
-     "url": "https://www.corpusthomisticum.org/sth3146.html"
-    },
-    {
-     "label": "Une réserve d’attribution : les méditations des 28 et 29 septembre",
-     "detail": "Elles reposent sur le « De l’amour de Dieu » que l’édition de 1930 range parmi les opuscules de saint Thomas. Le Corpus Thomisticum publie ce traité sous le nom d’Helvic le Teuton, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes ne s’appuie, lui, que sur des œuvres authentiques.",
-     "url": "https://www.corpusthomisticum.org/xao.html"
+     "label": "Bréviaire romain, leçon IV des matines du 29 septembre",
+     "detail": "Homélie 34 de saint Grégoire le Grand sur les Évangiles, d’après les données libres du projet Divinum Officium.",
+     "url": "https://github.com/DivinumOfficium/divinum-officium"
     }
-   ]
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "La fête ne célèbre pas seulement l’Archange, mais la dédicace d’une basilique élevée en son honneur, et avec elle tout le monde angélique. La leçon des matines donne l’homélie de saint Grégoire le Grand, qui y dénombre neuf ordres d’anges : Anges, Archanges, Vertus, Puissances, Principautés, Dominations, Trônes, Chérubins et Séraphins. Il en établit la liste par l’Écriture seule — presque toutes les pages attestent les Anges et les Archanges, les prophètes nomment souvent les Chérubins et les Séraphins, et saint Paul énumère les autres en écrivant aux Éphésiens puis aux Colossiens. L’Évangile du jour rappelle pourtant que ces puissances sont données à la garde des plus petits."
+   }
   },
   "meditation": {
    "titre": "Des causes de l’amour",
@@ -2507,6 +2398,7 @@ function vTextes(){
     <div class="fclass">${esc(l.classe)} – ${c.nom}</div>
     ${comms.length?`<p class="comm">Commémoraison : ${comms.map(x=>esc(x.nom)).join(" ; ")}</p>`:""}
     <div class="fcolor"><svg class="sym" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 2.5h4v6h6v4h-6v9h-4v-9H4v-4h6z" style="fill:${c.hex}"/></svg><p>${esc(c.sens)}</p></div>
+    ${d.fete?`<section class="fete"><h3>${esc(d.fete.titre)}</h3><p>${rich(d.fete.texte)}</p></section>`:""}
     <div class="sep"></div>
     ${d.propre?propre(d):(d.lectures||[]).map((r,i)=>piece(r.type,r,i)).join("")}
     ${comms.filter(x=>x.collecte).map((x,i)=>`<div class="sep"></div><button class="rrow" data-read="c${i}" aria-expanded="false" aria-controls="read-c${i}">${ICO.livre}<div><div class="rlabel">Commémoraison</div><div class="rref">${esc(x.nom)}</div></div><span class="chev" aria-hidden="true">›</span></button>${commemoraison(x,i)}`).join("")}
