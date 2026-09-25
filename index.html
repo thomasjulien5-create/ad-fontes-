@@ -16,7 +16,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600&display=swap">
 <style>
-:root{
+:root{--tabh:calc(71px + env(safe-area-inset-bottom,0px));
   --page:#F4EEE2; --paper:#FFFDF8; --paper2:#F8F2E6; --ink:#2B2A27; --muted:#6F6758; --line:#E6DCC8;
   --navy:#15284B; --gold:#9A6C22; --gold2:#C8A25A; --gold-soft:#F5ECD9; --red:#8E2219;
   --t1:#E6EDE3; --t1n:#4A775A; --t2:#F5EBD3; --t2n:#9A7430; --t3:#E4E9F0; --t3n:#50688A;
@@ -104,6 +104,24 @@ strong{font-weight:700;color:var(--navy)}
 .qbox{display:flex;align-items:center;gap:16px;margin:18px 14px 0;background:var(--paper2);border:1px solid var(--line);border-radius:16px;padding:18px 18px}
 .qbox blockquote{margin:0;font-style:italic;font-size:1.22rem;line-height:1.38;color:var(--navy)}
 .qbox cite{display:block;font-style:italic;font-size:.9rem;color:var(--muted);margin-top:6px}
+
+/* Accueil d'un seul tenant, sans défilement */
+html{height:100%}
+body.r-home{height:100%;overflow:hidden}
+body.r-home main{display:flex;flex-direction:column;height:100%;box-sizing:border-box;padding-bottom:var(--tabh)}
+body.r-home .bannerwrap{flex:none;height:26%}
+body.r-home .bannerwrap picture{display:block;height:100%}
+body.r-home .bannerwrap img{height:100%;object-fit:cover}
+body.r-home .homedate{flex:none;margin:2px 0 8px}
+body.r-home .tiles{flex:1;min-height:0;grid-template-rows:minmax(0,1fr) minmax(0,1fr)}
+body.r-home .tile{min-height:0}
+body.r-home .tile img{flex:1;min-height:0;aspect-ratio:auto}
+body.r-home .tile b{flex:none}
+.qbox.compact{flex:none;gap:10px;margin:8px 14px;padding:8px 12px;border-radius:12px}
+.qbox.compact .lis{width:24px;height:29px}
+.qbox.compact blockquote{font-size:.98rem;line-height:1.3}
+.qbox.compact cite{font-size:.78rem;margin-top:2px}
+@media (max-height:699.98px){.qbox.compact cite{display:none}}
 
 /* ---------- En-tête des rubriques ---------- */
 .hero{position:relative;color:var(--won);padding:6px 14px 14px}
@@ -20767,7 +20785,8 @@ function vAccueil(){
     ${tile("meditation","Méditation quotidienne",IMG.thomasTile,"center top")}
     ${tile("psautier","Psautier",IMG.psaut)}
     ${tile("apropos","À propos",IMG.abbaye)}
-  </div>`;
+  </div>
+  ${qbox("« La grâce ne détruit pas la nature, mais la perfectionne. »","Saint Thomas d’Aquin, <i>Somme théologique</i>, I, q. 1, a. 8, ad 2","compact")}`;
 }
 function vTextes(){
   const j=JOURS[state.date]&&JOURS[state.date].textes, d=j||MODELE.textes, l=d.liturgie, c=COULEURS[l.couleur]||COULEURS.blanc;
