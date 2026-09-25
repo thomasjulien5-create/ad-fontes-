@@ -94,13 +94,13 @@ strong{font-weight:700;color:var(--navy)}
 .bannerwrap{position:relative;line-height:0}
 .bannerwrap img{width:100%;height:auto;display:block}
 .bannerwrap::after{content:"";position:absolute;left:0;right:0;bottom:0;height:30%;background:linear-gradient(to bottom,transparent,var(--page))}
-.homedate{text-align:center;color:var(--muted);font-style:italic;margin:6px 0 16px}
-.tiles{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;padding:0 14px}
+.homedate{text-align:center;color:var(--muted);font-style:italic;margin:4px 0 12px}
+.tiles{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;padding:0 14px}
 .tile{display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--cardline);border-radius:14px;overflow:hidden;box-shadow:var(--shadow);text-decoration:none;color:var(--navy);transition:transform .15s ease}
 .tile:active{transform:scale(.97)}
-.tile img{width:100%;aspect-ratio:5/4;object-fit:cover;display:block}
-.tile b{font-weight:700;font-size:1.05rem;line-height:1.12;text-align:center;padding:10px 6px 6px;min-height:3.2em;display:flex;align-items:center;justify-content:center}
-.tile .dia{margin:0 auto 12px}
+.tile img{width:100%;aspect-ratio:3/2;object-fit:cover;display:block}
+.tile b{font-weight:700;font-size:1.05rem;line-height:1.12;text-align:center;padding:8px 6px 4px;min-height:2.4em;display:flex;align-items:center;justify-content:center}
+.tile .dia{margin:0 auto 8px}
 .qbox{display:flex;align-items:center;gap:16px;margin:18px 14px 0;background:var(--paper2);border:1px solid var(--line);border-radius:16px;padding:18px 18px}
 .qbox blockquote{margin:0;font-style:italic;font-size:1.22rem;line-height:1.38;color:var(--navy)}
 .qbox cite{display:block;font-style:italic;font-size:.9rem;color:var(--muted);margin-top:6px}
@@ -279,7 +279,8 @@ const IMG = {"bannerM": "data:image/webp;base64,UklGRrh4AQBXRUJQVlA4IKx4AQBQbAWd
    "2026-09-21": {
      textes: {
        liturgie:{ nom, qualite, classe, couleur, commemoraisons:[] },
-       lectures:[{ type:"Leçon"|"Épître"|"Évangile", reference, texte:[], latin:[] }],
+       propre:{ lecon?, supplement?:[autres leçons], epitre?, evangile }
+         — chaque lecture : { titre, reference, incipit, latin:[], francais:[], note },
        verset:{ texte, ref },
        commentaire:{ mode:"direct"|"synthese", portee,
                      sections:[{ titre, paragraphes:[], citation:{texte, ref, url} }] },
@@ -302,24 +303,23 @@ const JOURS = {
      "saint Maurice et ses compagnons, martyrs"
     ]
    },
-   "lectures": [
-    {
-     "type": "Épître",
+   "propre": {
+    "epitre": {
+     "titre": "Épître",
      "reference": "Ecclésiastique 44, 16-27 ; 45, 3-20",
      "note": "Texte en cours d’établissement. Cette leçon de la messe « Statuit » est un montage liturgique : elle assemble des versets choisis de la Vulgate et s’ouvre sur « Ecce sacerdos magnus », formule propre à la liturgie. La Bible Crampon, traduite sur les textes originaux, ne suit ni ce montage ni cette numérotation ; Ad Fontes donnera la Crampon 1923 des versets correspondants, avec une note sur ce montage."
     },
-    {
-     "type": "Évangile",
+    "evangile": {
      "reference": "Matthieu 25, 14-23",
      "incipit": "En ce temps-là, Jésus dit à ses disciples cette parabole :",
-     "texte": [
-      "Car il en sera comme d’un homme qui, partant pour un voyage, appela ses serviteurs et leur remit ses biens. A l’un il donna cinq talents, à un autre deux, à un autre un, selon la capacité de chacun, et il partit aussitôt. Celui qui avait reçu cinq talents, s’en étant allé, les fit valoir, et en gagna cinq autres. De la même manière, celui qui en avait reçu deux, en gagna deux autres. Mais celui qui n’en avait reçu qu’un, s’en alla creuser la terre, et y cacha l’argent de son maître. Longtemps après, le maître de ces serviteurs étant revenu, leur fit rendre compte. Celui qui avait reçu cinq talents s’approcha et lui en présenta cinq autres, en disant : Seigneur, vous m’aviez remis cinq talents ; en voici de plus cinq autres que j’ai gagnés. Son maître lui dit : C’est bien, serviteur bon et fidèle ; parce que tu as été fidèle en peu de choses, je t’établirai sur beaucoup : entre dans la joie de ton maître. Celui qui avait reçu deux talents, vint aussi, et dit : Seigneur, vous m’aviez remis deux talents, en voici deux autres que j’ai gagnés. Son maître lui dit : C’est bien, serviteur bon et fidèle, parce que tu as été fidèle en peu de choses, je t’établirai sur beaucoup : entre dans la joie de ton maître."
-     ],
      "latin": [
       "In illo témpore : Dixit Jesus discípulis suis parábolam hanc : Homo péregre proficíscens vocávit servos suos, et trádidit illis bona sua. Et uni dedit quinque talénta, álii autem duo, álii vero unum, unicuíque secúndum própriam virtútem, et proféctus est statim. Abiit autem, qui quinque talénta accéperat, et operátus est in eis, et lucrátus est ália quinque. Simíliter et, qui duo accéperat, lucrátus est ália duo. Qui autem unum accéperat, ábiens fodit in terram, et abscóndit pecúniam dómini sui. Post multum vero témporis venit dóminus servórum illórum, et pósuit ratiónem cum eis. Et accédens qui quinque talénta accéperat, óbtulit ália quinque talénta, dicens : Dómine, quinque talénta tradidísti mihi, ecce, ália quinque superlucrátus sum. Ait illi dóminus ejus : Euge, serve bone et fidélis, quia super pauca fuísti fidélis, super multa te constítuam : intra in gáudium dómini tui. Accéssit autem et qui duo talénta accéperat, et ait : Dómine, duo talénta tradidísti mihi, ecce, ália duo lucrátus sum. Ait illi dóminus ejus : Euge, serve bone et fidélis, quia super pauca fuísti fidélis, super multa te constítuam : intra in gáudium dómini tui."
+     ],
+     "francais": [
+      "Car il en sera comme d’un homme qui, partant pour un voyage, appela ses serviteurs et leur remit ses biens. A l’un il donna cinq talents, à un autre deux, à un autre un, selon la capacité de chacun, et il partit aussitôt. Celui qui avait reçu cinq talents, s’en étant allé, les fit valoir, et en gagna cinq autres. De la même manière, celui qui en avait reçu deux, en gagna deux autres. Mais celui qui n’en avait reçu qu’un, s’en alla creuser la terre, et y cacha l’argent de son maître. Longtemps après, le maître de ces serviteurs étant revenu, leur fit rendre compte. Celui qui avait reçu cinq talents s’approcha et lui en présenta cinq autres, en disant : Seigneur, vous m’aviez remis cinq talents ; en voici de plus cinq autres que j’ai gagnés. Son maître lui dit : C’est bien, serviteur bon et fidèle ; parce que tu as été fidèle en peu de choses, je t’établirai sur beaucoup : entre dans la joie de ton maître. Celui qui avait reçu deux talents, vint aussi, et dit : Seigneur, vous m’aviez remis deux talents, en voici deux autres que j’ai gagnés. Son maître lui dit : C’est bien, serviteur bon et fidèle, parce que tu as été fidèle en peu de choses, je t’établirai sur beaucoup : entre dans la joie de ton maître."
      ]
     }
-   ],
+   },
    "verset": {
     "texte": "« Entre dans la joie de ton maître. »",
     "ref": "Matthieu 25, 21"
@@ -403,56 +403,10 @@ const JOURS = {
     "classe": "IIe classe",
     "couleur": "violet",
     "commemoraisons": [
-     {
-      "nom": "saint Lin, pape et martyr",
-      "collecte": {
-       "latin": [
-        "Gregem tuum, Pastor ætérne, placátus inténde: et, per beátum Linum Mártyrem tuum atque Summum Pontíficem, perpétua protectióne custódi; quem totíus Ecclésiæ præstitísti esse pastórem."
-       ],
-       "francais": [
-        "Pasteur éternel, regardez avec bonté votre troupeau et gardez-le par une protection continuelle, par le bienheureux Lin, votre martyr et souverain pontife, que vous avez établi pasteur de toute l’Église."
-       ]
-      },
-      "secrete": {
-       "latin": [
-        "Oblátis munéribus, quǽsumus, Dómine, Ecclésiam tuam benígnus illúmina: ut, et gregis tui profíciat ubíque succéssus, et grati fiant nómini tuo, te gubernánte, pastóres."
-       ],
-       "francais": [
-        "Par les dons qui vous sont offerts, Seigneur, nous vous en prions, illuminez avec bonté votre Église, afin que votre troupeau progresse partout et que, sous votre conduite, les pasteurs soient agréables à votre nom."
-       ]
-      },
-      "postcommunion": {
-       "latin": [
-        "Refectióne sancta enutrítam gubérna, quǽsumus, Dómine, tuam placátus Ecclésiam: ut, poténti moderatióne dirécta, et increménta libertátis accípiat et in religiónis integritáte persístat."
-       ],
-       "francais": [
-        "Gouvernez avec bonté, Seigneur, nous vous en prions, votre Église nourrie de ce saint repas, afin que, dirigée par votre puissant gouvernement, elle reçoive un accroissement de liberté et demeure dans l’intégrité de la foi."
-       ]
-      }
-     }
+     "saint Lin, pape et martyr"
     ]
    },
    "propre": {
-    "introit": {
-     "reference": "Psaume 80, 2-5 ; verset : Psaume 80, 6 (Vulgate ; Crampon 81)",
-     "latin": [
-      "Exsultáte Deo, adiutóri nostro: iubiláte Deo Iacob: súmite psalmum iucúndum cum cíthara: cánite in inítio mensis tuba, quia præcéptum in Israël est, et iudícium Deo Iacob.",
-      "℣. Testimónium in Ioseph pósuit illud, cum exíret de terra Ægýpti: linguam, quam non nóverat, audívit."
-     ],
-     "francais": [
-      "Chantez avec allégresse en l’honneur de Dieu, notre force ; poussez des cris de joie en l’honneur du Dieu de Jacob ! Entonnez l’hymne, au son du tambourin, de la harpe harmonieuse et du luth ! Sonnez de la trompette à la nouvelle lune, à la pleine lune, pour le jour de notre fête. Car c’est un précepte pour Israël, une ordonnance du Dieu de Jacob.",
-      "℣. Il en fit une loi pour Joseph, quand il marcha contre le pays d’Égypte. J’entends une voix qui m’est inconnue."
-     ],
-     "note": "Le latin liturgique suit la Vulgate ; la Crampon, traduite sur l’hébreu, numérote ce psaume 81 et porte « notre force » là où la Vulgate lit « notre secours »."
-    },
-    "collecte": {
-     "latin": [
-      "Misericórdiæ tuæ remédiis, quǽsumus, Dómine, fragílitas nostra subsístat: ut, quæ sua conditióne attéritur, tua cleméntia reparétur. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Que notre fragilité, Seigneur, nous vous en prions, se soutienne par les remèdes de votre miséricorde, afin que ce qui s’use par sa propre condition soit relevé par votre clémence. Par Notre-Seigneur Jésus-Christ."
-     ]
-    },
     "lecon": {
      "titre": "Première leçon",
      "reference": "Amos 9, 13-15",
@@ -461,66 +415,6 @@ const JOURS = {
      ],
      "francais": [
       "Voici que des jours viennent, — oracle de Yahweh, et le laboureur joindra le moissonneur, et celui qui foule les grappes joindra celui qui répand la semence ; les montagnes dégoutteront de vin nouveau, et toutes les collines ruisselleront. Je ramènerai les captifs de mon peuple d’Israël ; ils bâtiront les villes dévastées et les habiteront, ils planteront les vignes et en boiront le vin, ils feront des jardins et en mangeront les fruits. Et je les planterai sur leur sol, et ils ne seront plus jamais arrachés de leur terre, que je leur ai donnée, dit Yahweh, ton Dieu."
-     ]
-    },
-    "alleluia": {
-     "omis": "Le mercredi et le vendredi des Quatre-Temps de septembre, la messe ne comporte ni Alléluia ni trait : le caractère pénitentiel du jour le supprime. Absence constatée sur le Missel de 1962, non une lacune de préparation."
-    },
-    "graduel": {
-     "reference": "Psaume 112, 5-7 (Vulgate ; Crampon 113)",
-     "latin": [
-      "Quis sicut Dóminus, Deus noster, qui in altis hábitat, et humília réspicit in cœlo et in terra?",
-      "℣. Súscitans a terra ínopem et de stércore érigens páuperem."
-     ],
-     "francais": [
-      "Qui est semblable à Yahweh, notre Dieu ? Il siège dans les hauteurs, et il regarde en bas, dans les cieux et sur la terre.",
-      "℣. Il relève le malheureux de la poussière, il retire le pauvre du fumier."
-     ]
-    },
-    "evangile": {
-     "reference": "Marc 9, 16-28",
-     "incipit": "En ce temps-là :",
-     "latin": [
-      "In illo témpore: Respóndens unus de turba, dixit ad Iesum: Magíster, áttuli fílium meum ad te, habéntem spíritum mutum: qui, ubicúmque eum apprehénderit, allídit illum, et spumat et stridet déntibus et aréscit: et dixi discípulis tuis, ut eiícerent illum, et non potúerunt. Qui respóndens eis, dixit: O generátio incrédula, quámdiu apud vos ero? quámdiu vos pátiar? Afférte illum ad me. Et attúlerunt eum. Et cum vidísset eum, statim spíritus conturbávit illum: et elísus in terram, volutabátur spumans. Et interrogávit patrem eius: Quantum témporis est, ex quo ei hoc áccidit? At ille ait: Ab infántia: et frequénter eum in ignem et in aquas misit, ut eum pérderet. Sed si quid potes, ádiuva nos, misértus nostri. Iesus autem ait illi: Si potes credere, ómnia possibília sunt credénti. Et contínuo exclámans pater púeri, cum lácrimis aiébat: Credo, Dómine: ádiuva incredulitátem meam. Et cum vidéret Iesus concurréntem turbam, comminátus est spirítui immúndo, dicens illi: Surde et mute spíritus, ego præcípio tibi, exi ab eo: et ámplius ne intróeas in eum. Et exclámans et multum discérpens eum, éxiit ab eo, et factus est sicut mórtuus, ita ut multi dícerent: Quia mórtuus est. Iesus autem tenens manum eius, elevávit eum, et surréxit. Et cum introísset in domum, discípuli eius secréto interrogábant eum: Quare nos non potúimus eiícere eum? Et dixit illis: Hoc genus in nullo potest exíre nisi in oratióne et ieiúnio."
-     ],
-     "francais": [
-      "Un homme de la foule lui répondit : « Maître, je vous ai amené mon fils, qui est possédé d’un esprit muet. Partout où l’esprit s’empare de lui, il le jette contre terre, et l’enfant écume, et grince des dents et il se dessèche ; j’ai prié vos disciples de le chasser, et ils ne l’ont pu. » — « Ô race incrédule, leur dit Jésus, jusques à quand serai-je avec vous ? Jusques à quand vous supporterai-je ? Amenez-le-moi. »",
-      "On le lui amena. À sa vue, l’esprit agita soudain l’enfant avec violence ; il tomba par terre et se roulait en écumant. Jésus demanda au père de l’enfant : « Combien y a-t-il de temps que cela lui arrive ? — Depuis son enfance, répondit-il. Souvent l’esprit l’a jeté dans le feu et dans l’eau pour le faire périr ; si vous pouvez quelque chose, ayez pitié de nous et secourez-nous. » Jésus lui dit : « Si vous pouvez (croire), tout est possible à celui qui croit. » Aussitôt le père de l’enfant s’écria, disant avec larmes : « Je crois (Seigneur) ; venez au secours de mon incrédulité. »",
-      "Jésus, voyant le peuple accourir en foule, menaça l’esprit impur, en disant : « Esprit sourd et muet, je te le commande, sors de cet enfant, et ne rentre plus en lui. » Alors, ayant poussé un grand cri, et l’ayant agité avec violence, il sortit, et l’enfant devint comme un cadavre, au point que plusieurs disaient : « Il est mort. » Mais Jésus, l’ayant pris par la main, le fit lever, et il se tint debout. Lorsqu’il fut entré dans la maison, ses disciples lui demandèrent en particulier : « Pourquoi n’avons-nous pu chasser cet esprit ? » Il leur dit : « Ce genre de démon ne peut être chassé que par la prière et le jeûne. »"
-     ]
-    },
-    "offertoire": {
-     "reference": "Psaume 118, 47-48 (Vulgate ; Crampon 119)",
-     "latin": [
-      "Meditábor in mandátis tuis, quæ diléxi valde: et levábo manus meas ad mandáta tua, quæ diléxi."
-     ],
-     "francais": [
-      "Je ferai mes délices de tes commandements, car je les aime. J’élèverai mes mains vers tes commandements que j’aime."
-     ]
-    },
-    "secrete": {
-     "latin": [
-      "Hæc hóstia, Dómine, quǽsumus, emúndet nostra delícta: et ad sacrifícium celebrándum, subditórum tibi córpora mentésque sanctíficet. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Que cette hostie, Seigneur, nous vous en prions, purifie nos fautes et sanctifie, pour la célébration du sacrifice, les corps et les âmes de vos serviteurs. Par Notre-Seigneur Jésus-Christ."
-     ]
-    },
-    "communion": {
-     "reference": "Néhémie 8, 10",
-     "latin": [
-      "Comédite pínguia et bíbite mulsum, et míttite partes his, qui non præparavérunt sibi: sanctus enim dies Dómini est, nolíte contristári: gáudium étenim Dómini est fortitúdo nostra."
-     ],
-     "francais": [
-      "Allez, mangez des viandes grasses et buvez des liqueurs douces, et envoyez des portions à celui qui n’a rien de préparé, car ce jour est saint pour notre Seigneur ; ne vous affligez pas, car la joie en Yahweh est votre force."
-     ]
-    },
-    "postcommunion": {
-     "latin": [
-      "Suméntes, Dómine, dona cœléstia, supplíciter deprecámur: ut, quæ sédula servitúte, donánte te, gérimus, dignis sénsibus tuo múnere capiámus. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Recevant, Seigneur, les dons célestes, nous vous supplions humblement : ce que nous accomplissons par un service assidu, et par votre don, faites que nous le saisissions, par votre grâce, avec des sentiments dignes de lui. Par Notre-Seigneur Jésus-Christ."
      ]
     },
     "supplement": [
@@ -535,31 +429,21 @@ const JOURS = {
        "Il lut dans le livre, depuis le matin jusqu’au milieu du jour, sur la place qui est devant la porte de l’Eau, en présence des hommes et des femmes et de ceux qui étaient assez intelligents pour l’entendre ; tout le peuple prêtait l’oreille à la lecture du livre de la loi. Esdras le scribe se tenait sur une estrade de bois, dressée pour la circonstance. Esdras ouvrit le livre à la vue de tout le peuple, car il était élevé au-dessus de tout le peuple ; et, lorsqu’il l’eut ouvert, tout le peuple se tint debout. Esdras bénit Yahweh, le grand Dieu, et tout le peuple répondit en levant les mains : « Amen ! amen ! » Et ils s’inclinèrent et se prosternèrent devant Yahweh, le visage contre terre.",
        "Les lévites instruisaient le peuple de la loi, et chacun restait à sa place. Ils lisaient distinctement dans le livre, dans la loi de Dieu, et ils en donnaient le sens, et l’on comprenait ce qui était lu. Et Néhémie, le gouverneur, Esdras, le prêtre et le scribe, et les lévites qui instruisaient le peuple, dirent à tout le peuple : « Ce jour est saint pour Yahweh, votre Dieu ; ne soyez pas dans le deuil et dans les larmes. » Car tout le peuple pleurait en entendant les paroles de la loi. Et Néhémie leur dit : « Allez, mangez des viandes grasses et buvez des liqueurs douces, et envoyez des portions à celui qui n’a rien de préparé, car ce jour est saint pour notre Seigneur ; ne vous affligez pas, car la joie en Yahweh est votre force. »"
       ],
-      "note": "Aux Quatre-Temps, la messe comporte plusieurs leçons : celle-ci est lue après le premier graduel, précédée de sa propre collecte."
-     },
-     {
-      "titre": "Collecte de la seconde leçon",
-      "reference": "",
-      "latin": [
-       "Præsta, quǽsumus, Dómine, famíliæ tuæ supplicánti: ut, dum a cibis corporálibus se ábstinet, a vítiis quoque mente ieiúnet. Per Dóminum nostrum Iesum Christum."
-      ],
-      "francais": [
-       "Accordez, nous vous en prions, Seigneur, à votre famille qui vous supplie, que, s’abstenant des aliments du corps, elle jeûne aussi des vices par l’esprit. Par Notre-Seigneur Jésus-Christ."
-      ]
-     },
-     {
-      "titre": "Second graduel",
-      "reference": "Psaume 32, 12 et 6 (Vulgate ; Crampon 33)",
-      "latin": [
-       "Beáta gens, cuius est Dóminus Deus eórum: pópulus, quem elégit Dóminus in hereditátem sibi.",
-       "℣. Verbo Dómini cœli firmáti sunt: et spíritu oris eius omnis virtus eórum."
-      ],
-      "francais": [
-       "Heureuse la nation dont Yahweh est le Dieu, heureux le peuple qu’il a choisi pour son héritage !",
-       "℣. Par la parole de Yahweh les cieux ont été faits, et toute leur armée par le souffle de sa bouche."
-      ]
+      "note": "Aux Quatre-Temps, la messe comporte plusieurs leçons : celle-ci est lue après la première, avant l’Évangile."
      }
-    ]
+    ],
+    "evangile": {
+     "reference": "Marc 9, 16-28",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "In illo témpore: Respóndens unus de turba, dixit ad Iesum: Magíster, áttuli fílium meum ad te, habéntem spíritum mutum: qui, ubicúmque eum apprehénderit, allídit illum, et spumat et stridet déntibus et aréscit: et dixi discípulis tuis, ut eiícerent illum, et non potúerunt. Qui respóndens eis, dixit: O generátio incrédula, quámdiu apud vos ero? quámdiu vos pátiar? Afférte illum ad me. Et attúlerunt eum. Et cum vidísset eum, statim spíritus conturbávit illum: et elísus in terram, volutabátur spumans. Et interrogávit patrem eius: Quantum témporis est, ex quo ei hoc áccidit? At ille ait: Ab infántia: et frequénter eum in ignem et in aquas misit, ut eum pérderet. Sed si quid potes, ádiuva nos, misértus nostri. Iesus autem ait illi: Si potes credere, ómnia possibília sunt credénti. Et contínuo exclámans pater púeri, cum lácrimis aiébat: Credo, Dómine: ádiuva incredulitátem meam. Et cum vidéret Iesus concurréntem turbam, comminátus est spirítui immúndo, dicens illi: Surde et mute spíritus, ego præcípio tibi, exi ab eo: et ámplius ne intróeas in eum. Et exclámans et multum discérpens eum, éxiit ab eo, et factus est sicut mórtuus, ita ut multi dícerent: Quia mórtuus est. Iesus autem tenens manum eius, elevávit eum, et surréxit. Et cum introísset in domum, discípuli eius secréto interrogábant eum: Quare nos non potúimus eiícere eum? Et dixit illis: Hoc genus in nullo potest exíre nisi in oratióne et ieiúnio."
+     ],
+     "francais": [
+      "Un homme de la foule lui répondit : « Maître, je vous ai amené mon fils, qui est possédé d’un esprit muet. Partout où l’esprit s’empare de lui, il le jette contre terre, et l’enfant écume, et grince des dents et il se dessèche ; j’ai prié vos disciples de le chasser, et ils ne l’ont pu. » — « Ô race incrédule, leur dit Jésus, jusques à quand serai-je avec vous ? Jusques à quand vous supporterai-je ? Amenez-le-moi. »",
+      "On le lui amena. À sa vue, l’esprit agita soudain l’enfant avec violence ; il tomba par terre et se roulait en écumant. Jésus demanda au père de l’enfant : « Combien y a-t-il de temps que cela lui arrive ? — Depuis son enfance, répondit-il. Souvent l’esprit l’a jeté dans le feu et dans l’eau pour le faire périr ; si vous pouvez quelque chose, ayez pitié de nous et secourez-nous. » Jésus lui dit : « Si vous pouvez (croire), tout est possible à celui qui croit. » Aussitôt le père de l’enfant s’écria, disant avec larmes : « Je crois (Seigneur) ; venez au secours de mon incrédulité. »",
+      "Jésus, voyant le peuple accourir en foule, menaça l’esprit impur, en disant : « Esprit sourd et muet, je te le commande, sors de cet enfant, et ne rentre plus en lui. » Alors, ayant poussé un grand cri, et l’ayant agité avec violence, il sortit, et l’enfant devint comme un cadavre, au point que plusieurs disaient : « Il est mort. » Mais Jésus, l’ayant pris par la main, le fit lever, et il se tint debout. Lorsqu’il fut entré dans la maison, ses disciples lui demandèrent en particulier : « Pourquoi n’avons-nous pu chasser cet esprit ? » Il leur dit : « Ce genre de démon ne peut être chassé que par la prière et le jeûne. »"
+     ]
+    }
    },
    "verset": {
     "texte": "« Je crois, Seigneur ; venez au secours de mon incrédulité. »",
@@ -701,26 +585,6 @@ const JOURS = {
     "commemoraisons": []
    },
    "propre": {
-    "introit": {
-     "reference": "Sedulius ; verset : Psaume 44, 2 (Vulgate ; Crampon 45)",
-     "latin": [
-      "Salve, sancta parens, eníxa puérpera Regem: qui cælum terrámque regit in sǽcula sæculórum.",
-      "℣. Eructávit cor meum verbum bonum: dico ego ópera mea Regi."
-     ],
-     "francais": [
-      "Salut, sainte Mère, vous qui avez enfanté le Roi qui régit le ciel et la terre dans les siècles des siècles.",
-      "℣. De mon cœur jaillit un beau chant ; je dis : « Mon œuvre est pour un roi ! »"
-     ],
-     "note": "L’antienne d’introït n’est pas un texte scripturaire : elle est tirée du poète chrétien Sedulius (Ve siècle) et traduite ici par Ad Fontes. Seul le verset psalmique est donné selon la Crampon 1923."
-    },
-    "collecte": {
-     "latin": [
-      "Deus, qui per gloriosíssimam Fílii tui Matrem, ad liberándos Christi fidéles a potestáte paganórum, nova Ecclésiam tuam prole amplificáre dignátus es: præsta, quǽsumus; ut, quam pie venerámur tanti óperis institutrícem, eius páriter méritis et intercessióne, a peccátis ómnibus et captivitáte dæmonis liberémur. Per eúndem Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Ô Dieu, qui, par la très glorieuse Mère de votre Fils, avez daigné enrichir votre Église d’une famille religieuse nouvelle pour délivrer les fidèles du Christ de la puissance des païens : accordez-nous, nous vous en prions, que, vénérant avec piété celle qui institua une si grande œuvre, nous soyons délivrés de tous nos péchés et de la captivité du démon par ses mérites et son intercession. Par le même Notre-Seigneur Jésus-Christ."
-     ]
-    },
     "epitre": {
      "titre": "Épître",
      "reference": "Ecclésiastique 24, 14-16",
@@ -732,27 +596,6 @@ const JOURS = {
      ],
      "note": "La Crampon 1923 ne suit pas la numérotation de la Vulgate pour l’Ecclésiastique et le chapitre 24 y est disposé autrement. Le français donné ici est la traduction d’Ad Fontes sur le latin liturgique, en attendant le relevé des versets correspondants de la Crampon."
     },
-    "graduel": {
-     "reference": "Texte liturgique propre aux messes de la Sainte Vierge",
-     "latin": [
-      "Benedícta et venerábilis es, Virgo María: quæ sine tactu pudóris invénta es Mater Salvatóris.",
-      "℣. Virgo, Dei Génetrix, quem totus non capit orbis, in tua se clausit víscera factus homo."
-     ],
-     "francais": [
-      "Vous êtes bénie et vénérable, Vierge Marie, vous qui, sans que votre pureté fût touchée, avez été trouvée Mère du Sauveur.",
-      "℣. Vierge, Mère de Dieu, celui que le monde entier ne peut contenir s’est enfermé dans votre sein en se faisant homme."
-     ],
-     "note": "Antienne non scripturaire ; traduction d’Ad Fontes sur le latin."
-    },
-    "alleluia": {
-     "reference": "Texte liturgique propre",
-     "latin": [
-      "Allelúia, allelúia. ℣. Post partum, Virgo, invioláta permansísti: Dei Génetrix, intercéde pro nobis. Allelúia."
-     ],
-     "francais": [
-      "Alléluia, alléluia. ℣. Après l’enfantement, Vierge, vous êtes demeurée inviolée : Mère de Dieu, intercédez pour nous. Alléluia."
-     ]
-    },
     "evangile": {
      "reference": "Luc 11, 27-28",
      "incipit": "En ce temps-là, comme Jésus parlait aux foules :",
@@ -761,41 +604,6 @@ const JOURS = {
      ],
      "francais": [
       "Comme il parlait ainsi, une femme éleva la voix du milieu de la foule et lui dit : « Heureux le sein qui vous a porté, et les mamelles que vous avez sucées ! » Mais il dit : « Heureux plutôt ceux qui écoutent la parole de Dieu et qui la gardent ! »"
-     ]
-    },
-    "offertoire": {
-     "reference": "Luc 1, 28 et 42",
-     "latin": [
-      "Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus, et benedíctus fructus ventris tui."
-     ],
-     "francais": [
-      "Je vous salue, pleine de grâce ; le Seigneur est avec vous. Vous êtes bénie entre les femmes, et le fruit de votre sein est béni."
-     ]
-    },
-    "secrete": {
-     "latin": [
-      "Tua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Que par votre bonté, Seigneur, et par l’intercession de la bienheureuse Marie toujours Vierge, cette oblation nous obtienne la prospérité et la paix, présentes et éternelles. Par Notre-Seigneur Jésus-Christ."
-     ]
-    },
-    "communion": {
-     "reference": "Texte liturgique propre",
-     "latin": [
-      "Beáta víscera Maríæ Vírginis, quæ portavérunt ætérni Patris Fílium."
-     ],
-     "francais": [
-      "Bienheureux le sein de la Vierge Marie, qui a porté le Fils du Père éternel."
-     ],
-     "note": "Antienne non scripturaire ; traduction d’Ad Fontes sur le latin."
-    },
-    "postcommunion": {
-     "latin": [
-      "Sumptis, Dómine, salútis nostræ subsídiis: da, quǽsumus, beátæ Maríæ semper Vírginis patrocíniis nos ubíque prótegi; in cuius veneratióne hæc tuæ obtúlimus maiestáti. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Ayant reçu, Seigneur, les secours de notre salut, accordez-nous, nous vous en prions, d’être partout protégés par le patronage de la bienheureuse Marie toujours Vierge, en l’honneur de qui nous avons offert cette oblation à votre majesté. Par Notre-Seigneur Jésus-Christ."
      ]
     }
    },
@@ -928,25 +736,6 @@ const JOURS = {
     "commemoraisons": []
    },
    "propre": {
-    "introit": {
-     "reference": "Psaume 104, 3-4 ; verset : Psaume 104, 1 (Vulgate ; Crampon 105)",
-     "latin": [
-      "Lætétur cor quæréntium Dóminum: quǽrite Dóminum, et confirmámini: quǽrite fáciem eius semper.",
-      "℣. Confitémini Dómino et invocáte nomen eius: annuntiáte inter gentes ópera eius."
-     ],
-     "francais": [
-      "Joyeux soit le cœur de ceux qui cherchent Yahweh ! Cherchez Yahweh et sa force, ne cessez pas de chercher sa face.",
-      "℣. Célébrez Yahweh, invoquez son nom, faites connaître parmi les nations ses grandes œuvres."
-     ]
-    },
-    "collecte": {
-     "latin": [
-      "Præsta, quǽsumus, omnípotens Deus: ut, observatiónes sacras ánnua devotióne recoléntes, et córpore tibi placeámus et mente. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Accordez-nous, nous vous en prions, Dieu tout-puissant, qu’en reprenant chaque année avec dévotion ces saintes observances, nous vous plaisions et par le corps et par l’esprit. Par Notre-Seigneur Jésus-Christ."
-     ]
-    },
     "lecon": {
      "titre": "Leçon",
      "reference": "Osée 14, 2-10",
@@ -957,20 +746,6 @@ const JOURS = {
       "Reviens, Israël, à Yahweh, car tu es tombé par ton iniquité. Prenez avec vous des paroles, et revenez à Yahweh ; dites-lui : « Ôtez toute iniquité et prenez ce qui est bon ! Que nous vous offrions, au lieu de taureaux, les paroles de nos lèvres. Assur ne nous sauvera pas, nous ne monterons pas sur des chevaux ; et nous ne dirons plus : “Notre Dieu !” à l’œuvre de nos mains. Ô vous, en qui l’orphelin trouve compassion ! »",
       "Je guérirai leur infidélité, je les aimerai de bon cœur ; car ma colère s’est retirée d’eux. Je serai comme la rosée pour Israël ; il croîtra comme le lis, il poussera ses racines comme le Liban. Ses rejetons s’étendront, sa gloire sera comme celle de l’olivier, et son parfum comme celui du Liban. Ceux qui viendront se reposer à son ombre feront revivre le froment ; ils croîtront comme la vigne ; son nom sera comme le vin du Liban.",
       "Éphraïm… qu’aurait-il encore à faire avec les idoles ? C’est moi qui lui réponds, qui le regarde ; je suis comme un cyprès verdoyant ; c’est de moi que procède ton fruit. Celui qui est sage, qu’il comprenne ces choses, celui qui est intelligent, qu’il les reconnaisse ! Car les voies de Yahweh sont droites ; les justes y marcheront, mais les rebelles y tomberont."
-     ]
-    },
-    "alleluia": {
-     "omis": "Le mercredi et le vendredi des Quatre-Temps de septembre, la messe ne comporte ni Alléluia ni trait : le caractère pénitentiel du jour le supprime. Absence constatée sur le Missel de 1962, non une lacune de préparation."
-    },
-    "graduel": {
-     "reference": "Psaume 89, 13 et 1 (Vulgate ; Crampon 90)",
-     "latin": [
-      "Convértere, Dómine, aliquántulum, et deprecáre super servos tuos.",
-      "℣. Dómine, refúgium factus es nobis, a generatióne et progénie."
-     ],
-     "francais": [
-      "Reviens, Yahweh ; jusques à quand ? Aie pitié de tes serviteurs.",
-      "℣. Seigneur, tu as été pour nous un refuge d’âge en âge."
      ]
     },
     "evangile": {
@@ -984,40 +759,6 @@ const JOURS = {
       "À cette vue, le Pharisien qui l’avait invité, dit en lui-même : « Si cet homme était prophète, il saurait qui et de quelle espèce est la femme qui le touche, et que c’est une pécheresse. » Alors prenant la parole, Jésus lui dit : « Simon, j’ai quelque chose à te dire. » — « Maître, parlez », dit-il. — « Un créancier avait deux débiteurs ; l’un devait cinq cents deniers et l’autre cinquante. Comme ils n’avaient pas de quoi payer leur dette, il en fit grâce à tous deux. Lequel donc l’aimera davantage ? » Simon répondit : « Celui, je pense, auquel il a fait grâce de la plus forte somme. » Jésus lui dit : « Tu as bien jugé. »",
       "Et, se tournant vers la femme, il dit à Simon : « Vois-tu cette femme ? Je suis entré dans ta maison, et tu n’as pas versé d’eau sur mes pieds ; mais elle, elle les a mouillés de ses larmes, et les a essuyés avec ses cheveux. Tu ne m’as point donné de baiser ; mais elle, depuis que je suis entré, elle n’a cessé de me baiser les pieds. Tu n’as pas oint ma tête d’huile, mais elle a oint mes pieds de parfum. C’est pourquoi, je te le déclare, ses nombreux péchés lui sont pardonnés, parce qu’elle a beaucoup aimé ; mais celui à qui l’on pardonne peu, aime peu. »",
       "Puis il dit à la femme : « Tes péchés te sont pardonnés. » Et ceux qui étaient à table avec lui se mirent à dire en eux-mêmes : « Qui est celui-ci qui remet même les péchés ? » Mais il dit à la femme : « Ta foi t’a sauvée, va en paix. »"
-     ]
-    },
-    "offertoire": {
-     "reference": "Psaume 102, 2 et 5 (Vulgate ; Crampon 103)",
-     "latin": [
-      "Bénedic, ánima mea, Dómino, et noli oblivísci omnes retributiónes eius: et renovábitur, sicut áquilæ, iuvéntus tua."
-     ],
-     "francais": [
-      "Mon âme, bénis Yahweh, et n’oublie pas ses nombreux bienfaits. Ta jeunesse est renouvelée comme celle de l’aigle."
-     ]
-    },
-    "secrete": {
-     "latin": [
-      "Accépta tibi sint, Dómine, quǽsumus, nostri dona ieiúnii: quæ et expiándo nos tua grátia dignos effíciant, et ad sempitérna promíssa perdúcant. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Que les dons de notre jeûne vous soient agréables, Seigneur, nous vous en prions : qu’ils nous rendent, en nous purifiant, dignes de votre grâce, et qu’ils nous conduisent aux promesses éternelles. Par Notre-Seigneur Jésus-Christ."
-     ]
-    },
-    "communion": {
-     "reference": "Psaume 118, 22 et 24 (Vulgate ; Crampon 119)",
-     "latin": [
-      "Aufer a me oppróbrium et contémptum, quia mandáta tua exquisívi, Dómine: nam et testimónia tua meditátio mea est."
-     ],
-     "francais": [
-      "Éloigne de moi la honte et le mépris, car j’observe tes enseignements. Car tes enseignements font mes délices, ce sont les hommes de mon conseil."
-     ]
-    },
-    "postcommunion": {
-     "latin": [
-      "Quǽsumus, omnípotens Deus: ut, de percéptis munéribus grátias exhibéntes, benefícia potióra sumámus. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Nous vous en prions, Dieu tout-puissant : qu’en vous rendant grâces pour les dons reçus, nous obtenions des bienfaits plus grands encore. Par Notre-Seigneur Jésus-Christ."
      ]
     }
    },
@@ -1154,55 +895,10 @@ const JOURS = {
     "classe": "IIe classe",
     "couleur": "violet",
     "commemoraisons": [
-     {
-      "nom": "saints Cyprien et Justine, martyrs",
-      "collecte": {
-       "latin": [
-        "Beatórum Mártyrum Cypriáni et Iustínæ nos, Dómine, fóveant continuáta præsídia: quia non désinis propítius intuéri, quos tálibus auxíliis concésseris adiuvári."
-       ],
-       "francais": [
-        "Que la protection continuelle des bienheureux martyrs Cyprien et Justine nous soutienne, Seigneur : car vous ne cessez de regarder avec bonté ceux à qui vous accordez de tels secours."
-       ]
-      },
-      "secrete": {
-       "latin": [
-        "Múnera tibi, Dómine, nostra devotiónis offérimus: quæ et pro tuórum tibi grata sint honóre Iustórum, et nobis salutária, te miseránte, reddántur."
-       ],
-       "francais": [
-        "Nous vous offrons, Seigneur, les dons de notre dévotion : qu’ils vous soient agréables en l’honneur de vos justes, et que votre miséricorde nous les rende salutaires."
-       ]
-      },
-      "postcommunion": {
-       "latin": [
-        "Præsta nobis, quǽsumus, Dómine: intercedéntibus sanctis Martýribus tuis Cypriáno et Iustína; ut, quod ore contíngimus, pura mente capiámus."
-       ],
-       "francais": [
-        "Accordez-nous, nous vous en prions, Seigneur, par l’intercession de vos saints martyrs Cyprien et Justine, de recevoir d’un cœur pur ce que notre bouche a touché."
-       ]
-      }
-     }
+     "saints Cyprien et Justine, martyrs"
     ]
    },
    "propre": {
-    "introit": {
-     "reference": "Psaume 94, 6-7 ; verset : Psaume 94, 1 (Vulgate ; Crampon 95)",
-     "latin": [
-      "Veníte, adorémus Deum et procidámus ante Dóminum, plorémus ante eum, qui fecit nos: quia ipse est Dóminus, Deus noster.",
-      "℣. Veníte, exsultémus Dómino: iubilémus Deo, salutári nostro."
-     ],
-     "francais": [
-      "Venez, prosternons-nous et adorons, fléchissons le genou devant Yahweh, notre Créateur. Car il est notre Dieu.",
-      "℣. Venez, chantons avec allégresse à Yahweh ! Poussons des cris de joie vers le Rocher de notre salut !"
-     ]
-    },
-    "collecte": {
-     "latin": [
-      "Omnípotens sempitérne Deus, qui per continéntiam salutárem corpóribus medéris et méntibus: maiestátem tuam súpplices exorámus; ut, pia ieiunántium deprecatióne placátus, et præséntia nobis subsídia tríbuas et futúra. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Dieu tout-puissant et éternel, qui par une abstinence salutaire guérissez les corps et les âmes : nous supplions votre majesté, afin qu’apaisé par la pieuse prière de ceux qui jeûnent, vous nous accordiez les secours présents et ceux de l’avenir. Par Notre-Seigneur Jésus-Christ."
-     ]
-    },
     "lecon": {
      "titre": "Première leçon",
      "reference": "Lévitique 23, 26-32",
@@ -1212,88 +908,6 @@ const JOURS = {
      "francais": [
       "Yahweh parla à Moïse, en disant : « Le dixième jour de ce septième mois est le jour des Expiations : vous aurez une sainte assemblée, vous affligerez vos âmes, et vous offrirez à Yahweh des sacrifices faits par le feu. Vous ne ferez ce jour-là aucun travail, car c’est un jour d’expiation, où doit être faite l’expiation pour vous devant Yahweh, votre Dieu.",
       "Toute personne qui ne s’affligera pas ce jour-là sera retranchée de son peuple ; et toute personne qui fera ce jour-là un ouvrage quelconque, je la ferai périr du milieu de son peuple. Vous ne ferez aucun travail. C’est une loi perpétuelle pour vos descendants, dans tous les lieux où vous demeurerez. Ce sera pour vous un sabbat, un repos absolu, et vous affligerez vos âmes ; le neuvième jour du mois, au soir, du soir jusqu’au soir suivant, vous observerez votre sabbat. »"
-     ]
-    },
-    "graduel": {
-     "reference": "Psaume 78, 9-10 (Vulgate ; Crampon 79)",
-     "latin": [
-      "Propítius esto, Dómine, peccátis nostris: ne quando dicant gentes: Ubi est Deus eórum?",
-      "℣. Adiuva nos, Deus, salutáris noster: et propter honórem nóminis tui, Dómine, líbera nos."
-     ],
-     "francais": [
-      "Pardonne nos péchés à cause de ton nom. Pourquoi les nations diraient-elles : « Où est leur Dieu ? »",
-      "℣. Secours-nous, Dieu de notre salut, pour la gloire de ton nom, délivre-nous."
-     ]
-    },
-    "epitre": {
-     "titre": "Épître",
-     "reference": "Hébreux 9, 2-12",
-     "incipit": "Mes frères :",
-     "latin": [
-      "Fratres: Tabernáculum factum est primum, in quo erant candelábra, et mensa, et proposítio panum, quæ dícitur Sancta. Post velaméntum autem secúndum, tabernáculum, quod dícitur Sancta sanctórum: áureum habens thuríbulum, et arcam testaménti circumtéctam ex omni parte auro, in qua urna áurea habens manna, et virga Aaron, quæ frondúerat, et tábulæ testaménti, supérque eam erant Chérubim glóriæ obumbrántia propitiatórium: de quibus non est modo dicéndum per síngula. His vero ita compósitis; in prióri quidem tabernáculo semper introíbant sacerdótes, sacrificiórum offícia consummántes: in secúndo autem semel in anno solus póntifex, non sine sánguine, quem offert pro sua et pópuli ignorántia: hoc significánte Spíritu Sancto, nondum propalátam esse sanctórum viam, adhuc prióre tabernáculo habénte statum. Quæ parábola est témporis instántis: iuxta quam múnera et hóstiæ offerúntur, quæ non possunt iuxta consciéntiam perféctum fácere serviéntem, solúmmodo in cibis, et in pótibus, et váriis baptismátibus, et iustítiis carnis usque ad tempus correctiónis impósitis. Christus autem assístens póntifex futurórum bonórum, per ámplius et perféctius tabernáculum non manufáctum, id est, non huius creatiónis; neque per sánguinem hircórum aut vitulórum, sed per próprium sánguinem introívit semel in Sancta, ætérna redemptióne invénta."
-     ],
-     "francais": [
-      "En effet, on a construit un tabernacle, avec une partie antérieure, appelée le lieu saint, où étaient le chandelier, la table et les pains de proposition. Derrière le second voile, se trouvait la partie du tabernacle appelée le Saint des Saints, ayant un autel d’or pour les parfums et l’arche de l’alliance toute recouverte d’or. Dans l’arche se trouvait une urne d’or renfermant la manne, la verge d’Aaron qui avait fleuri, et les tables de l’alliance. Au dessus étaient des chérubins de la gloire, couvrant de leur ombre le propitiatoire. Mais ce n’est pas ici le lieu de parler sur ce sujet en détail.",
-      "Or, ces choses étant ainsi disposées, les prêtres entrent en tout temps dans la partie antérieure du tabernacle, lorsqu’ils font le service du culte ; le grand prêtre seul, une seule fois l’année, entre dans la seconde partie, mais avec du sang qu’il offre pour lui-même et pour les péchés du peuple. L’Esprit-Saint montre par là que le chemin du Saint des Saints n’a pas encore été ouvert, tant que subsiste le premier tabernacle. C’est une figure qui a rapport au temps présent ; elle signifie que les oblations et les sacrifices offerts ne peuvent amener à la perfection, au point de vue de la conscience, celui qui rend ce culte. Car avec les prescriptions relatives aux aliments, aux boissons et aux diverses ablutions, ce ne sont que des ordonnances charnelles, imposées seulement jusqu’à une époque de réformation.",
-      "Mais le Christ ayant paru comme grand prêtre des biens à venir, c’est en passant par un tabernacle plus excellent et plus parfait, qui n’est pas construit de main d’homme, c’est-à-dire, qui n’appartient pas à cette création-ci, et ce n’est pas avec le sang des boucs et des taureaux, mais avec son propre sang, qu’il est entré une fois pour toutes dans le saint des Saints, après avoir acquis une rédemption éternelle."
-     ]
-    },
-    "trait": {
-     "reference": "Psaume 116, 1-2 (Vulgate ; Crampon 117)",
-     "latin": [
-      "Laudáte Dóminum, omnes gentes: et collaudáte eum, omnes pópuli.",
-      "℣. Quóniam confirmáta est super nos misericórdia eius: et véritas Dómini manet in ætérnum."
-     ],
-     "francais": [
-      "Nations, louez toutes Yahweh ; peuples, célébrez-le tous !",
-      "℣. Car sa bonté pour nous est grande, et la vérité de Yahweh subsiste à jamais."
-     ],
-     "note": "Aux Quatre-Temps de septembre, l’Alléluia fait place au trait, selon le caractère pénitentiel du jour."
-    },
-    "evangile": {
-     "reference": "Luc 13, 6-17",
-     "incipit": "En ce temps-là, Jésus disait aux foules cette parabole :",
-     "latin": [
-      "In illo témpore: Dicébat Iesus turbis hanc similitúdinem: Arbórem fici habébat quidam plantátam in vínea sua, et venit quærens fructum in illa, et non invénit. Dixit autem ad cultórem víneæ: Ecce, anni tres sunt, ex quo vénio quærens fructum in ficúlnea hac, et non invénio: succíde ergo illam: ut quid étiam terram óccupat? At ille respóndens, dicit illi: Dómine, dimítte illam et hoc anno, usque dum fódiam circa illam et mittam stércora: et si quidem fécerit fructum: sin autem, in futúrum succídes eam. Erat autem docens in synagóga eórum sábbatis. Et ecce múlier, quæ habébat spíritum infirmitátis annis decem et octo: et erat inclináta, nec omníno póterat sursum respícere. Quam cum vidéret Iesus, vocávit eam ad se, et ait illi: Múlier, dimíssa es ab infirmitáte tua. Et impósuit illi manus, et conféstim erécta est, et glorificábat Deum. Respóndens autem archisynagógus, indígnans quia sábbato curásset Iesus, dicébat turbæ: Sex dies sunt, in quibus opórtet operári: in his ergo veníte, et curámini, et non in die sábbati. Respóndens autem ad illum Dóminus, dixit: Hypócritæ, unusquísque vestrum sábbato non solvit bovem suum aut ásinum a præsépio, et ducit adaquáre? Hanc autem fíliam Abrahæ, quam alligávit sátanas, ecce decem et octo annis, non opórtuit solvi a vínculo isto die sábbati? Et cum hæc díceret, erubescébant omnes adversárii eius: et omnis pópulus gaudébat in univérsis, quæ glorióse fiébant ab eo."
-     ],
-     "francais": [
-      "« Un homme avait un figuier planté dans sa vigne ; il vint pour y chercher des fruits, et n’en trouvant point, il dit au vigneron : Voilà trois ans que je viens chercher du fruit à ce figuier, et je n’en trouve point ; coupe-le donc : pourquoi rend-il la terre improductive ? Le vigneron lui répondit : Seigneur, laissez-le encore cette année, jusqu’à ce que j’aie creusé et mis du fumier tout autour. Peut-être portera-t-il du fruit ensuite ; sinon, vous le couperez. »",
-      "Jésus enseignait dans une synagogue un jour de sabbat. Or, il y avait là une femme possédée depuis dix-huit ans d’un esprit qui la rendait infirme : elle était courbée, et ne pouvait absolument pas se redresser. L’ayant vue, Jésus l’appela et lui dit : « Femme, tu es délivrée de ton infirmité. » Et il lui imposa les mains ; à l’instant elle se redressa, et elle glorifiait Dieu.",
-      "Mais le chef de synagogue, indigné de ce que Jésus avait fait cette guérison un jour de sabbat, prit la parole et dit au peuple : « Il y a six jours pour travailler ; venez donc vous faire guérir ces jours-là et non pas le jour du sabbat. » Le Seigneur lui répondit : « Hypocrites, est-ce que chacun de vous, le jour du sabbat, ne détache pas de la crèche son bœuf ou son âne, pour le mener boire ? Et cette fille d’Abraham, que Satan tenait liée depuis dix-huit ans, il ne fallait pas la délivrer de cette chaîne le jour du sabbat ! » Pendant qu’il parlait ainsi, tous ses adversaires étaient couverts de confusion, et tout le peuple était ravi de toutes les choses merveilleuses qu’il accomplissait."
-     ]
-    },
-    "offertoire": {
-     "reference": "Psaume 87, 2-3 (Vulgate ; Crampon 88)",
-     "latin": [
-      "Dómine, Deus salútis meæ, in die clamávi et nocte coram te: intret orátio mea in conspéctu tuo, Dómine."
-     ],
-     "francais": [
-      "Yahweh, Dieu de mon salut, quand je crie la nuit devant toi, que ma prière arrive en ta présence."
-     ]
-    },
-    "secrete": {
-     "latin": [
-      "Concéde, quǽsumus, omnípotens Deus: ut oculis tuæ maiestátis munus oblátum et grátiam nobis devotiónis obtíneat, et efféctum beátæ perennitátis acquírat. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Accordez-nous, nous vous en prions, Dieu tout-puissant, que le don offert aux yeux de votre majesté nous obtienne la grâce de la dévotion et nous acquière le fruit de la bienheureuse éternité. Par Notre-Seigneur Jésus-Christ."
-     ]
-    },
-    "communion": {
-     "reference": "Lévitique 23, 41 et 43",
-     "latin": [
-      "Mense séptimo festa celebrábitis, cum in tabernáculis habitáre fécerim fílios Israël, cum edúcerem eos de terra Ægýpti, ego Dóminus, Deus vester."
-     ],
-     "francais": [
-      "Vous célébrerez cette fête le septième mois, afin que vos descendants sachent que j’ai fait habiter sous des huttes les enfants d’Israël, lorsque je les ai fait sortir du pays d’Égypte. Je suis Yahweh, votre Dieu."
-     ]
-    },
-    "postcommunion": {
-     "latin": [
-      "Perfíciant in nobis, Dómine, quǽsumus, tua sacraménta quod cóntinent: ut, quæ nunc spécie gérimus, rerum veritáte capiámus. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Que vos sacrements, Seigneur, nous vous en prions, accomplissent en nous ce qu’ils contiennent, afin que ce que nous célébrons maintenant sous des signes, nous le recevions dans la vérité des choses. Par Notre-Seigneur Jésus-Christ."
      ]
     },
     "supplement": [
@@ -1340,28 +954,34 @@ const JOURS = {
       "francais": [
        "La flamme s’élevait quarante-neuf coudées au-dessus de la fournaise ; et, s’étant élancée, elle brûla les Chaldéens qu’elle rencontra près de la fournaise. Mais l’ange du Seigneur était descendu dans la fournaise avec Azarias et ses compagnons, et il écartait de la fournaise la flamme de feu. Et il rendit le milieu de la fournaise tel que si un vent de rosée y avait soufflé ; et le feu ne les toucha même pas, il ne les blessa point et ne leur causa point le moindre mal. Alors ces trois hommes, comme d’une seule bouche, louaient, glorifiaient et bénissaient Dieu dans la fournaise, en disant :"
       ],
-      "note": "Cette leçon est suivie du cantique des trois enfants (Daniel 3, 52-59), chanté en guise de graduel, puis de la collecte « Deus, qui tribus púeris »."
-     },
-     {
-      "titre": "Collectes des leçons",
-      "reference": "",
-      "latin": [
-       "Da nobis, quǽsumus, omnípotens Deus: ut, ieiunándo, tua grátia satiémur; et, abstinéndo, cunctis efficiámur hóstibus fortióres.",
-       "Tuére, quǽsumus, Dómine, famíliam tuam: ut salútis ætérnæ remédia, quæ te inspiránte requírimus, te largiénte consequámur.",
-       "Præsta, quǽsumus, Dómine, sic nos ab épulis abstinére carnálibus: ut a vítiis irruéntibus páriter ieiunémus.",
-       "Ut nobis, Dómine, tríbuis sollémne tibi deférre ieiúnium: sic nobis, quǽsumus, indulgéntiæ præsta subsídium.",
-       "Deus, qui tribus púeris mitigásti flammas ígnium: concéde propítius; ut nos fámulos tuos non exúrat flamma vitiórum."
-      ],
-      "francais": [
-       "Donnez-nous, nous vous en prions, Dieu tout-puissant, d’être rassasiés de votre grâce en jeûnant, et de devenir, par l’abstinence, plus forts que tous nos ennemis.",
-       "Protégez, nous vous en prions, Seigneur, votre famille : que les remèdes du salut éternel, que nous cherchons sous votre inspiration, nous les obtenions par votre largesse.",
-       "Accordez-nous, nous vous en prions, Seigneur, de nous abstenir des nourritures charnelles de telle sorte que nous jeûnions pareillement des vices qui nous assaillent.",
-       "Comme vous nous accordez, Seigneur, de vous offrir ce jeûne solennel, accordez-nous aussi, nous vous en prions, le secours de votre pardon.",
-       "Ô Dieu, qui avez adouci pour les trois enfants les flammes du feu : accordez dans votre bonté que la flamme des vices ne brûle pas vos serviteurs."
-      ],
-      "note": "Chacune des cinq leçons a sa collecte propre, dite avant elle ; la messe des Quatre-Temps en compte six en tout avec celle du jour."
+      "note": "Cette leçon est suivie, à la messe, du cantique des trois enfants (Daniel 3, 52-59)."
      }
-    ]
+    ],
+    "epitre": {
+     "titre": "Épître",
+     "reference": "Hébreux 9, 2-12",
+     "incipit": "Mes frères :",
+     "latin": [
+      "Fratres: Tabernáculum factum est primum, in quo erant candelábra, et mensa, et proposítio panum, quæ dícitur Sancta. Post velaméntum autem secúndum, tabernáculum, quod dícitur Sancta sanctórum: áureum habens thuríbulum, et arcam testaménti circumtéctam ex omni parte auro, in qua urna áurea habens manna, et virga Aaron, quæ frondúerat, et tábulæ testaménti, supérque eam erant Chérubim glóriæ obumbrántia propitiatórium: de quibus non est modo dicéndum per síngula. His vero ita compósitis; in prióri quidem tabernáculo semper introíbant sacerdótes, sacrificiórum offícia consummántes: in secúndo autem semel in anno solus póntifex, non sine sánguine, quem offert pro sua et pópuli ignorántia: hoc significánte Spíritu Sancto, nondum propalátam esse sanctórum viam, adhuc prióre tabernáculo habénte statum. Quæ parábola est témporis instántis: iuxta quam múnera et hóstiæ offerúntur, quæ non possunt iuxta consciéntiam perféctum fácere serviéntem, solúmmodo in cibis, et in pótibus, et váriis baptismátibus, et iustítiis carnis usque ad tempus correctiónis impósitis. Christus autem assístens póntifex futurórum bonórum, per ámplius et perféctius tabernáculum non manufáctum, id est, non huius creatiónis; neque per sánguinem hircórum aut vitulórum, sed per próprium sánguinem introívit semel in Sancta, ætérna redemptióne invénta."
+     ],
+     "francais": [
+      "En effet, on a construit un tabernacle, avec une partie antérieure, appelée le lieu saint, où étaient le chandelier, la table et les pains de proposition. Derrière le second voile, se trouvait la partie du tabernacle appelée le Saint des Saints, ayant un autel d’or pour les parfums et l’arche de l’alliance toute recouverte d’or. Dans l’arche se trouvait une urne d’or renfermant la manne, la verge d’Aaron qui avait fleuri, et les tables de l’alliance. Au dessus étaient des chérubins de la gloire, couvrant de leur ombre le propitiatoire. Mais ce n’est pas ici le lieu de parler sur ce sujet en détail.",
+      "Or, ces choses étant ainsi disposées, les prêtres entrent en tout temps dans la partie antérieure du tabernacle, lorsqu’ils font le service du culte ; le grand prêtre seul, une seule fois l’année, entre dans la seconde partie, mais avec du sang qu’il offre pour lui-même et pour les péchés du peuple. L’Esprit-Saint montre par là que le chemin du Saint des Saints n’a pas encore été ouvert, tant que subsiste le premier tabernacle. C’est une figure qui a rapport au temps présent ; elle signifie que les oblations et les sacrifices offerts ne peuvent amener à la perfection, au point de vue de la conscience, celui qui rend ce culte. Car avec les prescriptions relatives aux aliments, aux boissons et aux diverses ablutions, ce ne sont que des ordonnances charnelles, imposées seulement jusqu’à une époque de réformation.",
+      "Mais le Christ ayant paru comme grand prêtre des biens à venir, c’est en passant par un tabernacle plus excellent et plus parfait, qui n’est pas construit de main d’homme, c’est-à-dire, qui n’appartient pas à cette création-ci, et ce n’est pas avec le sang des boucs et des taureaux, mais avec son propre sang, qu’il est entré une fois pour toutes dans le saint des Saints, après avoir acquis une rédemption éternelle."
+     ]
+    },
+    "evangile": {
+     "reference": "Luc 13, 6-17",
+     "incipit": "En ce temps-là, Jésus disait aux foules cette parabole :",
+     "latin": [
+      "In illo témpore: Dicébat Iesus turbis hanc similitúdinem: Arbórem fici habébat quidam plantátam in vínea sua, et venit quærens fructum in illa, et non invénit. Dixit autem ad cultórem víneæ: Ecce, anni tres sunt, ex quo vénio quærens fructum in ficúlnea hac, et non invénio: succíde ergo illam: ut quid étiam terram óccupat? At ille respóndens, dicit illi: Dómine, dimítte illam et hoc anno, usque dum fódiam circa illam et mittam stércora: et si quidem fécerit fructum: sin autem, in futúrum succídes eam. Erat autem docens in synagóga eórum sábbatis. Et ecce múlier, quæ habébat spíritum infirmitátis annis decem et octo: et erat inclináta, nec omníno póterat sursum respícere. Quam cum vidéret Iesus, vocávit eam ad se, et ait illi: Múlier, dimíssa es ab infirmitáte tua. Et impósuit illi manus, et conféstim erécta est, et glorificábat Deum. Respóndens autem archisynagógus, indígnans quia sábbato curásset Iesus, dicébat turbæ: Sex dies sunt, in quibus opórtet operári: in his ergo veníte, et curámini, et non in die sábbati. Respóndens autem ad illum Dóminus, dixit: Hypócritæ, unusquísque vestrum sábbato non solvit bovem suum aut ásinum a præsépio, et ducit adaquáre? Hanc autem fíliam Abrahæ, quam alligávit sátanas, ecce decem et octo annis, non opórtuit solvi a vínculo isto die sábbati? Et cum hæc díceret, erubescébant omnes adversárii eius: et omnis pópulus gaudébat in univérsis, quæ glorióse fiébant ab eo."
+     ],
+     "francais": [
+      "« Un homme avait un figuier planté dans sa vigne ; il vint pour y chercher des fruits, et n’en trouvant point, il dit au vigneron : Voilà trois ans que je viens chercher du fruit à ce figuier, et je n’en trouve point ; coupe-le donc : pourquoi rend-il la terre improductive ? Le vigneron lui répondit : Seigneur, laissez-le encore cette année, jusqu’à ce que j’aie creusé et mis du fumier tout autour. Peut-être portera-t-il du fruit ensuite ; sinon, vous le couperez. »",
+      "Jésus enseignait dans une synagogue un jour de sabbat. Or, il y avait là une femme possédée depuis dix-huit ans d’un esprit qui la rendait infirme : elle était courbée, et ne pouvait absolument pas se redresser. L’ayant vue, Jésus l’appela et lui dit : « Femme, tu es délivrée de ton infirmité. » Et il lui imposa les mains ; à l’instant elle se redressa, et elle glorifiait Dieu.",
+      "Mais le chef de synagogue, indigné de ce que Jésus avait fait cette guérison un jour de sabbat, prit la parole et dit au peuple : « Il y a six jours pour travailler ; venez donc vous faire guérir ces jours-là et non pas le jour du sabbat. » Le Seigneur lui répondit : « Hypocrites, est-ce que chacun de vous, le jour du sabbat, ne détache pas de la crèche son bœuf ou son âne, pour le mener boire ? Et cette fille d’Abraham, que Satan tenait liée depuis dix-huit ans, il ne fallait pas la délivrer de cette chaîne le jour du sabbat ! » Pendant qu’il parlait ainsi, tous ses adversaires étaient couverts de confusion, et tout le peuple était ravi de toutes les choses merveilleuses qu’il accomplissait."
+     ]
+    }
    },
    "verset": {
     "texte": "« Cette fille d’Abraham, que Satan tenait liée depuis dix-huit ans, il ne fallait pas la délivrer de cette chaîne le jour du sabbat ! »",
@@ -1490,26 +1110,6 @@ const JOURS = {
     "commemoraisons": []
    },
    "propre": {
-    "introit": {
-     "reference": "Ecclésiastique 36, 18 ; verset : Psaume 121, 1 (Vulgate ; Crampon 122)",
-     "latin": [
-      "Da pacem, Dómine, sustinéntibus te, ut prophétæ tui fidéles inveniántur: exáudi preces servi tui et plebis tuæ Israël.",
-      "℣. Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus."
-     ],
-     "francais": [
-      "Donnez la paix, Seigneur, à ceux qui vous attendent, afin que vos prophètes soient trouvés véridiques ; exaucez les prières de votre serviteur et de votre peuple d’Israël.",
-      "℣. J’ai été dans la joie quand on m’a dit : « Allons à la maison de Yahweh ! »"
-     ],
-     "note": "L’antienne, tirée de l’Ecclésiastique, est donnée dans la traduction d’Ad Fontes sur le latin liturgique : la Crampon ne suit pas ici la numérotation de la Vulgate. Le verset psalmique est la Crampon 1923."
-    },
-    "collecte": {
-     "latin": [
-      "Dírigat corda nostra, quǽsumus, Dómine, tuæ miseratiónis operátio: quia tibi sine te placére non póssumus. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Que l’action de votre miséricorde dirige nos cœurs, nous vous en prions, Seigneur : car sans vous nous ne pouvons vous plaire. Par Notre-Seigneur Jésus-Christ."
-     ]
-    },
     "epitre": {
      "titre": "Épître",
      "reference": "I Corinthiens 1, 4-8",
@@ -1521,26 +1121,6 @@ const JOURS = {
       "Je rends à mon Dieu de continuelles actions de grâces à votre sujet, pour la grâce de Dieu qui vous a été faite en Jésus-Christ. Car par votre union avec lui, vous avez été comblés de toute sorte de richesses, en toute parole et en toute connaissance, le témoignage du Christ ayant été solidement établi parmi vous, de sorte que vous ne le cédez à personne en aucun don de grâce, attendant avec confiance la révélation de Notre-Seigneur Jésus-Christ. Il vous affermira aussi jusqu’à la fin, pour que vous soyez irréprochables, au jour de Notre-Seigneur Jésus-Christ."
      ]
     },
-    "graduel": {
-     "reference": "Psaume 121, 1 et 7 (Vulgate ; Crampon 122)",
-     "latin": [
-      "Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus.",
-      "℣. Fiat pax in virtúte tua: et abundántia in túrribus tuis."
-     ],
-     "francais": [
-      "J’ai été dans la joie quand on m’a dit : « Allons à la maison de Yahweh ! »",
-      "℣. Que la paix règne dans tes murs, la prospérité dans tes palais !"
-     ]
-    },
-    "alleluia": {
-     "reference": "Psaume 101, 16 (Vulgate ; Crampon 102)",
-     "latin": [
-      "Allelúia, allelúia. ℣. Timébunt gentes nomen tuum, Dómine, et omnes reges terræ glóriam tuam. Allelúia."
-     ],
-     "francais": [
-      "Alléluia, alléluia. ℣. Alors les nations révéreront le nom de Yahweh, et tous les rois de la terre ta majesté. Alléluia."
-     ]
-    },
     "evangile": {
      "reference": "Matthieu 9, 1-8",
      "incipit": "En ce temps-là :",
@@ -1550,41 +1130,6 @@ const JOURS = {
      "francais": [
       "Jésus étant donc monté dans la barque, repassa le lac et vint dans sa ville. Et voilà qu’on lui présenta un paralytique, étendu sur un lit. Jésus, voyant leur foi, dit au paralytique : « Mon fils, aie confiance, tes péchés te sont remis. » Aussitôt quelques Scribes dirent en eux-mêmes : « Cet homme blasphème. »",
       "Jésus, connaissant leurs pensées, leur dit : « Pourquoi pensez-vous le mal dans vos cœurs ? Lequel est le plus aisé de dire : Tes péchés te sont remis ; ou de dire : Lève-toi et marche ? Or, afin que vous sachiez que le Fils de l’homme a sur la terre le pouvoir de remettre les péchés : Lève-toi, dit-il au paralytique, prends ton lit, et va dans ta maison. » Et il se leva, et s’en alla dans sa maison. La multitude voyant ce prodige fut saisie de crainte, et rendit gloire à Dieu, qui avait donné une telle puissance aux hommes."
-     ]
-    },
-    "offertoire": {
-     "reference": "Exode 24, 4-5",
-     "latin": [
-      "Sanctificávit Móyses altáre Dómino, ófferens super illud holocáusta et ímmolans víctimas: fecit sacrifícium vespertínum in odórem suavitátis Dómino Deo, in conspéctu filiórum Israël."
-     ],
-     "francais": [
-      "Moïse bâtit un autel au pied de la montagne, et dressa douze stèles pour les douze tribus d’Israël. Il envoya des jeunes gens, enfants d’Israël, et ils offrirent à Yahweh des holocaustes et immolèrent des taureaux en sacrifices d’actions de grâces."
-     ],
-     "note": "L’antienne d’offertoire est un montage liturgique d’Exode 24, 4 et 5 ; la Crampon des versets correspondants est donnée ici."
-    },
-    "secrete": {
-     "latin": [
-      "Deus, qui nos, per huius sacrifícii veneránda commércia, uníus summæ divinitátis partícipes éfficis: præsta, quǽsumus; ut, sicut tuam cognóscimus veritátem, sic eam dignis móribus assequámur. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Ô Dieu, qui, par les échanges vénérables de ce sacrifice, nous rendez participants de l’unique et souveraine divinité : accordez-nous, nous vous en prions, que, connaissant votre vérité, nous y atteignions par une vie digne d’elle. Par Notre-Seigneur Jésus-Christ."
-     ]
-    },
-    "communion": {
-     "reference": "Psaume 95, 8-9 (Vulgate ; Crampon 96)",
-     "latin": [
-      "Tóllite hóstias, et introíte in átria eius: adoráte Dóminum in aula sancta eius."
-     ],
-     "francais": [
-      "Apportez l’offrande et venez dans ses parvis. Prosternez-vous devant Yahweh avec l’ornement sacré."
-     ]
-    },
-    "postcommunion": {
-     "latin": [
-      "Grátias tibi reférimus, Dómine, sacro múnere vegetáti: tuam misericórdiam deprecántes; ut dignos nos eius participatióne perfícias. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Nous vous rendons grâces, Seigneur, fortifiés par ce don sacré, implorant votre miséricorde afin que vous nous rendiez dignes d’y participer. Par Notre-Seigneur Jésus-Christ."
      ]
     }
    },
@@ -1725,25 +1270,6 @@ const JOURS = {
     "commemoraisons": []
    },
    "propre": {
-    "introit": {
-     "reference": "Psaume 20, 2-3 ; verset : Psaume 20, 4 (Vulgate ; Crampon 21)",
-     "latin": [
-      "In virtúte tua, Dómine, lætábitur iustus: et super salutáre tuum exsultábit veheménter: desidérium ánimæ eius tribuísti ei.",
-      "℣. Quóniam prævenísti eum in benedictiónibus dulcédinis: posuísti in cápite eius corónam de lápide pretióso."
-     ],
-     "francais": [
-      "Yahweh, le roi se réjouit de ta force ; comme ton secours le remplit d’allégresse ! Tu lui as donné ce que son cœur désirait.",
-      "℣. Car tu l’as prévenu de bénédictions exquises, tu as mis sur sa tête une couronne d’or pur."
-     ]
-    },
-    "collecte": {
-     "latin": [
-      "Deus, qui beátum Wencesláum per martýrii palmam a terréno principátu ad cœléstem glóriam transtulísti: eius précibus nos ab omni adversitáte custódi; et eiúsdem tríbue gaudére consórtio. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Ô Dieu, qui, par la palme du martyre, avez fait passer le bienheureux Wenceslas d’une principauté terrestre à la gloire céleste : par ses prières, gardez-nous de toute adversité et accordez-nous de jouir de sa compagnie. Par Notre-Seigneur Jésus-Christ."
-     ]
-    },
     "epitre": {
      "titre": "Épître",
      "reference": "Sagesse 10, 10-14",
@@ -1756,26 +1282,6 @@ const JOURS = {
      ],
      "note": "Le latin liturgique lit « le Seigneur conduisit le juste » là où la Crampon, suivant le grec, garde pour sujet la Sagesse elle-même."
     },
-    "graduel": {
-     "reference": "Psaume 111, 1-2 (Vulgate ; Crampon 112)",
-     "latin": [
-      "Beátus vir, qui timet Dóminum: in mandátis eius cupit nimis.",
-      "℣. Potens in terra erit semen eius: generátio rectórum benedicétur."
-     ],
-     "francais": [
-      "Heureux l’homme qui craint Yahweh, qui met toute sa joie à observer ses préceptes !",
-      "℣. Sa postérité sera puissante sur la terre, la race des justes sera bénie."
-     ]
-    },
-    "alleluia": {
-     "reference": "Psaume 20, 4 (Vulgate ; Crampon 21)",
-     "latin": [
-      "Allelúia, allelúia. ℣. Posuísti, Dómine, super caput eius corónam de lápide pretióso. Allelúia."
-     ],
-     "francais": [
-      "Alléluia, alléluia. ℣. Tu as mis, Seigneur, sur sa tête une couronne d’or pur. Alléluia."
-     ]
-    },
     "evangile": {
      "reference": "Matthieu 10, 34-42",
      "incipit": "En ce temps-là, Jésus dit à ses disciples :",
@@ -1786,40 +1292,6 @@ const JOURS = {
       "Ne pensez pas que je sois venu apporter la paix sur la terre ; je suis venu apporter, non la paix, mais le glaive. Je suis venu mettre en lutte le fils avec son père, la fille avec sa mère, et la belle-fille avec sa belle-mère. On aura pour ennemis les gens de sa propre maison.",
       "Celui qui aime son père ou sa mère plus que moi, n’est pas digne de moi ; et celui qui aime son fils ou sa fille plus que moi, n’est pas digne de moi. Celui qui ne prend pas sa croix et ne me suit pas, n’est pas digne de moi. Celui qui sauvera sa vie, la perdra ; et celui qui perdra sa vie à cause de moi, la sauvera.",
       "Celui qui vous reçoit, me reçoit, et celui qui me reçoit, reçoit celui qui m’a envoyé. Celui qui reçoit un prophète en qualité de prophète, recevra une récompense de prophète ; et celui qui reçoit un juste en qualité de juste, recevra une récompense de juste. Et quiconque donnera seulement un verre d’eau fraîche à l’un de ces petits parce qu’il est de mes disciples, je vous le dis en vérité, il ne perdra point sa récompense."
-     ]
-    },
-    "offertoire": {
-     "reference": "Psaume 8, 6-7",
-     "latin": [
-      "Glória et honóre coronásti eum: et constituísti eum super ópera mánuum tuárum, Dómine."
-     ],
-     "francais": [
-      "Tu l’as couronné de gloire et d’honneur. Tu lui as donné l’empire sur les œuvres de tes mains."
-     ]
-    },
-    "secrete": {
-     "latin": [
-      "Munéribus nostris, quǽsumus, Dómine, precibúsque suscéptis: et cœléstibus nos munda mystériis, et cleménter exáudi. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Ayant reçu nos dons et nos prières, Seigneur, nous vous en prions, purifiez-nous par ces mystères célestes et exaucez-nous avec clémence. Par Notre-Seigneur Jésus-Christ."
-     ]
-    },
-    "communion": {
-     "reference": "Matthieu 16, 24",
-     "latin": [
-      "Qui vult veníre post me, ábneget semetípsum, et tollat crucem suam, et sequátur me."
-     ],
-     "francais": [
-      "Si quelqu’un veut venir à ma suite, qu’il renonce à soi-même, qu’il prenne sa croix et me suive."
-     ]
-    },
-    "postcommunion": {
-     "latin": [
-      "Da, quǽsumus, Dómine, Deus noster: ut, sicut tuórum commemoratióne Sanctórum temporáli gratulámur offício; ita perpétuo lætémur aspéctu. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Accordez-nous, nous vous en prions, Seigneur notre Dieu, que, nous réjouissant de la mémoire de vos saints par ce service d’un jour, nous nous réjouissions à jamais de leur vue. Par Notre-Seigneur Jésus-Christ."
      ]
     }
    },
@@ -1955,25 +1427,6 @@ const JOURS = {
     "commemoraisons": []
    },
    "propre": {
-    "introit": {
-     "reference": "Psaume 102, 20 ; verset : Psaume 102, 1 (Vulgate ; Crampon 103)",
-     "latin": [
-      "Benedícite Dóminum, omnes Angeli eius: poténtes virtúte, qui fácitis verbum eius, ad audiéndam vocem sermónum eius.",
-      "℣. Bénedic, ánima mea, Dómino: et ómnia, quæ intra me sunt, nómini sancto eius."
-     ],
-     "francais": [
-      "Bénissez Yahweh, vous ses anges, qui êtes puissants et forts, et qui exécutez ses ordres, en obéissant à la voix de sa parole.",
-      "℣. Mon âme, bénis Yahweh, et que tout ce qui est en moi bénisse son saint nom !"
-     ]
-    },
-    "collecte": {
-     "latin": [
-      "Deus, qui, miro órdine, Angelórum ministéria hominúmque dispénsas: concéde propítius; ut, a quibus tibi ministrántibus in cœlo semper assístitur, ab his in terra vita nostra muniátur. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Ô Dieu, qui répartissez selon un ordre admirable les ministères des anges et des hommes : accordez dans votre bonté que notre vie soit protégée sur la terre par ceux qui, au ciel, se tiennent sans cesse devant vous pour vous servir. Par Notre-Seigneur Jésus-Christ."
-     ]
-    },
     "epitre": {
      "titre": "Épître",
      "reference": "Apocalypse 1, 1-5",
@@ -1986,27 +1439,6 @@ const JOURS = {
       "Jean aux sept Églises qui sont en Asie : grâce et paix vous soient données de la part de Celui qui est, qui était et qui vient, et de la part des sept esprits qui sont devant son trône, et de la part de Jésus-Christ ; c’est le Témoin fidèle, le Premier-né d’entre les morts et le Prince des rois de la terre. À celui qui nous a aimés, qui nous a lavés de nos péchés par son sang."
      ]
     },
-    "graduel": {
-     "reference": "Psaume 102, 20 et 1 (Vulgate ; Crampon 103)",
-     "latin": [
-      "Benedícite Dóminum, omnes Angeli eius: poténtes virtúte, qui fácitis verbum eius.",
-      "℣. Bénedic, ánima mea, Dóminum, et ómnia interióra mea, nomen sanctum eius."
-     ],
-     "francais": [
-      "Bénissez Yahweh, vous ses anges, qui êtes puissants et forts, et qui exécutez ses ordres.",
-      "℣. Mon âme, bénis Yahweh, et que tout ce qui est en moi bénisse son saint nom !"
-     ]
-    },
-    "alleluia": {
-     "reference": "Texte liturgique propre",
-     "latin": [
-      "Allelúia, allelúia. ℣. Sancte Míchaël Archángele, defénde nos in prœ́lio: ut non pereámus in treméndo iudício. Allelúia."
-     ],
-     "francais": [
-      "Alléluia, alléluia. ℣. Saint Michel Archange, défendez-nous dans le combat, afin que nous ne périssions pas au jugement redoutable. Alléluia."
-     ],
-     "note": "Verset non scripturaire, propre à la fête ; traduction d’Ad Fontes sur le latin."
-    },
     "evangile": {
      "reference": "Matthieu 18, 1-10",
      "incipit": "En ce temps-là :",
@@ -2017,41 +1449,6 @@ const JOURS = {
       "Les disciples s’approchèrent de Jésus et lui dirent : « Qui donc est le plus grand dans le royaume des cieux ? » Jésus, faisant venir un petit enfant, le plaça au milieu d’eux et leur dit : « Je vous le dis, en vérité, si vous ne vous changez de façon à devenir comme les petits enfants, vous n’entrerez point dans le royaume des cieux. Celui donc qui se fera humble comme ce petit enfant, est le plus grand dans le royaume des cieux. Et celui qui reçoit en mon nom un petit enfant comme celui-ci, c’est moi qu’il reçoit.",
       "Mais celui qui scandalisera un de ces petits qui croient en moi, il vaudrait mieux pour lui qu’on lui attachât au cou la meule qu’un âne tourne, et qu’on le précipitât au fond de la mer. Malheur au monde à cause des scandales ! Il est nécessaire qu’il arrive des scandales ; mais malheur à l’homme par qui le scandale arrive !",
       "Si ta main ou ton pied est pour toi une occasion de chute, coupe-les et jette-les loin de toi : il vaut mieux pour toi entrer dans la vie mutilé ou boiteux, que d’être jeté, ayant deux pieds ou deux mains, dans le feu éternel. Et si ton œil est pour toi une occasion de chute, arrache-le et jette-le loin de toi : il vaut mieux pour toi entrer dans la vie avec un seul œil, que d’être jeté, ayant deux yeux, dans la géhenne du feu. Prenez garde de mépriser aucun de ces petits, car je vous dis que leurs anges dans le ciel voient sans cesse la face de mon Père qui est dans les cieux. »"
-     ]
-    },
-    "offertoire": {
-     "reference": "Apocalypse 8, 3-4",
-     "latin": [
-      "Stetit Angelus iuxta aram templi, habens thuríbulum áureum in manu sua, et data sunt ei incénsa multa: et ascéndit fumus arómatum in conspéctu Dei, allelúia."
-     ],
-     "francais": [
-      "Il vint un autre ange, et il se tint près de l’autel, un encensoir d’or à la main ; on lui donna beaucoup de parfums, et la fumée des parfums, formés des prières des saints, monta devant Dieu. Alléluia."
-     ]
-    },
-    "secrete": {
-     "latin": [
-      "Hóstias tibi, Dómine, laudis offérimus, supplíciter deprecántes: ut eásdem, angélico pro nobis interveniénte suffrágio, et placátus accípias, et ad salútem nostram proveníre concédas. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Nous vous offrons, Seigneur, ces hosties de louange, vous suppliant humblement : par le suffrage des anges intervenant pour nous, recevez-les avec bonté et faites qu’elles servent à notre salut. Par Notre-Seigneur Jésus-Christ."
-     ]
-    },
-    "communion": {
-     "reference": "Daniel 3, 58",
-     "latin": [
-      "Benedícite, omnes Angeli Dómini, Dóminum: hymnum dícite et superexaltáte eum in sǽcula, allelúia."
-     ],
-     "francais": [
-      "Anges du Seigneur, bénissez tous le Seigneur : chantez-lui une hymne et exaltez-le par-dessus tout dans les siècles. Alléluia."
-     ],
-     "note": "Verset du cantique des trois enfants, que la Crampon 1923 ne donne pas dans sa numérotation grecque ; traduction d’Ad Fontes sur le latin liturgique."
-    },
-    "postcommunion": {
-     "latin": [
-      "Beáti Archángeli tui Michaélis intercessióne suffúlti: súpplices te, Dómine, deprecámur; ut, quod ore proséquimur, contingámus et mente. Per Dóminum nostrum Iesum Christum."
-     ],
-     "francais": [
-      "Soutenus par l’intercession de votre bienheureux archange Michel, nous vous supplions humblement, Seigneur : ce que nous célébrons des lèvres, faites que nous l’atteignions aussi par l’esprit. Par Notre-Seigneur Jésus-Christ."
      ]
     }
    },
@@ -21210,39 +20607,14 @@ const COULEURS = {
 
 const MODELE = {
   textes: {
-    liturgie:{ nom:"Nom de la fête", qualite:"Qualité du saint ou du jour", classe:"Classe du jour", couleur:"blanc", commemoraisons:[{ nom:"commémoraison éventuelle",
-      collecte:{ latin:["Oratio commemorationis."], francais:["La collecte de la commémoraison."] },
-      secrete:{ latin:["Secreta commemorationis."], francais:["La secrète de la commémoraison."] },
-      postcommunion:{ latin:["Postcommunio commemorationis."], francais:["La postcommunion de la commémoraison."] } }] },
+    liturgie:{ nom:"Nom de la fête", qualite:"Qualité du saint ou du jour", classe:"Classe du jour", couleur:"blanc", commemoraisons:["commémoraison éventuelle"] },
     propre:{
-      introit:{ reference:"Référence de l’antienne et du verset",
-        latin:["Antiphona latina ad introitum.","℣. Versus psalmi."],
-        francais:["L’antienne d’introït, dans la traduction de la Bible Crampon 1923 lorsqu’elle est scripturaire.","℣. Le verset psalmique."] },
-      collecte:{ latin:["Oratio latina. Per Dóminum nostrum Iesum Christum."],
-        francais:["La collecte du jour, traduite du latin par Ad Fontes, faute de traduction française libre de droit."] },
       epitre:{ titre:"Épître", reference:"Référence du passage",
         latin:["Textus latinus Epistolæ."],
         francais:["Le texte de l’Épître, ou de la Leçon, dans la traduction de la Bible Crampon 1923, présenté d’un seul tenant, à la manière d’un missel."] },
-      graduel:{ reference:"Référence du psaume",
-        latin:["Graduale latinum.","℣. Versus."],
-        francais:["Le graduel, selon la Crampon 1923.","℣. Le verset."] },
-      alleluia:{ reference:"Référence du verset",
-        latin:["Allelúia, allelúia. ℣. Versus. Allelúia."],
-        francais:["Alléluia, alléluia. ℣. Le verset. Alléluia."] },
       evangile:{ reference:"Référence du passage", incipit:"En ce temps-là :",
         latin:["Textus Evangelii latinus."],
-        francais:["Le texte de l’Évangile du jour, selon la même traduction et dans la même présentation liturgique."] },
-      offertoire:{ reference:"Référence de l’antienne",
-        latin:["Antiphona ad offertorium."], francais:["L’antienne d’offertoire."] },
-      secrete:{ latin:["Secreta latina."], francais:["La secrète, traduite par Ad Fontes."] },
-      communion:{ reference:"Référence de l’antienne",
-        latin:["Antiphona ad communionem."], francais:["L’antienne de communion."] },
-      postcommunion:{ latin:["Postcommunio latina."], francais:["La postcommunion, traduite par Ad Fontes."] },
-      supplement:[
-        { titre:"Lecture supplémentaire", reference:"Référence",
-          latin:["Aux Quatre-Temps et à certains jours, la messe comporte plusieurs leçons, avec leurs collectes et graduels : elles prennent place ici."],
-          francais:["Aux Quatre-Temps et à certains jours, la messe comporte plusieurs leçons, avec leurs collectes et graduels : elles prennent place ici."] }
-      ]
+        francais:["Le texte de l’Évangile du jour, selon la même traduction et dans la même présentation liturgique."] }
     },
     verset:{ texte:"« Un verset de l’Évangile du jour, mis en exergue. »", ref:"Référence" },
     commentaire:{ mode:"modele", portee:"Évangile, référence du passage", sections:[
@@ -21362,22 +20734,6 @@ function resolution(r){ return `<section class="wcard resolution"><div class="rt
 function sources(list){
   return `<details class="wcard sources"><summary>Sources</summary><ul>${list.map(s=>`<li>${s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a>`:esc(s.label)}${s.detail?`<span class="sd">${esc(s.detail)}</span>`:""}</li>`).join("")}</ul></details>`;
 }
-/* Ordre des pièces du propre selon le Missel de 1962. Une pièce peut avoir
-   deux formes (Épître ou Leçon, Alléluia ou Trait) : on prend celle qui est là. */
-const PIECES = [
-  ["Introït",       ["introit"]],
-  ["Collecte",      ["collecte"]],
-  ["Épître",        ["epitre","lecon"]],
-  ["Graduel",       ["graduel"]],
-  ["Alléluia",      ["alleluia","trait"]],
-  ["Évangile",      ["evangile"]],
-  ["Offertoire",    ["offertoire"]],
-  ["Secrète",       ["secrete"]],
-  ["Communion",     ["communion"]],
-  ["Postcommunion", ["postcommunion"]]
-];
-const LIBELLES = { lecon:"Leçon", trait:"Trait", epitre:"Épître", alleluia:"Alléluia" };
-
 function piece(nom, p, i){
   const ico = (nom==="Évangile") ? ICO.croix : ICO.livre;
   const titre = p.titre || nom;
@@ -21389,27 +20745,15 @@ function piece(nom, p, i){
     <div class="rtext" id="read-${i}" hidden>${corps}</div>`;
 }
 
+/* Lectures de la messe selon le Missel de 1962 : la Leçon (et, aux Quatre-Temps,
+   les leçons suivantes), l’Épître, puis l’Évangile. */
 function propre(d){
-  let n = 0, html = "";
-  for (const [nom, cles] of PIECES){
-    const cle = cles.find(c => d.propre[c]);
-    if (!cle) continue;
-    const p = d.propre[cle];
-    const libelle = LIBELLES[cle] && cles.indexOf(cle) > 0 ? LIBELLES[cle] : nom;
-    // La liturgie supprime elle-même certaines pièces : on le dit, sans ouvrir de ligne vide.
-    if (p.omis){ html += `<p class="rnote">${esc(libelle)} : ${esc(p.omis)}</p>`; continue; }
-    html += piece(libelle, p, n++);
-  }
-  for (const sup of (d.propre.supplement || [])) html += piece(sup.titre || "Lecture", sup, n++);
-  return html;
-}
-
-/* Oraisons de la commémoraison, lorsque le jour en comporte une. */
-function commemoraison(c, i){
-  const bloc = (t, o) => o ? `<div class="rlabel">${t}</div><div class="ltext">${paras(o.francais)}</div>
-    <button class="latin-btn" data-latin="c${i}${t[0]}">Afficher le texte latin</button>
-    <div class="latin" id="latin-c${i}${t[0]}" lang="la" hidden>${paras(o.latin)}</div>` : "";
-  return `<div class="rtext" id="read-c${i}" hidden>${bloc("Collecte",c.collecte)}${bloc("Secrète",c.secrete)}${bloc("Postcommunion",c.postcommunion)}</div>`;
+  const p = d.propre, list = [];
+  if (p.lecon) list.push(["Leçon", p.lecon]);
+  for (const sup of (p.supplement || [])) list.push(["Leçon", sup]);
+  if (p.epitre) list.push(["Épître", p.epitre]);
+  if (p.evangile) list.push(["Évangile", p.evangile]);
+  return list.map(([nom, x], i) => piece(nom, x, i)).join("");
 }
 function tile(view,title,img,pos){ return `<a class="tile" href="#${view}" data-view="${view}"><img src="${img}" alt="" style="object-position:${pos||"center"}"><b>${title}</b>${DIA}</a>`; }
 function qbox(q,c,cls){ return `<figure class="qbox ${cls||""}">${LIS}<div><blockquote>${q}</blockquote><cite>${c}</cite></div></figure>`; }
@@ -21423,8 +20767,7 @@ function vAccueil(){
     ${tile("meditation","Méditation quotidienne",IMG.thomasTile,"center top")}
     ${tile("psautier","Psautier",IMG.psaut)}
     ${tile("apropos","À propos",IMG.abbaye)}
-  </div>
-  ${qbox("« La grâce ne détruit pas la nature, mais la perfectionne. »","Saint Thomas d’Aquin, <i>Somme théologique</i>, I, q. 1, a. 8, ad 2")}`;
+  </div>`;
 }
 function vTextes(){
   const j=JOURS[state.date]&&JOURS[state.date].textes, d=j||MODELE.textes, l=d.liturgie, c=COULEURS[l.couleur]||COULEURS.blanc;
@@ -21438,8 +20781,7 @@ function vTextes(){
     <div class="fcolor"><svg class="sym" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 2.5h4v6h6v4h-6v9h-4v-9H4v-4h6z" style="fill:${c.hex}"/></svg><p>${esc(c.sens)}</p></div>
     ${d.fete?`<section class="fete"><h3>${esc(d.fete.titre)}</h3><p>${rich(d.fete.texte)}</p></section>`:""}
     <div class="sep"></div>
-    ${d.propre?propre(d):(d.lectures||[]).map((r,i)=>piece(r.type,r,i)).join("")}
-    ${comms.filter(x=>x.collecte).map((x,i)=>`<div class="sep"></div><button class="rrow" data-read="c${i}" aria-expanded="false" aria-controls="read-c${i}">${ICO.livre}<div><div class="rlabel">Commémoraison</div><div class="rref">${esc(x.nom)}</div></div><span class="chev" aria-hidden="true">›</span></button>${commemoraison(x,i)}`).join("")}
+    ${propre(d)}
     ${d.verset?`<div class="sep"></div><blockquote class="verse">${rich(d.verset.texte)}<cite>${esc(d.verset.ref)}</cite></blockquote>`:""}
     <button class="cta" data-view="commtextes">${ICO.livre}<span>Lire le commentaire thomiste</span><span class="chev" aria-hidden="true">›</span></button>
   </section>
@@ -21544,7 +20886,7 @@ function vApropos(){
   <section class="wcard"><h2 class="h2">Droits et réutilisation</h2><ul class="rules">
     <li><strong>Textes latins du Missel de 1962</strong> : textes liturgiques anciens, dans le domaine public.</li>
     <li><strong>Bible Crampon, édition révisée de 1923</strong> : domaine public ; relevée sur l’édition numérisée de Wikisource.</li>
-    <li><strong>Oraisons en français</strong> (collectes, secrètes, postcommunions, antiennes non scripturaires) : il n’existe pas de traduction française libre de droit sur laquelle s’appuyer. Elles sont donc <strong>traduites du latin par Ad Fontes</strong>, et signalées comme telles à chaque pièce.</li>
+    <li><strong>Traductions d’Ad Fontes</strong> : lorsque la Crampon ne suit pas le texte liturgique de la Vulgate, le passage est <strong>traduit du latin par Ad Fontes</strong>, et signalé comme tel sous la lecture.</li>
     <li><strong>Calendrier et propre</strong> : établis avec le moteur du projet <a href="https://github.com/DivinumOfficium/divinum-officium" target="_blank" rel="noopener">Divinum Officium</a>, dont le code et les données sont publiés sous licence libre.</li>
     <li><strong><i>La Moelle de saint Thomas d’Aquin</i></strong> : domaine public en France. Le P. Denys Mézard, O.P., auteur de l’original latin (<i>Medulla sancti Thomae Aquinatis</i>, approbations de 1905-1906), est mort en 1930 : l’œuvre est libre depuis le 1<sup>er</sup> janvier 2001 (art. L123-1 du code de la propriété intellectuelle, soixante-dix ans après la mort de l’auteur). La traduction française, publiée anonymement la même année « par un religieux du même Ordre », relève de l’art. L123-3, qui donne soixante-dix ans à compter de la publication : libre depuis la même date. Le texte est transcrit sur les images de l’exemplaire numérisé par la Bibliothèque Saint Libère ; seules les erreurs manifestes de numérisation sont corrigées, les particularités de l’édition de 1930 — y compris ses références bibliques fautives — étant conservées et signalées.</li>
     <li>Les commentaires, les trois points et les résolutions sont rédigés par Ad Fontes.</li>
