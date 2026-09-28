@@ -27206,11 +27206,13 @@ const MODELE = {
       "Le commentaire, placé sur une page distincte, sépare toujours le texte source de l’analyse éditoriale."
     ],
     commentaire:{ sections:[
-      { titre:"Les fondements thomasiens",
+      { titre:"Les fondements thomasiens", source:"Saint Thomas d’Aquin",
         paragraphes:["Le commentaire recherche les **fondements proprement thomasiens** de la méditation composée par le P. Mézard, en mobilisant l’ensemble du corpus authentique de saint Thomas."],
         citation:{ texte:"« Passage de saint Thomas qui fonde l’affirmation de la méditation. »", ref:"Référence précise, avec lien vers le passage consulté" } },
-      { titre:"La portée spirituelle",
-        paragraphes:["Il ne se contente pas d’expliquer le texte : il en approfondit la portée spirituelle. Saint Thomas seul en constitue la source doctrinale."] }
+      { titre:"La lumière de la Tradition", source:"Tradition de l’Église",
+        paragraphes:["Il s’appuie aussi sur la **Tradition de l’Église** : Écriture, Pères, Catéchisme de l’Église catholique, Catéchisme du concile de Trente, enseignement des papes, en indiquant toujours qui parle."] },
+      { titre:"La portée spirituelle", source:"Synthèse d’Ad Fontes",
+        paragraphes:["Il ne se contente pas d’expliquer le texte : il en approfondit la portée spirituelle, pour en tirer trois points et une résolution simple et pratique."] }
     ]},
     essentiel:[
       "Première idée spirituelle majeure dégagée par le commentaire de la méditation.",
@@ -27283,7 +27285,7 @@ function badges(mode){
   const synth=`<span class="badge synth">Synthèse thomiste d’Ad Fontes</span>`;
   if(mode==="direct") return direct;
   if(mode==="synthese") return synth;
-  if(mode==="editorial") return `<span class="badge synth">Commentaire d’Ad Fontes, d’après saint Thomas seul</span>`;
+  if(mode==="editorial") return `<span class="badge">Saint Thomas, corpus authentique</span><span class="badge trad">Tradition de l’Église</span>`;
   return direct+synth;
 }
 function sections(list){
@@ -27374,7 +27376,7 @@ function vMeditation(){
 }
 function vCommMedit(){
   const j=JOURS[state.date]&&JOURS[state.date].meditation, d=j||MODELE.meditation;
-  return hero({img:IMG.vSumma,title:"Commentaire &amp; analyse",sub:"D’après le seul corpus de saint Thomas",back:"meditation",extra:backPill("meditation","Retour à la méditation")})+`<div class="sheet">${notice(j)}
+  return hero({img:IMG.vSumma,title:"Commentaire &amp; analyse",sub:"Saint Thomas et la Tradition de l’Église",back:"meditation",extra:backPill("meditation","Retour à la méditation")})+`<div class="sheet">${notice(j)}
   <section class="wcard"><div class="chead">${ICO.livre}<span>${esc(d.titre)}</span></div><div class="badges">${badges("editorial")}</div>${sections(d.commentaire.sections)}</section>
   ${essentiel(d.essentiel)}${resolution(d.resolution)}${sources(d.sources)}
   <p class="colophon">${esc(fmtLong(state.date))}</p></div>`;
@@ -27457,7 +27459,7 @@ function vApropos(){
   ${qbox("« De même qu’il est plus grand d’éclairer que de briller seulement, ainsi est-il plus grand de transmettre aux autres ce que l’on a contemplé que de contempler seulement. »","Saint Thomas d’Aquin, <i>Somme théologique</i>, II-II, q. 188, a. 6","inpage")}
   <section class="wcard"><h2 class="h2">Quatre exigences</h2><div class="four">
     <div><h4>Fidélité aux sources</h4><p>Pas de fausses citations ni d’attributions approximatives ; le texte original est toujours distingué de la synthèse.</p></div>
-    <div><h4>Rigueur doctrinale</h4><p>Les commentaires sont puisés directement dans le corpus authentique de saint Thomas.</p></div>
+    <div><h4>Rigueur doctrinale</h4><p>Les commentaires sont puisés dans le corpus authentique de saint Thomas et dans la Tradition de l’Église.</p></div>
     <div><h4>Vie spirituelle</h4><p>L’érudition n’est pas la fin : retenir quelques vérités capables de transformer la vie intérieure.</p></div>
     <div><h4>Mise en pratique</h4><p>Chaque parcours s’achève par une résolution simple : la contemplation devient action.</p></div>
   </div></section>
@@ -27470,7 +27472,7 @@ function vApropos(){
     <li>La <i>Catena aurea</i> ne sert pas à faire passer les Pères qu’elle rassemble pour la pensée propre de Thomas.</li>
     <li>Un ouvrage d’authenticité douteuse n’est jamais présenté comme thomasien sans réserve.</li>
     <li>Aucune référence n’est inventée ; chaque référence renvoie, autant que possible, au passage précis consulté.</li>
-    <li><strong>Psautier</strong> : les méditations des psaumes font exception à la règle du seul Thomas. Elles puisent chez saint Thomas, qui a commenté les Psaumes 1 à 54, et chez saint Augustin, qui les a tous commentés ; chaque idée et chaque citation indique lequel des deux docteurs parle.</li>
+    <li><strong>Psautier</strong> : les méditations des psaumes puisent d’abord chez saint Thomas, qui a commenté les Psaumes 1 à 54, et chez saint Augustin, qui les a tous commentés ; chaque idée et chaque citation indique lequel des deux docteurs parle.</li>
   </ul></section>
   <section class="wcard"><h2 class="h2">Provenance des textes</h2><ul class="rules">
     <li><strong>Liturgie</strong> : calendrier et propre de la messe selon le Missel romain de 1962 et les rubriques de 1960, déterminés avec le moteur du projet <a href="https://github.com/DivinumOfficium/divinum-officium" target="_blank" rel="noopener">Divinum Officium</a>.</li>
