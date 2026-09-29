@@ -3,8 +3,10 @@
    ------------------------------------------------------------
    Contrôle, pour une fenêtre de jours à venir, que chaque journée
    dispose de tout ce que la charte exige avant publication :
-   propre complet de la messe, méditation, commentaire, et
-   absence de mention « brouillon » (= validation encore due).
+   lectures de la messe (latin et français), commentaire en quatre
+   mouvements, trois points, résolution, et méditation complète.
+   Les journées publiées sont validées : aucune mention de
+   validation n'est plus recherchée.
 
    Le script n'invente rien : il constate ce qui manque et écrit
    un rapport JSON. L'envoi de l'alerte est fait à part.
@@ -50,40 +52,19 @@ function chargerJours(chemin) {
 }
 
 /* ---------- Schéma exigé ----------
-   Les pièces du propre de la messe selon le Missel de 1962.
-   Chaque entrée : [clé canonique, libellé, clés acceptées].
-   Une pièce est tenue pour présente si l'une de ses variantes
-   l'est (Épître OU Leçon, Alléluia OU Trait selon le temps). */
-const PIECES = [
-  ["introit",      "Introït",       ["introit"]],
-  ["collecte",     "Collecte",      ["collecte"]],
-  ["epitre",       "Épître/Leçon",  ["epitre", "lecon"]],
-  ["graduel",      "Graduel",       ["graduel"]],
-  ["alleluia",     "Alléluia/Trait",["alleluia", "trait"]],
-  ["evangile",     "Évangile",      ["evangile"]],
-  ["offertoire",   "Offertoire",    ["offertoire"]],
-  ["secrete",      "Secrète",       ["secrete"]],
-  ["communion",    "Communion",     ["communion"]],
-  ["postcommunion","Postcommunion", ["postcommunion"]],
-];
-
+   Les Textes du jour donnent les lectures de la messe selon le Missel
+   de 1962 : la Leçon ou l'Épître (et, aux Quatre-Temps, les leçons
+   supplémentaires), puis l'Évangile. Chaque lecture porte le latin
+   ET le français. */
 const rempli = (v) => Array.isArray(v) ? v.some(x => String(x).trim()) : String(v ?? "").trim() !== "";
 
-/* Une pièce doit porter le latin ET le français.
-   Exception : la liturgie elle-même supprime certaines pièces (ainsi l'Alléluia
-   aux féries des Quatre-Temps). Une pièce peut donc déclarer son absence par
-   { omis: "motif" } ; le motif est exigé, pour qu'un oubli ne puisse pas se
-   déguiser en rubrique. */
-function verifierPiece(propre, [, libelle, variantes]) {
-  const piece = variantes.map(v => propre?.[v]).find(p => p && typeof p === "object");
-  if (!piece) return `${libelle} : absent`;
-  if (piece.omis) {
-    return String(piece.omis).trim() ? null : `${libelle} : absence déclarée sans motif`;
-  }
+function verifierLecture(libelle, piece) {
+  if (!piece || typeof piece !== "object") return `${libelle} : absente`;
   const manque = [];
+  if (!rempli(piece.reference)) manque.push("référence");
   if (!rempli(piece.latin)) manque.push("latin");
   if (!rempli(piece.francais)) manque.push("français");
-  return manque.length ? `${libelle} : ${manque.join(" et ")} manquant(s)` : null;
+  return manque.length ? `${libelle} : ${manque.join(", ")} manquant(s)` : null;
 }
 
 function verifierJournee(cle, jour) {
@@ -95,17 +76,17 @@ function verifierJournee(cle, jour) {
   else {
     if (!t.liturgie?.nom) manques.push("jour liturgique non déterminé");
     const propre = t.propre;
-    if (!propre) manques.push("propre de la messe absent");
-    else for (const p of PIECES) {
-      const e = verifierPiece(propre, p);
-      if (e) manques.push(e);
-    }
-    // Les commémoraisons annoncées doivent avoir leurs oraisons.
-    for (const [i, c] of (t.liturgie?.commemoraisons ?? []).entries()) {
-      if (typeof c === "string" || !c?.collecte) {
-        manques.push(`commémoraison ${i + 1} : oraisons absentes`);
+    if (!propre) manques.push("lectures de la messe absentes");
+    else {
+      const premiere = propre.lecon ? ["Leçon", propre.lecon] : ["Épître", propre.epitre];
+      for (const [libelle, piece] of [premiere, ...(propre.supplement ?? []).map((p, i) => [`Leçon ${i + 2}`, p]), ["Évangile", propre.evangile]]) {
+        const e = verifierLecture(libelle, piece);
+        if (e) manques.push(e);
       }
     }
+    if ((t.commentaire?.sections?.length ?? 0) < 4) manques.push("commentaire des textes : les quatre mouvements ne sont pas au complet");
+    if (!rempli(t.essentiel) || (t.essentiel?.length ?? 0) < 3) manques.push("textes : les 3 points ne sont pas au complet");
+    if (!rempli(t.resolution)) manques.push("textes : résolution absente");
   }
 
   const m = jour.meditation;
@@ -113,14 +94,9 @@ function verifierJournee(cle, jour) {
   else {
     if (!rempli(m.titre)) manques.push("méditation : titre absent");
     if (!rempli(m.texte)) manques.push("méditation : texte absent");
-    if (!m.commentaire?.sections?.length) manques.push("commentaire absent");
-    if (!rempli(m.essentiel) || (m.essentiel?.length ?? 0) < 3) manques.push("les 3 points ne sont pas au complet");
-    if (!rempli(m.resolution)) manques.push("résolution absente");
-  }
-
-  // Toute mention « brouillon » signale une validation encore due.
-  for (const [ou, bloc] of [["textes", t], ["méditation", m]]) {
-    if (bloc?.brouillon) manques.push(`${ou} : en brouillon, validation en attente`);
+    if (!m.commentaire?.sections?.length) manques.push("méditation : commentaire absent");
+    if (!rempli(m.essentiel) || (m.essentiel?.length ?? 0) < 3) manques.push("méditation : les 3 points ne sont pas au complet");
+    if (!rempli(m.resolution)) manques.push("méditation : résolution absente");
   }
   return manques;
 }

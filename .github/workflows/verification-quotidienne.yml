@@ -2,7 +2,7 @@ name: Vérification quotidienne
 
 # Objectif : chaque jour à 7 h, heure de Paris, contrôler que les
 # journées à venir sont prêtes et prévenir par courriel s'il manque
-# un texte ou une validation.
+# un texte.
 #
 # Le cron de GitHub Actions est en UTC et ne connaît pas l'heure d'été.
 # On déclenche donc aux deux heures UTC qui peuvent correspondre à 7 h

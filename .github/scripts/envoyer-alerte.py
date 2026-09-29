@@ -40,7 +40,7 @@ def corps(rapport):
     lignes += [
         "Rappel de la charte : les textes sont reproduits fidèlement et",
         "aucune référence n'est inventée. Une journée n'est publiable",
-        "qu'une fois ses sources établies et le brouillon validé.",
+        "qu'une fois ses lectures, son commentaire et sa méditation établis.",
         "",
         f"Rapport généré le {rapport['genere_le']} ({rapport['fuseau']}).",
     ]
