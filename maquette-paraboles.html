@@ -298,7 +298,7 @@ span.chip{border-color:transparent;font-style:italic;opacity:.85}
     <a class="tab" href="#accueil" data-view="accueil"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 10.5 12 4l8.5 6.5V20a1 1 0 0 1-1 1H15v-6H9v6H4.5a1 1 0 0 1-1-1z"/></svg>Accueil</a>
     <a class="tab" href="#textes" data-view="textes"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 6.5C9.5 4.8 6 4.5 3 5.2v13.3c3-.7 6.5-.4 9 1.3 2.5-1.7 6-2 9-1.3V5.2c-3-.7-6.5-.4-9 1.3z"/><path d="M12 6.5v13.3"/></svg>Textes du jour</a>
     <a class="tab" href="#meditation" data-view="meditation"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.5v19M6.5 8h11"/></svg>Méditation</a>
-    <a class="tab" href="#psautier" data-view="psautier"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 3C3.8 7.5 3.8 14 6.5 19.5M17.5 3c2.7 4.5 2.7 11 0 16.5M6.5 19.5h11M6.5 7.5h11M9.5 7.5v12M12 7.5v12M14.5 7.5v12"/></svg>Psautier</a>
+    <a class="tab" href="#psautier" data-view="psautier"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 3C3.8 7.5 3.8 14 6.5 19.5M17.5 3c2.7 4.5 2.7 11 0 16.5M6.5 19.5h11M6.5 7.5h11M9.5 7.5v12M12 7.5v12M14.5 7.5v12"/></svg>Psaumes</a>
     <a class="tab" href="#paraboles" data-view="paraboles"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21v-8M12 13c-4.5 0-7-3-7-7 4 0 7 2.5 7 7zM12 13c4.5 0 7-3 7-7-4 0-7 2.5-7 7z"/></svg>Paraboles</a>
   </div>
 </nav>
@@ -326,7 +326,6 @@ const IMG = {"bannerM": "data:image/webp;base64,UklGRrh4AQBXRUJQVlA4IKx4AQBQbAWd
 const JOURS = {
   "2026-09-22": {
     textes: {
-      brouillon: "Brouillon à relire : l’Épître est en attente et deux références de saint Thomas restent à relier au Corpus Thomisticum.",
       liturgie:{ nom:"Saint Thomas de Villeneuve", qualite:"Évêque et Confesseur", classe:"IIIe classe", couleur:"blanc", commemoraisons:["saint Maurice et ses compagnons, martyrs"] },
       lectures:[
         { type:"Épître", reference:"Ecclésiastique 44, 16-27 ; 45, 3-20",
@@ -391,7 +390,6 @@ const PSAUMES = {
       "quoniam novit Dominus viam justorum, et iter impiorum peribit."
     ],
     thomas:true,
-    brouillon:"Brouillon à relire : le texte Glaire, le latin de saint Thomas et le Discours de saint Augustin ont été vérifiés ; les traductions de saint Thomas sont celles d’Ad Fontes.",
     commentaire:{ sections:[
       { titre:"Trois pas", source:"Saint Thomas d’Aquin",
         paragraphes:["Ce psaume sans titre est, dit saint Thomas, le titre de tout le Psautier : tous cherchent la même béatitude, les chemins diffèrent. Sur celui des impies, trois pas : la délibération (*aller*), le consentement et l’acte (*s’arrêter*), l’entraînement des autres au mal (*s’asseoir*), le pire. « **Tant que l’homme délibère, il est encore en marche** » : il peut revenir. Saint Augustin ajoute que l’homme bienheureux est d’abord le Christ, qui n’a jamais pris ce chemin."] },
@@ -461,7 +459,6 @@ const PARABOLES = [
 ];
 const PARABOLES_DATA = {
   17: {
-    brouillon:"Brouillon à relire : versets 14 à 23 contrôlés sur la Crampon 1923 de Wikisource, versets 24 à 30 relevés sur une autre édition Crampon ; latin des versets 24 à 30 et lien vers le commentaire de saint Thomas à contrôler.",
     versets:[
       [14,"Car il en sera comme d’un homme qui, partant pour un voyage, appela ses serviteurs et leur remit ses biens."],
       [15,"À l’un il donna cinq talents, à un autre deux, à un autre un, selon la capacité de chacun, et il partit aussitôt."],
@@ -720,7 +717,7 @@ function vAccueil(){
   <div class="tiles">
     ${tile("textes","Textes<br>du jour",IMG.crucifix,"center 22%")}
     ${tile("meditation","Méditation quotidienne",IMG.thomasTile,"center top")}
-    ${tile("psautier","Psautier",IMG.psaut)}
+    ${tile("psautier","Psaumes",IMG.psaut)}
     ${tile("paraboles","Paraboles",IMG.parab,"center 30%")}
   </div>
   ${qbox("« La grâce ne détruit pas la nature, mais la perfectionne. »","Saint Thomas d’Aquin, <i>Somme théologique</i>, I, q. 1, a. 8, ad 2","home")}
@@ -740,8 +737,7 @@ function vTextes(){
       <div class="rtext" id="read-${i}" hidden>${r.incipit?`<p class="incipit">${esc(r.incipit)}</p>`:""}${r.texte&&r.texte.length?`<div class="ltext">${paras(r.texte)}</div>`:""}${r.note?`<p class="rnote">${esc(r.note)}</p>`:""}${r.latin&&r.latin.length?`<button class="latin-btn" data-latin="${i}">Afficher le texte latin</button><div class="latin" id="latin-${i}" lang="la" hidden>${paras(r.latin)}</div>`:""}</div>`).join("")}
     ${d.verset?`<div class="sep"></div><blockquote class="verse">${rich(d.verset.texte)}<cite>${esc(d.verset.ref)}</cite></blockquote>`:""}
     <button class="cta" data-view="commtextes">${ICO.livre}<span>Lire le commentaire thomiste</span><span class="chev" aria-hidden="true">›</span></button>
-  </section>
-  <p class="colophon">Ad Fontes, version de travail</p></div>`;
+  </section></div>`;
 }
 function vCommTextes(){
   const j=JOURS[state.date]&&JOURS[state.date].textes, d=j||MODELE.textes, c=d.commentaire;
@@ -759,8 +755,7 @@ function vMeditation(){
     <div class="srctext">${paras(d.texte)}</div>
     <div class="sep"></div>
     <button class="cta" data-view="commmedit">${ICO.livre}<span>Lire le commentaire</span><span class="chev" aria-hidden="true">›</span></button>
-  </section>
-  <p class="colophon">Ad Fontes, version de travail</p></div>`;
+  </section></div>`;
 }
 function vCommMedit(){
   const j=JOURS[state.date]&&JOURS[state.date].meditation, d=j||MODELE.meditation;
@@ -771,7 +766,7 @@ function vCommMedit(){
 }
 function vPsautier(){
   const j=PSAUMES[state.ps], d=j||MODELE_PS, n=state.ps, h=hebreu(n);
-  return hero({img:IMG.psaut,pos:"center",title:"Psautier",sub:"Les 150 psaumes, avec saint Thomas et saint Augustin",extra:psRow()})+`<div class="sheet">${j?"":`<p class="notice">Psaume non encore préparé : vous voyez ici la mise en page type.</p>`}
+  return hero({img:IMG.psaut,pos:"center",title:"Psaumes",sub:"Les 150 psaumes, avec saint Thomas et saint Augustin",extra:psRow()})+`<div class="sheet">${j?"":`<p class="notice">Psaume non encore préparé : vous voyez ici la mise en page type.</p>`}
   <section class="wcard">
     <h2 class="psnum">Psaume ${roman(n)}</h2>
     <p class="psinc">${esc(d.incipit)}</p>
@@ -791,8 +786,7 @@ function vCommPsaume(){
   const badges = (th?`<span class="badge">Saint Thomas, Commentaire des Psaumes</span>`:`<span class="badge synth">Saint Thomas n’a pas commenté ce psaume</span>`)+`<span class="badge aug">Saint Augustin, Discours sur les Psaumes</span>`;
   return hero({img:IMG.vSumma,title:"Méditation du psaume",sub:"Avec saint Thomas d’Aquin et saint Augustin",back:"psautier",extra:backPill("psautier","Retour au psaume")})+`<div class="sheet">${j?(j.brouillon?`<p class="notice">${esc(j.brouillon)}</p>`:""):`<p class="notice">Psaume non encore préparé : vous voyez ici la mise en page type.</p>`}
   <section class="wcard"><div class="chead">${ICO.livre}<span>Psaume ${roman(n)} · ${esc(d.incipit)}</span></div><div class="badges">${badges}</div>${sections(d.commentaire.sections)}</section>
-  ${essentiel(d.essentiel)}${resolution(d.resolution)}${sources(d.sources)}
-  <p class="colophon">Ad Fontes, version de travail</p></div>`;
+  ${essentiel(d.essentiel)}${resolution(d.resolution)}${sources(d.sources)}</div>`;
 }
 function vParaboles(){
   const groups=["Matthieu","Marc","Luc","Jean"];
@@ -812,15 +806,13 @@ function vParabole(){
     ${d.latin&&d.latin.length?`<button class="latin-btn" data-latin="pb">Afficher le texte latin</button><div class="latin" id="latin-pb" lang="la" hidden>${d.latin.map(v=>`<p class="verset"><span class="vn">${v[0]}</span>${esc(v[1])}</p>`).join("")}</div>`:""}
     ${d.verset?`<div class="sep"></div><blockquote class="verse">${rich(d.verset.texte)}<cite>${esc(d.verset.ref)}</cite></blockquote>`:""}
     <button class="cta" data-view="commparabole">${ICO.livre}<span>Lire la méditation</span><span class="chev" aria-hidden="true">›</span></button>
-  </section>
-  <p class="colophon">Ad Fontes, version de travail</p></div>`;
+  </section></div>`;
 }
 function vCommParabole(){
   const p=PARABOLES.find(x=>x.n===state.pb)||PARABOLES[0], j=PARABOLES_DATA[p.n], d=j||MODELE_PB;
   return hero({img:IMG.vSumma,title:"Méditation",sub:"Avec saint Thomas d’Aquin",back:"parabole",extra:backPill("parabole","Retour à la parabole")})+`<div class="sheet">${j?(j.brouillon?`<p class="notice">${esc(j.brouillon)}</p>`:""):`<p class="notice">Parabole non encore préparée : vous voyez ici la mise en page type.</p>`}
   <section class="wcard"><div class="chead">${ICO.livre}<span>${esc(p.t)} · ${esc(p.r)}</span></div><div class="badges"><span class="badge">Saint Thomas d’Aquin, source première</span>${d.commentaire.sections.some(s=>/Tradition|Catéchisme/.test(s.source||""))||/Catéchisme/.test(JSON.stringify(d.commentaire))?`<span class="badge trad">Tradition de l’Église, en appui</span>`:""}</div>${sections(d.commentaire.sections)}</section>
-  ${essentiel(d.essentiel)}${resolution(d.resolution)}${sources(d.sources)}
-  <p class="colophon">Ad Fontes, version de travail</p></div>`;
+  ${essentiel(d.essentiel)}${resolution(d.resolution)}${sources(d.sources)}</div>`;
 }
 
 function vApropos(){
@@ -834,7 +826,6 @@ function vApropos(){
     <p>Dans un monde marqué par la dispersion, le relativisme et la confusion des idées, il est plus que jamais nécessaire de <strong>revenir aux sources sûres de la vérité</strong>. L’enseignement de saint Thomas d’Aquin offre <strong>une lumière stable</strong>, capable d’éclairer notre intelligence et d’orienter notre volonté vers Dieu.</p>
     <p>Puiser dans le corpus de saint Thomas, ce n’est pas apprendre un système, mais <strong>se mettre à l’écoute d’un maître spirituel</strong> qui, par la clarté de sa pensée et la profondeur de sa foi, <strong>nous conduit au Christ</strong>.</p>
     <p>La méditation quotidienne de sa doctrine aide à <strong>former l’esprit</strong>, à <strong>purifier le cœur</strong> et à <strong>ordonner toute notre vie à Dieu</strong>. Elle nous apprend à chercher le vrai, à aimer le bien et à contempler la beauté de la foi catholique, afin de mieux vivre dans le monde tout en tendant vers les réalités éternelles.</p>
-    <div class="chain"><span>Lire</span><i>›</i><span>Comprendre</span><i>›</i><span>Méditer</span><i>›</i><span>Retenir</span><i>›</i><span>Vivre</span></div>
   </section>
   <section class="wcard portrait">
     <img src="${IMG.portrait}" alt="Saint Thomas d’Aquin tenant la Somme théologique">
@@ -844,35 +835,15 @@ function vApropos(){
     <div class="sep"></div>
     <p class="ptitles">Docteur de l’Église<br>Docteur commun</p>
   </section>
-  ${qbox("« De même qu’il est plus grand d’éclairer que de briller seulement, ainsi est-il plus grand de transmettre aux autres ce que l’on a contemplé que de contempler seulement. »","Saint Thomas d’Aquin, <i>Somme théologique</i>, II-II, q. 188, a. 6","inpage")}
-  <section class="wcard"><h2 class="h2">Quatre exigences</h2><div class="four">
-    <div><h4>Fidélité aux sources</h4><p>Pas de fausses citations ni d’attributions approximatives ; le texte original est toujours distingué de la synthèse.</p></div>
-    <div><h4>Rigueur doctrinale</h4><p>Les commentaires sont puisés directement dans le corpus authentique de saint Thomas.</p></div>
-    <div><h4>Vie spirituelle</h4><p>L’érudition n’est pas la fin : retenir quelques vérités capables de transformer la vie intérieure.</p></div>
-    <div><h4>Mise en pratique</h4><p>Chaque parcours s’achève par une résolution simple : la contemplation devient action.</p></div>
-  </div></section>
-  <section class="wcard"><h2 class="h2">Politique éditoriale</h2><ul class="rules">
-    <li><strong>Saint Thomas d’Aquin est la source première</strong> de toute méditation : Sommes, Commentaire des Sentences, commentaires bibliques, Questions disputées, Quodlibets, <i>Compendium theologiae</i>, commentaires d’Aristote, sermons, opuscules authentiques. La Tradition de l’Église (Écriture, Pères, Catéchisme de l’Église catholique, Catéchisme du concile de Trente, papes et conciles) n’intervient qu’en appui, en une phrase, jamais à sa place, et toujours en indiquant qui parle.</li>
-    <li>Une bonne méditation est <strong>courte et profonde, hautement spirituelle et concrète</strong> : trois mouvements d’un paragraphe, environ 250 mots. Elle s’arrête où commence la dispersion.</li>
-    <li>Dans les <strong>Textes du jour</strong>, le commentaire articule l’Épître et l’Évangile, et tient compte de la fête ou du temps liturgique, pour en tirer les trois points et la résolution.</li>
-    <li><strong>L’essentiel en 3 points</strong> retient trois vérités profondes et concrètes ; la <strong>Résolution du jour</strong> est simple et pratique, réalisable dans la journée.</li>
-    <li>Chaque commentaire est rédigé par Ad Fontes. Lorsque saint Thomas commente directement le passage, le commentaire s’appuie d’abord sur ce texte, et l’étiquette « Appuyé sur le commentaire direct de saint Thomas » l’indique.</li>
-    <li>À défaut, il est présenté comme une « Synthèse thomiste d’Ad Fontes », construite à partir de plusieurs textes, sans prêter à Thomas une exégèse qu’il n’a pas faite.</li>
-    <li>La <i>Catena aurea</i> ne sert pas à faire passer les Pères qu’elle rassemble pour la pensée propre de Thomas.</li>
-    <li>Un ouvrage d’authenticité douteuse n’est jamais présenté comme thomasien sans réserve.</li>
-    <li>Aucune référence n’est inventée ; chaque référence renvoie, autant que possible, au passage précis consulté.</li>
-    <li><strong>Psautier</strong> : les méditations des psaumes font exception à la règle du seul Thomas. Elles puisent chez saint Thomas, qui a commenté les Psaumes 1 à 54, et chez saint Augustin, qui les a tous commentés ; chaque idée et chaque citation indique lequel des deux docteurs parle.</li>
-  </ul></section>
-  <section class="wcard"><h2 class="h2">Provenance des textes</h2><ul class="rules">
+  <section class="wcard"><h2 class="h2">Sources</h2><ul class="rules">
     <li><strong>Liturgie</strong> : calendrier et propre de la messe selon le Missel romain de 1962 et les rubriques de 1960.</li>
     <li><strong>Écriture</strong> : Bible Crampon, édition révisée de 1923, vérifiée sur l’édition numérisée de Wikisource ; le texte latin liturgique est conservé à part lorsqu’il est disponible.</li>
     <li><strong>Méditation</strong> : <i>La Moelle de saint Thomas d’Aquin</i>, composée par le R. P. Denys Mézard, O.P., traduite « par un religieux du même Ordre », P. Lethielleux, 1930.</li>
     <li><strong>Saint Thomas</strong> : textes consultés notamment sur le <a href="https://www.corpusthomisticum.org/" target="_blank" rel="noopener">Corpus Thomisticum</a>.</li>
     <li><strong>Paraboles</strong> : Bible Crampon 1923 et Vulgate ; commentaires de saint Thomas sur saint Matthieu et sur saint Jean, <i>Catena aurea</i> pour saint Marc et saint Luc (comme recueil des Pères, non comme pensée propre de Thomas), Somme théologique, Catéchisme de l’Église catholique.</li>
-    <li><strong>Psautier</strong> : traduction de l’abbé J.-B. Glaire faite sur la Vulgate (édition de 1905, sur Wikisource), texte latin de la Vulgate ; <i>In psalmos Davidis expositio</i> de saint Thomas (Corpus Thomisticum) ; <i>Discours sur les Psaumes</i> de saint Augustin, traduction de Péronne, Vincent, Écalle, Charpentier et Barreau (1870), sur Wikisource.</li>
+    <li><strong>Psaumes</strong> : traduction de l’abbé J.-B. Glaire faite sur la Vulgate (édition de 1905, sur Wikisource), texte latin de la Vulgate ; <i>In psalmos Davidis expositio</i> de saint Thomas (Corpus Thomisticum) ; <i>Discours sur les Psaumes</i> de saint Augustin, traduction de Péronne, Vincent, Écalle, Charpentier et Barreau (1870), sur Wikisource.</li>
   </ul></section>
-  <section class="wcard"><h2 class="h2">Droits et réutilisation</h2><p class="muted">Section à compléter : statut des éditions reproduites et conditions de réutilisation des contenus d’Ad Fontes.</p></section>
-  <p class="colophon">Ad Fontes, version de travail</p></div>`;
+</div>`;
 }
 
 /* ---------- Navigation ---------- */
