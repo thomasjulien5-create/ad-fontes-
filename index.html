@@ -302,7 +302,7 @@ body.r-home .aboutlink{flex:none;margin:0 0 6px;line-height:1.3}
     <a class="tab" href="#accueil" data-view="accueil"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 10.5 12 4l8.5 6.5V20a1 1 0 0 1-1 1H15v-6H9v6H4.5a1 1 0 0 1-1-1z"/></svg>Accueil</a>
     <a class="tab" href="#textes" data-view="textes"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 6.5C9.5 4.8 6 4.5 3 5.2v13.3c3-.7 6.5-.4 9 1.3 2.5-1.7 6-2 9-1.3V5.2c-3-.7-6.5-.4-9 1.3z"/><path d="M12 6.5v13.3"/></svg>Textes du jour</a>
     <a class="tab" href="#meditation" data-view="meditation"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.5v19M6.5 8h11"/></svg>Méditation</a>
-    <a class="tab" href="#psautier" data-view="psautier"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 3C3.8 7.5 3.8 14 6.5 19.5M17.5 3c2.7 4.5 2.7 11 0 16.5M6.5 19.5h11M6.5 7.5h11M9.5 7.5v12M12 7.5v12M14.5 7.5v12"/></svg>Psautier</a>
+    <a class="tab" href="#psautier" data-view="psautier"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 3C3.8 7.5 3.8 14 6.5 19.5M17.5 3c2.7 4.5 2.7 11 0 16.5M6.5 19.5h11M6.5 7.5h11M9.5 7.5v12M12 7.5v12M14.5 7.5v12"/></svg>Psaumes</a>
     <a class="tab" href="#paraboles" data-view="paraboles"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21v-8M12 13c-4.5 0-7-3-7-7 4 0 7 2.5 7 7zM12 13c4.5 0 7-3 7-7-4 0-7 2.5-7 7z"/></svg>Paraboles</a>
   </div>
 </nav>
@@ -24408,7 +24408,7 @@ function vAccueil(){
   <div class="tiles">
     ${tile("textes","Textes<br>du jour",IMG.crucifix,"center 22%")}
     ${tile("meditation","Méditation quotidienne",IMG.thomasTile,"center top")}
-    ${tile("psautier","Psautier",IMG.psaut)}
+    ${tile("psautier","Psaumes",IMG.psaut)}
     ${tile("paraboles","Paraboles",IMG.parab,"center 30%")}
   </div>
   ${qbox("« La grâce ne détruit pas la nature, mais la perfectionne. »","Saint Thomas d’Aquin, <i>Somme théologique</i>, I, q. 1, a. 8, ad 2","compact")}
@@ -24459,7 +24459,7 @@ function vCommMedit(){
 }
 function vPsautier(){
   const j=PSAUMES[state.ps], d=j||MODELE_PS, n=state.ps, h=hebreu(n);
-  return hero({img:IMG.psaut,pos:"center",title:"Psautier",sub:"Les 150 psaumes, avec saint Thomas et saint Augustin",extra:psRow()})+`<div class="sheet">${j?"":`<p class="notice">Psaume non encore préparé : vous voyez ici la mise en page type.</p>`}
+  return hero({img:IMG.psaut,pos:"center",title:"Psaumes",sub:"Les 150 psaumes, avec saint Thomas et saint Augustin",extra:psRow()})+`<div class="sheet">${j?"":`<p class="notice">Psaume non encore préparé : vous voyez ici la mise en page type.</p>`}
   <section class="wcard">
     <h2 class="psnum">Psaume ${roman(n)}</h2>
     <p class="psinc">${esc(d.incipit)}</p>
@@ -24519,7 +24519,6 @@ function vApropos(){
     <p>Dans un monde marqué par la dispersion, le relativisme et la confusion des idées, il est plus que jamais nécessaire de <strong>revenir aux sources sûres de la vérité</strong>. L’enseignement de saint Thomas d’Aquin offre <strong>une lumière stable</strong>, capable d’éclairer notre intelligence et d’orienter notre volonté vers Dieu.</p>
     <p>Puiser dans le corpus de saint Thomas, ce n’est pas apprendre un système, mais <strong>se mettre à l’écoute d’un maître spirituel</strong> qui, par la clarté de sa pensée et la profondeur de sa foi, <strong>nous conduit au Christ</strong>.</p>
     <p>La méditation quotidienne de sa doctrine aide à <strong>former l’esprit</strong>, à <strong>purifier le cœur</strong> et à <strong>ordonner toute notre vie à Dieu</strong>. Elle nous apprend à chercher le vrai, à aimer le bien et à contempler la beauté de la foi catholique, afin de mieux vivre dans le monde tout en tendant vers les réalités éternelles.</p>
-    <div class="chain"><span>Lire</span><i>›</i><span>Comprendre</span><i>›</i><span>Méditer</span><i>›</i><span>Retenir</span><i>›</i><span>Vivre</span></div>
   </section>
   <section class="wcard portrait">
     <img src="${IMG.portrait}" alt="Saint Thomas d’Aquin tenant la Somme théologique">
@@ -24529,41 +24528,15 @@ function vApropos(){
     <div class="sep"></div>
     <p class="ptitles">Docteur de l’Église<br>Docteur commun</p>
   </section>
-  ${qbox("« De même qu’il est plus grand d’éclairer que de briller seulement, ainsi est-il plus grand de transmettre aux autres ce que l’on a contemplé que de contempler seulement. »","Saint Thomas d’Aquin, <i>Somme théologique</i>, II-II, q. 188, a. 6","inpage")}
-  <section class="wcard"><h2 class="h2">Quatre exigences</h2><div class="four">
-    <div><h4>Fidélité aux sources</h4><p>Pas de fausses citations ni d’attributions approximatives ; le texte original est toujours distingué de la synthèse.</p></div>
-    <div><h4>Rigueur doctrinale</h4><p>Les commentaires sont puisés d’abord dans le corpus authentique de saint Thomas ; la Tradition de l’Église vient en appui.</p></div>
-    <div><h4>Vie spirituelle</h4><p>L’érudition n’est pas la fin : retenir quelques vérités capables de transformer la vie intérieure.</p></div>
-    <div><h4>Mise en pratique</h4><p>Chaque parcours s’achève par une résolution simple : la contemplation devient action.</p></div>
-  </div></section>
-  <section class="wcard"><h2 class="h2">Politique éditoriale</h2><ul class="rules">
-    <li><strong>Saint Thomas d’Aquin est la source première</strong> de toute méditation : Sommes, Commentaire des Sentences, commentaires bibliques, Questions disputées, Quodlibets, <i>Compendium theologiae</i>, commentaires d’Aristote, sermons, opuscules authentiques. La Tradition de l’Église (Écriture, Pères, Catéchisme de l’Église catholique, Catéchisme du concile de Trente, papes et conciles) n’intervient qu’en appui, en une phrase, jamais à sa place, et toujours en indiquant qui parle.</li>
-    <li>Une bonne méditation est <strong>courte et profonde, hautement spirituelle et concrète</strong> : trois mouvements d’un paragraphe, environ 250 mots. Elle s’arrête où commence la dispersion.</li>
-    <li>Dans les <strong>Textes du jour</strong>, le commentaire compte quatre mouvements d’un paragraphe : l’Épître, l’Évangile, ce que les deux disent ensemble, puis la fête ou le temps liturgique, d’où sortent les trois points et la résolution.</li>
-    <li><strong>L’essentiel en 3 points</strong> retient trois vérités profondes et concrètes ; la <strong>Résolution du jour</strong> est simple et pratique, réalisable dans la journée.</li>
-    <li>Chaque commentaire est rédigé par Ad Fontes. Lorsque saint Thomas commente directement le passage, le commentaire s’appuie d’abord sur ce texte, et l’étiquette « Appuyé sur le commentaire direct de saint Thomas » l’indique.</li>
-    <li>À défaut, il est présenté comme une « Synthèse thomiste d’Ad Fontes », construite à partir de plusieurs textes, sans prêter à Thomas une exégèse qu’il n’a pas faite.</li>
-    <li>La <i>Catena aurea</i> ne sert pas à faire passer les Pères qu’elle rassemble pour la pensée propre de Thomas.</li>
-    <li>Un ouvrage d’authenticité douteuse n’est jamais présenté comme thomasien sans réserve.</li>
-    <li>Aucune référence n’est inventée ; chaque référence renvoie, autant que possible, au passage précis consulté.</li>
-    <li><strong>Psautier</strong> : même règle. Pour les Psaumes 1 à 54, saint Thomas est lu dans son commentaire des Psaumes ; au-delà, qu’il n’a pas commentés, dans les passages de ses œuvres qui citent le psaume, sans lui prêter un commentaire qu’il n’a pas fait. Saint Augustin, qui les a tous commentés, n’intervient qu’en appui, en une phrase, en indiquant qu’il parle.</li>
-  </ul></section>
-  <section class="wcard"><h2 class="h2">Provenance des textes</h2><ul class="rules">
-    <li><strong>Liturgie</strong> : calendrier et propre de la messe selon le Missel romain de 1962 et les rubriques de 1960, déterminés avec le moteur du projet <a href="https://github.com/DivinumOfficium/divinum-officium" target="_blank" rel="noopener">Divinum Officium</a>.</li>
+  <section class="wcard"><h2 class="h2">Sources</h2><ul class="rules">
+    <li><strong>Liturgie</strong> : calendrier et propre de la messe selon le Missel romain de 1962 et les rubriques de 1960.</li>
     <li><strong>Écriture</strong> : Bible Crampon, édition révisée de 1923, vérifiée sur l’édition numérisée de Wikisource ; le texte latin liturgique est conservé à part lorsqu’il est disponible.</li>
-    <li><strong>Méditation</strong> : <i>La Moelle de saint Thomas d’Aquin</i>, composée par le R. P. Denys Mézard, O.P., traduite « par un religieux du même Ordre », P. Lethielleux, 1930. Le recueil range parmi les opuscules de saint Thomas un <i>De l’amour de Dieu</i> que la critique moderne attribue à Helvic le Teuton, dominicain — le Corpus Thomisticum le publie sous ce nom. Les méditations qui en dépendent sont données telles que Mézard les compose, mais la réserve est portée sur la journée même.</li>
+    <li><strong>Méditation</strong> : <i>La Moelle de saint Thomas d’Aquin</i>, composée par le R. P. Denys Mézard, O.P., traduite « par un religieux du même Ordre », P. Lethielleux, 1930.</li>
     <li><strong>Saint Thomas</strong> : textes consultés notamment sur le <a href="https://www.corpusthomisticum.org/" target="_blank" rel="noopener">Corpus Thomisticum</a>.</li>
-    <li><strong>Paraboles</strong> : Bible Crampon 1923 et Vulgate ; commentaires de saint Thomas sur saint Matthieu et sur saint Jean ; pour saint Marc et saint Luc, passages parallèles de ces commentaires, Somme théologique et autres œuvres de saint Thomas ; en appui, Pères de la <i>Catena aurea</i> (comme recueil des Pères, non comme pensée propre de Thomas) et Catéchisme de l’Église catholique.</li>
-    <li><strong>Psautier</strong> : traduction de l’abbé J.-B. Glaire faite sur la Vulgate (édition de 1905, sur Wikisource), texte latin de la Vulgate ; <i>In psalmos Davidis expositio</i> de saint Thomas et, pour les psaumes qu’il n’a pas commentés, ses autres œuvres (Corpus Thomisticum) ; en appui, <i>Discours sur les Psaumes</i> de saint Augustin, traduction de Péronne, Vincent, Écalle, Charpentier et Barreau (Œuvres complètes, éd. Raulx, 1864), sur Wikisource.</li>
+    <li><strong>Paraboles</strong> : Bible Crampon 1923 et Vulgate ; commentaires de saint Thomas sur saint Matthieu et sur saint Jean, <i>Catena aurea</i> pour saint Marc et saint Luc (comme recueil des Pères, non comme pensée propre de Thomas), Somme théologique, Catéchisme de l’Église catholique.</li>
+    <li><strong>Psaumes</strong> : traduction de l’abbé J.-B. Glaire faite sur la Vulgate (édition de 1905, sur Wikisource), texte latin de la Vulgate ; <i>In psalmos Davidis expositio</i> de saint Thomas (Corpus Thomisticum) ; <i>Discours sur les Psaumes</i> de saint Augustin, traduction de Péronne, Vincent, Écalle, Charpentier et Barreau (1870), sur Wikisource.</li>
   </ul></section>
-  <section class="wcard"><h2 class="h2">Droits et réutilisation</h2><ul class="rules">
-    <li><strong>Textes latins du Missel de 1962</strong> : textes liturgiques anciens, dans le domaine public.</li>
-    <li><strong>Bible Crampon, édition révisée de 1923</strong> : domaine public ; relevée sur l’édition numérisée de Wikisource.</li>
-    <li><strong>Traductions d’Ad Fontes</strong> : lorsque la Crampon ne suit pas le texte liturgique de la Vulgate, le passage est <strong>traduit du latin par Ad Fontes</strong>, et signalé comme tel sous la lecture.</li>
-    <li><strong>Calendrier et propre</strong> : établis avec le moteur du projet <a href="https://github.com/DivinumOfficium/divinum-officium" target="_blank" rel="noopener">Divinum Officium</a>, dont le code et les données sont publiés sous licence libre.</li>
-    <li><strong><i>La Moelle de saint Thomas d’Aquin</i></strong> : domaine public en France. Le P. Denys Mézard, O.P., auteur de l’original latin (<i>Medulla sancti Thomae Aquinatis</i>, approbations de 1905-1906), est mort en 1930 : l’œuvre est libre depuis le 1<sup>er</sup> janvier 2001 (art. L123-1 du code de la propriété intellectuelle, soixante-dix ans après la mort de l’auteur). La traduction française, publiée anonymement la même année « par un religieux du même Ordre », relève de l’art. L123-3, qui donne soixante-dix ans à compter de la publication : libre depuis la même date. Le texte est transcrit sur les images de l’exemplaire numérisé par la Bibliothèque Saint Libère ; seules les erreurs manifestes de numérisation sont corrigées, les particularités de l’édition de 1930 — y compris ses références bibliques fautives — étant conservées et signalées.</li>
-    <li>Les commentaires, les trois points et les résolutions sont rédigés par Ad Fontes.</li>
-  </ul></section></div>`;
+</div>`;
 }
 
 /* ---------- Navigation ---------- */
