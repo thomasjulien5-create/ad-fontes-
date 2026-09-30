@@ -27,7 +27,7 @@
   --cm1:#44604A; --cm2:#2B3C2F; --cmon:#F7F1E3;
   --ap1:#FBF8F1; --ap2:#F2EBDD; --apon:#15284B;
   --ps1:#6E3446; --ps2:#3E1A28; --pson:#F7F1E3; --aug:#E9E3F0; --augn:#5B4B7A;
-  --pb1:#7C5A2C; --pb2:#4A3316; --pbon:#F7F1E3; --trad:#EAE4D6; --tradn:#6B5530;
+  --pb1:#7C5A2C; --pb2:#4A3316; --pbon:#F7F1E3;
   --serif:"EB Garamond",Garamond,"Palatino Linotype",Palatino,Georgia,serif;
   color-scheme:light;
   box-sizing:border-box;
@@ -46,7 +46,7 @@
     --cm1:#33493A; --cm2:#1B2720; --cmon:#EFE9DA;
     --ap1:#1E1B17; --ap2:#15120E; --apon:#E6DDC9;
     --ps1:#4A2331; --ps2:#241017; --pson:#F0E6E9; --aug:#2A2436; --augn:#BBAEDD;
-    --pb1:#4E3A1C; --pb2:#241A0B; --pbon:#F0E8D8; --trad:#2E2819; --tradn:#D2B77A;
+    --pb1:#4E3A1C; --pb2:#241A0B; --pbon:#F0E8D8;
     color-scheme:dark;
   }
 }
@@ -61,7 +61,7 @@
   --cm1:#33493A; --cm2:#1B2720; --cmon:#EFE9DA;
   --ap1:#1E1B17; --ap2:#15120E; --apon:#E6DDC9;
     --ps1:#4A2331; --ps2:#241017; --pson:#F0E6E9; --aug:#2A2436; --augn:#BBAEDD;
-    --pb1:#4E3A1C; --pb2:#241A0B; --pbon:#F0E8D8; --trad:#2E2819; --tradn:#D2B77A;
+    --pb1:#4E3A1C; --pb2:#241A0B; --pbon:#F0E8D8;
   color-scheme:dark;
 }
 body.r-home   {--w1:var(--page);--w2:var(--page);--won:var(--navy)}
@@ -221,7 +221,6 @@ span.chip{border-color:transparent;font-style:italic;opacity:.85}
 .rtitle{font-weight:700;font-size:1rem;letter-spacing:.16em;padding-left:.16em;color:var(--gold);margin-bottom:8px}
 .resolution p{margin:0;font-style:italic;font-weight:500;font-size:1.3rem;line-height:1.38;color:var(--navy)}
 .badge.aug{background:var(--aug);color:var(--augn)}
-.badge.trad{background:var(--trad);color:var(--tradn)}
 .randrow{text-align:center;margin-top:8px}
 .randrow .chip{display:inline-flex;align-items:center;gap:8px;padding:4px 16px;font-style:normal}
 .randrow svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
@@ -394,7 +393,7 @@ const MODELE_PB = {
   latin:[[1,"Textus parabolae latinus, ex Vulgata."]],
   commentaire:{ sections:[
     { titre:"Premier mouvement", source:"Saint Thomas d’Aquin", paragraphes:["La méditation est **courte** : trois mouvements d’un paragraphe, environ 250 mots. Elle puise d’abord dans **tout le corpus de saint Thomas** : commentaires bibliques, Sommes, Questions disputées, sermons."] },
-    { titre:"Deuxième mouvement", source:"Saint Thomas d’Aquin", paragraphes:["La Tradition de l’Église (Écriture, Pères, Catéchisme) n’intervient qu’en appui, en une phrase, jamais à la place de Thomas, et toujours en indiquant qui parle."] }
+    { titre:"Deuxième mouvement", source:"Saint Thomas d’Aquin", paragraphes:["Un paragraphe, toujours d’après saint Thomas, qui approfondit le premier mouvement."] }
   ]},
   essentiel:["Une vérité profonde et concrète.","Une deuxième, enracinée dans le commentaire.","Une troisième, à garder pour la journée."],
   resolution:"Un acte simple et pratique, réalisable aujourd’hui.",
@@ -488,7 +487,7 @@ const MODELE = {
         paragraphes:["Un paragraphe : les **fondements proprement thomasiens** de la méditation composée par le P. Mézard, puisés dans le corpus authentique de saint Thomas, source première de chaque mouvement."],
         citation:{ texte:"« Passage de saint Thomas qui fonde l’affirmation de la méditation. »", ref:"Référence précise, avec lien vers le passage consulté" } },
       { titre:"Deuxième mouvement", source:"Saint Thomas d’Aquin",
-        paragraphes:["Un paragraphe, toujours d’après saint Thomas. La **Tradition de l’Église** (Écriture, Pères, Catéchisme) n’intervient qu’en appui, en une phrase, jamais à sa place, et en indiquant qui parle."] },
+        paragraphes:["Un paragraphe, toujours d’après saint Thomas."] },
       { titre:"La portée spirituelle", source:"Saint Thomas d’Aquin",
         paragraphes:["Un paragraphe qui approfondit la portée spirituelle, d’où sortent trois points et une résolution simple et pratique. La méditation entière reste **courte : environ 250 mots**."] }
     ]},
@@ -567,7 +566,7 @@ function badges(mode){
   const synth=`<span class="badge synth">Synthèse thomiste d’Ad Fontes</span>`;
   if(mode==="direct") return direct;
   if(mode==="synthese") return synth;
-  if(mode==="editorial") return `<span class="badge">Saint Thomas d’Aquin, source première</span><span class="badge trad">Tradition de l’Église, en appui</span>`;
+  if(mode==="editorial") return `<span class="badge">Saint Thomas d’Aquin, source première</span>`;
   return direct+synth;
 }
 function sections(list){
@@ -680,7 +679,7 @@ function vPsautier(){
 function vCommPsaume(){
   const j=PSAUMES[state.ps], d=j||MODELE_PS, n=state.ps;
   const th = j ? j.thomas : (n<=54);
-  const badges = (th?`<span class="badge">Saint Thomas, Commentaire des Psaumes</span>`:`<span class="badge synth">Saint Thomas, d’après ses autres œuvres</span>`)+`<span class="badge trad">Tradition de l’Église, en appui</span>`;
+  const badges = (th?`<span class="badge">Saint Thomas, Commentaire des Psaumes</span>`:`<span class="badge synth">Saint Thomas, d’après ses autres œuvres</span>`);
   return hero({img:IMG.vSumma,title:"Méditation du psaume",sub:"Avec saint Thomas d’Aquin",back:"psautier",extra:backPill("psautier","Retour au psaume")})+`<div class="sheet">${j?"":`<p class="notice">Psaume non encore préparé : vous voyez ici la mise en page type.</p>`}
   <section class="wcard"><div class="chead">${ICO.livre}<span>Psaume ${roman(n)} · ${esc(d.incipit)}</span></div><div class="badges">${badges}</div>${sections(d.commentaire.sections)}</section>
   ${essentiel(d.essentiel)}${resolution(d.resolution)}${sources(d.sources)}</div>`;
@@ -708,7 +707,7 @@ function vParabole(){
 function vCommParabole(){
   const p=PARABOLES.find(x=>x.n===state.pb)||PARABOLES[0], j=PARABOLES_DATA[p.n], d=j||MODELE_PB;
   return hero({img:IMG.vSumma,title:"Méditation",sub:"Avec saint Thomas d’Aquin",back:"parabole",extra:backPill("parabole","Retour à la parabole")})+`<div class="sheet">${j?"":`<p class="notice">Parabole non encore préparée : vous voyez ici la mise en page type.</p>`}
-  <section class="wcard"><div class="chead">${ICO.livre}<span>${esc(p.t)} · ${esc(p.r)}</span></div><div class="badges"><span class="badge">Saint Thomas d’Aquin, source première</span>${d.commentaire.sections.some(s=>/Tradition|Catéchisme/.test(s.source||""))||/Catéchisme/.test(JSON.stringify(d.commentaire))?`<span class="badge trad">Tradition de l’Église, en appui</span>`:""}</div>${sections(d.commentaire.sections)}</section>
+  <section class="wcard"><div class="chead">${ICO.livre}<span>${esc(p.t)} · ${esc(p.r)}</span></div><div class="badges"><span class="badge">Saint Thomas d’Aquin, source première</span></div>${sections(d.commentaire.sections)}</section>
   ${essentiel(d.essentiel)}${resolution(d.resolution)}${sources(d.sources)}</div>`;
 }
 

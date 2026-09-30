@@ -3,7 +3,7 @@
 // sans attendre et la nouvelle version, une fois arrivée, sert à l'ouverture suivante.
 // Les lots de données (journées par mois, psaumes et paraboles par dix) sont gardés dès leur premier
 // chargement ; le mois en cours est mis en cache dès l'installation, pour lire la journée hors connexion.
-const CACHE = 'ad-fontes-v5';
+const CACHE = 'ad-fontes-v6';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png',
   './images/missel.webp', './images/thomas.webp', './images/david.webp', './images/jesus.webp',
   './images/banniere-portrait.webp', './images/banniere-paysage.webp', './images/somme.webp', './images/portrait.webp'];
