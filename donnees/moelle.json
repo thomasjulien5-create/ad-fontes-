@@ -1,0 +1,1505 @@
+{
+ "format": "Méditations de « La Moelle de saint Thomas d’Aquin » (R. P. Mézard, O.P., trad. 1930, 2 tomes), rangées comme dans les tomes. Clé « MM-JJ » pour les méditations datées (« 1er octobre » → « 10-01 ») ; pour le temps mobile (Septuagésime, Carême, temps pascal…), clé du temporal de Divinum Officium : semaine puis jour, 0 = dimanche (« Quadp1-0 » = dimanche de la Septuagésime, « Quad1-3 » = mercredi de la 1re semaine de Carême, « Pasc0-1 » = lundi de Pâques). La clé du temporal l’emporte sur la date. Chaque entrée : titre, texte (paragraphes ; **I**, **II**… pour les points ; *italique*), sources, et « reserve » s’il faut une mise en garde d’attribution.",
+ "meditations": {
+  "09-23": {
+   "titre": "Quatre conditions nécessaires pour remplir le précepte de l’amour de Dieu",
+   "texte": [
+    "Le Christ à qui on demandait avant sa Passion, quel était le plus grand et le premier commandement, répondit : *Vous aimerez le Seigneur votre Dieu de tout votre cœur, et de tout votre esprit; c’est là le plus grand et le premier commandement.* (Matth., 22, 37.)",
+    "Et en vérité, parmi tous les commandements, c’est bien là le plus grand, le plus noble et le plus utile. En lui, tous les autres s’accomplissent. Mais pour son parfait accomplissement, quatre conditions sont requises :",
+    "**1° Le souvenir des bienfaits divins.** Tout ce que nous avons, le corps, les biens extérieurs, nous le tenons de Dieu; et c’est pourquoi il faut que tout cela soit à son service et que nous l’aimions d’un cœur parfait. C’est une suprême ingratitude, de se souvenir des bienfaits de quelqu’un et de ne pas l’aimer. David, au souvenir des bienfaits de Dieu, disait : *Tout est vôtre, ce que nous avons reçu de votre main, nous vous l’avons donné.* Et c’est en son honneur qu’il est dit dans l’Ecclésiastique (47, 10) : *Il a loué le Seigneur de tout son cœur; il a aimé le Dieu qui l’avait créé.*",
+    "**2° La méditation de l’excellence divine.** *Dieu est plus grand que notre cœur*, comme dit saint Jean (I Jo., III, 20). Et si nous le servons de tout notre cœur et de toutes nos forces, nous sommes encore au-dessous de ce que nous devons. *Portez la gloire de Dieu le plus haut que vous pourrez; elle éclatera encore au-dessus… Vous qui bénissez le Seigneur, relevez sa grandeur autant que vous pourrez; car, il est au-dessus de toutes louanges.* (Ecclésiastique, 43, 32.)",
+    "**3° Le renoncement aux choses du monde et de la terre.** C’est une injure grave que l’on fait à Dieu, que de lui égaler quelque chose. *A qui comparerez-vous Dieu?* dit Isaïe (43, 18). Or, nous égalons quelque chose à Dieu, quand nous voulons aimer les choses temporelles et corruptibles en même temps que Dieu. Et cela est absolument impossible. C’est pourquoi Isaïe dit en parabole : *Le lit est si resserré, que si deux s’y mettent l’un tombera; et la couverture est si étroite, qu’elle n’en peut couvrir deux.* (Is., 38, 20.) Le cœur de l’homme est assimilé à un lit resserré et à une couverture étroite. Le cœur de l’homme est étroit par rapport à Dieu; et si vous y recevez quelque autre chose que lui, vous l’en chassez. Il ne peut souffrir de rival dans un cœur, pas plus que l’époux dans l’épouse et il dit lui-même dans l’Exode (20, 5) : *Je suis ton Dieu, un Dieu jaloux.* Il ne veut pas que nous aimions quoi que ce soit autant que lui, ou en dehors de lui.",
+    "**4° La fuite absolue de tout péché.** On ne peut aimer Dieu en état de péché. Si vous êtes en état de péché, vous n’aimez pas Dieu. Celui-là aimait qui disait : *Souvenez-vous, je vous prie, Seigneur, que j’ai marché devant vous dans la vérité et un cœur parfait.* (IV Reg., 18, 21) : *Jusques à quand clocherez-vous des deux pieds?* Car, de même que le boiteux penche d’un côté, puis de l’autre, de même le pécheur, qui tantôt pèche et tantôt cherche Dieu. Aussi le Seigneur dit (Joël, 2, 12) : *Convertissez-vous à moi de tout votre cœur.*",
+    "*(Sur le Décalogue, c. V.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 172-174",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : Sur le Décalogue, ch. V (De decem praeceptis)",
+     "detail": "Collationes in decem praeceptis, reportation de Pierre d’Andria : œuvre authentique. Sur le Corpus Thomisticum, le passage des quatre conditions est l’article 1 ; le prologue sur la charité a aussi été utilisé. Traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cac.html#86717"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Collationes in decem praeceptis, prologue",
+     "detail": "Les moyens d’acquérir la charité (« durus enim nimis esset… ») et le mot de saint Augustin qu’il cite ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cac.html#86715"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 24, a. 12",
+     "detail": "Texte latin de l’édition léonine (Corpus Thomisticum) ; la page couvre II-II, q. 23-24 ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39878"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 44, a. 5",
+     "detail": "Texte latin de l’édition léonine (Corpus Thomisticum) ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/sth3044.html#40816"
+    }
+   ]
+  },
+  "09-24": {
+   "titre": "Comment il est possible en cette vie d’avoir la charité parfaite",
+   "texte": [
+    "**I**",
+    "La perfection de la charité peut s’entendre de deux manières, selon que l’on parle de celui qui est aimé ou de celui qui aime.",
+    "Du côté de celui qui est aimé, la charité est parfaite quand il est aimé autant qu’il est aimable. Or Dieu est autant aimable qu’il est bon; sa bonté étant infinie, il est donc aimable infiniment. Mais aucune créature n’est capable de l’aimer infiniment, puisque chacune n’a qu’une capacité créée. Et donc, sous ce rapport, la charité d’aucune créature ne peut être parfaite; seule peut l’être l’amour dont Dieu s’aime lui-même.",
+    "**II**",
+    "Du côté de celui qui aime, la charité est parfaite quand il aime autant qu’il le peut. Ce qui arrive de triple manière :",
+    "L’une quand le cœur de l’homme se porte tout entier en exercice actuel d’amour, en pleine activité, et c’est la perfection de la charité de la patrie, qui n’est pas possible en cette vie; ici-bas il est impossible, à cause de l’infirmité de la vie humaine, de toujours penser à Dieu et de s’entretenir dans un mouvement actif d’amour envers lui.",
+    "Une autre manière, c’est que l’homme mette toute son application à vaquer à Dieu et aux choses divines, toute autre affaire cessante, si ce n’est ce qu’exigent les nécessités de la vie présente. Et cette perfection de la charité, qui est possible en cette vie voyagère, en marche vers le terme, elle n’est cependant pas commune à tous ceux qui ont la charité.",
+    "La troisième manière, c’est de mettre son cœur en Dieu d’une façon habituelle, par un état d’âme stable, de telle sorte qu’on ne pense ni ne veuille rien qui soit contraire à l’amour divin; et cette perfection est commune à tous ceux qui ont la charité.",
+    "Ainsi la charité parfaite est possible en cette vie; et cependant la perfection de cette vie en marche, n’est pas la perfection, sans plus, et sans restriction; et c’est pourquoi elle a toujours de quoi progresser.",
+    "La perfection de la charité à laquelle sont ordonnés les conseils, consiste en ce que l’homme, autant qu’il est possible, s’arrache aux choses temporelles, même licites, qui, en occupant l’esprit, empêchent le mouvement actuel du cœur vers Dieu.",
+    "*(2-2, q. 46, a. 6.)*",
+    "Par ce précepte : *Tu aimeras le Seigneur*, Dieu veut que l’homme lui soit totalement uni; ce qui se réalisera dans la patrie, quand *Dieu sera tout en tous*. Et c’est pourquoi ce précepte sera pleinement et parfaitement accompli dans la patrie. Dans cette vie de route il est accompli, mais imparfaitement; et cependant même dans cette vie de route, on l’accomplit d’autant plus parfaitement qu’on réalise quelque ressemblance de la perfection de la patrie.",
+    "*(2-2, q. 46, a. 6.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 174-176",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : 2-2, q. 46, a. 6",
+     "detail": "La référence est donnée telle que l’ouvrage l’imprime. Vérification faite sur le Corpus Thomisticum, le texte de La Moelle se trouve en II-II, q. 24, a. 8, q. 44, a. 4, ad 3, et q. 44, a. 6 ; « q. 46 » paraît une coquille pour « q. 44 ».",
+     "url": "https://www.corpusthomisticum.org/sth3044.html"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 24, a. 8",
+     "detail": "Texte latin de l’édition léonine (Corpus Thomisticum) ; la page couvre II-II, q. 23-24 ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39844"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 44, a. 4 et a. 6",
+     "detail": "Texte latin de l’édition léonine (Corpus Thomisticum) ; traduction d’Ad Fontes ; saint Augustin, De perfectione iustitiae, cité en sed contra de l’a. 6",
+     "url": "https://www.corpusthomisticum.org/sth3044.html#40808"
+    }
+   ]
+  },
+  "09-25": {
+   "titre": "De l’augmentation de la charité",
+   "texte": [
+    "**I**",
+    "La charité de cette vie de route peut être augmentée. Nous sommes dits voyageurs parce que nous tendons vers Dieu qui est la fin ultime de notre béatitude. En cette vie, nous avançons d’autant plus que nous nous approchons davantage de Dieu, dont on s’approche non point par les pas du corps, mais par les sentiments du cœur. C’est la charité qui fait cette proximité; car, c’est par elle que l’esprit s’unit à Dieu. Et c’est pour cela qu’il est de l’essence de la charité de cette vie, de pouvoir être augmentée; sinon cela supposerait la cessation de cette vie en marche. Saint Paul dénomme la charité une voie quand il dit (I Cor., XII, 31) : *Je veux vous faire connaître une voie encore plus haute.*",
+    "**II**",
+    "Toujours la charité de route peut être augmentée de plus en plus. En aucune manière, une limite ne s’impose à l’augmentation de la charité dans cette situation de voyageur. Elle-même, dans sa raison d’espèce propre, n’a pas de limite d’augmentation; car, elle est une participation de la charité infinie qui est le Saint-Esprit. De même la cause de l’augmentation de la charité est d’une vertu infinie, c’est Dieu. De même, du côté du sujet de la charité, c’est-à-dire de celui qui a la charité, on ne peut pas fixer de terme à cette augmentation, parce que plus s’accroît la charité, plus s’accroît aussi la capacité à une augmentation ultérieure. La capacité de la créature raisonnable est augmentée par la charité, parce que par elle le cœur est dilaté, selon cette parole de saint Paul : *Notre cœur est dilaté.* (2 Cor., VI, 11.) Concluons donc que nul terme ne s’impose, en cette vie, à l’augmentation de la charité.",
+    "**III**",
+    "La charité n’augmente pas par addition d’une charité à une charité, mais en ce sens, que le sujet y participe de plus en plus, c’est-à-dire qu’il est davantage en activité de charité et de plus en plus envahi et dominé par elle. L’augmentation de la charité ne signifie pas que quelque chose soit inséré là où elle n’était pas, mais que la charité est davantage là où elle était moins. Ceci, c’est l’œuvre de Dieu, en augmentant la charité, de faire qu’elle soit davantage en quelqu’un, et que la ressemblance du Saint-Esprit soit participée plus parfaitement dans l’âme.",
+    "**IV**",
+    "L’augmentation spirituelle de la charité est en quelque manière semblable à l’augmentation corporelle, qui n’est pas un mouvement continu dans les animaux et les plantes; mais, pendant quelque temps, la nature fait un travail de préparation, sans aucune augmentation effective; ce n’est que plus tard, à un moment donné, qu’elle produit l’effet qu’elle avait préparé, par augmentation effective de l’animal ou de la plante.",
+    "Et de même, la charité n’est pas augmentée par chaque acte de charité; mais chacun des actes dispose à une augmentation, en ce sens, que par un acte de charité l’homme devient plus prompt à agir de nouveau par charité; et, son aptitude croissant, son élan le pousse à un acte d’amour plus fervent, dans un effort de progrès dans l’amour même; et c’est alors que sa charité est augmentée effectivement.",
+    "De même que chacun des actes de charité mérite la vie éternelle, laquelle n’est pas donnée aussitôt, mais en son temps; de même chacun des actes de charité mérite une augmentation de charité, laquelle cependant n’est pas augmentée aussitôt, mais quand on fait effort pour qu’elle le soit.",
+    "*(2-2, q. 24, a. 4 et 7.)*",
+    "*Note du traducteur, au bas de la page 178 :* « L’exemple dont se sert ici saint Thomas n’est plus recevable, depuis les expériences de photographie cinématographique, qui ont permis de suivre le développement continu d’accroissement des plantes. Mais sa doctrine est indépendante des exemples qu’il emprunte à la Physique de son temps. On est toujours libre de choisir des exemples plus appropriés, si l’on en trouve. Ceux que le saint Docteur emploie, même s’ils sont périmés, éclairent suffisamment sa pensée et n’autorisent point à la mépriser. »"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 176-178",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : 2-2, q. 24, a. 4 et 7",
+     "detail": "Vérification faite sur le Corpus Thomisticum, la comparaison de la plante et le mérite d’une croissance différée se lisent en II-II, q. 24, a. 6 (corps de l’article et ad 1), non en a. 4 ou 7 ; le renvoi imprimé est reproduit tel quel.",
+     "url": "https://www.corpusthomisticum.org/sth3023.html"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 24, a. 4, 6 et 7",
+     "detail": "Texte latin de l’édition léonine (Corpus Thomisticum) ; la page couvre II-II, q. 23-24 ; la Glose citée en sed contra de l’a. 7 ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39812"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Sur le Décalogue (Collationes in decem praeceptis), prologue sur la charité",
+     "detail": "Texte latin (Corpus Thomisticum) ; saint Augustin, Quatre-vingt-trois questions, cité par saint Thomas ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/cac.html#86715"
+    }
+   ]
+  },
+  "09-26": {
+   "titre": "Du triple degré de la charité",
+   "texte": [
+    "**I**",
+    "La charité, dit saint Augustin, quand elle est née, elle se nourrit; ce qui constitue l’état des commençants. En se nourrissant, elle se fortifie; ce qui constitue l’état des progressants; quand elle est fortifiée, elle se parfait; et c’est l’état des parfaits. Il y a donc un triple degré de la charité.",
+    "L’augmentation spirituelle de la charité peut se comparer à ce qui se produit dans le développement de croissance du corps humain. Bien que le corps humain comporte plusieurs parties, il se prête cependant à des distinctions précises d’après les actions ou les efforts ou les étapes qui marquent son développement. Et c’est aussi de cette manière que l’on distingue divers degrés de charité d’après les diverses étapes qui marquent son augmentation progressive dans l’homme.",
+    "**II**",
+    "En effet, le souci premier et principal qui s’impose à l’homme, c’est de quitter le péché et de résister à ses concupiscences, qui poussent en sens contraire à la charité; et c’est là le travail des commençants, qui doivent nourrir et soutenir en eux la charité, de peur qu’elle ne périsse.",
+    "Un second souci succède, celui de s’efforcer au progrès dans le bien; et c’est le travail des progressants, qui doivent tendre principalement à ce que la charité s’affermisse en eux et soit augmentée.",
+    "Le troisième souci, c’est que l’homme tende principalement à l’union et à la jouissance de Dieu; et c’est là le travail des parfaits qui brûlent du *désir de se dissoudre pour être avec le Christ*. (Phil., I, 23.)",
+    "C’est ce que nous constatons dans le mouvement local corporel ou autre; il y a d’abord éloignement d’un terme, d’un point de départ; puis on s’approche d’un autre terme, le point d’arrivée; enfin, c’est le repos au terme où l’on tendait.",
+    "Pour ceux en qui la charité commence, bien qu’ils fassent du progrès, le soin qui leur incombe principalement est cependant de résister aux péchés, qui les tiennent en haleine par leurs vexations. Mais ensuite, quand les assauts sont moins rudes et moins sensibles, alors ils peuvent avec plus de sécurité s’exercer au progrès, d’une part, en y exerçant leur activité, et, d’autre part, en ayant en main le glaive de la défensive, comme il est raconté, au livre d’Esdras, des constructeurs du Temple de Jérusalem.",
+    "Les parfaits eux-mêmes progressent en charité. Mais ce n’est plus là leur souci principal; leur soin se porte surtout sur l’union à Dieu. Et bien que ce soit là aussi ce à quoi tendent les commençants et les progressants, ceux-là cependant éprouvent le besoin de porter ailleurs leur sollicitude, les commençants sur la fuite du péché, les progressants sur le progrès dans les vertus.",
+    "*(2-2, q. 24, a. 9.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 178-180",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 24, a. 4, a. 6 et a. 9",
+     "detail": "Référence imprimée par La Moelle : 2-2, q. 24, a. 9. Texte latin de l’édition léonine, Corpus Thomisticum (la page couvre II-II, q. 23-24) ; saint Augustin, sur la première épître de Jean, cité en sed contra ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39812"
+    },
+    {
+     "label": "Vulgate clémentine, Néhémie 4",
+     "detail": "Texte latin (BibleGateway), verset 17.",
+     "url": "https://www.biblegateway.com/passage/?search=Nehemiah+4&version=VULGATE"
+    },
+    {
+     "label": "Catéchisme de l’Église catholique, n. 2015",
+     "detail": "Texte français, site du Saint-Siège ; cite saint Grégoire de Nysse, Homélies sur le Cantique, 8.",
+     "url": "https://www.vatican.va/archive/FRA0013/__P6V.HTM"
+    }
+   ]
+  },
+  "09-27": {
+   "titre": "Des conditions requises pour acquérir et augmenter la charité",
+   "texte": [
+    "La charité est chose si utile, qu’il faut s’appliquer à l’acquérir et à l’augmenter. Deux conditions sont spécialement nécessaires pour l’acquérir, et deux pour l’augmenter quand elle est acquise.",
+    "**I**",
+    "**1° Pour acquérir la charité, il faut avoir du zèle pour écouter la parole de Dieu.** Quand nous entendons dire du bien de quelqu’un, nous nous enflammons d’amour pour lui. *Ta parole est ardente comme le feu, et ton serviteur l’aime.* (Ps., 118, 140.) Et les deux disciples d’Emmaüs, tout embrasés d’amour disaient (Luc, XXIV, 32) : *Notre cœur n’était-il pas tout ardent, pendant qu’il nous parlait sur la route et qu’il nous expliquait les Écritures?*",
+    "**2° Les bonnes pensées continuelles.** *Mon cœur s’est embrasé au dedans de moi*, dit le Psalmiste (38, 4). Si vous voulez acquérir le divin amour, méditez les bonnes choses. Ce serait d’une extrême dureté de cœur, qu’après avoir reçu les bienfaits divins, échappé à nombre de périls, et que nous souvenant que la béatitude nous est promise par Dieu, nous ne soyons pas enflammés de l’amour divin. Aussi saint Augustin dit : « Le cœur de l’homme est bien dur, qui, s’il ne veut pas aimer Dieu, du moins ne veuille pas répondre à son amour ». Et à parler en général, de même que les pensées mondaines détruisent la charité, de même les bonnes la font acquérir, la nourrissent et la conservent.",
+    "**II**",
+    "Il y a de même deux conditions pour augmenter la charité.",
+    "**1° La première est la séparation de ce qui est terrestre.** Le cœur ne peut se porter parfaitement sur des choses diverses et opposées. On ne peut aimer Dieu et le monde. Aussi, plus notre âme se dégage de l’amour des choses terrestres, plus elle s’affermit dans l’amour divin. Et saint Augustin dit : « Le poison pour la charité, c’est l’espoir d’acquérir ou de retenir les choses temporelles; son aliment, c’est la diminution de la cupidité; sa perfection, l’absence de toute cupidité ». Quiconque veut donc nourrir sa charité, doit s’efforcer énergiquement de diminuer la cupidité. Or, la cupidité, c’est l’amour d’acquérir ou de garder les choses temporelles. On commence à la diminuer par la crainte de Dieu, qui seul ne peut être craint sans amour. Et c’est pour ce résultat qu’il y a des ordres religieux, dans lesquels on travaille à s’arracher aux choses mondaines et corruptibles et à s’élever aux choses divines. C’est ce que dit le proverbe : *Le soleil brille après avoir été obscurci par les nuées.* Le soleil, c’est l’intelligence humaine; elle est dans les nuages, quand elle s’adonne au terrestre; mais elle brille, quand elle s’éloigne du terrestre et l’abandonne. Alors, en elle, le divin amour resplendit et s’accroît.",
+    "**2° La seconde, c’est une patience ferme dans les épreuves.** Quand nous supportons des épreuves lourdes, pour celui que nous aimons, notre amour pour lui ne périt point, au contraire, il s’accroît. Et les saints qui supportent pour Dieu les adversités, s’affermissent davantage dans son amour; tout comme l’ouvrier aime d’autant plus son ouvrage, qu’il s’y est donné plus de peine. Cela vient que les fidèles, plus ils supportent d’afflictions pour l’amour de Dieu, plus ils progressent dans leur amour.",
+    "*(Sur le Décalogue, c. IV.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 180-182",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Collationes in decem praeceptis, prologue",
+     "detail": "Référence imprimée par La Moelle : Sur le Décalogue, ch. IV. Reportation de Pierre d’Andria, œuvre authentique ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cac.html#86715"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 27, a. 2",
+     "detail": "La connaissance, cause de l’amour ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2026.html#34676"
+    },
+    {
+     "label": "Catéchisme de l’Église catholique, n. 133",
+     "detail": "Texte français, site du Saint-Siège ; cite saint Jérôme.",
+     "url": "https://www.vatican.va/archive/FRA0013/__PT.HTM"
+    }
+   ]
+  },
+  "09-28": {
+   "titre": "De l’amour de Dieu souverainement délectable",
+   "texte": [
+    "*Je me suis souvenu de Dieu et j’y ai trouvé ma joie.* (Ps., 76, 4.)",
+    "De même que Dieu dépasse tout ce qui est désirable, de même, il donne plus de joie que tout ce qui est délectable, et cela pour trois raisons : parce qu’il est plus universel, plus intime, plus durable.",
+    "**I**",
+    "Tout autre que Dieu, donne un plaisir particulier : ainsi, les choses qui ont un goût délicieux, ne délectent que le palais, et non l’oreille; la musique charme l’oreille et non les yeux et ainsi de suite. Mais Dieu donne une délectation générale, parce que lui-même est le bien universel et qu’il est la cause de tous les biens particuliers. Saint Anselme dit : « Si chacun des biens est délectable pour qui le goûte dans toutes ses ressources, combien délectable sera le bien qui contient en soi toute la délectation de tous les biens, et non point selon l’expérience que nous faisons des biens créés, mais bien autrement, et autant que le Créateur diffère du créé ».",
+    "**II**",
+    "Les autres biens donnent une délectation de surface et comme extérieure. Mais Dieu satisfait intimement et en profondeur. Dieu seul pénètre substantiellement la substance même de l’âme, et c’est pourquoi il délecte plus délicieusement. Saint Augustin dit : « Lorsque j’adhère à toi de toute mon âme, il n’y a plus pour moi ni labeur ni douleur; ma vie est en sûreté, elle est toute pleine de toi ». Et encore : « Ô Seigneur mon Dieu, qu’est-ce que j’aime quand je t’aime? Ce n’est point la beauté corporelle, ni la beauté du temps, ni l’éclat de cette lumière, amie de mes yeux, ni les caresses d’un corps de chair. Ce n’est pas cela que j’aime quand j’aime Dieu, et cependant j’aime une lumière, une voix, un parfum, un aliment, une étreinte ». Je n’aime pas mon Dieu comme une lumière, une voix, un parfum, un aliment, une étreinte extérieure; mais, c’est tout mon être profond, là où resplendit mon âme qu’un lieu ne contient pas, et une musique que le temps ne mesure pas, et un parfum que l’air ne disperse pas, et une saveur que la voracité n’épuise pas, là où la satiété demeure inséparable de moi-même, c’est cela que j’aime quand j’aime mon Dieu ».",
+    "**III**",
+    "Les autres biens délectent en passant, avec mesure; mais Dieu délecte éternellement. Saint Augustin dit encore : « Toute ma pauvre âme est captive par l’amitié des choses inférieures, elle est écartelée quand elle les perd; mais en toi, Seigneur, personne ne perd rien, sinon celui qui t’abandonne ». La raison en est que toute créature est changeante de par sa nature. Mais, parce que, comme disent les Proverbes (27, 7), *Celui qui est rassasié foule aux pieds le rayon de miel*, l’âme qui se met en quête des créatures, quand elle les poursuit et les atteint, elle en jouit et s’en délecte; et plus elle est remplie du bien créé, moins elle est affamée de l’incréé. Et c’est en jeûnant des biens créés, qu’elle désire l’incréé. C’est en ce sens que le Psalmiste dit (76, 3) : *Mon âme se refuse toute consolation.* Saint Augustin : « Que toute créature soit vide à mes yeux, pour que le Créateur devienne doux à mon cœur ».",
+    "*(De l’amour de Dieu, c. IV.)*"
+   ],
+   "reserve": "Cette méditation ne repose pas sur une œuvre de saint Thomas : le <i>De dilectione Dei et proximi</i>, que l’édition de 1930 range parmi ses opuscules, est attribué par la critique moderne à Helvic le Teuton, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 182-184",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : De l’amour de Dieu, ch. IV",
+     "detail": "Le Corpus Thomisticum publie ce traité sous le nom d’Helvicus Theutonicus.",
+     "url": "https://www.corpusthomisticum.org/xao.html"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 2, a. 8 et q. 3, a. 4",
+     "detail": "Texte latin, Corpus Thomisticum (I-II, q. 1-5) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2001.html#33525"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 28, a. 1 et a. 3",
+     "detail": "La joie, effet de la charité ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3027.html#40156"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Collationes in Symbolum Apostolorum, a. 12 (la vie éternelle)",
+     "detail": "Texte latin, Corpus Thomisticum ; saint Augustin, Confessions I, cité par Thomas ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/csv.html#86694"
+    }
+   ]
+  },
+  "09-29": {
+   "titre": "Des causes de l’amour",
+   "texte": [
+    "**I**",
+    "La présence nourrit l’amitié. Et sur ce point, Dieu l’emporte pour trois raisons : parce qu’il nous est intimement présent, parce qu’il nous est toujours présent, et en quelque endroit que nous soyons.",
+    "L’homme est présent à quelqu’un, parce qu’il est près de lui; mais Dieu nous est plus présent parce qu’il est en nous. Saint Augustin dit : « Il nous est intime au cœur, et notre cœur s’éloigne de lui ». L’homme est tantôt présent et tantôt absent, c’est inévitable; mais Dieu n’est jamais absent de nous, quoique parfois nous nous éloignions de lui et lui soyons absent. Saint Augustin : « Vous étiez au dedans de moi et moi au dehors et je vous cherchais au dehors, et moi, difforme, je me ruais sur ces choses belles que vous avez faites. Vous étiez avec moi, et moi je n’étais pas avec vous ».",
+    "De même l’homme dont nous sommes l’ami, est quelquefois près de nous en un endroit, et en un autre endroit, il est loin de nous; mais Dieu nous est toujours présent. Les amis, quand nous mourons, et que nous avons alors le plus besoin de la présence de nos amis, nous ne pouvons les avoir, tandis que nous jouissons toujours de la consolation de cet ami qui est Dieu même. Le Psalmiste dit (23, 4) : *Quand même je marcherais au milieu de l’ombre de la mort, je ne craindrais aucuns maux, parce que vous êtes avec moi.*",
+    "**II**",
+    "Nous avons un ami parce qu’il nous est utile. Et ici même, Dieu l’emporte pour trois raisons : parce qu’il nous est plus utile, plus souvent et plus longtemps.",
+    "L’ami nous communique ses biens; mais Dieu nous donne ses biens et se donne lui-même. *Celui qui n’a pas épargné son propre Fils, qui l’a donné pour nous tous, comment pourrait-il ne pas nous donner toutes choses avec lui?* (Rom., VIII, 32.) Quel est l’ami qui nous donnerait son Fils et son Esprit comme Dieu l’a fait? Il donne ses biens et il nous fait des dons plus précieux, plus grands, plus nombreux, plus durables dans le temps, plus utiles et meilleurs pour atteindre notre fin. Il nous a donné de plus grandes choses et de plus nombreuses dans le passé; il nous donne et ne cesse de donner dans le présent, mais il en donnera de plus grandes et de plus nombreuses dans le futur.",
+    "**III**",
+    "Nous avons un ami parce qu’il est aimable. *L’homme dont la société est agréable, sera plus aimé que le frère* disent les Proverbes (XVIII, 24). Trois qualités concourent à l’amabilité : la grâce du visage, l’affabilité dans les paroles et dans la compagnie, la douceur dans les procédés.",
+    "Et Dieu l’emporte encore sur toute la ligne.",
+    "Elle est *trompeuse et vaine* la beauté que donne la santé, le bon tempérament, la jeunesse. La preuve en est que la maladie enlève la santé; la vieillesse enlève la jeunesse, la mort dissout le tempérament. Mais combien est aimable celui dont le visage *est plein de grâces et que les Anges désirent contempler*, dont la beauté ne s’altère pas, mais qui sauve ceux qui la contemplent. Elle ne vieillit pas, mais donne la jeunesse; elle ne meurt pas, mais elle vivifie pour l’éternité. De même, il est désirable par son affabilité. Il est dit dans l’Exode (33, 11) : *Le Seigneur parlait à Moïse comme un ami.* Il est affable, non point seulement avec les justes, mais encore avec les injustes, comme les publicains, et il est ami des pécheurs.",
+    "Enfin, il est aimable par la douceur de ses manières : *Je suis comme un agneau plein de douceur.* (Ps., 57, 71.)",
+    "*(De l’amour de Dieu, c. X, XI, XII.)*"
+   ],
+   "reserve": "Cette méditation ne repose pas sur une œuvre de saint Thomas : le <i>De dilectione Dei et proximi</i>, que l’édition de 1930 range parmi ses opuscules, est attribué par la critique moderne à Helvic le Teuton, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 184-186",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : De l’amour de Dieu, ch. X, XI et XII",
+     "detail": "Le Corpus Thomisticum publie ce traité sous le nom d’Helvicus Theutonicus.",
+     "url": "https://www.corpusthomisticum.org/xao.html"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 8, a. 1 et a. 3",
+     "detail": "Dieu présent en toutes choses ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1003.html#28529"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 20, a. 2",
+     "detail": "L’amour de Dieu, cause de la bonté des choses ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1015.html#29294"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 23, a. 1",
+     "detail": "La charité, amitié de l’homme avec Dieu ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39723"
+    },
+    {
+     "label": "Catéchisme de l’Église catholique, n. 1829",
+     "detail": "Texte français, site du Saint-Siège.",
+     "url": "https://www.vatican.va/archive/FRA0013/__P60.HTM"
+    }
+   ]
+  },
+  "09-30": {
+   "titre": "Du progrès de l’amour sous le symbole du charbon, de la flamme et de la lumière",
+   "texte": [
+    "En morale, comme dans la nature, on distingue trois états : le froid, le tiède et le chaud. Le tiède tient le milieu entre les deux extrêmes opposés. Par le tiède, on passe du froid au chaud; et ainsi le tiède est quelquefois louable et bon, comme la voie et la disposition à produire la chaleur; mais le tiède est insuffisant; car, le froid ne disparaît pas dans le corps tiède, il y est seulement diminué. Le froid est donc l’état du péché, sans aucune trace d’amour; la tiédeur, c’est l’état de grâce sanctifiante, là où d’abord on a expulsé le froid par son contraire, et radicalement. Par la tiédeur, il y a retour du chaud au froid, et par ce côté, la tiédeur est blâmable. *Parce que tu es tiède, je commencerai à te vomir*, dit l’Apocalypse (III, 16).",
+    "Dans la chaleur, on distingue trois degrés : le chaud simple, le fervent, et l’ardent, c’est-à-dire, la chaleur qui commence, qui croît en ferveur, qui s’achève en ardeur. Or, il y a trois espèces de feu : celui du charbon dans la terre matérielle, celui de la flamme, dans la matière gazeuse, celui de la lumière dans sa matière propre. Et par là nous pouvons symboliser trois ardeurs différentes selon trois états : celui des pénitents, celui des actifs et celui des contemplatifs.",
+    "1° L’état des pénitents a l’ardeur du charbon, c’est-à-dire d’un feu dans une matière terrestre. Isaïe parle de cela (IV, 4) : *Après que le Seigneur aura purifié les souillures des filles de Sion, et qu’il aura lavé Jérusalem du sang qui est au milieu d’elle, par un esprit de justice et un esprit d’ardeur.* Mais dans cet état de pénitence, on trouve aussi des tièdes, des peu chauds, des plus fervents, quelques ardents.",
+    "2° L’état des progressants dans le chemin des bonnes actions; c’est l’ardeur de la flamme, qui tend plutôt vers le haut et qui naît du charbon; en partie, elle est plus noble par sa matière, elle est plus brillante par sa forme. Et dans cet état, tous ne sont pas des ardents; mais il y a des tièdes, des chauds, quelques fervents, très peu d’ardents. Nous en avons un exemple dans les deux disciples d’Emmaüs qui disaient : *Notre cœur n’était-il pas ardent en nous, pendant qu’il nous parlait et nous expliquait les Ecritures?* (Luc, XXIV, 32.) Remarquez ici quels sont ces itinérants et sachez pourquoi ils brûlent. Notez ces deux choses : le mouvement et l’action.",
+    "Dans leur mouvement, considérons quatre points : ils vont deux ensemble, et forment par le nombre, une société de concorde. Ce sont des disciples et non des maîtres. Ils marchent dans le jour et non dans la nuit, au terme où ils tendent; c’est dans le désir de la perfection; car, ils vont à Emmaüs, qui signifie le désir du conseil.",
+    "Leurs actes sont décrits sous trois aspects : ce qu’ils pensent au fond du cœur; c’est la Passion du Christ, et c’est pourquoi ils sont tristes, et non dissipés par les joies du monde. Ce qu’ils disent : ils confèrent entre eux, non pas de vanités, mais des récents événements. Ce qu’ils font : ils exercent l’hospitalité envers un étranger. Et Jésus s’approchant de ces voyageurs, allait et marchait vers eux. Il leur fait un reproche, leur explique les Ecritures et cause ainsi leur ardeur.",
+    "3° L’état de ceux qui se reposent dans la paix de la contemplation : cet état a l’ardeur de la lumière; et cependant, même parmi les contemplatifs, on trouve des chauds, des fervents, mais bien peu d’ardents. Tels les Apôtres assemblés à Jérusalem dans la prière, et recevant le feu divin, et dont saint Grégoire dit : « Pendant qu’ils reçoivent Dieu sous le symbole du feu, ils brûlent doucement d’amour ».",
+    "Ainsi les commençants brûlent utilement, mais péniblement. Les progressants brûlent plus utilement et moins péniblement. Les parfaits brûlent très utilement sans aucune peine, et par là même avec suavité. C’est là cette grande vision, cette ardeur sans peine, suave, sans fatigue, et qui étonnait Moïse, que le buisson brûlât sans se consumer.",
+    "*(De l’amour de Dieu.)*"
+   ],
+   "reserve": "Cette méditation ne repose pas sur une œuvre de saint Thomas : le <i>De dilectione Dei et proximi</i>, que l’édition de 1930 range parmi ses opuscules, est attribué par la critique moderne à Helvic le Teuton, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 187-189",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : De l’amour de Dieu",
+     "detail": "Le Corpus Thomisticum publie ce traité sous le nom d’Helvicus Theutonicus.",
+     "url": "https://www.corpusthomisticum.org/xao.html"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 24, a. 10",
+     "detail": "La charité peut-elle diminuer ; texte latin, Corpus Thomisticum (II-II, q. 23-24) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39864"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 108, a. 5, ad 5",
+     "detail": "Le nom des Séraphins et les propriétés du feu ; texte latin, Corpus Thomisticum (I, q. 103-119) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1103.html#32964"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 11, lect. 3",
+     "detail": "Le joug doux et le fardeau léger ; texte latin, Corpus Thomisticum (la page couvre Matthieu 6, 19 à 12) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cml0619.html#87360"
+    }
+   ]
+  },
+  "10-01": {
+   "titre": "Les effets de l’amour",
+   "texte": [
+    "**I**",
+    "L’amour, c’est une sorte d’adaptation, d’ajustement de la puissance ou faculté de désir, à quelque chose de bon, ou qui paraît l’être. Or, être ainsi ajusté, ou adapté (par la complaisance ou le désir), à quelque chose qui plaît, n’entraîne point, par là même, une lésion, ou dommage; mais plutôt, si c’est possible, une amélioration, un perfectionnement. Mais, si l’on s’adapte, ou si l’on s’ajuste à quelque chose de désharmonique à soi-même il y a, par là même, une lésion et une détérioration (de celui qui se complaît et qui désire). Et donc, l’amour d’un bien harmonisé à soi-même, perfectionne et améliore celui qui l’aime; dans le cas contraire, l’amour nuit et amoindrit en détériorant.",
+    "L’homme trouve donc un maximum de perfection et d’amélioration par l’amour de Dieu; mais, au contraire, il est lésé et détérioré par l’amour du péché, selon cette parole du Prophète Osée (IX, 10) : *Ils sont devenus abominables comme les choses qu’ils ont aimées.*",
+    "Tout ceci doit s’entendre de ce qui est essentiel et principal dans l’amour, c’est-à-dire, de l’amour envisagé du côté de l’appétit, de la faculté de complaisance et de désir de l’âme.",
+    "**II**",
+    "Pour ce qui concerne le côté matériel de l’amour, c’est-à-dire de l’impression corporelle, il arrive que l’amour soit dommageable, par l’excès de cette impression; comme il arrive pour les sens, et pour toute faculté de l’âme qui exerce son action au moyen d’une modification d’un organe corporel, d’un organisme.",
+    "**III**",
+    "Quant à ce que l’on pourrait opposer à ces explications, il faut savoir que l’on peut attribuer à l’amour quatre effets prochains ou immédiats, à savoir : la liquéfaction, la jouissance, la langueur et la ferveur. Le premier d’entre eux, c’est la *liquéfaction*, qui est l’opposé de la congélation. Les choses congelées sont resserrées sur elles-mêmes, au point de ne pas se laisser facilement pénétrer par un autre corps. Or, c’est une loi de l’amour, d’adapter la faculté de désir ou appétit à recevoir le bien qui est aimé, dans le sens que l’on dit que l’aimé est en celui qui l’aime. Il appert, par conséquent, que la congélation ou la dureté est un état, une disposition qui répugne à l’amour et lui est opposée. La liquéfaction, au contraire, comporte une sorte de détrempe du cœur et de tendreté, qui rend le cœur disposé à ce que l’aimé y trouve asile. Si l’aimé est présent et possédé, il y a délectation ou jouissance ou *fruition*. S’il est absent, il y a deux effets : tristesse de l’absence et donc, une *langueur;* et désir intense de la possession de l’aimé, et qu’on appelle *ferveur*.",
+    "Ce sont là les effets de l’amour, pris dans son sens précis et principal, c’est-à-dire, l’état de désir, ou de tension de la faculté appétitive vers son objet. (Le cœur moral, si l’on peut dire.) Mais dans la passion de l’amour, de sa partie matérielle (le cœur sensible) il y a d’autres effets, proportionnés à ceux qu’on vient de dire, par modification et impression organique.",
+    "*(1-2, q. 28, a. 5.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 198-200",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 28, a. 5",
+     "detail": "Référence imprimée par La Moelle (1-2, q. 28, a. 5), exacte : le texte traduit le corps de l’article et la réponse à la première objection. Texte latin, Corpus Thomisticum (I-II, q. 26-39) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2026.html#34739"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 26, a. 2",
+     "detail": "L’amour, complaisance dans le bien ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2026.html#34646"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 28, a. 2 et a. 4",
+     "detail": "L’inhérence mutuelle et le zèle, effets de l’amour ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2026.html#34715"
+    }
+   ]
+  },
+  "10-02": {
+   "titre": "Les Anges gardiens",
+   "texte": [
+    "*Il a commandé à ses Anges de vous garder dans toutes vos voies.* (Ps., 90, 11.)",
+    "**I**",
+    "Chaque âme a un ange député à sa garde.",
+    "Dans l’état de cette vie, l’homme est établi comme sur une route par laquelle il doit tendre à la patrie. Il y est exposé à de nombreux périls, tant de l’intérieur que de l’extérieur, selon cette parole du Psaume (141, 4) : *Ils m’ont tendu un piège en secret dans cette voie où je marchais.* Et de même qu’on donne une garde à ceux qui vont par des chemins peu sûrs, de même à chaque homme, tant qu’il est en route et voyageur, un ange gardien est député. Mais quand il arrivera au terme, alors il n’aura plus de gardien; mais son ange règnera avec lui, tandis que le démon sera puni dans l’enfer.",
+    "**II**",
+    "Un ange est député à la garde de l’homme dès sa naissance.",
+    "Ce que la Providence de Dieu a réglé pour l’homme, en tant qu’il a une nature raisonnable, lui est octroyé dès qu’il reçoit cette nature en naissant; et tel est le bienfait de la garde des anges. Dès sa naissance, l’homme a aussitôt un Ange gardien; non pas avant, parce que l’enfant, tant qu’il est dans le sein maternel, n’est pas totalement séparé de sa mère; mais par une sorte de lien, il est quelque chose d’elle-même; comme le fruit sur l’arbre est quelque chose de l’arbre. Et c’est pourquoi on peut dire que l’ange gardien de la mère, garde aussi l’enfant qu’elle porte dans son sein. Mais à sa naissance, quand il est séparé de sa mère, un Ange est député à sa garde.",
+    "**III**",
+    "Comment quelquefois l’Ange abandonne l’homme.",
+    "La garde des anges est l’exécution d’une providence sur les hommes. Il est évident que ni l’homme, ni quoi que ce soit ne saurait totalement échapper à la divine Providence. Mais on dit que Dieu, selon l’ordre de sa Providence abandonne l’homme, pour autant qu’il permet que l’homme pâtisse de quelque manque, ou de peine ou de faute. Pareillement il faut dire que jamais l’Ange gardien n’abandonne totalement l’homme; mais que quelquefois il le laisse, en n’empêchant pas qu’il ne soit soumis à quelque tribulation, ou même qu’il ne tombe dans quelque péché, selon l’ordre des divins jugements.",
+    "**IV**",
+    "Les Anges ne s’attristent ni des péchés, ni des peines des hommes. La tristesse et la douleur ne proviennent que de ce qui contrarie la volonté. Or, rien n’arrive dans le monde qui soit contraire à la volonté des Anges et des Bienheureux, parce que leur volonté adhère totalement à l’ordre de la divine justice. Et rien ne se fait dans le monde qui ne soit voulu ou permis par la divine justice. Et c’est pourquoi, à parler strictement, rien ne se fait dans le monde contre la volonté des Bienheureux. Aussi, quoique les Anges, à parler universellement et absolument, ne veuillent ni les péchés ni les peines des hommes, ils veulent cependant, qu’en cela, l’ordre de la divine justice soit gardé, selon qu’elle décide que certains seront soumis à des peines et qu’elle permet qu’ils pèchent.",
+    "*(I, q. 113, a. 4 et 5.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 200-202",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : I, q. 113, a. 4 et 5",
+     "detail": "Vérification faite sur le Corpus Thomisticum, les sections I et II de La Moelle traduisent I, q. 113, a. 4 et a. 5 (corps de l’article et ad 3) ; les sections III et IV traduisent les articles 6 et 7 de la même question, que le renvoi imprimé ne mentionne pas.",
+     "url": "https://www.corpusthomisticum.org/sth1103.html#33158"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 113, a. 4-7",
+     "detail": "La garde des anges : sa durée, son commencement, ses abandons apparents, la joie des anges ; texte latin, Corpus Thomisticum (I, q. 103-119) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1103.html#33168"
+    }
+   ]
+  },
+  "10-03": {
+   "titre": "Le signe de l’amour véritable",
+   "texte": [
+    "**I**",
+    "*Celui qui a mes commandements et qui les garde, c’est celui-là qui m’aime.* (Jo., XIV, 21.)",
+    "Le véritable amour est celui qui se donne et se répand en œuvres; car, c’est par l’action que l’amour se manifeste. Aimer quelqu’un, c’est en effet lui vouloir du bien et désirer ce qu’il veut; il ne semble donc pas que l’on aime vraiment, si l’on ne veut pas faire la volonté de celui qu’on aime; ou si l’on ne réalise pas ce que l’on sait qu’il veut. Quiconque ne fait pas la volonté de Dieu, ne semble pas l’aimer vraiment, et c’est ce que dit la parole : *Celui qui a mes commandements et qui les garde, c’est celui-là qui m’aime.*",
+    "Remarquons que l’on a les commandements de Dieu, d’abord dans le cœur, par la mémoire et la méditation continuelle. Mais cela ne saurait suffire, si on ne les observe pas par les œuvres.",
+    "D’autres les ont sur les lèvres, dans leurs paroles et leurs exhortations. Le Psaume (118, 103) dit : *Qu’elles sont douces à mes lèvres, vos paroles.* Et ceux-là aussi doivent les mettre en pratique; car, *C’est celui qui les aura pratiquées et enseignées qui sera dit grand dans le royaume des Cieux.* (Matth., V, 19.) Aussi ceux-là sont blâmés vivement qui disent et ne font pas.",
+    "D’autres les ont dans les oreilles, et les écoutent volontiers et avec zèle. *Celui qui est de Dieu, écoute la parole de Dieu.* (Jo., VIII, 47.) Mais cela ne saurait suffire, si on ne les observe pas. *Ce ne sont pas ceux qui ont entendu la Loi qui seront tenus pour justes.* (Rom., 2, 13.)",
+    "Et donc à celui qui a les commandements et qui les observe en quelque manière, il reste encore l’obligation de les observer avec persévérance. Aussi saint Augustin dit : « Celui qui les a dans la mémoire et les pratique dans sa vie, celui qui les a dans ses paroles et les observe dans ses mœurs, celui qui les a en les entendant, et les observe en les faisant, celui qui les a en les faisant et en persévérant, celui-là est celui qui m’aime ».",
+    "**II**",
+    "*Si vous gardez mes commandements, vous demeurerez dans mon amour, comme moi-même j’ai gardé les commandements de mon Père et comme je demeure dans son amour.* (Jo., XV, 10.)",
+    "Demeurer dans son amour, c’est garder ses commandements. L’observation des commandements est un effet de l’amour de Dieu, non pas seulement de l’amour dont nous l’aimons, mais aussi de l’amour dont il nous aime. Par le fait même que Dieu nous aime, il nous meut et il nous aide à accomplir les commandements, lesquels ne peuvent être accomplis que par la grâce.",
+    "Et il ajoute un exemple en disant : *Comme moi-même j’ai gardé les commandements de mon Père;* car, de même que l’amour dont le Père l’aime est l’exemplaire de l’amour dont il nous aime, de même il a voulu que son obéissance soit l’exemplaire de la nôtre. Et par là, le Christ montre qu’il demeure dans l’amour du Père, parce qu’il a observé en tous points, les commandements du Père. Il a souffert la mort. *Il s’est fait obéissant au Père jusqu’à la mort, et la mort de la Croix.* (Phil., 2, 8.) Il s’est abstenu de tout péché. *Lui, qui n’a pas commis de péché, dans la bouche duquel il ne s’est point trouvé de fausseté* (I Pet., 2, 22.) Tout cela doit s’entendre du Christ en tant qu’homme. *Je fais toujours ce qui lui plaît.* (Jo., VIII, 29.)",
+    "*(Sur saint Jean XV.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 202-204",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : Sur saint Jean XV",
+     "detail": "Vérification faite sur le Corpus Thomisticum, la section II traduit le commentaire de Jean 15, 10 (Super Ioannem, ch. 15, leçon 2) ; la section I vient du chapitre précédent, sur Jean 14, 21 (ch. 14, leçon 5), que le renvoi imprimé ne mentionne pas. La parole de saint Augustin y est citée par saint Thomas.",
+     "url": "https://www.corpusthomisticum.org/cih13.html#87522"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 14, lect. 5",
+     "detail": "Texte latin, Corpus Thomisticum (la page couvre les chapitres 13 à 17) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih13.html#87517"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 15, lect. 2",
+     "detail": "Texte latin, Corpus Thomisticum (la page couvre les chapitres 13 à 17) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih13.html#87522"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 109, a. 4",
+     "detail": "Accomplir les commandements sans la grâce ; texte latin, Corpus Thomisticum (I-II, q. 109-114) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2109.html#38390"
+    }
+   ]
+  },
+  "10-04": {
+   "titre": "De l’amitié entre Dieu et l’homme par la charité",
+   "texte": [
+    "*Je ne vous appelle plus des serviteurs... mais je vous ai appelés amis.* (Jo., XV, 15.)",
+    "**I**",
+    "La charité est une amitié. Tout amour n’est pas amitié, mais l’amour qui est accompagné de bienveillance, c’est-à-dire, quand nous aimons quelqu’un pour lui vouloir du bien. Si nous ne voulons pas du bien aux choses que nous aimons, mais que nous voulions pour nous leur bien, comme quand nous aimons le vin ou un cheval, ce n’est point de l’amitié, mais de la concupiscence. Il est ridicule de dire qu’on a de l’amitié pour le vin ou pour un cheval.",
+    "Mais la bienveillance non plus, ne suffit à constituer l’amitié; il y faut un amour mutuel, réciproque, parce que l’ami est ami à l’ami. Et cette mutuelle bienveillance est fondée sur quelque échange, quelque communication.",
+    "Or, entre l’homme et Dieu, ou de Dieu à l’homme, il y a cette communication, que Dieu nous communique sa béatitude, et c’est sur cette communication qu’il faut que l’amitié soit fondée. Saint Paul parle de cette communication quand il dit (I Cor., I, 9) : *Dieu est fidèle par qui vous avez été appelés à l’union avec son Fils Jésus-Christ, Notre-Seigneur.* Or, l’amour fondé sur cette communication, c’est la charité. Par où l’on voit que la charité est une amitié de l’homme à Dieu.",
+    "**II**",
+    "Par la charité, nous vivons intimement avec Dieu comme avec un ami. Il y a une double vie pour l’homme : l’une extérieure, par sa nature sensible et corporelle; et, par ce côté, il n’y a pour nous, ni communication ni vie intime soit avec Dieu, soit avec les Anges. L’autre vie, c’est la vie spirituelle, par l’esprit; et par ce côté, il y a pour nous une vie intime soit avec Dieu, soit avec les Anges, très imparfaite toutefois dans l’état de la vie présente, mais qui a permis à saint Paul de dire (Phil., III, 20) : *Notre vie est dans le ciel.* Mais cette intimité sera parfaite dans la patrie, quand *ses serviteurs le serviront et ils verront sa face.* (Apoc., XXII, 4.)",
+    "Il y a charité même envers nos ennemis, qui cependant ne répondent pas à notre amour. C’est le précepte du Maître (Matth., V, 44) : *Aimez vos ennemis.* C’est de la charité; et cela s’explique parce que quiconque a de l’amitié pour quelqu’un, ce sera à raison de cette amitié qu’il aimera tout ce qui appartient à son ami, ou qui lui touche en quelque façon, ses enfants, ses serviteurs, etc.; et cette amitié peut être assez vive pour qu’à cause de son ami, il aime ceux qui lui appartiennent, même s’il en est offensé ou haï. C’est en ce sens que l’amitié de charité s’entend même à nos ennemis, que nous aimons de charité pour Dieu, avec qui principalement subsiste l’amitié de charité.",
+    "*(2-2, q. 23, a. 1.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 205-207",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 23, a. 1",
+     "detail": "Référence imprimée par La Moelle (2-2, q. 23, a. 1), exacte : corps de l’article et réponses 1 et 2. Texte latin, Corpus Thomisticum (II-II, q. 23-24).",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39727"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 27, a. 2",
+     "detail": "Bienveillance et amour ; texte latin, Corpus Thomisticum (II-II, q. 27-33) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3027.html#40106"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 15, lect. 3",
+     "detail": "« Je ne vous appelle plus serviteurs » ; texte latin, Corpus Thomisticum (la page couvre les chapitres 13 à 17) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih13.html#87523"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 25, a. 8",
+     "detail": "L’amour des ennemis ; texte latin, Corpus Thomisticum (II-II, q. 25-26) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3025.html#39954"
+    }
+   ]
+  },
+  "10-05": {
+   "titre": "De l’adhésion à Dieu par l’amour",
+   "texte": [
+    "*Celui qui demeure dans la charité demeure en Dieu et Dieu en lui.* (I Jo., IV, 16.)",
+    "Cet effet d’adhésion mutuelle peut s’entendre et de la connaissance et de l’affectivité.",
+    "**I**",
+    "Quant à la connaissance, on dit que l’aimé est en celui qui l’aime, en ce sens que l’aimé séjourne dans la pensée de celui dont il est aimé, selon cette parole de saint Paul (Phil., I, 7) : *Je vous porte dans mon cœur.* Celui qui aime est dit être dans l’aimé par la prise de possession de la connaissance, qui fait qu’il ne saurait se contenter d’une connaissance superficielle de celui qu’il aime, mais qu’il veut le connaître par le détail, qu’il s’informe de sa vie intime et pénètre ainsi son intérieur, comme il est dit de l’Esprit Saint qui est l’amour de Dieu, et qui selon saint Paul : *Scrute les profondeurs mêmes de Dieu.* (I Cor., 2, 10.)",
+    "**II**",
+    "Quant à la partie affective, on dit que l’aimé est dans celui dont il est aimé par une certaine complaisance effective. S’il est présent, on se plaît en lui ou dans ses qualités, ses avantages; s’il est absent, le désir se porte sur lui par un amour de concupiscence, ou sur le bien qu’on lui veut, par l’amour d’amitié; non point pour quelque cause étrangère, comme quand on désire une chose en vue d’une autre, ou comme quand on veut un bien à quelqu’un en vue d’autre chose; mais c’est une complaisance qui a sa source, sa racine, son fondement, sa raison d’être dans l’ami pour ce qu’il est en lui-même. C’est ainsi que l’amour est intime et que l’on parle des entrailles de la charité.",
+    "Par contre, celui qui aime est dans l’aimé, tout autrement par l’amour des concupiscences que par l’amour d’amitié.",
+    "L’amour de concupiscence n’est pas apaisé par la possession de quelque chose d’extérieur, ou quelque possession superficielle, ou par une jouissance quelconque de l’aimé; mais il veut posséder parfaitement l’ami, comme par une compénétration intime. Tandis que dans l’amour d’amitié, celui qui aime est dans l’aimé, en ce sens qu’il regarde comme siens, les biens ou les maux de l’ami, et la volonté de son ami comme la sienne; au point qu’il paraisse éprouver et être affecté des biens et des maux de son ami. Et c’est là le propre des amis d’avoir le même vouloir, et les mêmes peines et les mêmes joies. De telle sorte que celui qui aime, en estimant ainsi comme sien tout ce qui est de l’aimé, semble être dans l’aimé, et comme devenu lui-même. Et à l’inverse, l’aimé est dans celui dont il est aimé, en tant qu’il veut et agit pour son ami comme pour soi-même, et comme tenant son ami comme un autre soi-même.",
+    "On peut encore entendre un troisième mode d’amour mutuel dans l’amour d’amitié, selon la réciprocité, en tant que les amis s’aiment mutuellement et se veulent et se font du bien l’un à l’autre.",
+    "*(1-2, q. 28, a. 2.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 207-208",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 28, a. 1-3",
+     "detail": "Référence imprimée par La Moelle (1-2, q. 28, a. 2), exacte : corps de l’article. Les articles 1 et 3 et les réponses de l’article 2 sont cités dans le commentaire ; texte latin, Corpus Thomisticum (I-II, q. 26-39) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2026.html#34715"
+    }
+   ]
+  },
+  "10-06": {
+   "titre": "De l’admirable privilège de l’amour",
+   "texte": [
+    "*Celui qui m’aime sera aimé de mon Père, et moi je l’aimerai, et je me manifesterai à lui.* (Jo., XIV, 21.)",
+    "*Celui qui m’aime sera aimé de mon Père.* Au premier abord, cela paraît absurde. Est-ce que Dieu nous aime parce que nous l’aimons? Non certes. Il est dit en saint Jean (I Jo., IV, 10) : *Ce n’est pas nous qui avons aimé Dieu, mais lui qui d’abord nous a aimés.* Il faut donc dire que si quelqu’un aime le Christ, c’est parce qu’il est aimé du Père, et non point qu’il est aimé parce qu’il aime. Nous aimons donc le Fils parce que le Père nous aime. C’est une loi de l’amour véritable de provoquer l’amour en retour. Il est dit en Jérémie (31, 3) : *Je vous ai aimée d’un amour éternel; c’est pourquoi je vous ai attirée à moi par la compassion que j’ai eue de vous.* Mais comme l’amour du Père ne saurait être sans l’amour du Fils, puisque c’est le même amour de l’un ou de l’autre (*Tout ce que fait le Père, le Fils le fait*), à cause de cela, il ajoute : *Et moi je l’aimerai.*",
+    "Mais, puisque le Père et le Fils aiment toutes choses, de toute éternité pourquoi dit-il : *Je l’aimerai*, au futur? C’est parce que l’amour, si on le considère tel qu’il se manifeste en action et dans ses effets, il est temporel; et alors, le sens est celui-ci : et moi je l’aimerai, c’est-à-dire, je lui montrerai l’effet de mon amour, parce que *je me manifesterai à lui*, car, je l’aimerai pour cela, pour me manifester.",
+    "Il faut savoir que l’amour de quelqu’un pour un autre, peut s’entendre avec restriction, ou sans restriction. Il est restreint quand on veut à quelqu’un un bien particulier; il est absolu, quand on lui veut tout bien. Or, Dieu aime toute créature en un sens restreint, parce qu’il veut à chacune d’elles un bien quelconque, même aux démons, à savoir qu’ils vivent, qu’ils connaissent, qu’ils existent; et tout cela ce sont des biens. Il aime sans restriction ceux à qui il veut tout le bien, c’est-à-dire, qu’ils possèdent Dieu, ce qui est posséder la vérité; car, Dieu est la Vérité. Et on possède la Vérité quand on le connaît.",
+    "Dieu donc aime vraiment et sans limite ceux à qui il se manifeste lui-même, lui qui est la Vérité. Et c’est cela qu’il dit : *Je me manifesterai à lui*, c’est-à-dire, dans le futur, par la gloire, qui est le dernier effet de la béatitude future. Job dit (36, 33) : *Il fait connaître à celui qu’il aime, que la lumière est son partage.* Et la Sagesse (VI, 14) : *Elle prévient ceux qui la désirent et elle se montre à eux la première.*",
+    "*(Sur saint Jean, XIV.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 209-210",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 14, lect. 5",
+     "detail": "Référence imprimée par La Moelle (Sur saint Jean, XIV), exacte : commentaire de Jean 14, 21. Texte latin, Corpus Thomisticum (la page couvre les chapitres 13 à 17) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih13.html#87517"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 15, lect. 3",
+     "detail": "Texte latin, Corpus Thomisticum (la page couvre les chapitres 13 à 17) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih13.html#87523"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 20, a. 3-4",
+     "detail": "Dieu aime-t-il toutes choses également ; aime-t-il davantage les meilleures. Texte latin, Corpus Thomisticum (I, q. 15-27) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1015.html#29308"
+    }
+   ]
+  },
+  "10-07": {
+   "titre": "Comment Dieu se manifeste à ceux qui l’aiment",
+   "texte": [
+    "*Si quelqu’un m’aime, il gardera ma parole, et mon Père l’aimera, et nous viendrons à lui, et nous ferons en lui notre demeure.* (Jo., XIV, 23.)",
+    "**I**",
+    "Deux conditions rendent l’homme apte à la manifestation de Dieu : la charité et l’obéissance. *Si quelqu’un m’aime*, vise la charité. Or, trois choses sont nécessaires à qui veut voir Dieu : *a*) Il faut s’approcher de Dieu. *b*) Il faut lever les yeux vers lui, pour voir, Isaïe dit (40, 26) : *Levez les yeux en haut et regardez : Qui a créé ces choses?* *c*) Il faut s’appliquer à voir; car, les choses spirituelles ne peuvent être vues que si l’on donne congé aux choses terrestres. *Regardez et voyez combien le Seigneur est doux.* (Ps., 33, 9.)",
+    "Or, la charité divine réalise ces trois conditions : d’abord elle unit l’âme à l’Homme-Dieu : *Celui qui demeure dans la charité, demeure en Dieu.* (I Jo., IV.) C’est elle qui élève le regard vers Dieu : *Là où est votre trésor, là est votre cœur.* (Matth., VI, 21.) On dit couramment : là où est votre cœur, là est votre pensée. C’est la charité qui nous fait donner congé aux choses du monde. *Si quelqu’un aime le monde, la charité du Père n’est pas en lui.* (I Jo., 2, 15.) Au contraire, celui qui aime parfaitement le Père, l’amour du monde n’est pas en lui.",
+    "De la charité découle l’obéissance; aussi il ajoute : *il gardera ma parole.* Comme dit saint Grégoire : « La preuve de l’amour, ce sont les œuvres. Jamais l’amour de Dieu n’est oisif; s’il est réel, il fait de grandes choses; s’il refuse d’agir, ce n’est pas l’amour ». Quand la volonté est fortement tendue vers Dieu qui est sa fin, elle met en mouvement toutes les puissances, pour faire tout ce qui mène à Dieu. On est tendu vers Dieu par la charité; et c’est pourquoi, c’est la charité qui nous fait observer les commandements. Et par l’obéissance, l’homme devient apte à voir Dieu. *Par tes ordonnances observées par moi, je deviens intelligent.* (Ps., 118, 103.)",
+    "**II**",
+    "Trois conditions réalisent la manifestation de Dieu à l’homme :",
+    "1° L’amour de Dieu pour nous : *Mon Père l’aimera.* L’*aimera*, au futur, quant à l’effet de cet amour, bien que cet amour soit éternel, quant à la volonté de faire du bien.",
+    "2° La visite divine : *Et nous viendrons à lui.* Dieu vient à quelqu’un, quand il est d’une manière nouvelle là où il est, et selon laquelle il n’était pas, c’est-à-dire, par un effet de grâce, et par cet effet de grâce, il nous fait accéder à lui.",
+    "3° La persévérance dans ces deux conditions, c’est-à-dire, dans l’amour de Dieu pour nous et sa visite. *Et nous ferons en lui notre demeure.* Et par cette parole, est désignée d’abord la fermeté de l’adhésion de son amour, quand il dit : *notre demeure.* Car, Dieu vient à certains par la foi, mais ne demeure pas, *parce qu’ils croient pour un temps et se retirent au moment de la tentation.* Il vient à d’autres par la componction du péché, et cependant il ne demeure pas, parce qu’ils retournent à leurs péchés. Mais dans ses prédestinés, il demeure toujours.",
+    "Est signalée ensuite la familiarité du Christ pour les hommes : nous ferons *en lui*, c’est-à-dire, en celui qui aime, qui obéit, parce qu’il est une joie pour nous et nous fait nous plaire en lui-même.",
+    "*(Sur saint Jean, XIV.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 210-212",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 14, lect. 6",
+     "detail": "Référence imprimée par La Moelle : Sur saint Jean, XIV ; vérifiée, le texte de la méditation suit cette leçon. Texte latin, Corpus Thomisticum (la page couvre les chapitres 13 à 17) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih13.html#87518"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 43, a. 3 et a. 6",
+     "detail": "La mission invisible des personnes divines ; texte latin, Corpus Thomisticum (la page couvre I, q. 28-43) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1028.html#30231"
+    }
+   ]
+  },
+  "10-08": {
+   "titre": "Le chemin pour trouver Jésus",
+   "texte": [
+    "**I**",
+    "*Jésus se retira de la foule du peuple qui était là.* (Jo., V.) L’Evangile dit cela pour donner à comprendre que le Christ ne se trouve pas facilement dans la multitude des hommes et dans le tourbillon des soucis temporels, mais dans le secret spirituel. Il est dit dans Osée (2, 14) : *Je la conduirai au désert, et là, je lui parlerai au cœur;* car, les paroles des sages s’écoutent en silence. La vie spirituelle de l’homme consiste dans le repos spirituel. *C’est dans le repos que serait votre force* dit Isaïe (30, 15).",
+    "*Peu après, Jésus trouva l’homme guéri dans le Temple.* (Jo., V.) Deux choses dans ces paroles : la manière de chercher et l’endroit. La manière est admirable, car Jésus ne se trouve que s’il nous cherche : d’où le mot *Jésus le trouva.* L’homme ne peut pas trouver le Christ par sa propre vertu, si le Christ ne se présente pas à lui. Le lieu où le Christ est trouvé est vénérable, c’est le Temple. *Le Seigneur est dans son temple* dit le Psaume (10, 5). Et sa Mère l’a aussi trouvé dans le Temple.",
+    "Il faut donc entendre que cet homme que Jésus a trouvé, n’était pas appliqué à la vanité, mais à une occupation religieuse, en fréquentant le Temple, et c’est là qu’il a connu le Christ. Si nous voulons arriver à la connaissance du Créateur, il faut fuir la multitude des désirs mauvais, la compagnie des méchants, et nous réfugier au Temple de notre cœur, que Dieu a daigné visiter et habiter.",
+    "*(Sur saint Jean, V.)*",
+    "**II**",
+    "*Prévaricateurs, revenez donc à votre cœur.* (Is., 46, 8.)",
+    "L’homme doit rentrer en lui-même et revenir à son cœur :",
+    "1° Comme à un tribunal de justice, pour se discuter. *Je méditais durant la nuit au fond de mon cœur, et m’entretenant en moi-même, j’agitais et je roulais dans mon esprit plusieurs pensées.* (Ps., 76, 7.)",
+    "2° Comme au principe de la vie, pour se garder. *Appliquez-vous avec tout le soin possible à la garde de votre cœur, parce qu’il est la source de la vie.* (Prov., V, 23.)",
+    "3° Comme à un auditoire de la divine parole, pour y apporter une attention diligente. *Je la conduirai dans le désert...* (Osée)",
+    "4° Comme à un trésor des divines paroles, pour le conserver. *Je garde ta parole cachée dans mon cœur, pour ne pas pécher contre toi.* (Ps., 118, 11.)",
+    "5° Comme au cénacle de la paix divine et de la réfection. Le Psalmiste disait de ceux qui font le contraire (27, 3) : *Ils parlent de paix avec leur prochain, et dans leur cœur ils ne pensent qu’à faire du mal.*",
+    "*(Sur Isaïe, 46, 8.)*",
+    "**III**",
+    "Mais peut-être faudrait-il ajouter ici cette parole de Jean-Baptiste : *Il y a quelqu’un au milieu de vous et que vous ne connaissez pas. Au milieu de vous* en ce sens, que dans l’intelligence de tous, reluit le Fils de Dieu, Sagesse divine; car, tout ce qui est lumière et sagesse dans l’homme, provient de la participation du Verbe. Il est dit *au milieu*, car, au milieu du corps de l’homme, est le cœur à qui on attribue une certaine sagesse et intelligence. C’est pourquoi, bien que l’intelligence n’ait point d’organe corporel, cependant comme le cœur est le principal organe, on a coutume de le prendre pour l’intelligence. Et de là vient que *être au milieu* se dit par cette comparaison, en tant « qu’il illumine tout homme venant en ce monde ». *Revenez donc à votre cœur*, c’est-à-dire, à votre intelligence. *Que vous ne connaissez pas*, cependant, parce que *la lumière luit dans les ténèbres et les ténèbres ne l’ont point reçue.* (Jo., I.)",
+    "*(Sur saint Jean, I.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 213-215",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 5, lect. 2",
+     "detail": "Référence imprimée par La Moelle pour la première partie : Sur saint Jean, V ; vérifiée. Texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih05.html#87452"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Isaiam, cap. 46",
+     "detail": "Référence imprimée par La Moelle pour la deuxième partie : Sur Isaïe, 46, 8 ; vérifiée. Le texte latin renvoie à « Prov. 4 » là où La Moelle imprime « Prov., V, 23 ». Texte latin, Corpus Thomisticum (la page couvre les chapitres 40 à 49) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cis40.html#85006"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 1, lect. 13",
+     "detail": "Référence imprimée par La Moelle pour la troisième partie : Sur saint Jean, I ; vérifiée. La phrase « Revenez donc à votre cœur, c’est-à-dire, à votre intelligence » est une liaison de l’ouvrage, qui rattache ce passage au précédent. Texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih01.html#87431"
+    }
+   ]
+  },
+  "10-09": {
+   "titre": "De l’illumination intérieure",
+   "texte": [
+    "*Tout ce que j’ai entendu de mon Père, je vous l’ai fait connaître.* (Jo., XIV, 15.)",
+    "**I**",
+    "En quoi consiste cette illumination? Le véritable signe de l’amitié, c’est que l’ami révèle à son ami les secrets de son cœur. Les amis n’ayant qu’un cœur et qu’une âme, celui qui dit ses secrets à son ami, ne semble pas les verser au-dehors de lui-même. *Traitez de votre affaire avec votre ami et ne découvrez point votre secret à un étranger.* (Prov., 25, 9.) Dieu, en nous donnant part à sa sagesse, nous révèle ses secrets. *Elle se répand parmi les nations, dans les âmes saintes, et elle forme les amis de Dieu et les Prophètes.* (Sap., VII, 27.)",
+    "Mais comment cela est-il vrai? Si le Christ a tout révélé à ses disciples, il s’ensuit qu’ils en savaient autant que le Fils? Il faut dire avec saint Jean Chrysostome : *Tout ce que j’ai entendu*, et qu’il faut que vous entendiez, *je vous l’ai fait connaître;* mais non pas *tout*, sans aucune restriction. *J’ai encore beaucoup de choses à vous dire, mais que vous ne pouvez porter à présent.*",
+    "D’après saint Augustin, le Seigneur, à cause de la certitude de ce qu’il a à dire, emploie le passé pour le futur, de sorte que le sens est celui-ci : *Je vous ai fait connaître*, c’est-à-dire, je vous ferai connaître en plénitude, selon ce que dit saint Paul : *Alors, je connaîtrai parfaitement, comme je suis connu* (I Cor., XIII, 12.) Ailleurs (Jo., XVI, 25) le Christ a dit : *L’heure vient où je vous parlerai ouvertement du Père*, c’est-à-dire quand il nous introduira dans la vision du Père. Tout ce que sait le Fils, le Père le sait. Quand donc il nous révèlera le Père, il nous révèlera tout ce qu’il sait.",
+    "D’après saint Grégoire, et mieux : Il y a deux connaissances des choses divines : l’une imparfaite et qui a lieu par la foi, laquelle est un avant-goût de la future béatitude et de la connaissance que nous aurons dans la patrie. Et de cette connaissance le Christ a dit : « Je vous ai fait connaître, c’est-à-dire dans la foi, comme un avant-goût, de même que les conclusions sont virtuellement dans les principes. Et c’est en ce sens que saint Grégoire dit : « Tout ce qu’il a fait connaître à ses serviteurs, ce sont les joies de la charité intérieure et les fêtes de la patrie céleste, toutes choses qu’il imprime tous les jours dans les âmes par l’élan de son amour; car, en entendant parler des choses célestes, nous les aimons, déjà en les aimant nous les connaissons, parce que l’amour même est une connaissance.",
+    "*(Sur saint Jean, XV.)*",
+    "**II**",
+    "Il y a trois dispositions à l’illumination intérieure :",
+    "1° Le détachement des joies passagères, selon ce que dit Isaïe (28, 9) : *A qui veut-il enseigner la sagesse? Et à qui fait-il la leçon? A des enfants à peine sevrés, détachés de la mamelle*, c’est-à-dire de la consolation ou délectation terrestre. Aussi sur cette parole de saint Jean (I, 10) : *Le monde ne l’a pas connu*, saint Jean Chrysostome dit : « Il appelle « monde » les hommes qui sont attachés exclusivement au monde et qui ne goûtent que le monde. Rien ne trouble autant l’esprit et ne fait s’écouler le cœur dans l’amour du présent.",
+    "2° La recherche de la source de lumière : *Approchez-vous et soyez illuminés.* (Ps., 33, 6.) Et saint Augustin dit : « L’âme placée entre Dieu et les créatures est illuminée en se tournant vers Dieu, elle est améliorée et perfectionnée; en se tournant au contraire vers les créatures, elle est enténébrée, détériorée, tuée ».",
+    "3° La dilatation intérieure du cœur et qui requiert un effort de l’homme lui-même. Le Psaume (80, 11) dit : *Dilatez votre bouche*, et la Glose ajoute la bouche de votre cœur, *et je la remplirai*, la Glose : du pain de vie et d’intelligence. Sur quoi saint Augustin dit que de même que Dieu, par son éternelle libéralité, remplit toutes les créatures selon leur capacité, de même par le Christ vertu de Dieu et sagesse de Dieu, nous viennent tous les biens, lorsque dans son avènement nous sommes gratifiés dans notre être, que nous sommes consolés dans la manière de vivre, que nous sommes illuminés dans l’activité de l’intelligence.",
+    "*(De l’humanité du Christ, c. 72.)*"
+   ],
+   "reserve": "La seconde partie de cette méditation ne repose pas sur une œuvre de saint Thomas : le <i>De humanitate Christi</i>, que l’édition de 1930 range parmi ses opuscules, est publié par le Corpus Thomisticum comme l’œuvre d’un auteur inconnu. La première partie, elle, vient du commentaire authentique de saint Thomas sur saint Jean. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes ne s’appuie que sur des œuvres authentiques.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 215-218",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 15, lect. 3",
+     "detail": "Référence imprimée par La Moelle pour la première partie : Sur saint Jean, XV ; vérifiée. L’épigraphe imprimée « Jo., XIV, 15 » renvoie au verset « quaecumque audivi a Patre meo, nota feci vobis », que saint Thomas commente au chapitre 15. Texte latin, Corpus Thomisticum (la page couvre les chapitres 13 à 17) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih13.html#87523"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : De l’humanité du Christ, c. 72",
+     "detail": "Le Corpus Thomisticum publie ce traité, d’après l’édition de Parme (1864), comme l’œuvre d’un auteur inconnu (« Ignotus Auctor ») ; le passage de la seconde partie s’y lit à l’article 24, non au chapitre 72.",
+     "url": "https://www.corpusthomisticum.org/xth.html#91186"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 4, a. 1",
+     "detail": "La définition de la foi ; texte latin, Corpus Thomisticum (la page couvre II-II, q. 1-16) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3001.html#38945"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 12, a. 6",
+     "detail": "Ceux qui voient Dieu le voient plus ou moins parfaitement selon leur charité ; texte latin, Corpus Thomisticum (la page couvre I, q. 3-14) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1003.html#28728"
+    }
+   ]
+  },
+  "10-10": {
+   "titre": "De la joie spirituelle",
+   "texte": [
+    "*Réjouissez-vous en tout temps dans le Seigneur. Je le répète : réjouissez-vous. Que votre modération soit, à tout le monde, notoire. Le Seigneur est proche.* (Phil., IV, 4.)",
+    "**I**",
+    "Il est nécessaire, pour quiconque veut progresser, d’avoir la joie spirituelle. *Un cœur joyeux est un excellent remède*, disent les Proverbes (XVII, 22). Saint Paul touche ici les quatre conditions de la vraie joie :",
+    "1° Qu’elle soit selon l’ordre, ce qui a lieu quand elle a pour objet le bien propre de l’homme, qui n’est pas un bien créé, mais Dieu. *C’est mon avantage de demeurer attaché à Dieu* (73, 28). La joie est selon l’ordre quand elle est dans le Seigneur. C’est pourquoi il dit : *Réjouissez-vous dans le Seigneur.*",
+    "2° Qu’elle soit continuelle. Il dit : *en tout temps*. Et ceci a lieu quand elle n’est pas interrompue par le péché; car, alors, elle est continue. Mais quelquefois elle est interrompue par la tristesse temporelle, et c’est le signe de l’imperfection de la joie. Quand la joie est parfaite, elle est sans interruption, parce qu’elle ne se soucie pas de ce qui dure peu. C’est pourquoi il dit : *en tout temps*.",
+    "3° Elle doit être multipliée. Si vous vous réjouissez en Dieu, vous devez vous réjouir de son Incarnation. Il est dit en saint Luc (c. I) : *Je vous annonce une grande joie, il vous est né aujourd’hui un Sauveur.* Vous vous réjouirez dans l’action. Vous vous réjouirez dans la contemplation. *Sa conversation n’a rien de désagréable.* (Sap., VIII, 16.) Et vous vous réjouirez du présent et aussi du futur. C’est pourquoi il dit : *Je le répète : réjouissez-vous.*",
+    "4° Elle doit être modérée, pour ne pas s’écouler dans les voluptés, comme fait la joie du monde. C’est pourquoi il dit : *Que votre modération soit notoire.* Comme s’il disait : Que votre joie soit modérée et ne dégénère pas en dissipation. *Celui qui se plaît dans les réunions où l’on boit le vin, laisse la honte dans les citadelles.* (Prov., XII, 11.) Et il dit : *Qu’elle soit notoire à tout le monde*, comme s’il disait : Que votre vie soit modérée dans les choses extérieures, afin de n’offenser le regard de personne; car, cela nuirait à votre vie.",
+    "**II**",
+    "Quand il dit ensuite : *Le Seigneur est proche*, il indique la cause de la joie. Chacun se réjouit de la proximité d’un ami. Le Seigneur est proche d’une présence de majesté. *Il n’est pas loin de chacun de nous*, dit l’Apôtre. (Act., XVII.) De même il est proche de nous par la proximité de la chair; *Vous qui jadis étiez loin, vous avez été rendus proches par le sang du Christ.* (Eph., 2, 13.) De même par l’inhabitation de la grâce. *Approchez-vous de Dieu et il s’approchera de vous.* (Jac., IV.) De même il est proche par sa facilité à nous exaucer. *Dieu est tout proche de ceux qui l’invoquent.* (Ps., 144.) Et encore, pour nous récompenser. *Son temps est proche et ses jours ne sont pas éloignés* dit Isaïe (XIV, I.)",
+    "*(Sur l’Epître aux Phil., IV.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 218-220",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Epistolam ad Philippenses, cap. 4, lect. 1",
+     "detail": "Référence imprimée par La Moelle : Sur l’Épître aux Philippiens, IV ; vérifiée, le texte de la méditation s’y lit. Texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cpl.html#87843"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 28, a. 1-4",
+     "detail": "La joie, effet de la charité ; texte latin, Corpus Thomisticum (II-II, q. 27-33) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3027.html#40160"
+    }
+   ]
+  },
+  "10-11": {
+   "titre": "La paix",
+   "texte": [
+    "*Que la paix de Dieu qui passe toute conception garde vos cœurs et vos pensées dans le Christ Jésus.* (Phil., III, 6.)",
+    "**I**",
+    "Selon saint Augustin, la paix, c’est la tranquillité de l’ordre, et la perturbation de l’ordre amène la destruction de la paix. Cette tranquillité de l’ordre s’entend de trois manières, et c’est pourquoi saint Paul dit : *La paix de Dieu qui passe toute conception... Qu’elle garde vos cœurs... qu’elle garde vos pensées...*",
+    "1° La paix peut s’envisager en tant qu’elle est dans le principe de l’ordre, c’est-à-dire en Dieu. De cette profondeur où est la paix, elle dérive d’abord et plus parfaitement dans les bienheureux en qui il n’y a aucun trouble, ni de faute, ni de peine; et elle dérive ensuite dans les autres saints, les sanctifiés par la grâce. Et plus on est saint, moins on éprouve de trouble dans l’esprit. *Il y a une grande paix pour ceux qui aiment votre loi*, dit le Psaume (118, 165). Et comme notre cœur ne saurait être à l’abri de tout trouble que par Dieu, il faut que cette paix se fasse par lui. C’est pourquoi saint Paul dit : *de Dieu*.",
+    "Et par cette considération de la paix dans son principe, qui est Dieu, elle dépasse toute conception, toute pensée créée, comme le dit saint Paul (I Tim., VI, 16) : *Elle habite une lumière inaccessible.* La paix de la patrie, dépasse toute pensée des Anges; mais telle qu’elle est dans les saints de cette vie voyagère, elle dépasse toute pensée humaine de ceux qui n’ont pas la grâce. *A celui qui sera vainqueur je donnerai une manne cachée*, dit l’Apocalypse (2, 17).",
+    "2° Et donc que cette paix garde vos cœurs, c’est-à-dire vos sentiments pour que vous ne décliniez pas du bien. *Appliquez-vous avec tout le soin possible à la garde de votre cœur, parce qu’il est la source de la vie.* (Prov., IV, 23.)",
+    "3° Qu’elle garde aussi vos pensées, c’est-à-dire, pour que vous ne décliniez pas du vrai. Et cela *dans le Christ Jésus* dont la charité préserve les cœurs de tout mal et dont la foi fait persévérer l’intelligence dans la vérité.",
+    "*(Sur l’Epître aux Philippiens, c. 4.)*",
+    "**II**",
+    "La paix est le souverain bien, comme on le voit d’après saint Paul qui, en tête de toutes ses lettres, souhaite toujours la grâce et la paix, en ces termes : *Que la grâce et la paix soient avec vous;* ou bien : *A vous la grâce et la paix.* La grâce est le premier des dons de Dieu; car c’est par elle que l’impie est justifié. Mais la paix en est le dernier, qui sera parfait dans la béatitude. *Il a établi la paix jusqu’aux confins de tes états.* (Ps., 147, 14.) Alors ce sera la paix parfaite, quand la volonté se reposera dans la plénitude de tout bien, conséquent à l’immunité de tout mal.",
+    "Les biens que souhaite l’Apôtre sont deux : la grâce et la paix en qui sont inclus tous les biens spirituels. Le premier, c’est la grâce qui est le principe de la vie spirituelle à qui on attribue la rémission des péchés, qui est le premier pas dans la vie spirituelle. Pas de vraie vie spirituelle si d’abord on ne meurt au péché. Le second, c’est la paix, qui est le repos de l’esprit dans la fin, que la Glose appelle la réconciliation avec Dieu. Et ainsi, en souhaitant le principe et la fin de tous les biens spirituels, saint Paul enferme comme entre deux limites le désir de tout bien qui puisse leur arriver. *Le Seigneur donnera la grâce et la gloire.* (Ps., 83, 12.)",
+    "*(Sur l’Epître aux Galates, c. I.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 220-222",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Epistolam ad Philippenses, cap. 4, lect. 1",
+     "detail": "Référence imprimée par La Moelle : Sur l’Épître aux Philippiens, c. 4 ; vérifiée, la première partie s’y lit (sur Philippiens 4, 7). Le verset cité en tête de la méditation est Philippiens 4, 7, non III, 6 comme l’imprime l’ouvrage. Texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cpl.html#87843"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : Sur l’Épître aux Galates, c. I",
+     "detail": "Vérification faite sur le Corpus Thomisticum, seul le second alinéa de la deuxième partie se lit dans Super ad Galatas, cap. 1, lect. 1 (la grâce, principe, et la paix, fin des biens spirituels). Le premier alinéa (la grâce, premier des dons, la paix, le dernier, parfaite quand la volonté se reposera dans la plénitude de tout bien) se lit dans Super ad Romanos, cap. 1, lect. 4.",
+     "url": "https://www.corpusthomisticum.org/cgl.html#87745"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Epistolam ad Romanos, cap. 1, lect. 4",
+     "detail": "La grâce et la paix, premier et dernier des biens ; texte latin, Corpus Thomisticum (la page couvre le chapitre 1, leçons 1 à 4).",
+     "url": "https://www.corpusthomisticum.org/cro011.html#86169"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 29, a. 1-3",
+     "detail": "La paix, effet de la charité ; texte latin, Corpus Thomisticum (II-II, q. 27-33) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3027.html#40193"
+    }
+   ]
+  },
+  "10-12": {
+   "titre": "La préparation à la vie contemplative par les vertus morales",
+   "texte": [
+    "**I**",
+    "Les vertus morales ne sont pas un élément constitutif de la vie contemplative. La raison en est que la contemplation a pour fin la considération de la vérité. Mais elles appartiennent à la vie contemplative à titre de dispositions préalables. En effet l’acte de contemplation, qui fait l’essence de la vie contemplative, se heurte à un double obstacle : à la violence des passions qui détourne l’intention de l’âme de l’intelligible vers le sensible, et aux agitations extérieures. Or les vertus morales mettent un frein à la violence des passions et apaisent les agitations qui proviennent des occupations extérieures. C’est pourquoi les vertus morales appartiennent à la vie contemplative en qualité de dispositions préalables.",
+    "Saint Grégoire dit : « La vie contemplative foulant aux pieds tout autre soin, brûle du désir de voir la face de son Créateur ». A quoi nul ne peut parvenir que par la pureté du cœur, fruit des vertus morales. Il est écrit en effet (Matth., V, 8) : *Heureux les cœurs purs, car ils verront Dieu* et ailleurs (Heb., XII, 14) : *Recherchez la paix avec tout le monde et la sainteté sans laquelle nul ne verra Dieu.* Et de fait, la sainteté, au sens de pureté, est le fruit des vertus morales, auxquelles il appartient de modérer les passions qui troublent la pureté de la raison. La paix, elle, est l’œuvre de la justice, vertu régulatrice des actions, selon le mot d’Isaïe (32, 17) : *L’œuvre de la justice, c’est la paix.* Celui, en effet, qui s’abstient de porter préjudice à autrui, supprime les occasions de litige et de troubles. Et c’est ainsi que les vertus morales disposent à la vie contemplative en créant la paix extérieure et la pureté intérieure.",
+    "*(2-2, q. 180, a. 2.)*",
+    "**II**",
+    "Qui est apte à la vie contemplative?",
+    "Ceux qui sont enclins à la passion, à cause de leur besoin d’activité, ont une aptitude particulière pour la vie active, à raison de leur esprit sans cesse en mouvement. Aussi saint Grégoire écrit-il : « Certaines personnes ont l’esprit si remuant que, s’il arrivait qu’elles fussent désœuvrées, ce serait pour elles la source d’un plus pénible labeur. Les agitations du cœur deviennent chez elles d’autant plus accablantes qu’elles ont davantage le loisir de penser ».",
+    "D’autres, au contraire, ont l’esprit naturellement simple et tranquille; ce qui les rend aptes à la contemplation. S’il arrivait qu’elles fussent jetées tout entières dans l’action, ce leur serait un préjudice. D’où le mot de saint Grégoire : « Certaines personnes ont l’esprit si peu actif que, jetées dans les occupations extérieures, elles y succombent sur-le-champ ». Mais, ajoute-t-il, « on voit souvent l’amour exciter à l’ouvrage des esprits paresseux et la crainte apaiser dans la contemplation des esprits agités ».",
+    "D’où il suit que ceux qui sont plus aptes à la vie active peuvent, en exerçant cette vie, se disposer à la vie contemplative; et que, d’autre part, ceux qui sont plus aptes à la vie contemplative, peuvent néanmoins subir les exercices de la vie active pour y trouver un surcroît de préparation à la vie contemplative.",
+    "*(2-2, q. 182, a. 4, ad. 3ᵐ.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 222-224",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 180, a. 2 et q. 182, a. 4, ad 3",
+     "detail": "Références imprimées par La Moelle : 2-2, q. 180, a. 2 et q. 182, a. 4, ad 3 ; vérifiées, la première partie reprend le corps de l’article, l’objection 2 et la réponse 2, la seconde la réponse 3. Texte latin, Corpus Thomisticum (II-II, q. 179-182) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3179.html#46114"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 180, a. 1 et q. 182, a. 3",
+     "detail": "La volonté dans la vie contemplative ; la vie active, obstacle et aide de la contemplation. Texte latin, Corpus Thomisticum (II-II, q. 179-182) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3179.html#46106"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 5, lect. 2",
+     "detail": "Les béatitudes des cœurs purs et des pacifiques, reportation de Pierre d’Andria ; texte latin, Corpus Thomisticum (la page couvre Matthieu 5, 1-10a) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cma0500.html#87340"
+    }
+   ]
+  },
+  "10-13": {
+   "titre": "L’excellence de la vie contemplative",
+   "texte": [
+    "*Marie a choisi la meilleure part qui ne lui sera pas enlevée.* (Luc., X, 45.)",
+    "Absolument parlant, la vie contemplative est supérieure à la vie active :",
+    "1° La vie contemplative convient à l’homme suivant ce qu’il y a de plus relevé en lui, c’est-à-dire l’intelligence, à savoir les intelligibles. La vie active, elle, est tout occupée de choses extérieures. Aussi le nom de Rachel, figure de la vie contemplative, s’interprète-t-il : « le principe vu », tandis que la vie active est figurée par Lia aux yeux malades selon saint Grégoire.",
+    "2° La vie contemplative peut durer plus longtemps, quoique non pas dans son degré suprême. Aussi montre-t-on Marie, figure de la vie contemplative, assise, sans en bouger, aux pieds du Seigneur.",
+    "3° Il y a plus de joie dans la vie contemplative que dans la vie active. D’où ce mot de saint Augustin : « Marthe s’agitait, Marie se régalait ».",
+    "4° Dans la vie contemplative l’homme se suffit davantage à soi-même, ayant pour s’y livrer, besoin de moins de choses. D’où cette parole : *Marthe, Marthe, tu t’inquiètes et te troubles en vue de beaucoup de choses.* (Luc., X, 41.)",
+    "5° La vie contemplative est davantage aimée pour elle-même, tandis que la vie active est ordonnée à autre chose. Il est dit au Psaume (26, 4) : *J’ai demandé au Seigneur une seule chose, et c’est elle que j’entends poursuivre, qui est d’habiter la maison du Seigneur tous les jours de ma vie pour voir les délices du Seigneur.*",
+    "6° La vie contemplative se présente comme un repos et une tranquillité, selon le mot du Psaume (45, 11) : *Donnez-nous du repos et voyez que je suis Dieu.*",
+    "7° La vie contemplative se tient dans la sphère du divin, la vie active dans celle de l’humain. *Au commencement était le Verbe,* écrit saint Augustin : Voilà celui que Marie écoutait. *Le Verbe s’est fait chair :* Voilà celui que Marthe servait.",
+    "8° La vie contemplative appartient à ce qu’il y a de proprement humain dans l’homme, c’est-à-dire à l’intelligence, tandis que les facultés inférieures, communes à l’homme et à la bête, ont part aux opérations de la vie active.",
+    "9° Le Seigneur ajoute une neuvième raison quand il dit (Luc, X, 43) : *Marie a choisi la meilleure part et elle ne lui sera pas enlevée.* Ce que saint Augustin explique : « Tu n’as pas choisi une mauvaise part, mais elle en a choisi une meilleure. Ecoute pourquoi elle est meilleure : parce qu’elle ne lui sera pas enlevée. A toi, on pourra enlever le fardeau de la nécessité; la douceur de la vérité est éternelle ».",
+    "Mais d’un point de vue particulier et dans un cas donné, à cause des nécessités de la vie présente, il arrive que la vie active doive être préférée. Même Aristote le reconnaît : « Il vaut mieux philosopher que gagner de l’argent; mais pour celui qui est dans le besoin, gagner de l’argent est préférable ».",
+    "*(2-2, q. 182, a. I.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 224-226",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 182, a. 1",
+     "detail": "Référence imprimée par La Moelle : 2-2, q. 182, a. I ; exacte (la méditation traduit le corps de l’article ; ses renvois à Luc x, 45 et x, 43 visent Luc 10, 42). Texte latin, Corpus Thomisticum (II-II, q. 179-182) ; traduction d’Ad Fontes pour la réponse ad 3.",
+     "url": "https://www.corpusthomisticum.org/sth3179.html#46210"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 3, a. 5",
+     "detail": "La béatitude consiste davantage dans l’intellect spéculatif ; texte latin, Corpus Thomisticum (I-II, q. 1-5) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2001.html#33579"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 180, a. 8",
+     "detail": "La durée de la vie contemplative ; texte latin, Corpus Thomisticum (II-II, q. 179-182) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3179.html#46169"
+    }
+   ]
+  },
+  "10-14": {
+   "titre": "Il faut chercher le bonheur, dans la vie avec Dieu",
+   "texte": [
+    "**I**",
+    "La béatitude dit une perfection dernière, achevée; il y a donc diverses manières de béatitudes selon les divers degrés de perfection que l’on atteint.",
+    "En Dieu, c’est la béatitude essentielle, parce que son être, c’est son opération; il ne jouit pas d’un autre, mais de lui-même.",
+    "Dans les Anges, la béatitude est perfection dernière dans une opération, un acte qui les conjoint au bien incréé; et cette opération est en eux unique et sempiternelle.",
+    "Dans les hommes, en l’état de la vie présente, la perfection dernière a lieu dans une opération qui unit à Dieu. Mais cette opération ne peut être ni sempiternelle, ni continue; et par conséquent, elle n’est pas non plus unique parce que c’est une opération multipliée par interruption; et c’est pourquoi dans l’état de la vie présente, la béatitude parfaite est impossible à obtenir. Mais elle nous est promise par Dieu quand nous *serons comme les Anges dans le ciel.* Alors, dans cet état de béatitude, l’esprit de l’homme est conjoint à Dieu dans une seule et continue et sempiternelle opération.",
+    "Et dans la vie présente, dans la mesure où nous sommes en déficit quant à l’unité et continuité de cette opération, dans la même mesure nous sommes en déficit quant à la perfection de la béatitude. Il y a cependant une participation de la béatitude; et pour autant que notre opération est plus une et plus continue, pour autant elle a raison de béatitude.",
+    "Et c’est pourquoi, dans la vie active qui est dispersée sur beaucoup de choses, il y a moins de béatitude que dans la vie contemplative, qui ne vise qu’une seule chose : la contemplation de la vérité. Et si quelquefois on ne peut pas se maintenir en exercice de cette opération, cependant comme on l’a pour ainsi dire à sa portée, on peut toujours s’y adonner; et comme le contemplatif ordonne tout lui-même à cette opération, même dans son interruption, par le sommeil ou par d’autres occupations naturelles, son opération de contemplation semble être continue.",
+    "*(1-2, q. 3, a. 2, ad. 4ᵐ.)*",
+    "**II**",
+    "La vie avec Dieu ou contemplation s’accompagne de joie. La contemplation peut être délectable à raison de son opération elle-même; car toute opération est une source de joie, qui répond à la nature ou à la disposition de celui qui l’exerce. Il y a aussi une joie qui lui vient de l’objet de la contemplation, c’est-à-dire, la joie de contempler ce qu’on aime. Cette double joie se rencontre dans la vision corporelle aussi. C’est une chose délectable que de voir; c’en est une seconde, plus délectable encore, de voir une personne que l’on aime. Or, la vie contemplative consiste principalement en la contemplation de Dieu, à laquelle la charité nous pousse. Délectable à raison de la contemplation elle-même, la vie contemplative l’est donc aussi à cause de l’amour de Dieu.",
+    "Et la joie dont elle est la source à l’un et à l’autre titre, surpasse toute joie humaine. La joie spirituelle en effet, l’emporte sur la jouissance charnelle. L’amour, d’autre part, que la charité a pour Dieu surpasse tout autre amour. D’où le mot du Psaume (33, 9) : *Goûtez et éprouvez la douceur de Dieu.*",
+    "*(2-2, q. 180, a. 7.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 226-228",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 3, a. 2, ad 4",
+     "detail": "Référence imprimée par La Moelle : 1-2, q. 3, a. 2, ad 4 ; exacte. Texte latin, Corpus Thomisticum (I-II, q. 1-5).",
+     "url": "https://www.corpusthomisticum.org/sth2001.html#33553"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 180, a. 7",
+     "detail": "Référence imprimée par La Moelle : 2-2, q. 180, a. 7 ; exacte (la méditation traduit le corps de l’article). Texte latin, Corpus Thomisticum (II-II, q. 179-182) ; traduction d’Ad Fontes pour la réponse ad 1.",
+     "url": "https://www.corpusthomisticum.org/sth3179.html#46159"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 3, a. 8",
+     "detail": "La béatitude parfaite dans la vision de l’essence divine ; texte latin, Corpus Thomisticum (I-II, q. 1-5) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2001.html#33602"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 16, lect. 2",
+     "detail": "« Tu es heureux, car tu commences à l’être » ; texte latin, Corpus Thomisticum (la page couvre les chapitres 13 à 16) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cml13.html#87375"
+    }
+   ]
+  },
+  "10-15": {
+   "titre": "Le mérite de la vie contemplative",
+   "texte": [
+    "La racine du mérite c’est la charité. Mais comme la charité consiste dans l’amour de Dieu et du prochain il y a plus de mérite à prendre les choses en soi, à aimer Dieu que le prochain. Donc ce qui ressortit plus directement à l’amour de Dieu est de par sa nature, plus méritoire que ce qui relève directement de l’amour du prochain pour Dieu.",
+    "Or la vie contemplative relève directement et immédiatement de l’amour de Dieu. C’est la doctrine de saint Augustin : « L’amour de la vérité, à savoir, de cette Vérité divine qui fait la principale occupation de la vie contemplative, aspire au saint loisir, celui de la contemplation ». La vie active, par contre, se rapporte plus directement à l’amour du prochain, puisqu’aussi bien *elle est toute occupée à servir sans trêve* comme il est écrit. (Luc., X, 40.) Par sa nature même, la vie contemplative est donc de plus grand mérite que la vie active. C’est ce que dit saint Grégoire : « La vie contemplative l’emporte en mérite sur la vie active. Car celle-ci travaille aux œuvres de la vie présente où il est nécessaire d’assister le prochain. Celle-là, par manière de véritable savourement intérieur goûte déjà le repos à venir dans la contemplation de Dieu ».",
+    "Il peut cependant arriver qu’une personne acquière, dans les œuvres de la vie active des mérites supérieurs à ceux que telle autre personne acquiert dans celles de la vie contemplative. S’il se trouve par exemple que par surabondance d’amour divin et en vue d’accomplir la volonté de Dieu pour sa gloire, elle supporte parfois d’être privée pour un temps, de la douceur de la divine contemplation. C’est ce que disait saint Paul (Rom., IX, 3) : *Je souhaitais d’être anathème loin du Christ pour mes frères.* Saint Jean Chrysostome explique : « L’amour du Christ avait à ce point submergé mon âme que, cela même qu’il mettait au-dessus de tout, c’est-à-dire être avec le Christ, il en arrivait dans la vue de plaire au Christ à n’en plus faire cas ».",
+    "Tout ce qu’on offre à Dieu prend la valeur d’un sacrifice spirituel. Au premier rang des choses que Dieu agrée comme sacrifice, figure ce bien humain par excellence qu’est l’âme elle-même. Or, nous devons offrir à Dieu, premièrement notre âme à nous, selon cette parole (Eccli., 30, 24) : *Prends pitié de ton âme en plaisant à Dieu.* Puis, celle des autres, selon cette parole (Apoc. ult., 17) : *Que celui qui entend dise : Viens.* Et plus intimement nous unissons à Dieu notre âme à nous ou celle des autres, plus notre sacrifice plaît à Dieu. D’où il suit qu’il est plus agréable à Dieu de nous voir appliquer notre âme et celle des autres à la contemplation qu’à l’action. Cette parole : « Nul sacrifice n’est plus agréable à Dieu que le zèle des âmes » ne prétend donc pas mettre le mérite de la vie active au-dessus du mérite de la vie contemplative. Elle signifie simplement qu’il est plus méritoire d’offrir à Dieu son âme et celle des autres que n’importe quels biens extérieurs.",
+    "*(2-2, q. 182, a. 2.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 228-230",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 182, a. 2",
+     "detail": "Référence imprimée par La Moelle : 2-2, q. 182, a. 2 ; exacte (la méditation traduit le corps de l’article et la réponse ad 3). Texte latin, Corpus Thomisticum (II-II, q. 179-182) ; traduction d’Ad Fontes pour la réponse ad 1.",
+     "url": "https://www.corpusthomisticum.org/sth3179.html#46218"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 114, a. 4",
+     "detail": "La charité, principe du mérite ; texte latin, Corpus Thomisticum (I-II, q. 109-114) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2109.html#38683"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 27, a. 8",
+     "detail": "L’amour de Dieu et l’amour du prochain : lequel est plus méritoire ; texte latin, Corpus Thomisticum (II-II, q. 27-33) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3027.html#40151"
+    }
+   ]
+  },
+  "10-16": {
+   "titre": "Ce qu’il faut considérer dans la contemplation",
+   "texte": [
+    "*Ce que tu vois, écris-le dans un livre.* (Apoc., I, 11.)",
+    "**I**",
+    "L’homme a beaucoup de choses à méditer dans la contemplation, à savoir : ses péchés, les supplices de l’enfer, les joies du paradis, les bienfaits du Christ, les besoins du prochain; et il faut inscrire tout cela dans le livre de son cœur.",
+    "Sur les péchés, il faut se rappeler combien est court le plaisir ici-bas et que la peine est éternelle. Saint Grégoire dit : « Ce qui délecte est momentané, ce qui tourmente est éternel ». De même, combien ce plaisir est grossier. *Combien vous êtes devenu méprisable en retombant dans vos premiers égarements*, dit Jérémie (2, 36). De même, combien il est condamnable; car, il diminue la bonté naturelle, il prive des biens de la grâce, il enlève les biens de la gloire. *Tout ce qu’avait de beau la fille de Sion, lui a été enlevé.* (Thren., I, 16.)",
+    "Sur les supplices de l’enfer, il faut en considérer la diversité, la rigueur, l’éternité. Quant à la diversité, il est dit au Psaume (X, 17) : *Le feu et le souffre et le vent impétueux des tempêtes sont le calice qui sera leur partage.* La rigueur : *Là, il y aura des pleurs et des grincements de dents.* (Matth., VIII, 7.) L’éternité : *Leur feu ne s’éteindra point*, dit Isaïe (56, 24). *Allez, maudits, au feu éternel.*",
+    "Sur les joies du paradis, il faut en considérer la pureté, la plénitude, la durée. *Sa joie ne sera point comprise par un étranger*, disent les Proverbes (XIV, 10). De leur pureté saint Jean écrit (I Jo., I, 14) : *Et que votre joie soit complète. Je vous reverrai*, dit saint Jean (XVI, 22), *et votre cœur se réjouira et nul ne vous ravira votre joie.* Voilà pour la durée.",
+    "Sur les bienfaits du Christ, il faut en considérer la multitude. *Que rendrai-je au Seigneur, pour tous les biens dont il m’a comblé*, dit le Psalmiste (115, 12). La grandeur : *Il a fait en moi de grandes choses, celui qui est puissant*, dit Marie (Luc, I, 49.) La gratuité : *Vous avez reçu gratuitement, donnez gratuitement.* (Matth., X, 8.)",
+    "Sur les nécessités du prochain, il faut considérer ce que nous voudrions que l’on fît pour nous en pareil état, et combien est grande la fragilité humaine. *Tout ce que vous voudriez que l’on vous fît à vous-même*, etc...",
+    "Enfin, ce que vous voyez en Jésus-Christ, dans le monde, dans votre prochain, écrivez-le dans votre cœur.",
+    "*(Sur l’Apocalypse, c. I.)*",
+    "**II**",
+    "Sur cette parole d’Isaïe (21, 5) : *Regarde de l’observatoire*, notez que l’homme doit regarder de l’observatoire de son cœur :",
+    "1° Les péchés qu’il a commis, pour les pleurer, comme dit Jérémie (31, 21) : *Faites-vous un lieu où vous demeuriez en sentinelle, abandonnez-vous à l’amertume, appliquez votre cœur à connaître le droit chemin.*",
+    "2° Les supplices qu’il a mérités, pour les craindre. *Le jour de votre châtiment est venu.* (Michée, VII, 4.)",
+    "3° Les bienfaits reçus de Dieu, pour rendre grâces.",
+    "4° Les commandements prescrits, pour les accomplir.",
+    "5° Les récompenses promises, pour les obtenir. *Nous vous avons annoncé ces choses en témoins oculaires de sa Majesté.* (2 Pet., I, 16.)",
+    "*(Sur Isaïe, c. XXI.)*"
+   ],
+   "reserve": "La première partie de cette méditation (I) ne repose pas sur une œuvre de saint Thomas : l’<i>Expositio super Apocalypsim</i> « Vidit Iacob », que l’édition de 1930 cite sous son nom, est publiée par le Corpus Thomisticum parmi les œuvres d’authenticité douteuse, avec une attribution interrogative à Hugues de Saint-Cher, dominicain. La seconde partie (II) est tirée du commentaire authentique de saint Thomas sur Isaïe. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 230-232",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : Sur l’Apocalypse, ch. I",
+     "detail": "La partie I se lit, presque mot pour mot, dans l’Expositio super Apocalypsim « Vidit Iacob », chap. 1, sur « Quae vides scribe in libro » ; le Corpus Thomisticum publie ce commentaire comme d’authenticité douteuse, sous le nom d’Hugues de Saint-Cher suivi d’un point d’interrogation.",
+     "url": "https://www.corpusthomisticum.org/x1a01.html#89017"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Expositio super Isaiam ad litteram, cap. 21",
+     "detail": "Référence imprimée par La Moelle : Sur Isaïe, ch. XXI ; exacte (note sur « contemplare in specula »). Œuvre authentique ; texte latin, Corpus Thomisticum (la page couvre Isaïe 1, leçon 2, à 33) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cis01b.html#84981"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 82, a. 3-4",
+     "detail": "La cause et l’effet de la dévotion ; texte latin, Corpus Thomisticum (II-II, q. 82-91) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3082.html#42449"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 180, a. 4",
+     "detail": "Ce qui appartient à la vie contemplative ; texte latin, Corpus Thomisticum (II-II, q. 179-182) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3179.html#46133"
+    }
+   ]
+  },
+  "10-17": {
+   "titre": "La manne cachée",
+   "texte": [
+    "*A celui qui vaincra, je donnerai la manne cachée.* (Apoc., 2, 17.)",
+    "1° Cette manne est admirable. Et cela peut s’entendre, ou bien de la douceur intérieure qu’elle donne aux saints pendant cette vie; ou bien de la douceur éternelle qu’elle leur donnera dans la vie future. L’une et l’autre est si grande que quiconque l’éprouve, dit : *Qu’est-ce cela* (1)? Et l’une et l’autre est cachée; car, c’est rare et c’est donné à peu, d’en éprouver quelque chose. Et c’est un heureux symbole que la manne, pour signifier la douceur de la contemplation, à cause de sa suavité. *Goûtez et voyez combien le Seigneur est doux : heureux l’homme qui espère en lui* (Ps., 33, 9), c’est-à-dire, qui fixe en Dieu toute son espérance; car à celui-là, il est donné de sentir la douceur de Dieu, qui est si grande que, pour si peu qu’on l’éprouve, l’âme s’étonne et dit à bon droit : *Man-hu, qu’est-ce que cela?*",
+    "Personne ne peut comprendre cette douceur intérieure, quel qu’en puisse être le désir ardent. Et le Psalmiste avait raison de dire : *Mon âme soupire et elle est tombée en défaillance dans l’attente de votre secours salutaire* (Ps., 118, 81); et encore : *Mon âme soupire et elle est dans la défaillance, par l’ardeur de son désir qui la porte vers les parvis du Seigneur.* (Ps., 83, 3.) Comme pour dire : je sais par là, combien vos tabernacles, c’est-à-dire, les demeures de votre maison, sont aimables et désirables, puisque moi qui suis encore au dehors et dans les parvis, et pas encore dans le temple, je désire si ardemment demeurer tout contre; et dans l’ardeur de mon désir je défaille sans pouvoir comprendre ce tout qui est dans le temple.",
+    "2° Où trouver cette manne? *Que le peuple aille en ramasser ce qui lui suffira chaque jour.* (Ex., XVI, 14.) Qui veut cette douceur doit quitter le monde pour le ciel, la chair pour l’esprit, soi-même pour Dieu, et alors, il trouvera la manne. *La douceur du miel dégouttera des montagnes.* (Joël, III, 17.) Il y a trois montagnes : l’âme, le ciel, Dieu. Et sur les trois, il faut recueillir la manne, en contemplant les biens de chacunes d’elles; et il faut la recueillir chaque jour, car le jour il faut s’appliquer à la prière et à la méditation.",
+    "Il faut en recueillir autant qu’il suffit. Les uns en recueillent peu, parce qu’ils prient peu et méditent peu. D’autres en recueillent trop. C’est pourquoi il est dit aux Proverbes (25, 16) : *Avez-vous trouvé du miel, mangez-en ce qui vous suffit.*",
+    "Le lieu où se trouve la manne, c’est la solitude. *Je la conduirai dans le désert*, dit Osée (2, 14) *et là, je lui parlerai au cœur.* Mais on ne la trouve pas dans la ville.",
+    "De même la manne se trouvait le matin. Souvent dans l’oraison du matin la dévotion est donnée. Il est dit au Psaume (V, 5) : *Ceux qui veillent dès le matin pour me chercher, me trouveront.*",
+    "De même la manne est donnée à ceux qui sont sortis d’Egypte et la dévotion, à ceux qui sont sortis du péché.",
+    "Certains trouvent la douceur de Dieu seulement dans la prière. D’autres dans la lecture. D’autres seulement dans la célébration de la Sainte Messe. Mais les parfaits trouvent Dieu dans sa douceur et sa suavité, en tout, dans les jeûnes et les disciplines, et même dans la maladie et la pauvreté, selon ce mot de l’Ecclésiastique (24) : *En tout j’ai trouvé mon repos*, à la manière de l’abeille qui tire son miel de presque toutes les fleurs. Aussi le Seigneur dit de ceux-là (Ps., 117, 12) : *Ils m’ont environné comme des abeilles et ils se sont embrasés comme un feu qui a pris à des épines*; parce que plus une âme goûte à Dieu, plus elle s’enflamme pour lui.",
+    "*(Sur l’Apocalypse, c. 2)*",
+    "*Note au bas de la page 232 :* (1) Qu’est-ce que cela, en hébreu : Man-hu, d’où le nom de « Manne » pour signifier la chose."
+   ],
+   "reserve": "Cette méditation ne repose pas sur une œuvre de saint Thomas : l’<i>Expositio super Apocalypsim</i> « Vidit Iacob », que l’édition de 1930 cite sous son nom, est publiée par le Corpus Thomisticum parmi les œuvres d’authenticité douteuse, avec une attribution interrogative à Hugues de Saint-Cher, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 232-234",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : Sur l’Apocalypse, ch. 2",
+     "detail": "Le texte résume et réordonne le commentaire d’Apocalypse 2, 17 (« vincenti dabo manna absconditum ») dans l’Expositio super Apocalypsim « Vidit Iacob », chap. 2 ; le Corpus Thomisticum publie ce commentaire comme d’authenticité douteuse, sous le nom d’Hugues de Saint-Cher suivi d’un point d’interrogation.",
+     "url": "https://www.corpusthomisticum.org/x1a02.html#89018"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 180, a. 7",
+     "detail": "La délectation de la vie contemplative ; texte latin, Corpus Thomisticum (II-II, q. 179-182) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3179.html#46159"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 82, a. 3",
+     "detail": "La cause de la dévotion ; texte latin, Corpus Thomisticum (II-II, q. 82-91) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3082.html#42449"
+    }
+   ]
+  },
+  "10-18": {
+   "titre": "La Réfection spirituelle",
+   "texte": [
+    "*Ils seront enivrés de l’abondance qui est dans votre maison et vous les ferez boire dans le torrent de vos délices, parce que la source de la vie est en vous.* (Ps., 36, 9.)",
+    "1° Les dons de Dieu sont désignés dans ce verset du Psaume : *Ils seront enivrés de l’abondance qui est dans votre maison.* La maison, c’est l’Eglise. Et cette maison qui maintenant est sur la terre, sera, un jour, transportée dans le ciel. Mais dans l’une et l’autre, il y a abondance des dons de Dieu, avec cette différence, qu’ici-bas, l’Eglise est imparfaite, mais qu’au ciel, il y aura abondance parfaite de tous les biens; et c’est de cette abondance que sont rassasiés les hommes spirituels, selon le mot du Psaume (64, 5) : *Nous serons remplis des biens de votre maison.* Et qui plus est, ils sont enivrés, en tant que leurs désirs sont comblés au delà de la mesure de leur mérite. L’ébriété, en effet, est un certain excès. Comme dit saint Paul (I Cor., 2, 9) : *Il s’agit de choses que l’œil n’a pas vues, ni l’oreille entendues, qui ne sont pas révélées à un cœur d’homme, de choses que Dieu a préparées pour ceux qu’il aime.* Et le Cantique dit aussi (V, 17) : *Enivrez-vous mes bien-aimés.*",
+    "2° Non seulement ils sont restaurés par les dons, mais encore par la douceur de Dieu : *Alors tu mettras en lui tes délices*, dit le livre de Job, *et tu lèveras vers lui ta face.* (22, 26.) Et c’est pourquoi le Psaume ajoute : *Et vous les ferez boire dans le torrent de vos délices.* Ici, c’est l’amour du Saint-Esprit dont il s’agit, et qui envahit l’âme impétueusement comme un torrent. *Il viendra comme un fleuve impétueux dont le souffle de Dieu agite les eaux.* (Isaïe, 59, 19.) Le Psalmiste dit : un torrent *de délices*, à cause de la volupté et de la douceur qu’il met dans l’âme. *O Seigneur, que votre esprit est bon, et qu’il est doux dans toute sa conduite.* (Sap., XII, 1.) Et les bons sont désaltérés par ce breuvage. *Ils boiront tous le même breuvage spirituel*, dit saint Paul. (I Cor., X, 4.) Ou bien, *le torrent de vos délices*, c’est-à-dire, Dieu lui-même qui est appelé un torrent au livre des Proverbes (18, 4) : *La source de la sagesse est comme un torrent qui se déborde;* parce que sa volonté est efficace d’une telle efficacité, qu’on ne peut lui résister, pas plus qu’à un torrent.",
+    "3° *Parce que la source de la vie est en vous.* Nous touchons ici à la matière de cette réfection; car, ceux qui sont abouchés à la source et qui tiennent leurs lèvres collées à la source du vin, c’est-à-dire la bouche de leurs désirs, à la source de la vie et de la douceur, sont enivrés. Et ils seront ainsi enivrés *parce que la source de la vie est en vous.* Si on l’entend de Dieu le Père, le sens sera : la source de la vie est en vous, c’est-à-dire, la parole qui vivifie tout, est en vous. *Ils m’ont abandonné, moi qui suis une source d’eau vive*, dit Jérémie (2, 13). Il est vraiment la source de la vie, c’est-à-dire, des biens spirituels, par lesquels tout est vivifié.",
+    "*(Sur le Psaume, 36.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 234-236",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Psalmos, Ps. 35, n. 4",
+     "detail": "Référence imprimée par La Moelle : Sur le Psaume 36, selon la numérotation hébraïque ; c’est le Psaume 35 de la Vulgate que commente saint Thomas. Référence juste ; œuvre authentique ; texte latin, Corpus Thomisticum (la page couvre les Psaumes 31 à 40) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cps31.html#87147"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 28, a. 3",
+     "detail": "La plénitude de la joie ; texte latin, Corpus Thomisticum (II-II, q. 27-33) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3027.html#40176"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 7, lect. 5",
+     "detail": "Les fleuves d’eau vive et la source qu’est l’Esprit Saint ; texte latin, Corpus Thomisticum (la page couvre les chapitres 7 à 11) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih07.html#87470"
+    }
+   ]
+  },
+  "10-19": {
+   "titre": "La suave expérience de la bonté divine",
+   "texte": [
+    "*Goûtez et sachez combien le Seigneur est doux.* (Ps., 33, 9.)",
+    "Le Psalmiste exhorte à l’expérience de l’intimité divine. Et pour cela il fait deux choses : Il exhorte à cette expérience et il en explique les effets.",
+    "**I**",
+    "Il dit donc : *Goûtez.* L’expérience d’une chose se fait par les sens. Mais elle se fait différemment d’une chose absente et d’une chose présente. D’une chose absente ou distante, elle se fait par la vue, l’odorat et l’ouie; d’une chose présente, elle se fait par le goût et le toucher. Mais par le toucher, c’est une expérience intime. Or, Dieu n’est pas loin de nous, ni hors de nous; il est en nous. *Vous, Seigneur, vous êtes en nous-mêmes*, dit Jérémie (XIV, 9). Et c’est pourquoi l’expérience de la divine bonté est appelée une dégustation. *Si vous avez goûté que le Seigneur est bon*, dit saint Pierre. (I Pet., 2, 37.) Il est dit de la femme forte : *Elle a goûté et elle a vu que son trafic est bon.* (Prov., 31, 18.)",
+    "**II**",
+    "L’effet de cette expérience est double. L’un, est une certitude de l’intelligence; l’autre, une sécurité du sentiment. C’est pour le premier qu’il est dit : *Voyez, sachez.* Dans les réalités corporelles, on voit d’abord, et on goûte ensuite; mais dans les choses spirituelles, on goûte d’abord et on voit ensuite; car, on ne sait pas, si l’on n’a pas goûté. C’est pourquoi il est dit d’abord : *Goûtez*, et ensuite : *Voyez.*",
+    "Quand au second effet, il est dit : *Combien le Seigneur est doux. O Seigneur, que votre esprit est bon et qu’il est doux dans toute sa conduite.* (Sap., XII, 1.) *Combien est grande, Seigneur, l’abondance de votre douceur.* (Ps., 31, 20.) Et dans le verset que nous méditons : *Heureux l’homme qui espère en lui.* (Ps., 33, 9.) *Heureux tous ceux qui l’attendent*, dit Isaïe (30, 18.)",
+    "*(Sur le Psaume, 33.)*",
+    "**III**",
+    "Quand donc il est dit : *Goûtez et éprouvez* (Ps., 33) et (Rom., XII, 2) : *Afin que vous puissiez discerner quelle est la volonté de Dieu, ce qui est bien, ce qui lui plaît, ce qui est parfait* : cela n’est pas dit pour que nous fassions un essai, comme si nous doutions : ce serait tenter Dieu. Car, il y a une double connaissance de la bonté divine ou de la volonté divine : l’une, qui est spéculative; et sous ce rapport, il n’est pas permis de douter ou de vérifier si la volonté de Dieu est bonne ou si Dieu est suave. L’autre, est une connaissance de la divine volonté, par les effets de cette volonté; c’est une connaissance expérimentale. Elle s’opère en nous-mêmes par le goût de la divine douceur et la complaisance en la divine volonté, comme quelque chose que l’on savoure. C’est en ce sens que Denys dit de Hiérothée qu’il a connu le divin en l’éprouvant. Et c’est en ce sens que nous sommes invités à éprouver la volonté de Dieu et à goûter sa douceur.",
+    "*(2-2, q. 97, a. 2, ad. 2m.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 236-238",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Psalmos, Ps. 33, n. 9",
+     "detail": "Référence imprimée par La Moelle : Sur le Psaume, 33 (parties I et II), exacte ; la référence « I Pet., 2, 37 » du livre est à lire I Pierre 2, 3. Texte latin, Corpus Thomisticum (la page couvre les psaumes 31 à 40) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cps31.html#87113"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 97, a. 2",
+     "detail": "Référence imprimée par La Moelle : 2-2, q. 97, a. 2, ad 2 (partie III), exacte. Tenter Dieu est-il un péché ; texte latin, Corpus Thomisticum (II-II, q. 92-100) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3092.html#43156"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 43, a. 5, ad 2",
+     "detail": "La mission invisible du Fils ; texte latin, Corpus Thomisticum (I, q. 28-43) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1028.html#30250"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 112, a. 5",
+     "detail": "Peut-on savoir qu’on a la grâce ; texte latin, Corpus Thomisticum (I-II, q. 109-114) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2109.html#38563"
+    }
+   ]
+  },
+  "10-20": {
+   "titre": "L’arrivée de la consolation divine",
+   "texte": [
+    "Saint Augustin dit : « Qui me donnera que tu viennes en mon cœur, et que j’oublie mes maux, et que je t’étreigne, ô mon unique bien ». Or trois choses disposent à cette venue :",
+    "1° Le mépris des voluptés de la terre. *Appliquez votre cœur aux choses d’en haut, et non pas à celles de la terre,* dit saint Paul (Col., III, 2.) Comme pour dire : Vous ne pouvez pas goûter en même temps les choses du ciel et celles de la terre. Saint Bernard dit : « C’est se tromper absolument que de prétendre vouloir mêler la douceur céleste à cette cendre, le baume divin à ce poison, les dons du Saint-Esprit aux délices du monde. Croyez-vous pouvoir recevoir cet Esprit d’extrême pureté, si vous ne renoncez pas à ses consolations charnelles? Sans doute, dans le commencement, la tristesse remplit votre cœur; mais si vous persévérez, votre tristesse se changera en joie; car alors, votre cœur se purifiera et votre volonté se renouvellera; de telle sorte que ce qui vous semblait d’abord difficile et même impossible, vous le ferez avec douceur et avidité ».",
+    "2° La pieuse méditation de la volonté divine. *Je me suis souvenu de Dieu et j’y ai trouvé ma joie,* dit le Psaume (76, 4). Saint Bernard dit : « La consolation et le souvenir de Dieu ne manqueront pas aux élus, à qui la pleine réfection n’est pas encore accordée. Mais c’est surtout la bonté de Dieu envers l’homme, par le don du Christ, qui réjouira celui qui la méditera. Aussi, sur ce verset du Psaume (76, 12) : *Je me souviendrai de toutes les merveilles que vous avez faites depuis le commencement*, la Glose commente : c’est-à-dire, les merveilles que Dieu a réalisées pour l’homme depuis le commencement, à savoir qu’il a créé Adam à son image, qu’il a agréé le sacrifice d’Abel, et tout ce qu’il a fait pour Noé, en conservant dans son arche, diverses espèces d’animaux, en figure de l’Eglise; ce qu’il a fait pour Abraham, dont le sacrifice symbolisait l’Incarnation du Christ, son Fils et sa Passion; et enfin, que le Seigneur lui-même est venu. Voilà autant de sujets de consolation pour l’homme saint.",
+    "3° Le désir ardent de la charité. Saint Bernard, expliquant ce verset du Psaume (96, 3) : *Le feu marchera devant lui et enflammera tout*, dit : « Il faut que l’ardeur d’un saint désir précède sa face, en ton âme en qui il doit venir, qu’il consume toute la rouille des vices et prépare ainsi la place au Seigneur. Et alors l’âme saura que le Seigneur est proche, quand elle se sentira toute embrasée de ce feu. C’est le même esprit de Dieu qui convoite la beauté de cette âme, qu’il considère marchant fortement dans l’esprit, ne se souciant pas de la chair dans ses désirs, surtout s’il la voit toute consumée de son amour. C’est vers cette âme, pleine de fréquents soupirs, qu’il accourt; vers cette âme plongée dans la prière continuelle et dont le désir ardent est un tourment. Ainsi ardemment désiré, il accourt plein de pitié. Et donc, quiconque est tellement un homme de désir, qu’*il désire se dissoudre et vivre avec le Christ*, qu’il le désire violemment, qu’il en ait une soif ardente, qu’il y pense assidûment, celui-là bientôt recevra son Dieu ».",
+    "*(De l’humanité du Christ.)*"
+   ],
+   "reserve": "Cette méditation ne repose pas sur une œuvre de saint Thomas : le traité <i>De humanitate Domini nostri Iesu Christi</i>, que La Moelle cite sous son nom, est publié par le Corpus Thomisticum comme l’œuvre d’un auteur inconnu. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 238-240",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : De l’humanité du Christ",
+     "detail": "Le Corpus Thomisticum publie ce traité (De humanitate Domini nostri Iesu Christi) sous le nom d’un auteur inconnu ; le passage traduit s’y lit à l’article 24, sur la venue du Christ dans l’âme.",
+     "url": "https://www.corpusthomisticum.org/xth.html#91186"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 180, a. 1 et a. 7",
+     "detail": "La vie contemplative, l’amour et la délectation ; texte latin, Corpus Thomisticum (II-II, q. 179-182) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3179.html#46159"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 82, a. 3",
+     "detail": "La méditation, cause de la dévotion ; texte latin, Corpus Thomisticum (II-II, q. 82-91) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3082.html#42449"
+    }
+   ]
+  },
+  "10-21": {
+   "titre": "Des quatre manières par lesquelles les démons empêchent la contemplation",
+   "texte": [
+    "*Sa vérité vous environnera comme un bouclier, vous ne craindrez rien de ce qui effraie durant la nuit, ni la flèche qui vole pendant le jour, ni les maux que l’on prépare dans les ténèbres, ni les attaques du démon du midi.* (Ps., 90, 5.)",
+    "Dans ce texte sont signalés quatre moyens par lesquels les démons harcèlent les âmes qui s’adonnent à la contemplation, et dont affranchit la lumière infuse de la vérité :",
+    "1° La crainte nocturne est une erreur ou une horreur, que le diable a coutume de laisser après lui. Saint Grégoire dit que, par l’apparition du diable, l’âme éprouve d’abord une certaine joie et qu’elle s’achève en horreur, en trouble. C’est le contraire qui arrive dans une intervention de Dieu. Ainsi, la Bienheureuse Vierge fut d’abord troublée par la salutation de l’Ange; mais elle fut ensuite consolée.",
+    "2° La flèche qui vole, c’est la vaine gloire; elle entre rapidement et suavement; mais elle blesse grièvement. Cette flèche harcèle et trompe les contemplatifs. *Votre vin a été mêlé d’eau*, dit Isaïe (I, 22). Ou bien, selon une autre version : *Vos aubergistes ont mis de l’eau dans leur vin.* Le vin, c’est la révélation de Dieu, laquelle réjouit le cœur. L’eau, c’est la vaine gloire qui enfle d’orgueil. Ceux-là mêlent l’eau au vin, qui se glorifient vainement de la révélation qui leur a été faite.",
+    "3° L’affaire qui marche dans les ténèbres, c’est la sollicitude ou le souci des affaires de famille, dont souvent le diable suscite les pensées à ceux qui prient ou qui méditent, afin de les détourner de la contemplation et de les empêcher de se nourrir.",
+    "4° Les attaques du démon du midi, c’est l’illusion diabolique sous l’apparence du bien, quand il suggère, par exemple, de veiller, de jeûner, de prier, de pleurer longtemps, quand il voit quelque pieux novice, afin de l’affaiblir et de le débiliter, ou de se dégoûter du bien commencé.",
+    "C’est pourquoi, en saint Luc (XIX), le Seigneur dit à Zachée qui était monté sur un figuier fou pour le voir : *Zachée, descends vite, car, il faut qu’aujourd’hui je demeure dans la maison.* Le figuier fou, c’est la dévotion indiscrète, par laquelle un novice veut monter trop haut, et à qui Jésus dit : Ne monte pas si haut, mais descends vite, car non seulement je veux être avec toi, mais demeurer longtemps.",
+    "*(Sur l’Apocalypse, c. I.)*"
+   ],
+   "reserve": "Cette méditation ne repose pas sur une œuvre de saint Thomas : l’exposition sur l’Apocalypse « Vidit Iacob », d’où La Moelle tire ce texte, n’est pas de lui : le Corpus Thomisticum la range avec les écrits d’autres auteurs, sous le nom de Hugues de Saint-Cher suivi d’un point d’interrogation, avec la mention « authenticitate dubia ». Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 240-241",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : Sur l’Apocalypse, c. I",
+     "detail": "Le passage se lit au chapitre 1 de l’exposition sur l’Apocalypse « Vidit Iacob », que le Corpus Thomisticum publie parmi les écrits d’autres auteurs, sous le nom de « Hugo de Sancto Charo (?) » ; la traduction de La Moelle ne rend pas le renvoi à saint Bernard qui accompagne l’image de la flèche.",
+     "url": "https://www.corpusthomisticum.org/x1a01.html#89017"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 132, a. 1 et 3",
+     "detail": "La vaine gloire ; texte latin, Corpus Thomisticum (II-II, q. 123-140) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3123.html#44376"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 55, a. 6",
+     "detail": "Le souci des choses temporelles ; texte latin, Corpus Thomisticum (II-II, q. 47-56) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3047.html#41346"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 147, a. 1, ad 2",
+     "detail": "La mesure du jeûne selon la droite raison ; texte latin, Corpus Thomisticum (II-II, q. 146-154) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3146.html#44828"
+    }
+   ]
+  },
+  "10-22": {
+   "titre": "La familiarité divine",
+   "texte": [
+    "*Et il a habité parmi nous.* (Jo., I.)",
+    "Il s’agit ici, de la vie familière du Verbe incarné. *Il a habité parmi nous*, c’est-à-dire, il a vécu familièrement parmi nous, ses Apôtres, selon ce que dit saint Pierre (Act., I, 21) : *Pendant tout le temps que le Seigneur a vécu parmi nous. Après cela, il a apparu sur la terre.* (Baruch, III, 32.)",
+    "L’Evangéliste a ajouté cette parole que nous méditons, pour montrer l’admirable conformité du Verbe aux hommes, parmi lesquels il a vécu de telle sorte, qu’il semblait être l’un d’entre eux; car non seulement il a voulu être semblable aux hommes par la nature; mais aussi par l’intimité et la vie familière, il a voulu, hormis le péché, se mêler à eux, afin de se les gagner par la douceur de ses mœurs.",
+    "Il est vrai que Jésus disait qu’un Prophète *est sans honneur dans sa patrie* (Matth., XIII, 57), et cette parole s’est vérifiée, non seulement pour les Prophètes, chez les Juifs, mais encore, comme dit Origène, pour plusieurs parmi les païens, qui ont été méprisés par leur concitoyens et condamnés à mort; car la vie habituelle avec les hommes et la trop grande familiarité diminuent le respect en engendrant le mépris.",
+    "C’est le contraire quand il s’agit de Dieu; car plus on devient familier avec Dieu, par l’amour et la contemplation, plus on le révère par estime de son excellence, et moins on s’estime soi-même. C’est Job qui dit (42, 5) : *Mon oreille vous avait entendu; mais maintenant je vous vois de mes propres yeux. C’est pourquoi je m’accuse moi-même et je fais pénitence dans la poussière et dans la cendre.*",
+    "La raison en est que la faiblesse et la fragilité de l’homme est si grande que, quand on vit longtemps avec quelqu’un, on découvre en lui quelque côté défectueux, et que le respect envers lui s’en trouve diminué. Mais comme Dieu est infiniment parfait, plus l’homme avance dans sa connaissance, plus il admire l’excellence de sa perfection, et par suite, plus il le révère.",
+    "*(Sur saint Jean, c. XIV.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 242-243",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : Sur saint Jean, c. XIV",
+     "detail": "Vérification faite sur le Corpus Thomisticum, le texte de La Moelle réunit deux passages authentiques du commentaire de saint Thomas sur saint Jean : cap. 1, lect. 7, sur Jean 1, 14 (« et il a habité parmi nous »), pour les deux premiers paragraphes, et cap. 4, lect. 6, sur Jean 4, 44 (le prophète sans honneur dans sa patrie), pour la suite. « c. XIV » paraît confondre le chapitre avec le verset de Jean 1, 14.",
+     "url": "https://www.corpusthomisticum.org/cih01.html#87425"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 4, lect. 6",
+     "detail": "Le prophète sans honneur dans sa patrie et la familiarité avec Dieu ; texte latin, Corpus Thomisticum (la page couvre les chapitres 3 et 4) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih03.html#87449"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 40, a. 1",
+     "detail": "Le Christ devait-il vivre parmi les hommes ; texte latin, Corpus Thomisticum (III, q. 40-45) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4040.html#48631"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 19, a. 11",
+     "detail": "La crainte demeure-t-elle dans la patrie ; texte latin, Corpus Thomisticum (II-II, q. 17-22) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3017.html#39629"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Expositio super Iob ad litteram, cap. 42",
+     "detail": "Texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cio42.html#84940"
+    }
+   ]
+  },
+  "10-23": {
+   "titre": "Comment arriver à la connaissance des secrets de Dieu",
+   "texte": [
+    "**I**",
+    "*Pierre fit signe à Jean pour lui dire : De qui parle-t-il?* (Jo., XIII, 24.)",
+    "Pierre veut savoir de qui le Seigneur disait : *L’un de vous me trahira.* Comme partout, dans l’Evangile, Pierre toujours audacieux et le premier à répondre à cause de la ferveur de son amour, veut savoir ce que l’on tait en cette circonstance. Mais pourquoi charge-t-il un autre de la question? D’après saint Jean Chrysostome, il y a trois raisons :",
+    "*a*) Comme il vient d’être réprimandé pour avoir fait difficulté de se laisser laver les pieds, il craint maintenant de molester le Seigneur.",
+    "*b*) Il ne voulait pas que le Seigneur manifestât publiquement sa pensée, et qu’elle soit entendue des autres. Et comme il était éloigné du Christ, à table, il pousse Jean qui était tout près du Christ, à l’interroger.",
+    "*c*) Et il y a aussi une raison mystique. Jean symbolise la vie contemplative et Pierre, la vie active. Pierre est donc instruit par le Christ, par la contemplation. *Marie s’étant mise aux pieds du Seigneur, écoutait sa parole, tandis que Marthe s’empressait aux divers soins du service.* (Luc, X, 39.)",
+    "**II**",
+    "*Le disciple s’étant penché sur le sein de Jésus, lui dit : Seigneur, qui est-ce?*",
+    "Il est à remarquer que lorsque Pierre fait signe à Jean, celui-ci reposait sur le sein de Jésus. Maintenant donc Jean interroge, tout en continuant de reposer sur le cœur de Jésus. Le cœur est plus proche de la bouche que le sein. Et Jean, voulant écouter plus secrètement et plus silencieusement, se hausse du sein jusqu’au cœur.",
+    "Au sens mystique, cela donne à comprendre que plus l’homme veut saisir les secrets de la divine sagesse, plus il doit faire effort pour s’approcher davantage de Jésus, selon ce mot du Psaume (33, 6) : *Approchez-vous de lui, et vous serez illuminés.* Les secrets de la divine sagesse sont révélés à ceux qui sont unis à Dieu par l’amour. Job (36, 33) dit : *Il fait connaître à celui qu’il aime, que la lumière est son partage.* Et les Proverbes (18, 17) : *L’ami vient ensuite, et il sonde le fond de son cœur.*",
+    "*(Sur saint Jean, XIII.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 243-244",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 13, lect. 4",
+     "detail": "Référence imprimée par La Moelle : Sur saint Jean, XIII, exacte. Texte latin, Corpus Thomisticum (la page couvre les chapitres 13 à 17) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih13.html#87508"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 15, lect. 3",
+     "detail": "Les amis et les secrets du cœur ; texte latin, Corpus Thomisticum (la page couvre les chapitres 13 à 17) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih13.html#87523"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 182, a. 4",
+     "detail": "La vie contemplative et la vie active ; texte latin, Corpus Thomisticum (II-II, q. 179-182) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3179.html#46232"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 45, a. 2",
+     "detail": "Le don de sagesse et la connaturalité par la charité ; texte latin, Corpus Thomisticum (II-II, q. 45-46) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3045.html#40857"
+    }
+   ]
+  },
+  "10-24": {
+   "titre": "Les effets de la contemplation",
+   "texte": [
+    "*Le roi m’a fait entrer dans ses celliers secrets.* (Cant., I, 4.)",
+    "1° *Il m’a introduit dans ses celliers secrets,* c’est-à-dire, dans sa douceur, en me donnant sa grâce. La grâce est désignée par *des celliers* au pluriel, parce que d’elle découlent et dérivent chacune des vertus spirituelles qui perfectionnent les diverses puissances; et selon les vertus diverses des puissances diverses, nous nous réjouissons diversement et prenons de la joie en Dieu. Et, ainsi perfectionnés par ces vertus dérivées de la grâce, nous buvons en quelque sorte le vin de la joie spirituelle de divers celliers.",
+    "*(Sur le Cantique des cantiques, c. I.)*",
+    "2° La contemplation apaise les tristesses.",
+    "La plus grande joie consiste dans la contemplation de la vérité. Toute délectation tempère la douleur; et c’est pourquoi la contemplation mitige la tristesse ou la douleur, et d’autant plus que l’on est plus parfaitement un amant de la sagesse.",
+    "De là vient que par la contemplation des choses divines et de la béatitude future on se réjouit dans les tribulations, comme le dit saint Jacques (I, 2) : *Ne voyez qu’un sujet de joie, mes frères, dans les épreuves de toute sorte qui tombent sur vous.* Et qui plus est, cette joie se rencontre même parmi les supplices du corps, comme saint Tiburce martyr, marchant, les pieds nus, sur des charbons ardents, et qui disait : « Il me semble marcher sur des roses en fleurs au nom de Jésus-Christ ».",
+    "Et cela provient de ce que dans les puissances de l’âme il y a un rejaillissement du supérieur à l’inférieur, comme un débordement de trop plein. C’est de cette manière que la joie de la contemplation, qui est dans la partie supérieure de l’âme, déborde en tempérament de la douleur sensible elle-même.",
+    "*(1-2, q. 38, a. 4.)*",
+    "3° La contemplation anesthésie l’amour des choses temporelles.",
+    "*Je dors, mais mon cœur veille.* (Cant., V, 2.) Les contemplatifs sont dits dormir, parce qu’ils sont indifférents aux choses sensibles et extérieures; cependant, par le cœur, ils veillent, parce qu’ils sont plus aptes à percevoir au dedans d’eux-mêmes, les inspirations et les effusions divines. Car, de même que les aveugles, non distraits par les choses visibles, se souviennent mieux; de même les contemplatifs, non distraits par l’extérieur, perçoivent mieux les inspirations intérieures.",
+    "4° Elle augmente et renforce l’amour pour Dieu.",
+    "*L’amour est fort comme la mort.* (Cant., VIII, 6.) De même que la mort sépare l’âme du corps, de sorte qu’il ne reste à l’homme rien à désirer, rien à ambitionner dans la vie présente, de même l’amour du Christ en celui qui a vraiment pénétré; il le rend comme totalement indifférent au monde et comme insensible; et, ne vivant que pour le Christ, il est mort au monde. C’est le même sens quand il est dit aussitôt : *La jalousie est inflexible comme le séjour des morts.* Car, de même que l’enfer ne rend jamais ceux qu’il a reçus, de même le véritable amour du Christ n’abandonne jamais celui qu’il a une fois envahi. Aussi saint Paul dit (Rom., VIII, 35) : *Qui nous séparera de l’amour du Christ? La tribulation? L’angoisse? La persécution? La nudité? Le péril? Le glaive?*",
+    "*(Sur le Cantique des Cantiques.)*"
+   ],
+   "reserve": "Cette méditation ne repose qu’en partie sur une œuvre de saint Thomas : son deuxième point vient de la Somme théologique (I-II, q. 38, a. 4), mais les trois autres sont tirés d’une explication du Cantique des cantiques que La Moelle cite sous son nom et que le Corpus Thomisticum publie sous le nom de Gilles de Rome (<i>Aegidius Romanus</i>). Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 245-246",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : Sur le Cantique des cantiques, c. I",
+     "detail": "Vérification faite sur le Corpus Thomisticum, le premier point se lit au ch. 1 de l’Expositio in Canticum canticorum que le Corpus publie sous le nom de Gilles de Rome (Aegidius Romanus) ; les troisième et quatrième points, renvoyés au même ouvrage sans chapitre, s’y lisent aux ch. 5 et 8.",
+     "url": "https://www.corpusthomisticum.org/xc2.html#88317"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 38, a. 4",
+     "detail": "Référence imprimée par La Moelle (1-2, q. 38, a. 4), exacte : corps de l’article et ad 3. Texte latin, Corpus Thomisticum (I-II, q. 26-39) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2026.html#35187"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 180, a. 2 et a. 7",
+     "detail": "Les vertus morales et la contemplation ; la délectation de la vie contemplative. Texte latin, Corpus Thomisticum (II-II, q. 179-182) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3179.html#46114"
+    }
+   ]
+  },
+  "10-25": {
+   "titre": "Comment reconquérir la douceur divine quand on l’a perdue",
+   "texte": [
+    "*Sur ma couche, pendant la nuit, j’ai cherché celui que mon cœur aime.* (Cant., III, I.)",
+    "1° L’homme doit scruter sa conscience. Les soucis extérieurs occupent tellement l’âme, que quand il veut revenir à sa conscience, souvent il constate qu’il n’a plus cette douceur qu’il avait auparavant. Mais quand l’homme a l’esprit distrait et ne peut pas goûter cette douceur qu’il sentait auparavant, il doit rentrer au fond de son cœur et chercher le Christ. L’Epouse cherche sur sa couche, c’est-à-dire dans sa conscience, et elle ne le trouve pas. *Sur ma couche, pendant la nuit, j’ai cherché celui que j’aime; j’ai cherché et je ne l’ai point trouvé.* Et parfois il lui arrive de devoir se lever et de chercher, si elle a désiré ou fait quelque chose qui ait déplu au Christ, et pour laquelle elle se sente distraite en sa conscience.",
+    "Et la manière de chercher est indiquée ici : *Je me lèverai et je ferai le tour de la ville et je parcourrai les rues et les places.* C’est-à-dire, revenant à ma conscience, j’ai cherché le Christ et ne l’ai point trouvé. Aussi, pour le trouver, je chercherai encore. *Je me lèverai et je ferai le tour de la ville,* c’est-à-dire par un examen actuel, je parcourrai ma conscience, *et j’irai par les rues et les places,* c’est-à-dire par toutes les paroles que j’ai dites, les désirs que j’ai formés, les actions que j’ai faites, et je verrai s’il y a en tout cela quelque chose qui ait déplu au Christ, et ainsi faisant, *Je chercherai le Christ que mon cœur aime.* Si quelqu’un en effet, après avoir ainsi agi, ne peut pas retrouver la douceur de la contemplation, il doit penser que peut-être il a manqué en quelque chose qui l’empêche de retrouver la douceur accoutumée. Et pour cela, il doit scruter totalement la ville, c’est-à-dire sa conscience.",
+    "La conscience, c’est le petit lit où le Christ repose; c’est un lit étroit où ne peut s’étendre qu’un seul, c’est-à-dire le Christ ou le diable. Mais, si nous considérons la conscience et notre cœur, quant au genre de péchés qui peuvent s’y trouver, alors la cité est distincte des places et des rues, c’est-à-dire qu’il y a des péchés graves et des péchés moindres.",
+    "2° L’homme doit évoquer en lui le souvenir de la divine douceur. Celui qui, de l’action revient à la contemplation, s’il ne trouve pas le Christ, qu’il sache que parmi les choses qui le stimuleront à le chercher, il y a le souvenir de la douceur perdue. En effet, quand il arrive que dans la prière on goûte la divine douceur, si, revenant ensuite à la prière, on ne peut plus la sentir aussi grande qu’auparavant, par le souvenir de cette douceur, on est stimulé à discuter ses pensées et ses affections, pour savoir ce qui a pu déplaire au Christ, et arriver à découvrir la cause de ce que l’on n’éprouve plus cette douceur.",
+    "3° Il faut chasser les pensées vaines. Ces pensées sont appelées *des gardes de la ville,* parce qu’elles sont toujours prêtes à nous prendre et à nous occuper. Mais nous devons les délaisser, parce que dans ces pensées, on ne trouve pas le Christ.",
+    "Mieux encore nous dirons : *Elles m’ont frappée, elles m’ont meurtrie et elles m’ont enlevé mon manteau.* (Cant., V, 7.) Elles nous persécutent quand nous leur donnons entrée; elles nous blessent quand nous prenons du plaisir en elles; mais elles nous enlèvent notre manteau, en nous dépouillant des vertus et des dons, quand nous leur donnons notre consentement.",
+    "*(Sur le Cantique des cantiques, III, V.)*"
+   ],
+   "reserve": "Cette méditation ne repose pas sur une œuvre de saint Thomas : l’explication du Cantique des cantiques que La Moelle cite sous son nom est publiée par le Corpus Thomisticum sous le nom de Gilles de Rome (<i>Aegidius Romanus</i>). Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 247-249",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : Sur le Cantique des cantiques, III, V",
+     "detail": "Vérification faite sur le Corpus Thomisticum, le texte se lit aux ch. 3 et 5 de l’Expositio in Canticum canticorum que le Corpus publie sous le nom de Gilles de Rome (Aegidius Romanus).",
+     "url": "https://www.corpusthomisticum.org/xc2.html#88319"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 82, a. 3-4",
+     "detail": "La cause et l’effet de la dévotion ; texte latin, Corpus Thomisticum (II-II, q. 82-91) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3082.html#42449"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 83, a. 13",
+     "detail": "L’attention requise dans la prière ; texte latin, Corpus Thomisticum (II-II, q. 82-91) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3082.html#42572"
+    }
+   ]
+  },
+  "10-26": {
+   "titre": "La perfection de la vie chrétienne",
+   "texte": [
+    "*Par-dessus tout, revêtez-vous de la charité qui est le lien de la perfection.* (Col., III, 14.)",
+    "**I**",
+    "Toute chose est dite parfaite, en tant qu’elle atteint sa fin propre, qui est la dernière perfection d’un être. Or c’est la charité qui nous unit à Dieu, fin ultime de l’âme humaine; car *Celui qui demeure dans la charité, demeure en Dieu et Dieu en lui.* (Jo., IV, 16.) Et c’est pour cela que la perfection de la vie chrétienne se prend spécialement de la charité. L’homme est dit parfait, simplement et sans restriction, à raison de ce en quoi consiste principalement la vie spirituelle. Or, la vie spirituelle consiste principalement dans la charité, et quiconque ne l’a pas, n’est rien au point de vue spirituel. Aussi l’Apôtre (I Cor., XIII, 2) dit : *Quand j’aurais le don de prophétie, quand je connaîtrais tous les mystères et toute la science, quand j’aurais toute la foi, une foi à transporter les montages, si je n’ai pas la charité, je ne suis rien.* Et saint Jean affirme que toute la vie spirituelle consiste dans l’amour (I Jo., III, 14) : *Nous, nous savons que nous sommes passés de la mort à la vie, parce que nous aimons. Celui qui n’aime pas, demeure dans la mort.* Et donc, à parler absolument, celui-là est parfait qui est parfait dans l’amour.",
+    "**II**",
+    "On peut être dit parfait sous un certain point de vue et par rapport à ce qui s’ajoute à la vie spirituelle. Et cela peut se prouver à l’évidence par la Sainte Ecriture. Saint Paul (Col., III, 14) attribue la perfection à la charité principalement. Après avoir énuméré nombre de vertus, comme la miséricorde, la bonté, l’humilité, etc. Il ajoute : *Par-dessus tout, revêtez-vous de la charité qui est le lien de la perfection* : parce qu’elle lie, en quelque sorte, toutes les vertus en une parfaite unité.",
+    "Mais, sous le rapport de la connaissance intellectuelle, certains sont dits parfaits. *Soyez parfaitement unis dans la même pensée et le même sentiment* (I Cor., I, 10), alors cependant que si l’on a une science parfaite sans la charité, on ne soit rien.",
+    "Ainsi encore on peut être dit parfait sous le rapport de la patience, dont les œuvres sont parfaites (Jac., I, 4) et selon d’autres vertus.",
+    "*(De la perfection de la vie spirituelle, c. I.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 249-250",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : De la perfection de la vie spirituelle, c. I",
+     "detail": "Référence partiellement exacte : le début de la section I, jusqu’à « se prend spécialement de la charité », traduit la Somme théologique, II-II, q. 184, a. 1 ; la suite traduit bien le De perfectione spiritualis vitae, ch. 1 (œuvre authentique), texte latin relu sur le Corpus Thomisticum. La Moelle imprime « montages » pour « montagnes ».",
+     "url": "https://www.corpusthomisticum.org/oap.html#69777"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 184, a. 1",
+     "detail": "La perfection de la vie chrétienne consiste dans la charité ; texte latin, Corpus Thomisticum (II-II, q. 183-189) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3183.html#46274"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 23, a. 8",
+     "detail": "La charité, forme et mère des vertus ; texte latin, Corpus Thomisticum (II-II, q. 23-24) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39783"
+    }
+   ]
+  },
+  "10-27": {
+   "titre": "La perfection qui est de toute nécessité pour le salut",
+   "texte": [
+    "La créature raisonnable doit aimer Dieu de tout son pouvoir. Il est dit en effet, au Deutéronome (VI, 5) : *Vous aimerez le Seigneur votre Dieu de tout votre cœur et de toute votre âme et de toutes vos forces.* Et nous aimons Dieu de tout notre cœur, esprit, âme et force, s’il n’est rien de ce que aimons qui ne soit rapporté à Dieu, actuellement ou habituellement. Et la perfection de cet amour de Dieu est imposée à l’homme par un précepte :",
+    "1° De rapporter tout à Dieu comme à une fin. Saint Paul (I Cor., X, 31) dit : *Soit que vous mangiez, soit que vous buviez ou quoi que vous fassiez, faites tout pour la gloire de Dieu.* Et cela est réalisé, quand on ordonne toute sa vie au service de Dieu, et que par conséquent, tout ce que l’on fait est virtuellement ordonné à Dieu, sauf ce qui éloigne de lui, comme les péchés; et ainsi l’homme aime Dieu de tout son cœur.",
+    "2° De soumettre à Dieu son intelligence, en croyant ce que Dieu a révélé, selon la parole de saint Paul (2 Cor., X, V) : *Nous plions toute pensée à l’obéissance au Christ.* Et ainsi Dieu est aimé de tout notre esprit.",
+    "3° D’aimer en Dieu tout ce que nous aimons, et de rapporter universellement tout ce que nous aimons à l’amour de Dieu. Aussi saint Paul (2 Cor., V, 13) dit : *Si nous sommes hors de sens, c’est pour Dieu. Si nous sommes de sens rassis, c’est pour vous. L’amour du Christ nous presse.* Et ainsi Dieu est aimé de toute notre âme.",
+    "4° Que tout notre extérieur, paroles et œuvres, soient affermis dans la divine charité, selon la parole de l’Apôtre (I Cor. ult., 14) : *Que tout chez vous, se passe dans la charité.* Et ainsi Dieu est aimé de toutes nos forces.",
+    "Voilà le mode du parfait amour divin, auquel tous sont obligés de nécessité de précepte.",
+    "*(De la perfection de la vie spirituelle, c. V.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 250-251",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, De perfectione spiritualis vitae, cap. 4-5",
+     "detail": "Référence imprimée par La Moelle : De la perfection de la vie spirituelle, c. V. Exacte pour l’essentiel ; la première phrase et la citation du Deutéronome viennent du ch. 4. Œuvre authentique ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/oap.html#69785"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 44, a. 4-6",
+     "detail": "Le précepte de l’amour de Dieu « de tout ton cœur » ; texte latin, Corpus Thomisticum (II-II, q. 44) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3044.html#40812"
+    }
+   ]
+  },
+  "10-28": {
+   "titre": "De la perfection qui est de conseil",
+   "texte": [
+    "**I**",
+    "La perfection qui est de conseil, est celle qui tend à ressembler à la perfection des bienheureux. Il est dit au Deutéronome (VI, V) : *Vous aimerez le Seigneur votre Dieu de tout votre cœur, et de toute votre âme et de toutes vos forces,* et saint Luc ajoute : *et de tout votre esprit.* Et ainsi, le cœur dirige l’intention, l’esprit dirige la connaissance, l’âme dirige la volonté, la force dirige l’exécution. Le tout et le parfait, c’est ce à quoi rien ne manque; et donc, on aime Dieu de tout son cœur, âme, force, esprit, si rien ne fait défaut en tous ces points, comme un tout actuellement tendu vers Dieu. Mais ce mode d’amour parfait n’est pas de la terre, il est du ciel.",
+    "Dans la céleste béatitude, l’intelligence et la volonté de la créature raisonnable sont tendues vers Dieu, toujours et actuellement, puisque la béatitude consiste à jouir de Dieu. Or la béatitude n’est pas dans une habitude, mais dans un acte. Et comme, d’une part, la créature raisonnable adhérera à Dieu comme à sa fin dernière, laquelle est la Vérité suprême, et comme, d’autre part, tout est rapporté à la fin dernière par l’intention, et qu’en outre, c’est d’après la fin dernière que toute l’activité est disposée, il s’ensuit que dans cette béatitude parfaite, la créature raisonnable aimera Dieu *de tout son cœur,* puisque tout son effort d’intention la portera sur Dieu : pensées, amour ou actions; *de tout son esprit,* puisque toujours et actuellement, son esprit se portera sur Dieu, dans une vision continuelle, et que tous les jugements porteront sur Dieu et selon sa Vérité; *de toute son âme,* puisque toute sa capacité d’aimer se tendra à aimer Dieu continuellement, et s’appliquera à tout aimer pour lui; *de toute sa force* ou *de toutes ses forces,* puisque la raison de tous ses actes extérieurs sera l’amour de Dieu.",
+    "**II**",
+    "Mais bien que cette perfection des bienheureux ne nous soit pas possible ici-bas, nous devons cependant nous entraîner à l’émulation, pour en réaliser une ressemblance, autant que possible. Et en cela consiste la perfection de cette vie, et c’est à cela que nous invitent les conseils. Il est clair que le cœur humain se porte sur quelque objet avec d’autant plus d’intensité qu’il est détaché de plus de choses. Et ainsi l’âme de l’homme se portera d’autant plus parfaitement à aimer Dieu, qu’il se sera arraché davantage à l’emprise des choses temporelles. Aussi saint Augustin dit que le poison de la charité, c’est l’espoir d’acquérir ou de perdre les choses temporelles; mais que son accroissement, c’est la diminution de la cupidité; sa perfection c’est l’abolition de toute cupidité.",
+    "Tous les conseils, par lesquels nous sommes invités à la perfection, tendent à cela, à détourner le cœur de l’homme de l’amour des biens temporels, afin qu’ainsi, l’âme tende plus librement vers Dieu, en le contemplant, en l’aimant et en accomplissant sa volonté.",
+    "*(De la perfection de la vie spirituelle, c. IV et VI.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 252-253",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, De perfectione spiritualis vitae, cap. 4 et 6",
+     "detail": "Référence imprimée par La Moelle (De la perfection de la vie spirituelle, c. IV et VI), exacte ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/oap.html#69783"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 184, a. 2-3",
+     "detail": "La perfection de la charité ; perfection des préceptes et des conseils. Texte latin, Corpus Thomisticum (II-II, q. 183-189) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3183.html#46282"
+    }
+   ]
+  },
+  "10-29": {
+   "titre": "La perfection de la vie présente consiste dans les préceptes et non dans les conseils",
+   "texte": [
+    "L’on peut entendre en deux sens que la perfection consiste en telle chose : Par soi et essentiellement, ou de façon secondaire et accidentelle.",
+    "**I**",
+    "De soi et essentiellement, la perfection de la vie chrétienne consiste dans la charité, principalement dans l’amour de Dieu; puis, et secondairement, dans l’amour du prochain; à ces deux amours se rapportent les préceptes principaux de la Loi divine. Or, il importe de bien remarquer que l’amour de Dieu et du prochain ne tombe pas sous le précepte, suivant une mesure limitée seulement : le surplus étant simplement de conseil. Il suffit, pour s’en convaincre, de prendre garde à la formule même du précepte qui exprime l’idée de perfection : *Tu aimeras le Seigneur ton Dieu de tout ton cœur.* *Tout* et *parfait* s’équivalent, selon la remarque d’Aristote. De même : *Tu aimeras ton prochain comme toi-même.* Chacun s’aime soi-même au maximum.",
+    "Et tout ceci se comprend, si l’on fait attention que *la charité est la fin même du précepte*, au dire de saint Paul (I Tim., I, 5.) Or quand il s’agit de fin, il ne saurait y avoir de mesure à garder. Le médecin ne met pas de mesure dans la santé qu’il prétend restituer, tandis qu’il en met dans la médecine ou la diète, qu’il prescrit en vue de la guérison. Ces considérations prouvent que la perfection consiste essentiellement dans les préceptes. D’où le mot de saint Augustin : « Pourquoi cette perfection ne serait-elle pas commandée à l’homme, bien que nul ne la possède en cette vie? »",
+    "**II**",
+    "Secondairement et à titre de moyen, la perfection consiste dans les conseils. De même que les préceptes, les conseils sont tous ordonnés à la perfection, mais d’une manière différente. Les préceptes, autres que celui de la charité, sont ordonnés à l’éloignement des choses qui sont contraires à la charité, et dont la présence rend la charité impossible. Les conseils sont ordonnés à éloigner ce qui entraverait l’acte de charité, tout en n’étant pas contraire à la charité elle-même : le mariage, par exemple, les affaires, etc.",
+    "C’est ainsi que dans les Conférences des Pères du désert, l’abbé Moyse dit : « Les jeûnes, les veilles, la méditation des Ecritures, la nudité, le dénûment de toutes ressources ne sont pas la perfection même, mais des moyens de perfection. Ce n’est pas en eux que réside la fin de ce régime de vie mais c’est par eux qu’on parvient à la dite fin ». Auparavant il avait dit : « Nous nous efforçons de nous élever par ces degrés à la perfection de la charité ».",
+    "La perfection de l’amour divin tombe bien sous le précepte, suivant toute son étendue. Même la perfection qu’il prendra dans le ciel, ne demeure pas en dehors de ce précepte, observe saint Augustin. Mais celui qui, d’une manière quelconque, atteint à la perfection de l’amour divin échappe au reproche d’avoir transgressé le précepte. Le plus bas degré de l’amour divin, c’est de ne rien aimer plus que Dieu ou contre Dieu ou autant que Dieu. Celui qui n’atteint pas ce degré de perfection, n’observe aucunement le précepte. Il est un autre degré d’amour le plus élevé et qu’il est impossible d’atteindre ici-bas. Il est manifeste que celui qui n’y atteint pas, qui n’y est pas parvenu, ne viole pas le précepte. Celui qui n’atteint pas les degrés intermédiaires de perfection, ne l’enfreint pas davantage, pourvu qu’il atteigne le plus bas.",
+    "*(2-2, q. 184, a. 3.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 254-256",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 184, a. 3",
+     "detail": "Référence imprimée par La Moelle : 2-2, q. 184, a. 3 ; exacte (corps de l’article et réponse à la deuxième objection). Texte latin, Corpus Thomisticum (II-II, q. 183-189) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3183.html#46290"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 184, a. 4",
+     "detail": "L’état de perfection et la perfection ; texte latin, Corpus Thomisticum (II-II, q. 183-189) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3183.html#46298"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 108, a. 4",
+     "detail": "Les conseils de la loi nouvelle ; texte latin, Corpus Thomisticum (I-II, q. 106-108) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2106.html#38356"
+    }
+   ]
+  },
+  "10-30": {
+   "titre": "Les conseils évangéliques",
+   "texte": [
+    "*Les bons conseils d’un ami réjouissent le cœur.* (Prov., 27, 9.)",
+    "Le meilleur pour l’homme, c’est qu’il adhère à Dieu et aux choses divines. Mais il est impossible que l’homme, qui s’adonne d’une manière intense, à des choses diverses, puisse avoir assez de liberté d’esprit pour se porter sur Dieu. C’est pourquoi, dans la loi chrétienne, sont donnés les conseils, par lesquels, autant qu’il est possible, les hommes sont libérés des occupations de la vie présente.",
+    "La sollicitude humaine se porte communément sur trois choses : sur sa personne individuelle, ce qu’elle fera et où elle vivra; sur ses proches, femme et enfants; sur les choses extérieures à se procurer pour sustenter sa vie. Et donc, pour déraciner le souci des choses extérieures, la loi divine a donné le conseil de la pauvreté, pour se débarrasser des biens de ce monde, dans le souci desquels l’âme pourrait être enlisée. *Si vous voulez être parfait, allez et vendez tout ce que vous avez et donnez-en le prix aux pauvres, et venez, suivez-moi.* (Luc, XVIII, 22.) Pour amputer le souci d’une femme et des enfants, il est donné le conseil de la virginité et de la continence. *Pour ce qui est des vierges, je n’ai point de commandement du Seigneur; mais je vous donne un conseil.* (I Cor., VII, 25.) Pour amputer la sollicitude de l’homme sur soi-même, il est donné le conseil de l’obéissance, par laquelle l’homme remet à un supérieur la disposition de ses actes. *Obéissez à vos chefs et leur soyez soumis. Ils exercent en effet, leur vigilance pour le bien de vos âmes comme devant en rendre compte.* (Heb., XIII, 17.)",
+    "Mais comme la suprême perfection de la vie humaine consiste en ce que l’esprit de l’homme s’occupe de Dieu, trois choses semblent surtout disposer à cette occupation, et paraissent appartenir humainement à l’état de perfection, non point qu’elles soient elles-mêmes des perfections, mais comme des dispositions à la perfection, qui consiste à s’occuper de Dieu.",
+    "Elles peuvent aussi être dites des effets et des signes de la perfection. Quand l’esprit de l’homme est fortement affecté par un amour et un désir, il s’ensuit qu’il veut le reste au second rang. De là vient que si l’esprit se porte avec ferveur d’amour et de désir sur les choses divines, en quoi consiste la perfection, il s’ensuit qu’il rejette tout ce qui pourrait retarder son élan vers Dieu, non seulement le soin des affaires, et l’attache à une femme et à des enfants, mais jusqu’à lui-même.",
+    "Et comme ces trois dispositions à la perfection, en sont les effets et les signes, c’est à bon droit que ceux qui en font vœu à Dieu, soient dits être dans l’état de perfection. Or, la perfection à laquelle ces trois choses disposent, consiste dans l’occupation de l’esprit sur Dieu. Et ainsi, ceux qui les professent, sont appelés des religieux, comme s’ils dédiaient à Dieu eux-mêmes et leurs biens, en une sorte de sacrifice : leurs biens par la pauvreté, leur corps par la continence et leur volonté par l’obéissance. Et donc la religion consiste dans le culte divin.",
+    "*(III Contre les Gentils, c. XIII.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 256-258",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : III Contre les Gentils, c. XIII",
+     "detail": "Vérification faite sur le Corpus Thomisticum, le texte de La Moelle se trouve en Contra Gentiles, III, ch. 130 (« Des conseils donnés dans la loi divine »), qu’il abrège ; le chiffre imprimé paraît une coquille pour 130. Saint Thomas cite le conseil de pauvreté d’après Matthieu 19, 21, que l’ouvrage renvoie à Luc 18, 22.",
+     "url": "https://www.corpusthomisticum.org/scg3111.html#26828"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 184, a. 3",
+     "detail": "La perfection consiste-t-elle dans les préceptes ou dans les conseils ; texte latin, Corpus Thomisticum (II-II, q. 183-189) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3183.html#46290"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 186, a. 1 et a. 7",
+     "detail": "L’état religieux, holocauste offert à Dieu ; les trois vœux. Texte latin, Corpus Thomisticum (II-II, q. 183-189) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3183.html#46474"
+    }
+   ]
+  },
+  "10-31": {
+   "titre": "La persévérance",
+   "texte": [
+    "*Celui qui persévèrera jusqu’à la fin sera sauvé.* (Matth., XXIV, 13.)",
+    "1° La persévérance est une vertu. La vertu s’exerce sur le difficile et sur le bien; et partout où se trouve une raison spéciale de difficulté et de bien, il y a place pour une vertu spéciale. Mais l’œuvre vertueuse peut être bonne et difficile par deux côtés : par l’espèce de l’acte et par la longueur du temps. Car il y a une difficulté spéciale à insister longtemps en quelque chose de difficile. Et c’est pourquoi persister en quelque bien jusqu’au bout, fournit matière à une vertu spéciale. C’est ainsi que la tempérance et la force sont des vertus spéciales : l’une parce qu’elle modère les délectations du toucher, et c’est là, de soi, quelque chose de difficile; l’autre modère les craintes et les audaces qui concernent les périls de mort; ce qui, de soi, est également difficile. Et la persévérance aussi est une vertu spéciale, à qui il appartient, en ces difficultés que nous venons de dire, ou en celles des autres œuvres vertueuses, de tenir jusqu’au bout.",
+    "La persévérance et la constance diffèrent par ce qui fait la difficulté de persévérer dans le bien, car la persévérance fait demeurer ferme dans le bien malgré la difficulté qui provient de la longue durée de l’acte; tandis que la constance fait tenir bon dans le bien, malgré la difficulté qui provient de tous les autres obstacles extérieurs.",
+    "*(2-2, q. 137, a. 1 et 3.)*",
+    "2° L’homme en état de grâce a besoin du secours de la grâce pour persévérer.",
+    "La persévérance peut s’entendre de trois manières. Quelquefois on l’entend d’une disposition de l’âme qui donne une fermeté de stabilité telle, qu’on n’abandonnera pas le bien vertueux sous l’assaut des tristesses. La persévérance s’entend encore, et d’une autre manière, d’une disposition qui rend invincible dans le propos de persévérer dans le bien jusqu’à la fin. Entendue de ces deux façons, la persévérance est infusée, donnée, en même temps que la grâce, comme la continence et les autres vertus.",
+    "Mais la persévérance a un autre sens : c’est alors la continuation du bien jusqu’à la fin de la vie. Et pour avoir cette persévérance, l’homme en état de grâce n’a pas besoin d’une autre grâce habituelle, mais du secours divin qui le dirige et le protège contre la poussée des tentations. Et c’est pourquoi celui qui est justifié par la grâce, doit nécessairement demander à Dieu ce don de persévérer, c’est-à-dire, d’être gardé du mal jusqu’à la fin de la vie. Il y en a beaucoup plus à qui la grâce est donnée, que n’est donné de persévérer dans la grâce.",
+    "*(1-2, q. 109, a. 10.)*",
+    "3° Le don de la persévérance ne tombe pas sous le mérite, mais par la prière, on l’obtient de Dieu pour soi ou pour autrui. Ce que nous ne pouvons pas mériter, nous pouvons l’obtenir en priant. Car les pécheurs eux-mêmes, qui demandent leur pardon qu’ils ne peuvent mériter, sont exaucés, comme le prouve saint Augustin sur cette parole de saint Jean (IX, 31) : *Nous savons que Dieu n’exauce pas les pécheurs.* Sinon c’est en vain que le publicain aurait dit : *Mon Dieu, ayez pitié de moi qui suis un pécheur.*",
+    "*(1-2, q. 114, a. 9, ad. Iᵐ.)*"
+   ],
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 258-260",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 137, a. 1, 3 et 4",
+     "detail": "Référence imprimée par La Moelle : 2-2, q. 137, a. 1 et 3, vérifiée ; l’a. 4 (la persévérance a-t-elle besoin du secours de la grâce) est cité dans le commentaire. Texte latin, Corpus Thomisticum (la page couvre II-II, q. 123-140) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3123.html#44533"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 109, a. 10",
+     "detail": "Référence imprimée par La Moelle : 1-2, q. 109, a. 10, vérifiée. Texte latin, Corpus Thomisticum (I-II, q. 109-114) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2109.html#38440"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 114, a. 9",
+     "detail": "Référence imprimée par La Moelle : 1-2, q. 114, a. 9, ad 1, vérifiée ; le corps de l’article est cité dans le commentaire. Texte latin, Corpus Thomisticum (I-II, q. 109-114) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2109.html#38724"
+    }
+   ]
+  }
+ }
+}

@@ -3,7 +3,9 @@
 // sans attendre et la nouvelle version, une fois arrivée, sert à l'ouverture suivante.
 // Les lots de données (journées par mois, psaumes et paraboles par dix) sont gardés dès leur premier
 // chargement ; le mois en cours est mis en cache dès l'installation, pour lire la journée hors connexion.
-const CACHE = 'ad-fontes-v6';
+// Une nouvelle version de ce fichier s'installe puis attend : la page affiche « Nouvelle version disponible »
+// et, sur « Actualiser », envoie SKIP_WAITING pour qu'elle prenne la main.
+const CACHE = 'ad-fontes-v7';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png',
   './images/missel.webp', './images/thomas.webp', './images/david.webp', './images/jesus.webp',
   './images/banniere-portrait.webp', './images/banniere-paysage.webp', './images/somme.webp', './images/portrait.webp'];
@@ -15,8 +17,10 @@ function mois(decalage) {
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE.map(u => new Request(u, { cache: 'reload' })))
     // Mois en cours et suivant : un mois pas encore préparé (404) n'empêche pas l'installation.
-    .then(() => Promise.all([mois(0), mois(1)].map(u => fetch(u, { cache: 'reload' }).then(r => r.ok && c.put(u, r)).catch(() => {})))))
-    .then(() => self.skipWaiting()));
+    .then(() => Promise.all([mois(0), mois(1)].map(u => fetch(u, { cache: 'reload' }).then(r => r.ok && c.put(u, r)).catch(() => {}))))));
+});
+self.addEventListener('message', e => {
+  if (e.data && e.data.type === 'SKIP_WAITING') self.skipWaiting();
 });
 self.addEventListener('activate', e => {
   e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim()));

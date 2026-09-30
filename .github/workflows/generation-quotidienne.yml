@@ -1,0 +1,113 @@
+name: Génération quotidienne
+
+# Objectif : chaque nuit à 3 h, heure de Paris, ajouter aux fichiers de données
+# (donnees/jours/AAAA-MM.json) les journées qui manquent parmi les 30 prochains
+# jours, puis publier sur main. Sans IA :
+#   - jour liturgique de 1962, classe, couleur, commémoraisons, références et
+#     latin de l'Épître et de l'Évangile : Divinum Officium (rubriques de 1960),
+#     dont on exécute le programme à partir de son dépôt public ;
+#   - français : Bible Crampon 1923, sur Wikisource ;
+#   - méditation : La Moelle de saint Thomas d'Aquin, lue dans donnees/moelle.json.
+# Une journée déjà présente n'est jamais réécrite. Les commentaires, les trois
+# points et la résolution restent préparés à part.
+#
+# Le cron de GitHub Actions est en UTC et ne connaît pas l'heure d'été : on
+# déclenche à 01:00 (CEST, été) et 02:00 (CET, hiver), puis on écarte le
+# déclenchement qui ne tombe pas sur 3 h à Paris.
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+    inputs:
+      jours:
+        description: "Nombre de jours à couvrir, aujourd'hui inclus"
+        required: false
+        default: "30"
+      depuis:
+        description: "Première date (AAAA-MM-JJ) ; vide : aujourd'hui"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generation-quotidienne
+  cancel-in-progress: false
+
+jobs:
+  generer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ne garder que le déclenchement de 3 h à Paris
+        id: heure
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Déclenchement manuel : on poursuit."
+            echo "poursuivre=oui" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          heure=$(TZ=Europe/Paris date +%H)
+          echo "Il est ${heure} h à Paris."
+          if [ "$heure" = "03" ]; then
+            echo "poursuivre=oui" >> "$GITHUB_OUTPUT"
+          else
+            echo "poursuivre=non" >> "$GITHUB_OUTPUT"
+            echo "Ce déclenchement ne correspond pas à 3 h locales : on s'arrête."
+          fi
+
+      - name: Récupérer le dépôt
+        if: steps.heure.outputs.poursuivre == 'oui'
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Installer le module CGI de Perl (pour Divinum Officium)
+        if: steps.heure.outputs.poursuivre == 'oui'
+        run: sudo apt-get update -q && sudo apt-get install -y -q --no-install-recommends libcgi-pm-perl
+
+      - name: Récupérer Divinum Officium
+        if: steps.heure.outputs.poursuivre == 'oui'
+        run: |
+          do_dir="$RUNNER_TEMP/divinum-officium"
+          git clone --depth 1 --filter=blob:none --sparse https://github.com/DivinumOfficium/divinum-officium.git "$do_dir"
+          git -C "$do_dir" sparse-checkout set \
+            web/cgi-bin web/www/Tabulae \
+            web/www/missa/Latin web/www/missa/Francais \
+            web/www/horas/Latin/Psalterium web/www/horas/Francais/Psalterium \
+            web/www/horas/Latin/Commune web/www/horas/Francais/Commune
+          echo "Divinum Officium, commit $(git -C "$do_dir" rev-parse --short HEAD)"
+          echo "DO_COMMIT=$(git -C "$do_dir" rev-parse --short HEAD)" >> "$GITHUB_ENV"
+
+      - name: Produire les journées manquantes
+        if: steps.heure.outputs.poursuivre == 'oui'
+        env:
+          ADF_DIVINUM_OFFICIUM: ${{ runner.temp }}/divinum-officium
+          ADF_JOURS: ${{ github.event.inputs.jours || '30' }}
+          ADF_DEPUIS: ${{ github.event.inputs.depuis || '' }}
+        run: |
+          args=(--jours "$ADF_JOURS")
+          if [ -n "$ADF_DEPUIS" ]; then args+=(--depuis "$ADF_DEPUIS"); fi
+          python3 .github/scripts/generer-jours.py "${args[@]}"
+
+      - name: Publier sur main
+        if: steps.heure.outputs.poursuivre == 'oui'
+        run: |
+          git add donnees/jours
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau à publier."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          ajoutes=$(git diff --cached --numstat | wc -l)
+          git commit -q -m "Textes du jour et méditations : journées ajoutées automatiquement" \
+            -m "Divinum Officium ${DO_COMMIT}, Bible Crampon 1923 (Wikisource), La Moelle (donnees/moelle.json). ${ajoutes} fichier(s) mensuel(s) modifié(s)."
+          for essai in 1 2 3; do
+            if git push origin HEAD:main; then exit 0; fi
+            echo "Envoi refusé (main a bougé) : on rebase et on réessaie."
+            git pull --rebase origin main
+          done
+          exit 1

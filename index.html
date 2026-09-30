@@ -296,11 +296,24 @@ body.r-home .aboutlink{flex:none;margin:0 0 6px;line-height:1.3}
 .card p,.qbox blockquote,.qbox cite,.tq p,.tq cite,.mattr,.verse,.resolution p,.latin p,.comm,.homedate
 {text-align:justify;hyphens:auto;-webkit-hyphens:auto}
 .notice,.mattr,.verse,.resolution p,.comm,.homedate{text-align-last:center}
+/* ---------- Bandeau de mise à jour ---------- */
+.maj{position:fixed;left:50%;bottom:calc(var(--tabh) + 10px);transform:translateX(-50%);z-index:11;width:calc(100% - 32px);max-width:568px;display:flex;align-items:center;gap:10px;padding:10px 10px 10px 16px;border-radius:14px;background:var(--navy);color:var(--paper);box-shadow:0 6px 24px rgba(0,0,0,.25);font-size:.95rem;line-height:1.3}
+.maj[hidden]{display:none}
+.maj span{flex:1}
+.maj button{border:0;border-radius:999px;padding:7px 16px;background:var(--gold);color:var(--paper);font-weight:700;white-space:nowrap}
+.maj button:disabled{opacity:.6}
+.maj .maj-x{background:transparent;color:inherit;font-weight:400;font-size:1.3rem;line-height:1;padding:4px 8px;opacity:.8}
 @media (prefers-reduced-motion: reduce){.tile,.rrow .chev,body{transition:none}}
 </style>
 </head>
 <body class="r-home">
 <main id="app"></main>
+
+<div class="maj" id="maj" role="status" aria-live="polite" hidden>
+  <span>Nouvelle version disponible</span>
+  <button type="button" data-maj>Actualiser</button>
+  <button type="button" class="maj-x" data-majx aria-label="Masquer">×</button>
+</div>
 
 <nav class="tabbar" aria-label="Navigation principale">
   <div class="inner">
@@ -634,11 +647,14 @@ function vTextes(){
     ${cta("commtextes","Méditer les textes du jour")}
   </section></div>`;
 }
+/* Une journée produite automatiquement a ses textes avant son commentaire, préparé à part. */
+function enPreparation(){ return `<p class="notice">Le commentaire de cette journée est en préparation.</p>`; }
+function suite(d){ return `${d.essentiel&&d.essentiel.length?essentiel(d.essentiel):""}${d.resolution?resolution(d.resolution):""}${d.sources&&d.sources.length?sources(d.sources):""}`; }
 function vCommTextes(){
   const j=JOURS[state.date]&&JOURS[state.date].textes, d=j||MODELE.textes, c=d.commentaire;
   return hero({img:IMG.vSumma,title:"Commentaire thomiste",sub:"Avec saint Thomas d’Aquin",back:"textes",extra:backPill("textes","Retour aux textes")})+`<div class="sheet">${notice(j)}
-  <section class="wcard"><div class="chead">${ICO.livre}<span>${esc(c.portee||"")}</span></div><div class="badges">${badges(c.mode)}</div>${c.verif?`<p class="verif">${esc(c.verif)}</p>`:""}${sections(c.sections)}</section>
-  ${essentiel(d.essentiel)}${resolution(d.resolution)}${sources(d.sources)}
+  ${c&&c.sections?`<section class="wcard"><div class="chead">${ICO.livre}<span>${esc(c.portee||"")}</span></div><div class="badges">${badges(c.mode)}</div>${c.verif?`<p class="verif">${esc(c.verif)}</p>`:""}${sections(c.sections)}</section>`:enPreparation()}
+  ${suite(d)}
   <p class="colophon">${esc(fmtLong(state.date))}</p></div>`;
 }
 function vMeditation(){
@@ -656,8 +672,8 @@ function vMeditation(){
 function vCommMedit(){
   const j=JOURS[state.date]&&JOURS[state.date].meditation, d=j||MODELE.meditation;
   return hero({img:IMG.vSumma,title:"Commentaire &amp; analyse",sub:"Avec saint Thomas d’Aquin",back:"meditation",extra:backPill("meditation","Retour à la méditation")})+`<div class="sheet">${notice(j)}
-  <section class="wcard"><div class="chead">${ICO.livre}<span>${esc(d.titre)}</span></div><div class="badges">${badges("editorial")}</div>${sections(d.commentaire.sections)}</section>
-  ${essentiel(d.essentiel)}${resolution(d.resolution)}${sources(d.sources)}
+  ${d.commentaire&&d.commentaire.sections?`<section class="wcard"><div class="chead">${ICO.livre}<span>${esc(d.titre)}</span></div><div class="badges">${badges("editorial")}</div>${sections(d.commentaire.sections)}</section>`:enPreparation()}
+  ${suite(d)}
   <p class="colophon">${esc(fmtLong(state.date))}</p></div>`;
 }
 function vPsautier(){
@@ -810,8 +826,33 @@ document.addEventListener("change",e=>{
 });
 render();
 lot("donnees/jours/"+todayKey().slice(0,7)+".json", JOURS); // la journée du jour, prête avant qu'on l'ouvre
+/* ---------- Mise à jour de l'application ----------
+   Quand sw.js change, le nouveau service worker s'installe puis attend : le bandeau propose
+   d'actualiser. Au clic, il prend la main et la page se recharge une fois, sur la nouvelle version. */
+const MAJ = document.getElementById("maj");
+let majDemandee = false;
+function proposerMaj(sw){
+  const b = MAJ.querySelector("[data-maj]");
+  b.disabled = false;
+  b.onclick = () => { majDemandee = true; b.disabled = true; sw.postMessage({ type: "SKIP_WAITING" }); };
+  MAJ.hidden = false;
+}
+MAJ.querySelector("[data-majx]").addEventListener("click", () => { MAJ.hidden = true; });
 if ("serviceWorker" in navigator && location.protocol === "https:") {
-  window.addEventListener("load", () => { navigator.serviceWorker.register("sw.js").catch(() => {}); });
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("sw.js").then(reg => {
+      const suivre = sw => sw && sw.addEventListener("statechange", () => {
+        if (sw.state === "installed" && navigator.serviceWorker.controller) proposerMaj(sw);
+      });
+      if (reg.waiting && navigator.serviceWorker.controller) proposerMaj(reg.waiting);
+      suivre(reg.installing);
+      reg.addEventListener("updatefound", () => suivre(reg.installing));
+      // L'application reste souvent ouverte : on cherche une mise à jour à chaque retour au premier plan.
+      document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") reg.update().catch(() => {}); });
+    }).catch(() => {});
+    // Au premier chargement, clients.claim() change aussi de contrôleur : on ne recharge que sur demande.
+    navigator.serviceWorker.addEventListener("controllerchange", () => { if (majDemandee) { majDemandee = false; location.reload(); } });
+  });
 }
 </script>
 </body>
