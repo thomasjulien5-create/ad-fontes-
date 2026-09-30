@@ -114,9 +114,8 @@ strong{font-weight:700;color:var(--navy)}
 html{height:100%}
 body.r-home{height:100%;overflow:hidden}
 body.r-home main{display:flex;flex-direction:column;height:100%;box-sizing:border-box;padding-bottom:var(--tabh)}
-body.r-home .bannerwrap{flex:none;height:19%}
-body.r-home .bannerwrap picture{display:block;height:100%}
-body.r-home .bannerwrap img{height:100%;object-fit:cover}
+body.r-home .bannerwrap{flex:none}
+body.r-home .bannerwrap::after{height:16%}
 body.r-home .homedate{flex:none;margin:2px 0 4px}
 body.r-home .tiles{flex:1;min-height:0;grid-template-rows:minmax(0,1fr) minmax(0,1fr)}
 body.r-home .tile{min-height:0}
