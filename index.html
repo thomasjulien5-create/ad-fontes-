@@ -100,11 +100,12 @@ strong{font-weight:700;color:var(--navy)}
 .bannerwrap::after{content:"";position:absolute;left:0;right:0;bottom:0;height:30%;background:linear-gradient(to bottom,transparent,var(--page))}
 .homedate{text-align:center;color:var(--muted);font-style:italic;margin:4px 0 12px}
 .tiles{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;padding:0 14px}
-.tile{display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--cardline);border-radius:14px;overflow:hidden;box-shadow:var(--shadow);text-decoration:none;color:var(--navy);transition:transform .15s ease}
+.tile{position:relative;overflow:hidden;display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--cardline);border-radius:14px;overflow:hidden;box-shadow:var(--shadow);text-decoration:none;color:var(--navy);transition:transform .15s ease}
 .tile:active{transform:scale(.97)}
-.tile img{width:100%;aspect-ratio:3/2;object-fit:cover;display:block}
-.tile b{font-weight:700;font-size:1.05rem;line-height:1.12;text-align:center;padding:8px 6px 4px;min-height:2.4em;display:flex;align-items:center;justify-content:center}
-.tile .dia{margin:0 auto 8px}
+.tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:saturate(.9) contrast(.96)}
+.tile .lab{position:absolute;left:0;right:0;bottom:0;padding:34px 8px 8px;background:linear-gradient(to top,rgba(18,24,38,.86),rgba(18,24,38,.55) 55%,transparent);color:#F7F1E3;text-align:center}
+.tile .lab b{display:block;font-weight:700;font-size:1.08rem;line-height:1.12}
+.tile .dia{margin:4px auto 0}
 .qbox{display:flex;align-items:center;gap:16px;margin:18px 14px 0;background:var(--paper2);border:1px solid var(--line);border-radius:16px;padding:18px 18px}
 .qbox blockquote{margin:0;font-style:italic;font-size:1.22rem;line-height:1.38;color:var(--navy)}
 .qbox cite{display:block;font-style:italic;font-size:.9rem;color:var(--muted);margin-top:6px}
@@ -119,8 +120,6 @@ body.r-home .bannerwrap img{height:100%;object-fit:cover}
 body.r-home .homedate{flex:none;margin:2px 0 8px}
 body.r-home .tiles{flex:1;min-height:0;grid-template-rows:minmax(0,1fr) minmax(0,1fr)}
 body.r-home .tile{min-height:0}
-body.r-home .tile img{flex:1;min-height:0;aspect-ratio:auto}
-body.r-home .tile b{flex:none}
 .qbox.compact{flex:none;gap:10px;margin:8px 14px;padding:8px 12px;border-radius:12px}
 .qbox.compact .lis{width:24px;height:29px}
 .qbox.compact blockquote{font-size:.98rem;line-height:1.3}
@@ -131,6 +130,8 @@ body.r-home .tile b{flex:none}
 .hero{position:relative;color:var(--won);padding:6px 14px 14px}
 .vignette{width:128px;height:166px;margin:16px auto 18px;border-radius:64px 64px 6px 6px;overflow:hidden;border:4px solid var(--paper);box-shadow:0 0 0 1px var(--gold2),0 14px 30px rgba(0,0,0,.24);background:var(--paper)}
 .vignette img{width:100%;height:100%;object-fit:cover;display:block}
+.heroimg{margin:12px 0 16px;border-radius:14px;overflow:hidden;border:4px solid var(--paper);box-shadow:0 0 0 1px var(--gold2),0 14px 30px rgba(0,0,0,.24)}
+.heroimg img{display:block;width:100%;height:auto}
 .topbar{display:grid;grid-template-columns:40px 1fr 40px;align-items:center}
 .backbtn{width:40px;height:44px;border:0;background:none;display:grid;place-items:center;padding:0}
 .backbtn svg{width:26px;height:26px;fill:none;stroke:var(--gold2);stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
@@ -24333,7 +24334,7 @@ function hero(opts){
     <div class="topbar"><button class="backbtn" data-view="${opts.back||"accueil"}" aria-label="Retour">${ICO.back}</button><h1 class="ptitle">${opts.title}</h1><span></span></div>
     ${CRULE}
     ${opts.sub?`<p class="psub">${opts.sub}</p>`:""}
-    ${opts.img?`<div class="vignette"><img src="${opts.img}" alt="" style="object-position:${opts.pos||"center"}"></div>`:`<div style="height:12px"></div>`}
+    ${opts.full?`<div class="heroimg"><img src="${opts.full}" alt=""></div>`:opts.img?`<div class="vignette"><img src="${opts.img}" alt="" style="object-position:${opts.pos||"center"}"></div>`:`<div style="height:12px"></div>`}
     ${opts.extra||""}</header>`;
 }
 function dateRow(){
@@ -24398,7 +24399,7 @@ function propre(d){
   if (p.evangile) list.push(["Évangile", p.evangile]);
   return list.map(([nom, x], i) => piece(nom, x, i)).join("");
 }
-function tile(view,title,img,pos){ return `<a class="tile" href="#${view}" data-view="${view}"><img src="${img}" alt="" style="object-position:${pos||"center"}"><b>${title}</b>${DIA}</a>`; }
+function tile(view,title,img,pos){ return `<a class="tile" href="#${view}" data-view="${view}"><img src="${img}" alt="" style="object-position:${pos||"center"}"><span class="lab"><b>${title}</b>${DIA}</span></a>`; }
 function qbox(q,c,cls){ return `<figure class="qbox ${cls||""}">${LIS}<div><blockquote>${q}</blockquote><cite>${c}</cite></div></figure>`; }
 
 /* ---------- Rubriques ---------- */
@@ -24406,10 +24407,10 @@ function vAccueil(){
   return `<div class="bannerwrap"><picture><source media="(min-width:700px)" srcset="${IMG.bannerL}"><img src="${IMG.bannerM}" alt="Ad Fontes, le bréviaire du laïc du XXIᵉ siècle. Prier, méditer, agir."></picture></div>
   <p class="homedate">${fmtLong(todayKey())}</p>
   <div class="tiles">
-    ${tile("textes","Textes<br>du jour",IMG.crucifix,"center 22%")}
-    ${tile("meditation","Méditation quotidienne",IMG.thomasTile,"center top")}
-    ${tile("psautier","Psaumes",IMG.psaut)}
-    ${tile("paraboles","Paraboles",IMG.parab,"center 30%")}
+    ${tile("textes","Textes<br>du jour","images/missel.webp","center 60%")}
+    ${tile("meditation","Méditation quotidienne","images/thomas.webp","center 30%")}
+    ${tile("psautier","Psaumes","images/david.webp","center 30%")}
+    ${tile("paraboles","Paraboles","images/jesus.webp","center 40%")}
   </div>
   ${qbox("« La grâce ne détruit pas la nature, mais la perfectionne. »","Saint Thomas d’Aquin, <i>Somme théologique</i>, I, q. 1, a. 8, ad 2","compact")}
   <p class="aboutlink"><a href="#apropos" data-view="apropos">À propos d’Ad Fontes ›</a></p>`;
@@ -24417,7 +24418,7 @@ function vAccueil(){
 function vTextes(){
   const j=JOURS[state.date]&&JOURS[state.date].textes, d=j||MODELE.textes, l=d.liturgie, c=COULEURS[l.couleur]||COULEURS.blanc;
   const comms=(l.commemoraisons||[]).map(x=>typeof x==="string"?{nom:x}:x);
-  return hero({img:IMG.vBible,pos:"35% center",title:"Textes du jour",sub:"Selon le Missel romain de 1962",extra:dateRow()})+`<div class="sheet">${notice(j)}
+  return hero({full:"images/missel.webp",title:"Textes du jour",sub:"Selon le Missel romain de 1962",extra:dateRow()})+`<div class="sheet">${notice(j)}
   <section class="wcard fiche">
     <h2 class="feast">${esc(l.nom)}</h2>
     ${l.qualite?`<div class="fsub">${esc(l.qualite)}</div>`:""}
@@ -24440,7 +24441,7 @@ function vCommTextes(){
 }
 function vMeditation(){
   const j=JOURS[state.date]&&JOURS[state.date].meditation, d=j||MODELE.meditation;
-  return hero({img:IMG.vThomas,pos:"center top",title:"Méditation quotidienne",sub:"La Moelle de saint Thomas d’Aquin",extra:dateRow()})+`<div class="sheet">${notice(j)}
+  return hero({full:"images/thomas.webp",title:"Méditation quotidienne",sub:"La Moelle de saint Thomas d’Aquin",extra:dateRow()})+`<div class="sheet">${notice(j)}
   <section class="wcard">
     <h2 class="mtitle">${esc(d.titre)}</h2>
     <div class="mattr">La Moelle de saint Thomas d’Aquin<br>R. P. Denys Mézard, O.P. (1930)</div>
@@ -24459,7 +24460,7 @@ function vCommMedit(){
 }
 function vPsautier(){
   const j=PSAUMES[state.ps], d=j||MODELE_PS, n=state.ps, h=hebreu(n);
-  return hero({img:IMG.psaut,pos:"center",title:"Psaumes",sub:"Les 150 psaumes, avec saint Thomas et saint Augustin",extra:psRow()})+`<div class="sheet">${j?"":`<p class="notice">Psaume non encore préparé : vous voyez ici la mise en page type.</p>`}
+  return hero({full:"images/david.webp",title:"Psaumes",sub:"Les 150 psaumes, avec saint Thomas et saint Augustin",extra:psRow()})+`<div class="sheet">${j?"":`<p class="notice">Psaume non encore préparé : vous voyez ici la mise en page type.</p>`}
   <section class="wcard">
     <h2 class="psnum">Psaume ${roman(n)}</h2>
     <p class="psinc">${esc(d.incipit)}</p>
@@ -24483,13 +24484,13 @@ function vCommPsaume(){
 }
 function vParaboles(){
   const groups=["Matthieu","Marc","Luc","Jean"];
-  return hero({img:IMG.parab,pos:"center top",title:"Paraboles",sub:"Les paraboles de l’Évangile, avec saint Thomas",extra:randRow("data-pbrand","Choisir une parabole au hasard")})+`<div class="sheet">
+  return hero({full:"images/jesus.webp",title:"Paraboles",sub:"Les paraboles de l’Évangile, avec saint Thomas",extra:randRow("data-pbrand","Choisir une parabole au hasard")})+`<div class="sheet">
   <section class="wcard">${groups.map(g=>`<div class="evgroup">Selon saint ${g}</div><ul class="plist">${PARABOLES.filter(p=>p.ev===g).map(p=>`<li><button class="prow${PARABOLES_DATA[p.n]?" ready":""}" data-pb="${p.n}"><span class="pn">${p.n}</span><div><div class="pt2">${esc(p.t)}</div><div class="pref">${esc(p.r)}</div></div><span class="chev" aria-hidden="true">›</span></button></li>`).join("")}</ul>`).join("")}</section>
   <p class="colophon">✦ parabole préparée</p></div>`;
 }
 function vParabole(){
   const p=PARABOLES.find(x=>x.n===state.pb)||PARABOLES[0], j=PARABOLES_DATA[p.n], d=j||MODELE_PB;
-  return hero({img:IMG.parab,pos:"center top",title:"Parabole",sub:"Selon saint "+p.ev,back:"paraboles",extra:backPill("paraboles","Toutes les paraboles")})+`<div class="sheet">${j?"":`<p class="notice">Parabole non encore préparée : vous voyez ici la mise en page type.</p>`}
+  return hero({full:"images/jesus.webp",title:"Parabole",sub:"Selon saint "+p.ev,back:"paraboles",extra:backPill("paraboles","Toutes les paraboles")})+`<div class="sheet">${j?"":`<p class="notice">Parabole non encore préparée : vous voyez ici la mise en page type.</p>`}
   <section class="wcard">
     <h2 class="psnum">${esc(p.t)}</h2>
     <p class="psinc">${esc(p.r)}</p>
