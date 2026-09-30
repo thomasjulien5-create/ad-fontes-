@@ -103,9 +103,9 @@ strong{font-weight:700;color:var(--navy)}
 .tile{position:relative;overflow:hidden;display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--cardline);border-radius:14px;overflow:hidden;box-shadow:var(--shadow);text-decoration:none;color:var(--navy);transition:transform .15s ease}
 .tile:active{transform:scale(.97)}
 .tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:saturate(.9) contrast(.96)}
-.tile .lab{position:absolute;left:0;right:0;bottom:0;padding:34px 8px 8px;background:linear-gradient(to top,rgba(18,24,38,.86),rgba(18,24,38,.55) 55%,transparent);color:#F7F1E3;text-align:center}
+.tile .lab{position:absolute;left:0;right:0;bottom:0;height:92px;box-sizing:border-box;display:flex;flex-direction:column;justify-content:flex-end;padding:0 8px 8px;background:linear-gradient(to top,rgba(18,24,38,.92) 0%,rgba(18,24,38,.7) 40%,rgba(18,24,38,.25) 72%,transparent);color:#F7F1E3;text-align:center}
 .tile .lab b{display:block;font-weight:700;font-size:1.08rem;line-height:1.12}
-.tile .dia{margin:4px auto 0}
+.tile .dia{margin:5px auto 0}
 .qbox{display:flex;align-items:center;gap:16px;margin:18px 14px 0;background:var(--paper2);border:1px solid var(--line);border-radius:16px;padding:18px 18px}
 .qbox blockquote{margin:0;font-style:italic;font-size:1.22rem;line-height:1.38;color:var(--navy)}
 .qbox cite{display:block;font-style:italic;font-size:.9rem;color:var(--muted);margin-top:6px}
@@ -114,16 +114,16 @@ strong{font-weight:700;color:var(--navy)}
 html{height:100%}
 body.r-home{height:100%;overflow:hidden}
 body.r-home main{display:flex;flex-direction:column;height:100%;box-sizing:border-box;padding-bottom:var(--tabh)}
-body.r-home .bannerwrap{flex:none;height:26%}
+body.r-home .bannerwrap{flex:none;height:19%}
 body.r-home .bannerwrap picture{display:block;height:100%}
 body.r-home .bannerwrap img{height:100%;object-fit:cover}
-body.r-home .homedate{flex:none;margin:2px 0 8px}
+body.r-home .homedate{flex:none;margin:2px 0 4px}
 body.r-home .tiles{flex:1;min-height:0;grid-template-rows:minmax(0,1fr) minmax(0,1fr)}
 body.r-home .tile{min-height:0}
 .qbox.compact{flex:none;gap:10px;margin:8px 14px;padding:8px 12px;border-radius:12px}
-.qbox.compact .lis{width:24px;height:29px}
-.qbox.compact blockquote{font-size:.98rem;line-height:1.3}
-.qbox.compact cite{font-size:.78rem;margin-top:2px}
+.qbox.compact .lis{width:26px;height:31px}
+.qbox.compact blockquote{font-size:1.06rem;line-height:1.3;hyphens:none;-webkit-hyphens:none;text-align:left}
+.qbox.compact cite{font-size:.78rem;margin-top:2px;color:var(--muted);opacity:.85}
 @media (max-height:699.98px){.qbox.compact cite{display:none}}
 
 /* ---------- En-tête des rubriques ---------- */
@@ -158,7 +158,6 @@ span.chip{border-color:transparent;font-style:italic;opacity:.85}
 .sep{width:44px;height:1px;background:var(--gold2);margin:16px auto}
 .prose p,.rtext p,.srctext p{text-align:justify;hyphens:auto;-webkit-hyphens:auto}
 .h2{font-weight:700;font-size:1.5rem;line-height:1.2;color:var(--navy);margin:0 0 10px}
-.gsub{font-style:italic;color:var(--gold);font-size:1.4rem;line-height:1.2;margin:2px 0 0}
 
 /* Fiche liturgique */
 .fiche{text-align:center}
@@ -233,7 +232,8 @@ span.chip{border-color:transparent;font-style:italic;opacity:.85}
 .prow.ready .pt2::after{content:" ✦";color:var(--gold2);font-size:.75em}
 .aboutlink{text-align:center;font-size:.92rem;margin:6px 0 0}
 body.r-home .aboutlink{flex:none;margin:0 0 6px;line-height:1.3}
-.aboutlink a{color:var(--muted);text-decoration:none;font-style:italic}
+.aboutlink a{display:inline-block;border:1px solid var(--gold2);border-radius:999px;padding:5px 16px 5px 14px;color:var(--gold);text-decoration:none;font-style:italic}
+.aboutlink a::after{content:" →";font-style:normal}
 .evgroup{font-weight:700;font-size:.95rem;letter-spacing:.08em;text-transform:uppercase;color:var(--gold);margin:16px 0 4px}
 .evgroup:first-child{margin-top:0}
 .psnum{text-align:center;font-weight:700;font-size:1.9rem;line-height:1.1;color:var(--red);margin:0}
@@ -257,7 +257,10 @@ body.r-home .aboutlink{flex:none;margin:0 0 6px;line-height:1.3}
 .sd{display:block;color:var(--muted);font-size:.9rem;font-style:italic}
 
 /* À propos */
-.adf{font-weight:800;font-size:2.6rem;line-height:1.05;color:var(--navy);margin:0;letter-spacing:-.01em}
+.apban{position:relative;margin:4px -14px 6px;line-height:0}
+.apban img{width:100%;height:auto;display:block}
+.apban::after{content:"";position:absolute;left:0;right:0;bottom:0;height:28%;background:linear-gradient(to bottom,transparent,var(--w2))}
+.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .portrait{text-align:center;padding:14px 14px 18px}
 .portrait img{width:100%;max-width:250px;margin:0 auto;border-radius:125px 125px 6px 6px;border:4px solid var(--paper);box-shadow:0 0 0 1px var(--gold2);display:block}
 .pname{font-weight:700;font-size:1.4rem;color:var(--navy);margin:14px 0 0}
@@ -607,7 +610,7 @@ function vAccueil(){
     ${tile("paraboles","Paraboles","images/jesus.webp","center 40%")}
   </div>
   ${qbox("« La grâce ne détruit pas la nature, mais la perfectionne. »","Saint Thomas d’Aquin, <i>Somme théologique</i>, I, q. 1, a. 8, ad 2","compact")}
-  <p class="aboutlink"><a href="#apropos" data-view="apropos">À propos d’Ad Fontes ›</a></p>`;
+  <p class="aboutlink"><a href="#apropos" data-view="apropos">À propos d’Ad Fontes</a></p>`;
 }
 function vTextes(){
   const j=JOURS[state.date]&&JOURS[state.date].textes, d=j||MODELE.textes, l=d.liturgie, c=COULEURS[l.couleur]||COULEURS.blanc;
@@ -704,11 +707,10 @@ function vCommParabole(){
 }
 
 function vApropos(){
-  return hero({title:"À propos"})+`<div class="sheet">
+  return `<header class="hero">
+    <div class="topbar"><button class="backbtn" data-view="accueil" aria-label="Retour">${ICO.back}</button><h1 class="vh">À propos</h1><span></span></div>
+    <div class="apban"><picture><source media="(min-width:700px)" srcset="${IMG.bannerL}"><img src="${IMG.bannerM}" alt="Ad Fontes, le bréviaire du laïc du XXIᵉ siècle. Prier, méditer, agir."></picture></div></header><div class="sheet">
   <section class="wcard prose">
-    <h2 class="adf">Ad Fontes</h2>
-    <p class="gsub">Prier · Méditer · Agir</p>
-    <div class="goldline"></div>
     <p><strong><i>Ad Fontes</i></strong>, « retour aux sources », est une application qui propose des méditations chrétiennes quotidiennes, puisées dans la pensée de saint Thomas d’Aquin, afin de nourrir l’intelligence de la foi et la vie intérieure. Son but est d’<strong>approfondir des méditations spirituelles en vue de mieux agir dans sa vie</strong>, et de faire connaître la rigueur et la profondeur de la pensée de saint Thomas d’Aquin.</p>
     <div class="goldline"></div>
     <p>Dans un monde marqué par la dispersion, le relativisme et la confusion des idées, il est plus que jamais nécessaire de <strong>revenir aux sources sûres de la vérité</strong>. L’enseignement de saint Thomas d’Aquin offre <strong>une lumière stable</strong>, capable d’éclairer notre intelligence et d’orienter notre volonté vers Dieu.</p>
