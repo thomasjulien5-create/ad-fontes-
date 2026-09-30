@@ -158,7 +158,6 @@ span.chip{border-color:transparent;font-style:italic;opacity:.85}
 .sep{width:44px;height:1px;background:var(--gold2);margin:16px auto}
 .prose p,.rtext p,.srctext p{text-align:justify;hyphens:auto;-webkit-hyphens:auto}
 .h2{font-weight:700;font-size:1.5rem;line-height:1.2;color:var(--navy);margin:0 0 10px}
-.gsub{font-style:italic;color:var(--gold);font-size:1.4rem;line-height:1.2;margin:2px 0 0}
 
 /* Fiche liturgique */
 .fiche{text-align:center}
@@ -258,7 +257,10 @@ body.r-home .aboutlink{flex:none;margin:0 0 6px;line-height:1.3}
 .sd{display:block;color:var(--muted);font-size:.9rem;font-style:italic}
 
 /* À propos */
-.adf{font-weight:800;font-size:2.6rem;line-height:1.05;color:var(--navy);margin:0;letter-spacing:-.01em}
+.apban{position:relative;margin:4px -14px 6px;line-height:0}
+.apban img{width:100%;height:auto;display:block}
+.apban::after{content:"";position:absolute;left:0;right:0;bottom:0;height:28%;background:linear-gradient(to bottom,transparent,var(--w2))}
+.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .portrait{text-align:center;padding:14px 14px 18px}
 .portrait img{width:100%;max-width:250px;margin:0 auto;border-radius:125px 125px 6px 6px;border:4px solid var(--paper);box-shadow:0 0 0 1px var(--gold2);display:block}
 .pname{font-weight:700;font-size:1.4rem;color:var(--navy);margin:14px 0 0}
@@ -705,11 +707,10 @@ function vCommParabole(){
 }
 
 function vApropos(){
-  return hero({title:"À propos"})+`<div class="sheet">
+  return `<header class="hero">
+    <div class="topbar"><button class="backbtn" data-view="accueil" aria-label="Retour">${ICO.back}</button><h1 class="vh">À propos</h1><span></span></div>
+    <div class="apban"><picture><source media="(min-width:700px)" srcset="${IMG.bannerL}"><img src="${IMG.bannerM}" alt="Ad Fontes, le bréviaire du laïc du XXIᵉ siècle. Prier, méditer, agir."></picture></div></header><div class="sheet">
   <section class="wcard prose">
-    <h2 class="adf">Ad Fontes</h2>
-    <p class="gsub">Prier · Méditer · Agir</p>
-    <div class="goldline"></div>
     <p><strong><i>Ad Fontes</i></strong>, « retour aux sources », est une application qui propose des méditations chrétiennes quotidiennes, puisées dans la pensée de saint Thomas d’Aquin, afin de nourrir l’intelligence de la foi et la vie intérieure. Son but est d’<strong>approfondir des méditations spirituelles en vue de mieux agir dans sa vie</strong>, et de faire connaître la rigueur et la profondeur de la pensée de saint Thomas d’Aquin.</p>
     <div class="goldline"></div>
     <p>Dans un monde marqué par la dispersion, le relativisme et la confusion des idées, il est plus que jamais nécessaire de <strong>revenir aux sources sûres de la vérité</strong>. L’enseignement de saint Thomas d’Aquin offre <strong>une lumière stable</strong>, capable d’éclairer notre intelligence et d’orienter notre volonté vers Dieu.</p>
