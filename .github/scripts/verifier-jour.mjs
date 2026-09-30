@@ -11,15 +11,20 @@
    Le script n'invente rien : il constate ce qui manque et écrit
    un rapport JSON. L'envoi de l'alerte est fait à part.
 
+   On compte aussi l'avance : le nombre de journées prêtes à la suite,
+   à partir d'aujourd'hui. Dès que cette avance passe sous le seuil
+   (10 jours par défaut), il faut prévenir.
+
    Sortie : rapport.json + code de retour 0 (rien à signaler)
-            ou 1 (au moins une journée incomplète).
+            ou 1 (avance sous le seuil, ou journée incomplète dans la fenêtre).
    ============================================================ */
 
 import { readFileSync, writeFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 
 const SOURCE = process.env.ADF_SOURCE || "donnees/jours";
-const FENETRE = Number(process.env.ADF_FENETRE || 7); // jours vérifiés, aujourd'hui inclus
+const SEUIL = Number(process.env.ADF_SEUIL || 10);   // avance minimale, en journées prêtes à la suite
+const FENETRE = Math.max(Number(process.env.ADF_FENETRE || SEUIL), SEUIL); // jours vérifiés, aujourd'hui inclus
 const FUSEAU = "Europe/Paris";
 
 /* ---------- Chargement des données ----------
@@ -99,11 +104,16 @@ for (let i = 0; i < FENETRE; i++) {
 }
 
 const incompletes = journees.filter(j => !j.prete);
+const premiere = journees.findIndex(j => !j.prete);
+const avance = premiere === -1 ? FENETRE : premiere; // journées prêtes à la suite, aujourd'hui inclus
 const rapport = {
   genere_le: new Date().toISOString(),
   fuseau: FUSEAU,
   source: SOURCE,
   fenetre_jours: FENETRE,
+  seuil_jours: SEUIL,
+  avance_jours: avance,
+  dernier_jour_pret: avance ? journees[avance - 1].date : null,
   total_incompletes: incompletes.length,
   journees,
 };
@@ -114,4 +124,5 @@ for (const j of journees) {
   for (const m of j.manques) console.log(`    · ${m}`);
 }
 console.log(`\n${incompletes.length} journée(s) incomplète(s) sur ${FENETRE}.`);
-process.exit(incompletes.length ? 1 : 0);
+console.log(`Avance : ${avance} journée(s) prête(s) à la suite (seuil : ${SEUIL}).`);
+process.exit(avance < SEUIL || incompletes.length ? 1 : 0);

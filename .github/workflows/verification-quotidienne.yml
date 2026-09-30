@@ -1,8 +1,8 @@
 name: Vérification quotidienne
 
 # Objectif : chaque jour à 7 h, heure de Paris, contrôler que les
-# journées à venir sont prêtes et prévenir par courriel s'il manque
-# un texte.
+# journées à venir sont prêtes et prévenir par courriel dès qu'il reste
+# moins de 10 journées préparées d'avance (aujourd'hui inclus).
 #
 # Le cron de GitHub Actions est en UTC et ne connaît pas l'heure d'été.
 # On déclenche donc aux deux heures UTC qui peuvent correspondre à 7 h
@@ -16,9 +16,13 @@ on:
   workflow_dispatch:
     inputs:
       fenetre:
-        description: "Nombre de jours à vérifier (aujourd'hui inclus)"
+        description: "Nombre de jours à vérifier (aujourd'hui inclus ; au moins le seuil)"
         required: false
-        default: "7"
+        default: "10"
+      seuil:
+        description: "Alerte si moins de ce nombre de journées sont prêtes d'avance"
+        required: false
+        default: "10"
 
 permissions:
   contents: read
@@ -52,7 +56,8 @@ jobs:
         if: steps.heure.outputs.poursuivre == 'oui'
         continue-on-error: true
         env:
-          ADF_FENETRE: ${{ github.event.inputs.fenetre || '7' }}
+          ADF_FENETRE: ${{ github.event.inputs.fenetre || '10' }}
+          ADF_SEUIL: ${{ github.event.inputs.seuil || '10' }}
         run: node .github/scripts/verifier-jour.mjs
 
       - name: Conserver le rapport
@@ -63,7 +68,7 @@ jobs:
           path: rapport.json
           if-no-files-found: warn
 
-      - name: Avertir par courriel si une journée n'est pas prête
+      - name: Avertir par courriel s'il reste moins de 10 journées prêtes
         if: steps.heure.outputs.poursuivre == 'oui' && steps.verif.outcome == 'failure'
         env:
           SMTP_SERVEUR: ${{ secrets.SMTP_SERVEUR }}

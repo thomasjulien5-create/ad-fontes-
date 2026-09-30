@@ -23,10 +23,22 @@ from email.message import EmailMessage
 REQUIS = ["SMTP_SERVEUR", "SMTP_UTILISATEUR", "SMTP_MOTDEPASSE", "DESTINATAIRE"]
 
 
+def a_signaler(rapport):
+    seuil = rapport.get("seuil_jours", 0)
+    return rapport["total_incompletes"] > 0 or rapport.get("avance_jours", seuil) < seuil
+
+
 def corps(rapport):
-    lignes = [
-        "Ad Fontes — vérification quotidienne",
-        "",
+    avance = rapport.get("avance_jours")
+    seuil = rapport.get("seuil_jours")
+    dernier = rapport.get("dernier_jour_pret")
+    lignes = ["Ad Fontes — vérification quotidienne", ""]
+    if avance is not None:
+        lignes.append(
+            f"Journées préparées d'avance : {avance} (seuil d'alerte : {seuil})."
+            + (f" Dernière journée prête : {dernier}." if dernier else " La journée d'aujourd'hui n'est pas prête.")
+        )
+    lignes += [
         f"{rapport['total_incompletes']} journée(s) incomplète(s) "
         f"sur les {rapport['fenetre_jours']} prochains jours.",
         "",
@@ -56,14 +68,19 @@ def main():
     with open("rapport.json", encoding="utf-8") as f:
         rapport = json.load(f)
 
-    if rapport["total_incompletes"] == 0:
-        print("Toutes les journées sont prêtes : pas d'alerte à envoyer.")
+    if not a_signaler(rapport):
+        print("Assez de journées prêtes d'avance : pas d'alerte à envoyer.")
         return 0
 
     msg = EmailMessage()
-    msg["Subject"] = (
-        f"Ad Fontes — {rapport['total_incompletes']} journée(s) à préparer"
-    )
+    if "avance_jours" in rapport:
+        msg["Subject"] = (
+            f"Ad Fontes — plus que {rapport['avance_jours']} journée(s) préparée(s) d'avance"
+        )
+    else:
+        msg["Subject"] = (
+            f"Ad Fontes — {rapport['total_incompletes']} journée(s) à préparer"
+        )
     msg["From"] = os.environ["SMTP_UTILISATEUR"]
     msg["To"] = os.environ["DESTINATAIRE"]
     msg.set_content(corps(rapport))
