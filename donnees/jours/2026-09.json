@@ -1587,5 +1587,215 @@
    ],
    "reserve": "Cette méditation ne repose pas sur une œuvre de saint Thomas : le <i>De dilectione Dei et proximi</i>, que l’édition de 1930 range parmi ses opuscules, est attribué par la critique moderne à Helvic le Teuton, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques."
   }
+ },
+ "2026-09-30": {
+  "textes": {
+   "liturgie": {
+    "nom": "Saint Jérôme",
+    "qualite": "Prêtre, Confesseur et Docteur de l’Église",
+    "classe": "IIIe classe",
+    "couleur": "blanc",
+    "commemoraisons": []
+   },
+   "propre": {
+    "epitre": {
+     "titre": "Épître",
+     "reference": "II Timothée 4, 1-8",
+     "incipit": "Mon bien-aimé :",
+     "latin": [
+      "Caríssime: Testíficor coram Deo, et Iesu Christo, qui iudicatúrus est vivos et mórtuos, per advéntum ipsíus et regnum eius: prǽdica verbum, insta opportúne, importune: árgue, óbsecra, íncrepa in omni patiéntia, et doctrína. Erit enim tempus, cum sanam doctrínam non sustinébunt, sed ad sua desidéria, coacervábunt sibi magistros, pruriéntes áuribus, et a veritáte quidem audítum avértent, ad fábulas autem converténtur. Tu vero vígila, in ómnibus labóra, opus fac Evangelístæ, ministérium tuum imple. Sóbrius esto. Ego enim iam delíbor, et tempus resolutiónis meæ instat. Bonum certámen certávi, cursum consummávi, fidem servávi. In réliquo repósita est mihi coróna iustítiæ, quam reddet mihi Dóminus in illa die, iustus iudex: non solum autem mihi, sed et iis, qui díligunt advéntum eius."
+     ],
+     "francais": [
+      "Je t’adjure devant Dieu et devant le Christ Jésus, qui doit juger les vivants et les morts, et par son apparition et son règne, prêche la parole, insiste à temps et à contretemps, reprends, menace, exhorte, avec une entière patience et toujours en instruisant. Car un temps viendra où les hommes ne supporteront plus la saine doctrine ; mais ils se donneront une foule de docteurs, suivant leurs convoitises et avides de ce qui peut chatouiller leurs oreilles ; ils les fermeront à la vérité pour les ouvrir à des fables. Mais toi, sois circonspect en toutes choses, endure la souffrance, fais l’œuvre d’un prédicateur de l’Évangile, sois tout entier à ton ministère.",
+      "Car, pour moi, je sers déjà de libation, et le moment de mon départ est proche. J’ai combattu le bon combat, j’ai achevé ma course, j’ai gardé la foi ; il ne me reste plus qu’à recevoir la couronne de justice, que me donnera en ce jour-là le Seigneur, le juste Juge, et non seulement à moi, mais à tous ceux qui auront aimé son avènement."
+     ]
+    },
+    "evangile": {
+     "reference": "Matthieu 5, 13-19",
+     "incipit": "En ce temps-là, Jésus dit à ses disciples :",
+     "latin": [
+      "In illo témpore: Dixit Iesus discípulis suis: Vos estis sal terræ. Quod si sal evanúerit, in quo saliétur? Ad níhilum valet ultra, nisi ut mittátur foras, et conculcétur ab homínibus. Vos estis lux mundi. Non potest cívitas abscóndi supra montem pósita. Neque accéndunt lucérnam, et ponunt eam sub módio, sed super candelábrum, ut lúceat ómnibus, qui in domo sunt. Sic luceat lux vestra coram homínibus, ut vídeant ópera vestra bona, et gloríficent Patrem vestrum, qui in cœlis est. Nolíte putáre, quóniam veni sólvere legem aut prophétas: non veni sólvere, sed adimplére. Amen, quippe dico vobis, donec tránseat cœlum et terra, iota unum aut unus apex non præteríbit a lege, donec ómnia fiant. Qui ergo sólverit unum de mandátis istis mínimis, et docúerit sic hómines, mínimus vocábitur in regno cœlórum: qui autem fécerit et docúerit, hic magnus vocábitur in regno cœlórum."
+     ],
+     "francais": [
+      "Vous êtes le sel de la terre. Si le sel s’affadit, avec quoi lui rendra-t-on sa saveur ? Il n’est plus bon à rien qu’à être jeté dehors et foulé aux pieds par les hommes. Vous êtes la lumière du monde. Une ville située au sommet d’une montagne ne peut être cachée ; et on n’allume pas une lampe pour la mettre sous le boisseau, mais sur le chandelier, et elle éclaire tous ceux qui sont dans la maison. Qu’ainsi votre lumière brille devant les hommes, afin que, voyant vos bonnes œuvres, ils glorifient votre Père qui est dans les cieux.",
+      "Ne pensez pas que je sois venu abolir la Loi ou les Prophètes ; je ne suis pas venu les abolir, mais les accomplir. Car, je vous le dis en vérité, jusqu’à ce que passent le ciel et la terre, un seul iota ou un seul trait de la Loi ne passera pas, que tout ne soit accompli. Celui donc qui aura violé un de ces moindres commandements, et appris aux hommes à faire de même, sera le moindre dans le royaume des cieux ; mais celui qui les aura pratiqués et enseignés, sera grand dans le royaume des cieux."
+     ]
+    }
+   },
+   "verset": {
+    "texte": "« Qu’ainsi votre lumière brille devant les hommes, afin que, voyant vos bonnes œuvres, ils glorifient votre Père qui est dans les cieux. »",
+    "ref": "Matthieu 5, 16"
+   },
+   "commentaire": {
+    "mode": "direct",
+    "portee": "Épître, II Timothée 4, 1-8, et Évangile, Matthieu 5, 13-19",
+    "verif": "Textes relus : saint Thomas, Super II ad Timotheum, cap. 4, lect. 1-2 ; Super Matthaeum, cap. 5, v. 13-19 (reportation de Pierre d’Andria) ; Super Sententiis, IV, d. 49, q. 5, a. 5 (Corpus Thomisticum) ; messe « In medio » du Commun des docteurs, collecte propre et leçons du bréviaire (Divinum Officium) ; Crampon 1923 (Wikisource).",
+    "sections": [
+     {
+      "titre": "L’Épître : à temps et à contretemps",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Comment prêcher « à contretemps », quand l’Écriture loue la parole dite en son temps ? Saint Thomas répond que **selon la vérité, le prédicateur parle toujours à propos** ; il ne paraît hors de propos qu’au jugement faussé de ceux qui l’écoutent. S’il ne parlait qu’à ceux qui veulent entendre, il ne servirait que les justes ; il faut aussi parler aux méchants pour qu’ils se convertissent. Quant aux oreilles qui « démangent », ce sont celles qui veulent **toujours entendre du nouveau, de l’inouï, du curieux** (Super II ad Tim., ch. 4, leçon 1)."
+      ],
+      "citation": {
+       "texte": "« Le prédicateur de la vérité est toujours opportun pour les bons, et toujours importun pour les méchants. »",
+       "ref": "Super II ad Timotheum, cap. 4, lect. 1",
+       "url": "https://www.corpusthomisticum.org/ct2.html#87911"
+      }
+     },
+     {
+      "titre": "L’Évangile : le sel et la lumière",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Le sel préserve de la corruption : ainsi la doctrine des apôtres **réfrène les convoitises de la chair**. Mais si le sel s’affadit, qui le salera ? Si le peuple pèche, dit saint Thomas, on peut le corriger ; si c’est celui qui a charge de corriger, personne ne le peut plus. Quant à la lumière, **le Christ seul l’est par essence** ; les apôtres sont une lumière éclairée, par participation, comme l’œil, qui éclaire et reçoit la lumière (Super Matthaeum, ch. 5, v. 13-14)."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : faire et enseigner",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "L’Évangile promet d’être grand dans le royaume à celui qui aura pratiqué et enseigné ; saint Thomas commente : **grand est celui qui fait le bien, plus grand celui qui le fait et l’enseigne** (Super Matthaeum, ch. 5, v. 19). L’Épître dit la même chose à Timothée : « sois tout entier à ton ministère ». Celui-là remplit l’office de l’évangéliste, **qui prêche par la parole et accomplit par les œuvres**, à l’exemple de Jésus, qui « commença à faire et à enseigner » (Super II ad Tim., ch. 4, leçon 1)."
+      ]
+     },
+     {
+      "titre": "À la lumière de la fête : la couronne des docteurs",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Sur « j’ai gardé la foi », saint Thomas nomme une couronne particulière, **l’auréole des docteurs** (Super II ad Tim., ch. 4, leçon 2). Il en donne ailleurs la raison : dans le combat contre le démon, la victoire éminente est de **chasser l’ennemi non seulement de soi, mais du cœur des autres**, ce qui se fait par la prédication et l’enseignement (Super Sententiis, IV, d. 49, q. 5, a. 5). La collecte demande de pratiquer ce que saint Jérôme, docteur très grand dans l’explication des Écritures, a enseigné « par la parole et par l’œuvre »."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "La vérité est toujours de saison ; elle ne paraît importune qu’à celui qui la fuit.",
+    "Le Christ seul est la lumière ; je ne suis lumière que par lui, comme l’œil éclairé qui éclaire.",
+    "Est grand celui qui fait le bien ; plus grand celui qui le fait et l’enseigne."
+   ],
+   "resolution": "Aujourd’hui, dire avec patience une vérité utile que je tais par crainte de déplaire, après m’être assuré de la pratiquer moi-même.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super II Epistolam ad Timotheum, cap. 4, lect. 1-2",
+     "detail": "Commentaire direct de l’Épître ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/ct2.html#87911"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 5, v. 13-19",
+     "detail": "Commentaire direct de l’Évangile, reportation de Pierre d’Andria ; texte latin, Corpus Thomisticum (la page couvre Matthieu 5, 10b-22) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cma0510.html#87567"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Sententiis, IV, d. 49, q. 5, a. 5, qc. 1",
+     "detail": "Les trois auréoles, dont celle des docteurs ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/snp40495.html#23279"
+    },
+    {
+     "label": "Missel romain de 1962, saint Jérôme (30 septembre)",
+     "detail": "IIIe classe, blanc ; collecte propre « Deus, qui Ecclesiae tuae », d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/09-30.txt"
+    },
+    {
+     "label": "Missel romain de 1962, messe « In medio » du Commun des docteurs",
+     "detail": "Épître et Évangile, texte latin d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Latin/Commune/C4a.txt"
+    },
+    {
+     "label": "Bréviaire romain, leçons du 30 septembre",
+     "detail": "Vie de saint Jérôme (4e à 6e leçons), texte français d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Francais/Sancti/09-30.txt"
+    },
+    {
+     "label": "Bible Crampon 1923, II Timothée 4, 1-8",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/2_Timoth%C3%A9e"
+    },
+    {
+     "label": "Bible Crampon 1923, Matthieu 5, 13-19",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Matthieu"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Né à Stridon, en Dalmatie, baptisé à Rome, saint Jérôme passa sa vie à chercher le sens des Écritures : en Gaule, où il copia de sa main des livres saints ; à Constantinople, auprès de saint Grégoire de Nazianze, à qui il dit devoir sa science des Lettres sacrées ; en Palestine, auprès d’Hébreux très érudits ; puis quatre ans au désert de Syrie. Retiré enfin à Bethléem, près de la crèche, malade mais sans relâche au travail, il fut consulté de toute la terre « comme un oracle » ; le pape Damase et saint Augustin l’interrogeaient sur les passages difficiles. Il traduisit l’Ancien Testament de l’hébreu en latin et corrigea le Nouveau sur le grec. C’est pourquoi la collecte l’appelle le « Docteur très grand » que Dieu a donné à son Église pour expliquer les Écritures."
+   }
+  },
+  "meditation": {
+   "titre": "Du progrès de l’amour sous le symbole du charbon, de la flamme et de la lumière",
+   "texte": [
+    "En morale, comme dans la nature, on distingue trois états : le froid, le tiède et le chaud. Le tiède tient le milieu entre les deux extrêmes opposés. Par le tiède, on passe du froid au chaud; et ainsi le tiède est quelquefois louable et bon, comme la voie et la disposition à produire la chaleur; mais le tiède est insuffisant; car, le froid ne disparaît pas dans le corps tiède, il y est seulement diminué. Le froid est donc l’état du péché, sans aucune trace d’amour; la tiédeur, c’est l’état de grâce sanctifiante, là où d’abord on a expulsé le froid par son contraire, et radicalement. Par la tiédeur, il y a retour du chaud au froid, et par ce côté, la tiédeur est blâmable. *Parce que tu es tiède, je commencerai à te vomir*, dit l’Apocalypse (III, 16).",
+    "Dans la chaleur, on distingue trois degrés : le chaud simple, le fervent, et l’ardent, c’est-à-dire, la chaleur qui commence, qui croît en ferveur, qui s’achève en ardeur. Or, il y a trois espèces de feu : celui du charbon dans la terre matérielle, celui de la flamme, dans la matière gazeuse, celui de la lumière dans sa matière propre. Et par là nous pouvons symboliser trois ardeurs différentes selon trois états : celui des pénitents, celui des actifs et celui des contemplatifs.",
+    "1° L’état des pénitents a l’ardeur du charbon, c’est-à-dire d’un feu dans une matière terrestre. Isaïe parle de cela (IV, 4) : *Après que le Seigneur aura purifié les souillures des filles de Sion, et qu’il aura lavé Jérusalem du sang qui est au milieu d’elle, par un esprit de justice et un esprit d’ardeur.* Mais dans cet état de pénitence, on trouve aussi des tièdes, des peu chauds, des plus fervents, quelques ardents.",
+    "2° L’état des progressants dans le chemin des bonnes actions; c’est l’ardeur de la flamme, qui tend plutôt vers le haut et qui naît du charbon; en partie, elle est plus noble par sa matière, elle est plus brillante par sa forme. Et dans cet état, tous ne sont pas des ardents; mais il y a des tièdes, des chauds, quelques fervents, très peu d’ardents. Nous en avons un exemple dans les deux disciples d’Emmaüs qui disaient : *Notre cœur n’était-il pas ardent en nous, pendant qu’il nous parlait et nous expliquait les Ecritures?* (Luc, XXIV, 32.) Remarquez ici quels sont ces itinérants et sachez pourquoi ils brûlent. Notez ces deux choses : le mouvement et l’action.",
+    "Dans leur mouvement, considérons quatre points : ils vont deux ensemble, et forment par le nombre, une société de concorde. Ce sont des disciples et non des maîtres. Ils marchent dans le jour et non dans la nuit, au terme où ils tendent; c’est dans le désir de la perfection; car, ils vont à Emmaüs, qui signifie le désir du conseil.",
+    "Leurs actes sont décrits sous trois aspects : ce qu’ils pensent au fond du cœur; c’est la Passion du Christ, et c’est pourquoi ils sont tristes, et non dissipés par les joies du monde. Ce qu’ils disent : ils confèrent entre eux, non pas de vanités, mais des récents événements. Ce qu’ils font : ils exercent l’hospitalité envers un étranger. Et Jésus s’approchant de ces voyageurs, allait et marchait vers eux. Il leur fait un reproche, leur explique les Ecritures et cause ainsi leur ardeur.",
+    "3° L’état de ceux qui se reposent dans la paix de la contemplation : cet état a l’ardeur de la lumière; et cependant, même parmi les contemplatifs, on trouve des chauds, des fervents, mais bien peu d’ardents. Tels les Apôtres assemblés à Jérusalem dans la prière, et recevant le feu divin, et dont saint Grégoire dit : « Pendant qu’ils reçoivent Dieu sous le symbole du feu, ils brûlent doucement d’amour ».",
+    "Ainsi les commençants brûlent utilement, mais péniblement. Les progressants brûlent plus utilement et moins péniblement. Les parfaits brûlent très utilement sans aucune peine, et par là même avec suavité. C’est là cette grande vision, cette ardeur sans peine, suave, sans fatigue, et qui étonnait Moïse, que le buisson brûlât sans se consumer.",
+    "*(De l’amour de Dieu.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "La tiédeur : ce qui refroidit sans éteindre",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La méditation dit que par la tiédeur on revient du chaud au froid. Saint Thomas précise comment. Une vertu acquise s’use quand on cesse d’agir, comme une amitié se défait quand on ne se parle plus ; la charité, elle, ne vient pas de nos actes mais **de Dieu seul**, et ne diminue pas d’elle-même. Mais les péchés véniels et **l’abandon des œuvres de charité** disposent à la perdre (II-II, q. 24, a. 10). La tiédeur n’éteint donc pas le feu d’un coup : elle le laisse sans aliment."
+      ],
+      "citation": {
+       "texte": "« On peut appeler indirectement diminution de la charité la disposition à sa perte, qui se fait par les péchés véniels, ou encore par l’arrêt de l’exercice des œuvres de charité. »",
+       "ref": "Somme théologique, II-II, q. 24, a. 10",
+       "url": "https://www.corpusthomisticum.org/sth3023.html#39864"
+      }
+     },
+     {
+      "titre": "Le feu qui monte, qui chauffe et qui éclaire",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Le charbon, la flamme et la lumière rejoignent ce que saint Thomas dit des Séraphins, nommés de l’ardeur de leur charité. Dans le feu, il considère trois choses : **un mouvement vers le haut, continu**, qui signifie qu’on se porte vers Dieu sans détour ; une chaleur active et pénétrante, qui **allume la même ferveur chez les autres** et les purifie ; enfin **une clarté** qui ne s’éteint pas et qui éclaire autrui (I, q. 108, a. 5, ad 5). Plus l’amour grandit, plus il ressemble à la lumière."
+      ]
+     },
+     {
+      "titre": "L’ardeur sans peine",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Les commençants brûlent péniblement, les parfaits sans peine. Saint Thomas l’explique sur le joug « doux » et le fardeau « léger » : les épreuves demeurent, mais elles ne pèsent plus, car elles sont **assaisonnées d’amour** ; quand on aime quelqu’un, ce qu’on souffre pour lui ne pèse pas, et **l’amour rend léger ce qui était lourd et même impossible** (Super Matthaeum, ch. 11, leçon 3). C’est le buisson qui brûle sans se consumer."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "La charité ne s’use pas d’elle-même ; ce sont mes négligences qui la laissent sans aliment.",
+    "Le feu de l’amour monte vers Dieu, réchauffe les autres et les éclaire.",
+    "Plus l’amour grandit, plus le fardeau s’allège : il rend léger ce qui semblait impossible."
+   ],
+   "resolution": "Aujourd’hui, reprendre une œuvre de charité que j’ai laissée tomber par tiédeur, une prière, une visite ou un service, et l’accomplir sans attendre d’en avoir le goût.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 187-189",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : De l’amour de Dieu",
+     "detail": "Le Corpus Thomisticum publie ce traité sous le nom d’Helvicus Theutonicus.",
+     "url": "https://www.corpusthomisticum.org/xao.html"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 24, a. 10",
+     "detail": "La charité peut-elle diminuer ; texte latin, Corpus Thomisticum (II-II, q. 23-24) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39864"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 108, a. 5, ad 5",
+     "detail": "Le nom des Séraphins et les propriétés du feu ; texte latin, Corpus Thomisticum (I, q. 103-119) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1103.html#32964"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 11, lect. 3",
+     "detail": "Le joug doux et le fardeau léger ; texte latin, Corpus Thomisticum (la page couvre Matthieu 6, 19 à 12) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cml0619.html#87360"
+    }
+   ],
+   "reserve": "Cette méditation ne repose pas sur une œuvre de saint Thomas : le <i>De dilectione Dei et proximi</i>, que l’édition de 1930 range parmi ses opuscules, est attribué par la critique moderne à Helvic le Teuton, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques."
+  }
  }
 }
