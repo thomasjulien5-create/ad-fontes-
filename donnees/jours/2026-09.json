@@ -1,0 +1,1591 @@
+{
+ "2026-09-22": {
+  "textes": {
+   "liturgie": {
+    "nom": "Saint Thomas de Villeneuve",
+    "qualite": "Évêque et Confesseur",
+    "classe": "IIIe classe",
+    "couleur": "blanc",
+    "commemoraisons": [
+     "saint Maurice et ses compagnons, martyrs"
+    ]
+   },
+   "propre": {
+    "epitre": {
+     "titre": "Épître",
+     "reference": "Ecclésiastique 44, 16-27 ; 45, 3-20",
+     "note": "Montage liturgique. La leçon de la messe « Statuit » ne lit pas le livre d’un seul tenant : dans l’éloge des Pères (Ecclésiastique 44, 16-27 ; 45, 3-20 selon la Vulgate), elle cueille des membres de versets dits de Noé, d’Abraham, de Jacob, de Moïse et d’Aaron, et les applique au saint pontife ; elle s’ouvre sur « Ecce sacerdos magnus », formule propre à la liturgie, qu’on ne lit pas telle quelle dans le livre. La Crampon, traduite sur le grec, n’a ni ce texte suivi ni cette numérotation : on donne ici, dans l’ordre de la leçon, les versets correspondants de la Crampon 1923, avec leur numérotation propre (44, 17-23 ; 45, 1-16). La première phrase est traduite du latin par Ad Fontes. « Il le rendit bienheureux dans la gloire » (beatificavit illum in gloria) n’a pas d’équivalent dans la Crampon, et la « couronne de gloire » du latin n’y répond qu’à la couronne d’or de la tiare d’Aaron.",
+     "latin": [
+      "Ecce sacérdos magnus, qui in diébus suis plácuit Deo, et invéntus est justus: et in témpore iracúndiæ factus est reconciliátio. Non est invéntus símilis illi, qui conservávit legem Excélsi. Ideo jurejurándo fecit illum Dóminus créscere in plebem suam. Benedictiónem ómnium géntium dedit illi, et testaméntum suum confirmávit super caput ejus. Agnóvit eum in benedictiónibus suis: conservávit illi misericórdiam suam: et invénit grátiam coram óculis Dómini. Magnificávit eum in conspéctu regum: et dedit illi corónam glóriæ. Státuit illi testaméntum ætérnum, et dedit illi sacerdótium magnum: et beatificávit illum in glória. Fungi sacerdótio, et habére laudem in nómine ipsíus, et offérre illi incénsum dignum in odórem suavitátis."
+     ],
+     "incipit": "Lecture du livre de la Sagesse.",
+     "francais": [
+      "Voici le grand prêtre qui, en ses jours, a plu à Dieu.",
+      "*(44, 17)* Noé a été trouvé parfait et juste ; au temps de la colère, il fut la rançon de l’humanité.",
+      "*(44, 19-20)* … et il ne s’est trouvé personne qui l’égalât en gloire. Il a gardé la loi du Très-Haut, et il est entré en alliance avec lui.",
+      "*(44, 21)* Aussi Dieu lui assura par serment que les nations seraient bénies dans sa race ; il lui promit de le multiplier comme la poussière de la terre…",
+      "*(44, 22-23)* … la bénédiction de tous les peuples et l’alliance. Et il la fit reposer ensuite sur la tête de Jacob ; il eut égard à lui dans ses bénédictions…",
+      "*(45, 1)* Il a fait sortir de Jacob un homme pieux, qui trouva grâce auprès de toute chair…",
+      "*(45, 3)* … il l’a glorifié devant les rois…",
+      "*(45, 12)* Il lui mit sur la tiare la couronne d’or…",
+      "*(45, 7)* Il conclut avec lui une alliance éternelle, et lui donna le sacerdoce de son peuple.",
+      "*(45, 15-16)* … de servir le Seigneur et de remplir les fonctions du sacerdoce, et de bénir son peuple en son nom. Le Seigneur le choisit parmi tous les vivants, pour lui présenter l’offrande, le parfum et la suave odeur en souvenir…"
+     ]
+    },
+    "evangile": {
+     "reference": "Matthieu 25, 14-23",
+     "incipit": "En ce temps-là, Jésus dit à ses disciples cette parabole :",
+     "latin": [
+      "In illo témpore : Dixit Jesus discípulis suis parábolam hanc : Homo péregre proficíscens vocávit servos suos, et trádidit illis bona sua. Et uni dedit quinque talénta, álii autem duo, álii vero unum, unicuíque secúndum própriam virtútem, et proféctus est statim. Abiit autem, qui quinque talénta accéperat, et operátus est in eis, et lucrátus est ália quinque. Simíliter et, qui duo accéperat, lucrátus est ália duo. Qui autem unum accéperat, ábiens fodit in terram, et abscóndit pecúniam dómini sui. Post multum vero témporis venit dóminus servórum illórum, et pósuit ratiónem cum eis. Et accédens qui quinque talénta accéperat, óbtulit ália quinque talénta, dicens : Dómine, quinque talénta tradidísti mihi, ecce, ália quinque superlucrátus sum. Ait illi dóminus ejus : Euge, serve bone et fidélis, quia super pauca fuísti fidélis, super multa te constítuam : intra in gáudium dómini tui. Accéssit autem et qui duo talénta accéperat, et ait : Dómine, duo talénta tradidísti mihi, ecce, ália duo lucrátus sum. Ait illi dóminus ejus : Euge, serve bone et fidélis, quia super pauca fuísti fidélis, super multa te constítuam : intra in gáudium dómini tui."
+     ],
+     "francais": [
+      "Car il en sera comme d’un homme qui, partant pour un voyage, appela ses serviteurs et leur remit ses biens. À l’un il donna cinq talents, à un autre deux, à un autre un, selon la capacité de chacun, et il partit aussitôt. Celui qui avait reçu cinq talents, s’en étant allé, les fit valoir, et en gagna cinq autres. De la même manière, celui qui en avait reçu deux, en gagna deux autres. Mais celui qui n’en avait reçu qu’un, s’en alla creuser la terre, et y cacha l’argent de son maître. Longtemps après, le maître de ces serviteurs étant revenu, leur fit rendre compte. Celui qui avait reçu cinq talents s’approcha et lui en présenta cinq autres, en disant : Seigneur, vous m’aviez remis cinq talents ; en voici de plus cinq autres que j’ai gagnés. Son maître lui dit : C’est bien, serviteur bon et fidèle ; parce que tu as été fidèle en peu de choses, je t’établirai sur beaucoup : entre dans la joie de ton maître. Celui qui avait reçu deux talents, vint aussi, et dit : Seigneur, vous m’aviez remis deux talents, en voici deux autres que j’ai gagnés. Son maître lui dit : C’est bien, serviteur bon et fidèle, parce que tu as été fidèle en peu de choses, je t’établirai sur beaucoup : entre dans la joie de ton maître."
+     ]
+    }
+   },
+   "verset": {
+    "texte": "« Entre dans la joie de ton maître. »",
+    "ref": "Matthieu 25, 21"
+   },
+   "commentaire": {
+    "mode": "direct",
+    "portee": "Épître, Ecclésiastique 44, 16-27 ; 45, 3-20, et Évangile, Matthieu 25, 14-23",
+    "verif": "Commentaire d’Ad Fontes. Saint Thomas commente directement l’Évangile (Super Matthaeum, ch. 25, leçon 2) ; l’Épître est lue avec la Somme, III, q. 22, a. 1 ; la fête avec II-II, q. 184, a. 5 et q. 185, a. 7. Textes latins relus sur le Corpus Thomisticum ; Vulgate d’Ecclésiastique 44-45 et Crampon 1923 de l’Ecclésiastique relues ; propre de la messe « Statuit » (Épître, Évangile, communion) et bréviaire lus dans les données de Divinum Officium.",
+    "sections": [
+     {
+      "titre": "L’Épître : le grand prêtre, réconciliation",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "L’Épître chante : *voici le grand prêtre qui, en ses jours, a plu à Dieu*, et *au temps de la colère il est devenu réconciliation*. Saint Thomas dit ce qu’est un prêtre : **un médiateur entre Dieu et le peuple**, qui donne au peuple les choses divines et offre à Dieu ses prières. Cela convient souverainement au Christ, qui **a réconcilié le genre humain avec Dieu** (III, q. 22, a. 1) : tout grand prêtre ne l’est que par lui."
+      ]
+     },
+     {
+      "titre": "L’Évangile : le poids de la grâce",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Le maître appelle ses serviteurs le premier et donne de son bien. Les talents sont les dons de la grâce, et saint Thomas joue sur le mot : le talent est un poids de métal, **la grâce est un poids qui incline l’âme**. Ce poids demande à agir : la vertu qui n’opère pas défaille. Deux talents reçoivent la même louange que cinq, car **Dieu ne demande à chacun que de le servir de tout son cœur** (Super Matthaeum, ch. 25, leçon 2)."
+      ],
+      "citation": {
+       "texte": "« Dieu est plus grand que le cœur ; c’est pourquoi celui qui se réjouit de Dieu entre dans la joie. »",
+       "ref": "Super Matthaeum, cap. 25, lectio 2",
+       "url": "https://www.corpusthomisticum.org/cml21.html#87400"
+      }
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : l’intendant fidèle",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Le prêtre de l’Épître est *trouvé juste* ; le serviteur de l’Évangile, *bon et fidèle*. Saint Thomas les éclaire par un verset de saint Paul : *ce qu’on demande aux intendants, c’est d’être trouvés fidèles*. Le serviteur l’est parce qu’**il ne s’est rien attribué** (Super Matthaeum, ch. 25) ; l’évêque, parce qu’il est, des biens de l’Église, **le dispensateur, non le propriétaire** (II-II, q. 185, a. 7). La communion le chante : *serviteur fidèle et prudent, que le maître a établi sur sa maison*."
+      ]
+     },
+     {
+      "titre": "À la lumière de la fête du jour : saint Thomas de Villeneuve",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "L’évêque, dit saint Thomas, s’oblige à la perfection en prenant la charge pastorale, **à laquelle il appartient de donner sa vie pour ses brebis** (II-II, q. 184, a. 5) ; garder pour soi ce qui revient aux pauvres **trahit la fidélité de l’intendant** (II-II, q. 185, a. 7). Selon le bréviaire, saint Thomas de Villeneuve, évêque de Valence, donna aux pauvres les revenus de son Église, jusqu’à son propre lit."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Tout grand prêtre ne l’est que par le Christ, seul médiateur, qui a réconcilié l’homme avec Dieu.",
+    "La grâce est un poids qui incline l’âme à agir : un don qu’on n’exerce pas s’éteint.",
+    "Je ne suis pas propriétaire de ce que j’ai reçu, mais intendant : la fidélité est de tout rendre à Dieu."
+   ],
+   "resolution": "Aujourd’hui, prendre sur mon superflu, de l’argent, un objet ou une heure, et le donner à quelqu’un qui en a besoin, sans en parler, en le rendant à Dieu plutôt qu’en me l’attribuant.",
+   "sources": [
+    {
+     "label": "Missel romain de 1962 : saint Thomas de Villeneuve, messe « Statuit »",
+     "detail": "IIIe classe, blanc, mémoire de saint Maurice et ses compagnons ; messe « Statuit » du Commun des confesseurs pontifes (Épître, Évangile, communion), texte latin d’après les données libres du projet Divinum Officium",
+     "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/horas/Latin/Commune/C4.txt"
+    },
+    {
+     "label": "Missel romain de 1962 : collecte de saint Thomas de Villeneuve",
+     "detail": "Texte latin d’après les données libres du projet Divinum Officium",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/09-22.txt"
+    },
+    {
+     "label": "Bréviaire romain, leçons du 22 septembre",
+     "detail": "Vie de saint Thomas de Villeneuve (6e leçon), texte français d’après les données libres du projet Divinum Officium",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Francais/Sancti/09-22.txt"
+    },
+    {
+     "label": "Vulgate clémentine, Ecclésiastique 44-45",
+     "detail": "Texte dont l’Épître liturgique assemble des versets",
+     "url": "https://www.biblegateway.com/passage/?search=Ecclesiasticus+44-45&version=VULGATE"
+    },
+    {
+     "label": "Bible Crampon 1923, Ecclésiastique 44, 17-23 ; 45, 1-16",
+     "detail": "Versets correspondant à la leçon liturgique, relevés sur l’édition de Wikisource",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Eccl%C3%A9siastique"
+    },
+    {
+     "label": "Bible Crampon 1923, Matthieu 25, 14-23",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Matthieu"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 25, lectio 2",
+     "detail": "Commentaire direct de la parabole des talents ; texte latin de l’édition de Turin 1951 (reportation de Léger de Besançon), Corpus Thomisticum ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/cml21.html#87400"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 22, a. 1",
+     "detail": "Le sacerdoce du Christ ; la page couvre III, q. 16-26 ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/sth4016.html#47828"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 184, a. 5, et q. 185, a. 7",
+     "detail": "L’état de perfection des évêques et l’usage des biens d’Église ; la page couvre II-II, q. 183-189 ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/sth3183.html#46302"
+    }
+   ]
+  }
+ },
+ "2026-09-23": {
+  "textes": {
+   "liturgie": {
+    "nom": "Mercredi des Quatre-Temps de septembre",
+    "qualite": "Férie des Quatre-Temps",
+    "classe": "IIe classe",
+    "couleur": "violet",
+    "commemoraisons": [
+     "saint Lin, pape et martyr"
+    ]
+   },
+   "propre": {
+    "lecon": {
+     "titre": "Première leçon",
+     "reference": "Amos 9, 13-15",
+     "latin": [
+      "Hæc dicit Dóminus Deus: Ecce, dies véniunt: et comprehéndet arátor messórem, et calcátor uvæ mitténtem semen: et stillábunt montes dulcédinem, et omnes colles culti erunt. Et convértam captivitátem pópuli mei Israël: et ædificábunt civitátes desértas et inhabitábunt: et plantábunt víneas et bibent vinum eárum: et fácient hortos et cómedent fructus eórum. Et plantábo eos super humum suam: et non evéllam eos ultra de terra sua, quam dedi eis: dicit Dóminus, Deus tuus."
+     ],
+     "francais": [
+      "Voici que des jours viennent, — oracle de Yahweh, et le laboureur joindra le moissonneur, et celui qui foule les grappes joindra celui qui répand la semence ; les montagnes dégoutteront de vin nouveau, et toutes les collines ruisselleront. Je ramènerai les captifs de mon peuple d’Israël ; ils bâtiront les villes dévastées et les habiteront, ils planteront les vignes et en boiront le vin, ils feront des jardins et en mangeront les fruits. Et je les planterai sur leur sol, et ils ne seront plus jamais arrachés de leur terre, que je leur ai donnée, dit Yahweh, ton Dieu."
+     ]
+    },
+    "supplement": [
+     {
+      "titre": "Seconde leçon",
+      "reference": "Néhémie (II Esdras) 8, 1-10",
+      "latin": [
+       "In diébus illis: Congregátus est omnis pópulus quasi vir unus ad platéam, quæ est ante portam aquárum: et dixérunt Esdræ scribæ, ut afférret librum legis Moysi, quam præcéperat Dóminus Israéli. Attulit ergo Esdras sacérdos legem coram multitúdine virórum et mulíerum, cunctísque qui póterant intellégere, in die prima mensis séptimi. Et legit in eo apérte in platéa, quæ erat ante portam aquárum, de mane usque ad médiam diem, in conspéctu virórum et mulíerum et sapiéntium: et aures omnis pópuli erant eréctæ ad librum. Stetit autem Esdras scriba super gradum lígneum, quem fécerat ad loquéndum. Et apéruit librum coram omni pópulo: super univérsum quippe pópulum eminébat: et cum aperuísset eum, stetit omnis pópulus. Et benedíxit Esdras Dómino, Deo magno: et respóndit omnis pópulus: Amen, Amen: élevans manus suas: et incurváti sunt et adoravérunt Deum proni in terram. Porro levítæ siléntium faciébant in pópulo ad audiéndam legem: pópulus autem stabat in gradu suo. Et legérunt in libro legis Dei distíncte et apérte ad intellegéndum: et intellexérunt, cum legerétur. Dixit autem Nehemías, et Esdras sacérdos et scriba, et levítæ interpretántes univérso pópulo: Dies sanctificátus est Dómino, Deo nostro, nolíte lugére et nolíte flere. Et dixit eis: Ite, comédite pínguia et bíbite mulsum, et míttite partes his, qui non præparavérunt sibi: quia sanctus dies Dómini est, et nolíte contristári: gáudium étenim Dómini est fortitúdo nostra."
+      ],
+      "francais": [
+       "Le septième mois étant arrivé, et les enfants d’Israël étant établis dans leurs villes, tout le peuple s’assembla comme un seul homme sur la place qui est devant la porte de l’Eau. Et ils dirent à Esdras, le scribe, d’apporter le livre de la loi de Moïse, que Yahweh a prescrite à Israël. Et le prêtre Esdras apporta la loi devant l’assemblée, les hommes et les femmes et tous ceux qui étaient assez intelligents pour l’entendre : c’était le premier jour du septième mois.",
+       "Il lut dans le livre, depuis le matin jusqu’au milieu du jour, sur la place qui est devant la porte de l’Eau, en présence des hommes et des femmes et de ceux qui étaient assez intelligents pour l’entendre ; tout le peuple prêtait l’oreille à la lecture du livre de la loi. Esdras le scribe se tenait sur une estrade de bois, dressée pour la circonstance. Esdras ouvrit le livre à la vue de tout le peuple, car il était élevé au-dessus de tout le peuple ; et, lorsqu’il l’eut ouvert, tout le peuple se tint debout. Esdras bénit Yahweh, le grand Dieu, et tout le peuple répondit en levant les mains : « Amen ! amen ! » Et ils s’inclinèrent et se prosternèrent devant Yahweh, le visage contre terre.",
+       "Les lévites instruisaient le peuple de la loi, et chacun restait à sa place. Ils lisaient distinctement dans le livre, dans la loi de Dieu, et ils en donnaient le sens, et l’on comprenait ce qui était lu. Et Néhémie, le gouverneur, Esdras, le prêtre et le scribe, et les lévites qui instruisaient le peuple, dirent à tout le peuple : « Ce jour est saint pour Yahweh, votre Dieu ; ne soyez pas dans le deuil et dans les larmes. » Car tout le peuple pleurait en entendant les paroles de la loi. Et Néhémie leur dit : « Allez, mangez des viandes grasses et buvez des liqueurs douces, et envoyez des portions à celui qui n’a rien de préparé, car ce jour est saint pour notre Seigneur ; ne vous affligez pas, car la joie en Yahweh est votre force. »"
+      ],
+      "note": "Aux Quatre-Temps, la messe comporte plusieurs leçons : celle-ci est lue après la première, avant l’Évangile. Comme au missel, la leçon omet les listes de noms des versets 4 et 7."
+     }
+    ],
+    "evangile": {
+     "reference": "Marc 9, 16-28",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "In illo témpore: Respóndens unus de turba, dixit ad Iesum: Magíster, áttuli fílium meum ad te, habéntem spíritum mutum: qui, ubicúmque eum apprehénderit, allídit illum, et spumat et stridet déntibus et aréscit: et dixi discípulis tuis, ut eiícerent illum, et non potúerunt. Qui respóndens eis, dixit: O generátio incrédula, quámdiu apud vos ero? quámdiu vos pátiar? Afférte illum ad me. Et attúlerunt eum. Et cum vidísset eum, statim spíritus conturbávit illum: et elísus in terram, volutabátur spumans. Et interrogávit patrem eius: Quantum témporis est, ex quo ei hoc áccidit? At ille ait: Ab infántia: et frequénter eum in ignem et in aquas misit, ut eum pérderet. Sed si quid potes, ádiuva nos, misértus nostri. Iesus autem ait illi: Si potes credere, ómnia possibília sunt credénti. Et contínuo exclámans pater púeri, cum lácrimis aiébat: Credo, Dómine: ádiuva incredulitátem meam. Et cum vidéret Iesus concurréntem turbam, comminátus est spirítui immúndo, dicens illi: Surde et mute spíritus, ego præcípio tibi, exi ab eo: et ámplius ne intróeas in eum. Et exclámans et multum discérpens eum, éxiit ab eo, et factus est sicut mórtuus, ita ut multi dícerent: Quia mórtuus est. Iesus autem tenens manum eius, elevávit eum, et surréxit. Et cum introísset in domum, discípuli eius secréto interrogábant eum: Quare nos non potúimus eiícere eum? Et dixit illis: Hoc genus in nullo potest exíre nisi in oratióne et ieiúnio."
+     ],
+     "francais": [
+      "Un homme de la foule lui répondit : « Maître, je vous ai amené mon fils, qui est possédé d’un esprit muet. Partout où l’esprit s’empare de lui, il le jette contre terre, et l’enfant écume, et grince des dents et il se dessèche ; j’ai prié vos disciples de le chasser, et ils ne l’ont pu. » — « Ô race incrédule, leur dit Jésus, jusques à quand serai-je avec vous ? Jusques à quand vous supporterai-je ? Amenez-le-moi. »",
+      "On le lui amena. À sa vue, l’esprit agita soudain l’enfant avec violence ; il tomba par terre et se roulait en écumant. Jésus demanda au père de l’enfant : « Combien y a-t-il de temps que cela lui arrive ? — Depuis son enfance, répondit-il. Souvent l’esprit l’a jeté dans le feu et dans l’eau pour le faire périr ; si vous pouvez quelque chose, ayez pitié de nous et secourez-nous. » Jésus lui dit : « Si vous pouvez (croire), tout est possible à celui qui croit. » Aussitôt le père de l’enfant s’écria, disant avec larmes : « Je crois (Seigneur) ; venez au secours de mon incrédulité. »",
+      "Jésus, voyant le peuple accourir en foule, menaça l’esprit impur, en disant : « Esprit sourd et muet, je te le commande, sors de cet enfant, et ne rentre plus en lui. » Alors, ayant poussé un grand cri, et l’ayant agité avec violence, il sortit, et l’enfant devint comme un cadavre, au point que plusieurs disaient : « Il est mort. » Mais Jésus, l’ayant pris par la main, le fit lever, et il se tint debout. Lorsqu’il fut entré dans la maison, ses disciples lui demandèrent en particulier : « Pourquoi n’avons-nous pu chasser cet esprit ? » Il leur dit : « Ce genre de démon ne peut être chassé que par la prière et le jeûne. »"
+     ]
+    }
+   },
+   "verset": {
+    "texte": "« Je crois, Seigneur ; venez au secours de mon incrédulité. »",
+    "ref": "Marc 9, 23"
+   },
+   "commentaire": {
+    "mode": "synthese",
+    "portee": "Leçon, Amos 9, 13-15, et Évangile, Marc 9, 16-28",
+    "verif": "Commentaire d’Ad Fontes. Saint Thomas n’a commenté ni Amos ni saint Marc ; l’Évangile est lu avec son commentaire du récit parallèle (Super Matthaeum, ch. 17), la Leçon et la fête avec la Somme, II-II, q. 147, a. 5. Textes latins relus sur le Corpus Thomisticum ; saint Bède relu dans la Catena aurea in Marcum ; collecte lue dans les données de Divinum Officium.",
+    "sections": [
+     {
+      "titre": "La Leçon : la captivité retournée",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Amos annonce le jour où Dieu *ramènera les captifs de son peuple* pour ne plus l’arracher de sa terre. Saint Thomas remarque que l’Église ne jeûne pas aux Quatre-Temps **pour les mêmes causes que les Juifs**, qui jeûnaient en mémoire des tables brisées, du Temple incendié, de la captivité (II-II, q. 147, a. 5, ad 2). Le jeûne chrétien est ordonné à **effacer la faute et élever l’esprit vers les biens d’en haut** : Amos montre ces biens."
+      ],
+      "citation": {
+       "texte": "« Le jeûne est ordonné à deux choses : à effacer la faute et à élever l’esprit vers les réalités d’en haut. »",
+       "ref": "Somme théologique, II-II, q. 147, a. 5 (page couvrant II-II, q. 146-154)",
+       "url": "https://www.corpusthomisticum.org/sth3146.html#44857"
+      }
+     },
+     {
+      "titre": "L’Évangile : une foi qui s’appuie sur la toute-puissance",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Sur le récit parallèle de Matthieu, saint Thomas voit le Christ s’en prendre **à toute cette génération** : l’échec ne venait pas de l’impuissance des disciples, mais de l’incrédulité. Car **la foi s’appuie sur la toute-puissance**, et là où elle est faible, les miracles manquent (Super Matthaeum, ch. 17). D’où le cri du père : *je crois ; venez au secours de mon incrédulité*. Saint Bède, cité dans la Catena aurea, note qu’en un même moment cet homme croyait et ne croyait pas encore parfaitement."
+      ]
+     },
+     {
+      "titre": "Ce que la Leçon et l’Évangile disent ensemble : la prière et le jeûne",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Dans les deux lectures, **la délivrance vient de Dieu seul**, et le Seigneur donne la clé : *la prière et le jeûne*. Saint Thomas l’étend à tout genre de démons et en donne la raison : la chair convoite contre l’esprit. **L’esprit se fortifie par la prière, qui est une montée de l’esprit vers Dieu ; la chair s’affaiblit par le jeûne** (Super Matthaeum, ch. 17)."
+      ]
+     },
+     {
+      "titre": "À la lumière de la fête du jour : les Quatre-Temps de septembre",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "L’Église, rappelle saint Thomas, **confère les ordres sacrés aux quatre temps de l’année** ; doivent donc s’y préparer par le jeûne **ceux qui ordonnent, ceux qui seront ordonnés, et tout le peuple pour qui ils le sont**, comme le Seigneur pria sur la montagne avant de choisir ses disciples (II-II, q. 147, a. 5). La collecte de la première leçon demande que la famille de Dieu, en s’abstenant de nourriture, **jeûne aussi des vices en son esprit**."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "La foi s’appuie sur la toute-puissance de Dieu : « je crois, venez au secours de mon incrédulité » est la prière d’une foi qui grandit.",
+    "La prière fortifie l’esprit, le jeûne affaiblit la chair : ensemble ils obtiennent ce que nos forces n’obtiennent pas.",
+    "Aux Quatre-Temps, tout le peuple jeûne pour ceux qui seront ordonnés : ma privation d’aujourd’hui sert les prêtres de demain."
+   ],
+   "resolution": "Aujourd’hui, faire une privation précise en l’offrant pour ceux qui seront ordonnés prêtres samedi, et redire lentement, une fois dans la journée : « Je crois, Seigneur ; venez au secours de mon incrédulité. »",
+   "sources": [
+    {
+     "label": "Missel romain de 1962, mercredi des Quatre-Temps de septembre",
+     "detail": "Leçons d’Amos 9, 13-15 et de Néhémie 8, 1-10, collecte de la première leçon et Évangile, texte latin d’après les données libres du projet Divinum Officium ; mémoire de saint Lin",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/093-3.txt"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 17, lect. 2",
+     "detail": "Récit parallèle de Marc 9 ; texte latin de l’édition de Turin 1951, reportation de Léger de Besançon ; traduction d’Ad Fontes. Saint Thomas n’a pas commenté saint Marc.",
+     "url": "https://www.corpusthomisticum.org/cml17.html#87378"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 147, a. 5",
+     "detail": "Les jeûnes des Quatre-Temps ; la page couvre II-II, q. 146-154 ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/sth3146.html#44857"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Catena aurea in Marcum, cap. 9, lectio 3",
+     "detail": "Recueil des Pères : saint Bède",
+     "url": "https://www.corpusthomisticum.org/cmc01.html#85671"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Quatre fois l’an, au passage des saisons, l’Église marque trois jours de jeûne — le mercredi, le vendredi et le samedi : ce sont les Quatre-Temps. Ceux de septembre suivent le troisième dimanche du mois et ouvrent l’automne. Ils ont un triple objet : rendre grâces pour les fruits que la terre vient de donner, demander pardon par la pénitence, et préparer les ordinations que l’évêque confère le samedi. Le jeûne n’y est donc pas une austérité isolée : il est l’envers d’une moisson. De là vient que les lectures du jour parlent de vendanges et de Loi retrouvée plutôt que de privation, et que l’antienne de communion ose cette parole d’Esdras : « la joie du Seigneur est votre force »."
+   }
+  },
+  "meditation": {
+   "titre": "Quatre conditions nécessaires pour remplir le précepte de l’amour de Dieu",
+   "texte": [
+    "Le Christ à qui on demandait avant sa Passion, quel était le plus grand et le premier commandement, répondit : *Vous aimerez le Seigneur votre Dieu de tout votre cœur, et de tout votre esprit; c’est là le plus grand et le premier commandement.* (Matth., 22, 37.)",
+    "Et en vérité, parmi tous les commandements, c’est bien là le plus grand, le plus noble et le plus utile. En lui, tous les autres s’accomplissent. Mais pour son parfait accomplissement, quatre conditions sont requises :",
+    "**1° Le souvenir des bienfaits divins.** Tout ce que nous avons, le corps, les biens extérieurs, nous le tenons de Dieu; et c’est pourquoi il faut que tout cela soit à son service et que nous l’aimions d’un cœur parfait. C’est une suprême ingratitude, de se souvenir des bienfaits de quelqu’un et de ne pas l’aimer. David, au souvenir des bienfaits de Dieu, disait : *Tout est vôtre, ce que nous avons reçu de votre main, nous vous l’avons donné.* Et c’est en son honneur qu’il est dit dans l’Ecclésiastique (47, 10) : *Il a loué le Seigneur de tout son cœur; il a aimé le Dieu qui l’avait créé.*",
+    "**2° La méditation de l’excellence divine.** *Dieu est plus grand que notre cœur*, comme dit saint Jean (I Jo., III, 20). Et si nous le servons de tout notre cœur et de toutes nos forces, nous sommes encore au-dessous de ce que nous devons. *Portez la gloire de Dieu le plus haut que vous pourrez; elle éclatera encore au-dessus… Vous qui bénissez le Seigneur, relevez sa grandeur autant que vous pourrez; car, il est au-dessus de toutes louanges.* (Ecclésiastique, 43, 32.)",
+    "**3° Le renoncement aux choses du monde et de la terre.** C’est une injure grave que l’on fait à Dieu, que de lui égaler quelque chose. *A qui comparerez-vous Dieu?* dit Isaïe (43, 18). Or, nous égalons quelque chose à Dieu, quand nous voulons aimer les choses temporelles et corruptibles en même temps que Dieu. Et cela est absolument impossible. C’est pourquoi Isaïe dit en parabole : *Le lit est si resserré, que si deux s’y mettent l’un tombera; et la couverture est si étroite, qu’elle n’en peut couvrir deux.* (Is., 38, 20.) Le cœur de l’homme est assimilé à un lit resserré et à une couverture étroite. Le cœur de l’homme est étroit par rapport à Dieu; et si vous y recevez quelque autre chose que lui, vous l’en chassez. Il ne peut souffrir de rival dans un cœur, pas plus que l’époux dans l’épouse et il dit lui-même dans l’Exode (20, 5) : *Je suis ton Dieu, un Dieu jaloux.* Il ne veut pas que nous aimions quoi que ce soit autant que lui, ou en dehors de lui.",
+    "**4° La fuite absolue de tout péché.** On ne peut aimer Dieu en état de péché. Si vous êtes en état de péché, vous n’aimez pas Dieu. Celui-là aimait qui disait : *Souvenez-vous, je vous prie, Seigneur, que j’ai marché devant vous dans la vérité et un cœur parfait.* (IV Reg., 18, 21) : *Jusques à quand clocherez-vous des deux pieds?* Car, de même que le boiteux penche d’un côté, puis de l’autre, de même le pécheur, qui tantôt pèche et tantôt cherche Dieu. Aussi le Seigneur dit (Joël, 2, 12) : *Convertissez-vous à moi de tout votre cœur.*",
+    "*(Sur le Décalogue, c. V.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "La mémoire allume l’amour",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Saint Thomas place en tête le souvenir des bienfaits : **tout ce que nous avons, l’âme, le corps, les biens extérieurs, nous le tenons de Dieu**. Dans le prologue des mêmes conférences, il ajoute qu’**il faudrait un cœur bien dur pour penser aux bienfaits reçus, aux périls évités, à la béatitude promise, sans s’enflammer d’amour**. L’ingratitude est d’abord un oubli. Saint Augustin, qu’il cite, le dit : elle est dure, l’âme qui, ne voulant pas aimer la première, ne veut pas même rendre l’amour."
+      ]
+     },
+     {
+      "titre": "Un lit trop étroit",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Dieu est plus grand que notre cœur ; aussi **on lui fait injure en lui égalant quelque chose**, ce qu’on fait en aimant les choses qui passent au même rang que lui. Le cœur est le lit trop étroit d’Isaïe : **si vous y recevez autre chose que lui, vous l’en chassez**. Dans la Somme, saint Thomas précise que le cœur, ici, c’est la volonté qui vise la fin dernière : il est commandé que **toute notre intention se porte vers Dieu** (II-II, q. 44, a. 5). Les créatures ne sont pas chassées : elles sont remises à leur rang."
+      ]
+     },
+     {
+      "titre": "Ne pas boiter",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La quatrième condition tranche : **nul ne peut aimer Dieu en demeurant dans le péché**. Le pécheur boite, comme dit Élie : tantôt il pèche, tantôt il cherche Dieu. Saint Thomas en donne la raison : par le péché mortel, **l’homme, en choisissant, préfère le péché à l’amitié divine**, et la charité est aussitôt perdue (II-II, q. 24, a. 12). Aussi veut-il un aveu entier, et reprend-il un mot ancien : il est impie d’espérer de Dieu un demi-pardon."
+      ],
+      "citation": {
+       "texte": "« Nul ne peut aimer Dieu en demeurant dans le péché. »",
+       "ref": "Collationes in decem praeceptis, a. 1",
+       "url": "https://www.corpusthomisticum.org/cac.html#86717"
+      }
+     }
+    ]
+   },
+   "essentiel": [
+    "Je n’aimerai pas Dieu si j’oublie que tout ce que j’ai vient de lui : la mémoire des bienfaits allume l’amour.",
+    "Mon cœur est un lit trop étroit : ce que j’égale à Dieu l’en chasse ; ce que j’aime pour lui y trouve sa place.",
+    "On ne boite pas entre deux partis : le péché grave préfère autre chose à l’amitié de Dieu."
+   ],
+   "resolution": "Ce soir, nommer devant Dieu trois bienfaits précis de la journée, et s’il reste un péché que je tiens en réserve, le préparer pour un aveu entier.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 172-174",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : Sur le Décalogue, ch. V (De decem praeceptis)",
+     "detail": "Collationes in decem praeceptis, reportation de Pierre d’Andria : œuvre authentique. Sur le Corpus Thomisticum, le passage des quatre conditions est l’article 1 ; le prologue sur la charité a aussi été utilisé. Traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cac.html#86717"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Collationes in decem praeceptis, prologue",
+     "detail": "Les moyens d’acquérir la charité (« durus enim nimis esset… ») et le mot de saint Augustin qu’il cite ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cac.html#86715"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 24, a. 12",
+     "detail": "Texte latin de l’édition léonine (Corpus Thomisticum) ; la page couvre II-II, q. 23-24 ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39878"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 44, a. 5",
+     "detail": "Texte latin de l’édition léonine (Corpus Thomisticum) ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/sth3044.html#40816"
+    }
+   ]
+  }
+ },
+ "2026-09-24": {
+  "textes": {
+   "liturgie": {
+    "nom": "Bienheureuse Vierge Marie de la Merci",
+    "qualite": "Notre-Dame de la Merci",
+    "classe": "IIIe classe",
+    "couleur": "blanc",
+    "commemoraisons": []
+   },
+   "propre": {
+    "epitre": {
+     "titre": "Épître",
+     "reference": "Ecclésiastique 24, 14-16",
+     "latin": [
+      "Ab inítio et ante sǽcula creáta sum, et usque ad futúrum sǽculum non désinam, et in habitatióne sancta coram ipso ministrávi. Et sic in Sion firmáta sum, et in civitáte sanctificáta simíliter requiévi, et in Ierúsalem potéstas mea. Et radicávi in pópulo honorificáto, et in parte Dei mei heréditas illíus, et in plenitúdine sanctórum deténtio mea."
+     ],
+     "francais": [
+      "Avant tous les siècles, dès le commencement il m’a créée, et jusqu’à l’éternité je ne cesserai pas d’être. J’ai exercé le ministère devant lui dans le saint tabernacle, et ainsi j’ai eu une demeure fixe en Sion. De même, il m’a fait reposer dans la cité bien-aimée, et dans Jérusalem est le siège de mon empire. J’ai poussé mes racines dans le peuple glorifié, dans la portion du Seigneur, dans son héritage."
+     ],
+     "note": "La Vulgate numérote ces versets 14 à 16 ; la Crampon 1923, traduite sur le grec, 9 à 12 : c’est son texte qui est donné ici. Les derniers mots du latin, « et in plenitudine sanctorum detentio mea » (et ma demeure est dans l’assemblée des saints), propres à la Vulgate, n’ont pas d’équivalent dans la Crampon."
+    },
+    "evangile": {
+     "reference": "Luc 11, 27-28",
+     "incipit": "En ce temps-là, comme Jésus parlait aux foules :",
+     "latin": [
+      "In illo témpore: Loquénte Iesu ad turbas, extóllens vocem quædam múlier de turba, dixit illi: Beátus venter, qui te portávit, et úbera, quæ suxísti. At ille dixit: Quinímmo beáti, qui áudiunt verbum Dei, et custódiunt illud."
+     ],
+     "francais": [
+      "Une femme élevant la voix du milieu de la foule, lui dit : « Heureux le sein qui vous a porté, et les mamelles que vous avez sucées ! » Jésus répondit : « Heureux plutôt ceux qui écoutent la parole de Dieu et qui la gardent ! »"
+     ]
+    }
+   },
+   "verset": {
+    "texte": "« Heureux plutôt ceux qui écoutent la parole de Dieu et qui la gardent ! »",
+    "ref": "Luc 11, 28"
+   },
+   "commentaire": {
+    "mode": "synthese",
+    "portee": "Épître, Ecclésiastique 24, 14-16, et Évangile, Luc 11, 27-28",
+    "verif": "Commentaire d’Ad Fontes. Saint Thomas n’a commenté ni l’Ecclésiastique ni saint Luc ; l’Épître et la fête sont lues avec l’Expositio salutationis angelicae, a. 1, qui cite Ecclésiastique 24, 25 ; l’Évangile avec la Somme, III, q. 30, a. 1. Textes latins relus sur le Corpus Thomisticum ; Vulgate relue (BibleGateway) ; Catéchisme relu (Saint-Siège) ; bréviaire lu dans les données de Divinum Officium.",
+    "sections": [
+     {
+      "titre": "L’Épître : la Sagesse qui prend racine",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Sagesse, créée *avant les siècles*, a trouvé son repos dans la cité sainte et **a pris racine dans un peuple honoré**  ; un peu plus haut dans le même chapitre, elle dit que *celui qui l’a créée s’est reposé dans sa tente*. Saint Thomas, comme la liturgie, les applique à la Vierge : il met sur les lèvres de Marie un verset de ce chapitre, *en moi toute espérance de vie et de vertu*, pour dire qu’**en toute œuvre de vertu on peut l’avoir pour aide** (Expositio salutationis angelicae, a. 1)."
+      ]
+     },
+     {
+      "titre": "L’Évangile : concevoir d’abord par l’esprit",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "À la femme qui loue le sein qui l’a porté, Jésus répond : *heureux plutôt ceux qui écoutent la parole de Dieu et la gardent*. Saint Thomas en donne la clé : Marie fut instruite **afin que son esprit reçût le Fils avant que sa chair le conçût**, et qu’elle offrît à Dieu **le don volontaire de son obéissance** (III, q. 30, a. 1). Il cite saint Augustin : Marie est plus heureuse d’avoir reçu la foi du Christ que d’avoir conçu sa chair."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : une demeure pour la Parole",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Sagesse cherche où demeurer ; l’Évangile dit comment lui faire place : écouter la Parole et la garder. Commentant *le Seigneur est avec vous*, saint Thomas dit que Dieu est avec Marie plus familièrement qu’avec aucun ange : **le Père, le Fils dans son sein, l’Esprit Saint comme en son temple** (Expositio salutationis angelicae, a. 1). Le Catéchisme le dit du côté de la foi : Marie réalise **de la façon la plus parfaite l’obéissance de la foi** (n. 148)."
+      ]
+     },
+     {
+      "titre": "À la lumière de la fête du jour : Notre-Dame de la Merci",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Marie, dit saint Thomas, est pleine de grâce jusqu’à la répandre sur tous : **en tout péril, on peut obtenir d’elle le salut**, et *mille boucliers pendent* d’elle, autant de remèdes contre les périls (Expositio salutationis angelicae, a. 1). Selon le bréviaire, la Vierge inspira à saint Pierre Nolasque un ordre voué au rachat des chrétiens captifs, dont les membres faisaient vœu de rester otages s’il le fallait."
+      ],
+      "citation": {
+       "texte": "« En tout péril, tu peux obtenir le salut de la Vierge glorieuse elle-même. »",
+       "ref": "Expositio salutationis angelicae, a. 1",
+       "url": "https://www.corpusthomisticum.org/cst.html#86710"
+      }
+     }
+    ]
+   },
+   "essentiel": [
+    "Marie a reçu le Fils dans son esprit avant de le concevoir dans sa chair : c’est là sa première béatitude.",
+    "La Sagesse cherche une demeure ; on la lui donne en écoutant la parole de Dieu et en la gardant.",
+    "En tout péril, on peut obtenir de la Vierge le salut : elle délivre encore les captifs."
+   ],
+   "resolution": "Aujourd’hui, relire lentement l’Évangile du jour, en garder une phrase pour la journée, et confier à Notre-Dame de la Merci une personne prisonnière, d’un péché, d’une dépendance ou d’une prison.",
+   "sources": [
+    {
+     "label": "Missel romain de 1962, Bienheureuse Vierge Marie de la Merci",
+     "detail": "IIIe classe ; collecte, texte latin d’après les données libres du projet Divinum Officium",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/09-24.txt"
+    },
+    {
+     "label": "Bréviaire romain, leçons des matines du 24 septembre",
+     "detail": "Leçons historiques de Notre-Dame de la Merci, texte français d’après les données libres du projet Divinum Officium",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Francais/Sancti/09-24.txt"
+    },
+    {
+     "label": "Vulgate clémentine, Ecclésiastique 24",
+     "detail": "Texte latin de l’Épître et de son contexte",
+     "url": "https://www.biblegateway.com/passage/?search=Ecclesiasticus+24&version=VULGATE"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Expositio salutationis angelicae, a. 1",
+     "detail": "Opuscule authentique ; texte latin de l’édition de Turin 1954 (Corpus Thomisticum) ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/cst.html#86710"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 30, a. 1",
+     "detail": "L’Annonciation ; saint Augustin, De la virginité, cité dans le corps de l’article ; la page couvre III, q. 27-30 ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/sth4027.html#48123"
+    },
+    {
+     "label": "Catéchisme de l’Église catholique, n. 148",
+     "detail": "Texte officiel français, Saint-Siège",
+     "url": "https://www.vatican.va/archive/FRA0013/__PW.HTM"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "La leçon des matines rappelle qu’au temps où la plus grande partie de l’Espagne gémissait sous le joug des Sarrasins, d’innombrables chrétiens étaient retenus en captivité, au péril d’abjurer la foi et de perdre le salut éternel. C’est alors, dit le Bréviaire, que la Vierge se montra à saint Pierre Nolasque, homme riche et pieux qui cherchait sans relâche comment secourir ces captifs, et lui déclara qu’il serait très agréable à son Fils qu’un ordre religieux fût institué en son honneur pour les délivrer. Ainsi naquit l’ordre de la Merci, dont les religieux faisaient vœu de se livrer eux-mêmes en échange des prisonniers — « que chacun donne sa vie pour ses amis »."
+   }
+  },
+  "meditation": {
+   "titre": "Comment il est possible en cette vie d’avoir la charité parfaite",
+   "texte": [
+    "**I**",
+    "La perfection de la charité peut s’entendre de deux manières, selon que l’on parle de celui qui est aimé ou de celui qui aime.",
+    "Du côté de celui qui est aimé, la charité est parfaite quand il est aimé autant qu’il est aimable. Or Dieu est autant aimable qu’il est bon; sa bonté étant infinie, il est donc aimable infiniment. Mais aucune créature n’est capable de l’aimer infiniment, puisque chacune n’a qu’une capacité créée. Et donc, sous ce rapport, la charité d’aucune créature ne peut être parfaite; seule peut l’être l’amour dont Dieu s’aime lui-même.",
+    "**II**",
+    "Du côté de celui qui aime, la charité est parfaite quand il aime autant qu’il le peut. Ce qui arrive de triple manière :",
+    "L’une quand le cœur de l’homme se porte tout entier en exercice actuel d’amour, en pleine activité, et c’est la perfection de la charité de la patrie, qui n’est pas possible en cette vie; ici-bas il est impossible, à cause de l’infirmité de la vie humaine, de toujours penser à Dieu et de s’entretenir dans un mouvement actif d’amour envers lui.",
+    "Une autre manière, c’est que l’homme mette toute son application à vaquer à Dieu et aux choses divines, toute autre affaire cessante, si ce n’est ce qu’exigent les nécessités de la vie présente. Et cette perfection de la charité, qui est possible en cette vie voyagère, en marche vers le terme, elle n’est cependant pas commune à tous ceux qui ont la charité.",
+    "La troisième manière, c’est de mettre son cœur en Dieu d’une façon habituelle, par un état d’âme stable, de telle sorte qu’on ne pense ni ne veuille rien qui soit contraire à l’amour divin; et cette perfection est commune à tous ceux qui ont la charité.",
+    "Ainsi la charité parfaite est possible en cette vie; et cependant la perfection de cette vie en marche, n’est pas la perfection, sans plus, et sans restriction; et c’est pourquoi elle a toujours de quoi progresser.",
+    "La perfection de la charité à laquelle sont ordonnés les conseils, consiste en ce que l’homme, autant qu’il est possible, s’arrache aux choses temporelles, même licites, qui, en occupant l’esprit, empêchent le mouvement actuel du cœur vers Dieu.",
+    "*(2-2, q. 46, a. 6.)*",
+    "Par ce précepte : *Tu aimeras le Seigneur*, Dieu veut que l’homme lui soit totalement uni; ce qui se réalisera dans la patrie, quand *Dieu sera tout en tous*. Et c’est pourquoi ce précepte sera pleinement et parfaitement accompli dans la patrie. Dans cette vie de route il est accompli, mais imparfaitement; et cependant même dans cette vie de route, on l’accomplit d’autant plus parfaitement qu’on réalise quelque ressemblance de la perfection de la patrie.",
+    "*(2-2, q. 46, a. 6.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "Deux mesures",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Saint Thomas distingue **la perfection du côté de celui qu’on aime** et **du côté de celui qui aime**. Du premier côté, aucune créature n’aimera Dieu autant qu’il est aimable : sa bonté est infinie, notre puissance d’aimer est finie (II-II, q. 24, a. 8). Ce n’est pas un échec, c’est la condition de la créature, et il y a de la paix à la reconnaître. Du second côté, la charité est parfaite **quand on aime selon tout son pouvoir** : voilà ce que Dieu demande."
+      ]
+     },
+     {
+      "titre": "Trois manières d’aimer de tout son cœur",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Aimer sans cesse en acte, c’est la charité de la patrie, impossible ici-bas. Tout quitter pour vaquer à Dieu, sauf le nécessaire, est possible mais non commun à tous : c’est la voie des conseils, qui retranche même les choses permises **parce qu’elles occupent l’esprit** (II-II, q. 44, a. 4, ad 3). La troisième manière est pour tous : **ne rien penser ni vouloir qui soit contraire à l’amour de Dieu**. Le péché véniel, précise saint Thomas, n’ôte pas cette charité : il en gêne l’usage (ad 2)."
+      ],
+      "citation": {
+       "texte": "« Cette perfection est commune à tous ceux qui ont la charité. »",
+       "ref": "Somme théologique, II-II, q. 24, a. 8",
+       "url": "https://www.corpusthomisticum.org/sth3023.html#39844"
+      }
+     },
+     {
+      "titre": "Accompli, mais en marche",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Par ce précepte, Dieu veut que **l’homme lui soit totalement uni**, ce qui s’accomplira quand *Dieu sera tout en tous*. Ici-bas, on l’accomplit imparfaitement, comme le soldat qui combat selon la discipline sans avoir encore la victoire ; et **l’un l’accomplit mieux que l’autre, à mesure qu’il ressemble davantage à la patrie** (II-II, q. 44, a. 6). Saint Augustin, cité dans le même article, garde de l’illusion : tant qu’il reste une convoitise à refréner, Dieu n’est pas encore aimé de toute l’âme."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Dieu est infiniment aimable : aucun cœur créé ne l’aimera à sa mesure, et ce n’est pas un échec.",
+    "Ce qui m’est demandé, comme à tout baptisé : ne rien penser ni vouloir qui soit contraire à l’amour de Dieu.",
+    "Le précepte s’accomplit en marchant : on l’accomplit mieux à mesure qu’on ressemble à la patrie."
+   ],
+   "resolution": "Aujourd’hui, chercher l’endroit précis de ma vie que je tiens encore hors de portée de cet amour, le nommer devant Dieu, et y poser un acte contraire.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 174-176",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : 2-2, q. 46, a. 6",
+     "detail": "La référence est donnée telle que l’ouvrage l’imprime. Vérification faite sur le Corpus Thomisticum, le texte de La Moelle se trouve en II-II, q. 24, a. 8, q. 44, a. 4, ad 3, et q. 44, a. 6 ; « q. 46 » paraît une coquille pour « q. 44 ».",
+     "url": "https://www.corpusthomisticum.org/sth3044.html"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 24, a. 8",
+     "detail": "Texte latin de l’édition léonine (Corpus Thomisticum) ; la page couvre II-II, q. 23-24 ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39844"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 44, a. 4 et a. 6",
+     "detail": "Texte latin de l’édition léonine (Corpus Thomisticum) ; traduction d’Ad Fontes ; saint Augustin, De perfectione iustitiae, cité en sed contra de l’a. 6",
+     "url": "https://www.corpusthomisticum.org/sth3044.html#40808"
+    }
+   ]
+  }
+ },
+ "2026-09-25": {
+  "textes": {
+   "liturgie": {
+    "nom": "Vendredi des Quatre-Temps de septembre",
+    "qualite": "Férie des Quatre-Temps",
+    "classe": "IIe classe",
+    "couleur": "violet",
+    "commemoraisons": []
+   },
+   "propre": {
+    "lecon": {
+     "titre": "Leçon",
+     "reference": "Osée 14, 2-10",
+     "latin": [
+      "Hæc dicit Dóminus Deus: Convértere, Israël, ad Dóminum, Deum tuum: quóniam corruísti in iniquitáte tua. Tóllite vobíscum verba, et convertímini ad Dóminum et dícite ei: Omnem aufer iniquitátem, áccipe bonum: et reddémus vítulos labiórum nostrórum. Assur non salvábit nos, super equum non ascendémus, nec dicémus ultra: Dii nostri ópera mánuum nostrárum: quia eius, qui in te est, miseréberis pupílli. Sanábo contritiónes eórum, díligam eos spontánee: quia avérsus est furor meus ab eis. Ero quasi ros, Israël germinábit sicut lílium, et erúmpet radix eius ut Líbani. Ibunt rami eius, et erit quasi olíva glória eius: et odor eius ut Líbani. Converténtur sedéntes in umbra eius: vivent trítico, et germinábunt quasi vínea: memoriále eius sicut vinum Líbani. Ephraim quid mihi ultra idóla? ego exáudiam, et dírigam eum ego ut abíetem viréntem: ex me fructus tuus invéntus est. Quis sápiens, et intélleget ista? intéllegens, et sciet hæc? Quia rectæ viæ Dómini, et iusti ambulábunt in eis: prævaricatóres vero córruent in eis."
+     ],
+     "francais": [
+      "Reviens, Israël, à Yahweh, car tu es tombé par ton iniquité. Prenez avec vous des paroles, et revenez à Yahweh ; dites-lui : « Ôtez toute iniquité et prenez ce qui est bon ! Que nous vous offrions, au lieu de taureaux, les paroles de nos lèvres. Assur ne nous sauvera pas, nous ne monterons pas sur des chevaux ; et nous ne dirons plus : “Notre Dieu !” à l’œuvre de nos mains. Ô vous, en qui l’orphelin trouve compassion ! »",
+      "Je guérirai leur infidélité, je les aimerai de bon cœur ; car ma colère s’est retirée d’eux. Je serai comme la rosée pour Israël ; il croîtra comme le lis, il poussera ses racines comme le Liban. Ses rejetons s’étendront, sa gloire sera comme celle de l’olivier, et son parfum comme celui du Liban. Ceux qui viendront se reposer à son ombre feront revivre le froment ; ils croîtront comme la vigne ; son nom sera comme le vin du Liban.",
+      "Éphraïm… qu’aurait-il encore à faire avec les idoles ? C’est moi qui lui réponds, qui le regarde ; je suis comme un cyprès verdoyant ; c’est de moi que procède ton fruit. Celui qui est sage, qu’il comprenne ces choses, celui qui est intelligent, qu’il les reconnaisse ! Car les voies de Yahweh sont droites ; les justes y marcheront, mais les rebelles y tomberont."
+     ]
+    },
+    "evangile": {
+     "reference": "Luc 7, 36-50",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "In illo témpore: Rogábat Iesum quidam de pharisǽis, ut manducáret cum illo. Et ingréssus domum pharisǽi, discúbuit. Et ecce múlier, quæ erat in civitáte peccátrix, ut cognóvit, quod accubuísset in domo pharisǽi, áttulit alabástrum unguénti: et stans retro secus pedes eius, lácrimis cœpit rigáre pedes eius, et capíllis cápitis sui tergébat, et osculabátur pedes eius, et unguénto ungébat. Videns autem pharisǽus, qui vocáverat eum, ait intra se, dicens: Hic si esset Prophéta, sciret útique, quæ et qualis est múlier, quæ tangit eum: quia peccátrix est. Et respóndens Iesus, dixit ad illum: Simon, hábeo tibi áliquid dícere. At ille ait: Magíster, dic. Duo debitóres erant cuidam fœneratóri: unus debébat denários quingéntos, et álius quinquagínta. Non habéntibus illis, unde rédderent, donávit utrísque. Quis ergo eum plus díligit? Respóndens Simon, dixit: Æstimo, quia is, cui plus donávit. At ille dixit ei: Recte iudicásti. Et convérsus ad mulíerem, dixit Simóni: Vides hanc mulíerem? Intrávi in domum tuam, aquam pédibus meis non dedísti: hæc autem lácrimis rigávit pedes meos et capíllis suis tersit. Osculum mihi non dedísti: hæc autem, ex quo intrávit, non cessávit osculári pedes meos. Oleo caput meum non unxísti: hæc autem unguénto unxit pedes meos. Propter quod dico tibi: Remittúntur ei peccáta multa, quóniam diléxit multum. Cui autem minus dimíttitur, minus díligit. Dixit autem ad illam: Remittúntur tibi peccáta. Et cœpérunt, qui simul accumbébant, dícere intra se: Quis est hic, qui étiam peccáta dimíttit? Dixit autem ad mulíerem: Fides tua te salvam fecit: vade in pace."
+     ],
+     "francais": [
+      "Un Pharisien ayant prié Jésus de manger avec lui, il entra dans sa maison et se mit à table. Et voici qu’une femme qui menait dans la ville une vie déréglée, ayant su qu’il était à table dans la maison du Pharisien, apporta un vase d’albâtre plein de parfum ; et se tenant derrière lui, à ses pieds, tout en pleurs, elle se mit à les arroser de ses larmes et à les essuyer avec les cheveux de sa tête, et elle les baisait et les oignait de parfum.",
+      "À cette vue, le Pharisien qui l’avait invité, dit en lui-même : « Si cet homme était prophète, il saurait qui et de quelle espèce est la femme qui le touche, et que c’est une pécheresse. » Alors prenant la parole, Jésus lui dit : « Simon, j’ai quelque chose à te dire. » — « Maître, parlez », dit-il. — « Un créancier avait deux débiteurs ; l’un devait cinq cents deniers et l’autre cinquante. Comme ils n’avaient pas de quoi payer leur dette, il en fit grâce à tous deux. Lequel donc l’aimera davantage ? » Simon répondit : « Celui, je pense, auquel il a fait grâce de la plus forte somme. » Jésus lui dit : « Tu as bien jugé. »",
+      "Et, se tournant vers la femme, il dit à Simon : « Vois-tu cette femme ? Je suis entré dans ta maison, et tu n’as pas versé d’eau sur mes pieds ; mais elle, elle les a mouillés de ses larmes, et les a essuyés avec ses cheveux. Tu ne m’as point donné de baiser ; mais elle, depuis que je suis entré, elle n’a cessé de me baiser les pieds. Tu n’as pas oint ma tête d’huile, mais elle a oint mes pieds de parfum. C’est pourquoi, je te le déclare, ses nombreux péchés lui sont pardonnés, parce qu’elle a beaucoup aimé ; mais celui à qui l’on pardonne peu, aime peu. »",
+      "Puis il dit à la femme : « Tes péchés te sont pardonnés. » Et ceux qui étaient à table avec lui se mirent à dire en eux-mêmes : « Qui est celui-ci qui remet même les péchés ? » Mais Jésus dit à la femme : « Ta foi t’a sauvée, va en paix. »"
+     ]
+    }
+   },
+   "verset": {
+    "texte": "« Ses nombreux péchés lui sont pardonnés, parce qu’elle a beaucoup aimé. »",
+    "ref": "Luc 7, 47"
+   },
+   "commentaire": {
+    "mode": "synthese",
+    "portee": "Leçon, Osée 14, 2-10, et Évangile, Luc 7, 36-50",
+    "verif": "Commentaire d’Ad Fontes. Saint Thomas n’a commenté ni Osée ni saint Luc ; les deux lectures sont éclairées par la Somme, III, q. 85-86, où il cite nommément la pécheresse de Luc 7, et II-II, q. 147, a. 1. Textes latins relus sur le Corpus Thomisticum ; Catéchisme relu (Saint-Siège).",
+    "sections": [
+     {
+      "titre": "La Leçon : c’est Dieu qui fait revenir",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Osée ne demande que des paroles : *prenez avec vous des paroles et revenez au Seigneur* ; puis Dieu conclut : *c’est de moi que procède ton fruit*. Saint Thomas le dit de toute pénitence : **son premier principe est l’opération de Dieu qui convertit le cœur** (III, q. 85, a. 5). Et la miséricorde de Dieu surpasse celle de l’homme en ce qu’**elle change la volonté** pour l’amener au repentir (III, q. 86, a. 2, ad 3)."
+      ]
+     },
+     {
+      "titre": "L’Évangile : attirée au-dedans",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Le Christ remet les péchés de la pécheresse **sans le ministère du prêtre** : Dieu le peut. Mais, précise saint Thomas, **il ne les remet pas sans la vertu de pénitence**, car Dieu ne pardonne pas une offense sans changer la volonté de celui qui l’a commise (III, q. 86, a. 2). Il reprend un mot de saint Grégoire : le Christ attira au-dedans par la grâce celle qu’il recevait au-dehors par miséricorde."
+      ],
+      "citation": {
+       "texte": "« Il ne leur a pas remis leurs péchés sans la vertu de pénitence ; car, comme dit Grégoire, il attira au-dedans par la grâce, c’est-à-dire à la pénitence, celle qu’il recevait au-dehors par miséricorde. »",
+       "ref": "Somme théologique, III, q. 86, a. 2 (page couvrant III, q. 84-90)",
+       "url": "https://www.corpusthomisticum.org/sth4084.html#51359"
+      }
+     },
+     {
+      "titre": "Ce que la Leçon et l’Évangile disent ensemble : d’un coup ou peu à peu",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Israël revient avec des paroles ; la pécheresse, sans un mot, avec des larmes. Saint Thomas distingue deux manières dont Dieu guérit : parfois **d’un coup**, comme pour la pécheresse de Luc 7, qu’il nomme Madeleine selon l’usage de son temps ; parfois **peu à peu**, la faute remise d’abord, les restes ôtés ensuite par la grâce coopérante (III, q. 86, a. 5, ad 1). L’Évangile montre la première voie ; le lis d’Osée qui croît sous la rosée, la seconde."
+      ]
+     },
+     {
+      "titre": "À la lumière de la fête du jour : le vendredi des Quatre-Temps",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Ces restes, dit saint Thomas, demeurent **affaiblis, de sorte qu’ils ne dominent plus l’homme** ; un seul acte ne les ôte pas, mais l’exercice répété, **et la grâce divine le fait bien plus efficacement** (III, q. 86, a. 5, corps et ad 3). C’est l’œuvre du jeûne de ce jour, qu’il ordonne aussi à satisfaire pour les péchés (II-II, q. 147, a. 1). Le Catéchisme rappelle que, sans la conversion du cœur, les œuvres de pénitence restent stériles et mensongères (n. 1430)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Le premier pas du retour vient de Dieu : c’est lui qui convertit le cœur avant que nous revenions.",
+    "Le Christ ne pardonne pas sans changer le cœur : il attire au-dedans celui qu’il reçoit au-dehors.",
+    "La faute peut être remise d’un coup ; les restes du péché s’en vont le plus souvent peu à peu, par des actes répétés et la grâce."
+   ],
+   "resolution": "Aujourd’hui, nommer une habitude qui reste d’un péché déjà pardonné, lui opposer un seul acte contraire, et dire à Dieu la parole d’Osée : « Ôtez toute iniquité et prenez ce qui est bon. »",
+   "sources": [
+    {
+     "label": "Missel romain de 1962, vendredi des Quatre-Temps de septembre",
+     "detail": "Leçon d’Osée 14, 2-10 et Évangile, texte latin d’après les données libres du projet Divinum Officium",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/093-5.txt"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 85, a. 5, et q. 86, a. 2 et a. 5",
+     "detail": "Texte latin de l’édition léonine ; la page couvre III, q. 84-90. Saint Thomas y cite nommément la pécheresse de Luc 7 ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/sth4084.html#51334"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 147, a. 1",
+     "detail": "Les trois fins du jeûne ; la page couvre II-II, q. 146-154 ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/sth3146.html#44822"
+    },
+    {
+     "label": "Catéchisme de l’Église catholique, n. 1430",
+     "detail": "Texte officiel français, Saint-Siège",
+     "url": "https://www.vatican.va/archive/FRA0013/__P45.HTM"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Deuxième des trois jours de jeûne de septembre. Le vendredi des Quatre-Temps n’a ni Alléluia ni trait : la messe va du graduel directement à l’Évangile, et cette sobriété est elle-même une rubrique. La leçon d’Osée en donne le mouvement : « Convertissez-vous, prenez avec vous des paroles » — c’est-à-dire revenez sans rien apporter d’autre que l’aveu. L’Évangile y répond par la pécheresse qui ne dit pas un mot et obtient tout. Le jeûne de ce jour ne cherche donc pas à mériter le pardon, qui est donné avant d’être demandé ; il travaille à défaire ce que le péché a laissé derrière lui."
+   }
+  },
+  "meditation": {
+   "titre": "De l’augmentation de la charité",
+   "texte": [
+    "**I**",
+    "La charité de cette vie de route peut être augmentée. Nous sommes dits voyageurs parce que nous tendons vers Dieu qui est la fin ultime de notre béatitude. En cette vie, nous avançons d’autant plus que nous nous approchons davantage de Dieu, dont on s’approche non point par les pas du corps, mais par les sentiments du cœur. C’est la charité qui fait cette proximité; car, c’est par elle que l’esprit s’unit à Dieu. Et c’est pour cela qu’il est de l’essence de la charité de cette vie, de pouvoir être augmentée; sinon cela supposerait la cessation de cette vie en marche. Saint Paul dénomme la charité une voie quand il dit (I Cor., XII, 31) : *Je veux vous faire connaître une voie encore plus haute.*",
+    "**II**",
+    "Toujours la charité de route peut être augmentée de plus en plus. En aucune manière, une limite ne s’impose à l’augmentation de la charité dans cette situation de voyageur. Elle-même, dans sa raison d’espèce propre, n’a pas de limite d’augmentation; car, elle est une participation de la charité infinie qui est le Saint-Esprit. De même la cause de l’augmentation de la charité est d’une vertu infinie, c’est Dieu. De même, du côté du sujet de la charité, c’est-à-dire de celui qui a la charité, on ne peut pas fixer de terme à cette augmentation, parce que plus s’accroît la charité, plus s’accroît aussi la capacité à une augmentation ultérieure. La capacité de la créature raisonnable est augmentée par la charité, parce que par elle le cœur est dilaté, selon cette parole de saint Paul : *Notre cœur est dilaté.* (2 Cor., VI, 11.) Concluons donc que nul terme ne s’impose, en cette vie, à l’augmentation de la charité.",
+    "**III**",
+    "La charité n’augmente pas par addition d’une charité à une charité, mais en ce sens, que le sujet y participe de plus en plus, c’est-à-dire qu’il est davantage en activité de charité et de plus en plus envahi et dominé par elle. L’augmentation de la charité ne signifie pas que quelque chose soit inséré là où elle n’était pas, mais que la charité est davantage là où elle était moins. Ceci, c’est l’œuvre de Dieu, en augmentant la charité, de faire qu’elle soit davantage en quelqu’un, et que la ressemblance du Saint-Esprit soit participée plus parfaitement dans l’âme.",
+    "**IV**",
+    "L’augmentation spirituelle de la charité est en quelque manière semblable à l’augmentation corporelle, qui n’est pas un mouvement continu dans les animaux et les plantes; mais, pendant quelque temps, la nature fait un travail de préparation, sans aucune augmentation effective; ce n’est que plus tard, à un moment donné, qu’elle produit l’effet qu’elle avait préparé, par augmentation effective de l’animal ou de la plante.",
+    "Et de même, la charité n’est pas augmentée par chaque acte de charité; mais chacun des actes dispose à une augmentation, en ce sens, que par un acte de charité l’homme devient plus prompt à agir de nouveau par charité; et, son aptitude croissant, son élan le pousse à un acte d’amour plus fervent, dans un effort de progrès dans l’amour même; et c’est alors que sa charité est augmentée effectivement.",
+    "De même que chacun des actes de charité mérite la vie éternelle, laquelle n’est pas donnée aussitôt, mais en son temps; de même chacun des actes de charité mérite une augmentation de charité, laquelle cependant n’est pas augmentée aussitôt, mais quand on fait effort pour qu’elle le soit.",
+    "*(2-2, q. 24, a. 4 et 7.)*",
+    "*Note du traducteur, au bas de la page 178 :* « L’exemple dont se sert ici saint Thomas n’est plus recevable, depuis les expériences de photographie cinématographique, qui ont permis de suivre le développement continu d’accroissement des plantes. Mais sa doctrine est indépendante des exemples qu’il emprunte à la Physique de son temps. On est toujours libre de choisir des exemples plus appropriés, si l’on en trouve. Ceux que le saint Docteur emploie, même s’ils sont périmés, éclairent suffisamment sa pensée et n’autorisent point à la mépriser. »"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "On s’approche par le cœur",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Nous sommes voyageurs, dit saint Thomas, parce que nous tendons vers Dieu ; et **on ne s’approche pas de Dieu par les pas du corps, mais par les affections de l’âme**. La charité fait cette proximité, puisqu’elle unit l’esprit à Dieu. D’où cette conséquence : **une charité qui ne pourrait plus croître signifierait que le chemin est fini** (II-II, q. 24, a. 4). Saint Paul appelle la charité *une voie* : on n’y est jamais arrivé, on y avance."
+      ]
+     },
+     {
+      "titre": "Un cœur qui s’élargit",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Cette croissance n’a pas de plafond, pour trois raisons : la charité participe de la charité infinie qu’est l’Esprit Saint ; elle a pour cause Dieu, dont la puissance est infinie ; et **plus la charité croît, plus croît l’aptitude à croître encore** (II-II, q. 24, a. 7). On croirait qu’un cœur se remplit ; saint Thomas dit qu’il se dilate. La Glose qu’il cite en tire la règle : qu’aucun fidèle ne dise « cela me suffit », car qui le dit sort du chemin avant la fin."
+      ]
+     },
+     {
+      "titre": "La patience de la croissance",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Chaque acte de charité n’augmente pas aussitôt la charité, mais **il y dispose**, en rendant plus prompt à aimer, jusqu’à l’acte plus fervent où elle croît en effet (II-II, q. 24, a. 6). Et même avant, **on avance sur le chemin de Dieu quand on se dispose à cette croissance** (ad 3). Pour s’y disposer, saint Thomas nomme dans ses conférences sur le Décalogue le détachement des biens de la terre, et cite saint Augustin : le poison de la charité est l’espoir d’acquérir ou de garder les biens temporels ; son aliment, la diminution de la convoitise."
+      ],
+      "citation": {
+       "texte": "« On avance sur le chemin de Dieu non seulement tant que la charité s’accroît en acte, mais aussi tant qu’on se dispose à cet accroissement. »",
+       "ref": "Somme théologique, II-II, q. 24, a. 6, ad 3",
+       "url": "https://www.corpusthomisticum.org/sth3023.html#39828"
+      }
+     }
+    ]
+   },
+   "essentiel": [
+    "On s’approche de Dieu par l’amour, non par les pas du corps : une charité qui ne croîtrait plus aurait quitté le chemin.",
+    "Il n’y a pas de plafond : plus la charité croît, plus grandit la capacité de croître encore.",
+    "Un acte de charité ne me change pas à l’instant, mais il m’y dispose ; et se disposer, c’est déjà avancer."
+   ],
+   "resolution": "Aujourd’hui, poser un acte de charité précis sans en attendre d’effet sensible, et renoncer à un petit désir de posséder, pour nourrir la charité en diminuant la convoitise.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 176-178",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : 2-2, q. 24, a. 4 et 7",
+     "detail": "Vérification faite sur le Corpus Thomisticum, la comparaison de la plante et le mérite d’une croissance différée se lisent en II-II, q. 24, a. 6 (corps de l’article et ad 1), non en a. 4 ou 7 ; le renvoi imprimé est reproduit tel quel.",
+     "url": "https://www.corpusthomisticum.org/sth3023.html"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 24, a. 4, 6 et 7",
+     "detail": "Texte latin de l’édition léonine (Corpus Thomisticum) ; la page couvre II-II, q. 23-24 ; la Glose citée en sed contra de l’a. 7 ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39812"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Sur le Décalogue (Collationes in decem praeceptis), prologue sur la charité",
+     "detail": "Texte latin (Corpus Thomisticum) ; saint Augustin, Quatre-vingt-trois questions, cité par saint Thomas ; traduction d’Ad Fontes",
+     "url": "https://www.corpusthomisticum.org/cac.html#86715"
+    }
+   ]
+  }
+ },
+ "2026-09-26": {
+  "textes": {
+   "liturgie": {
+    "nom": "Samedi des Quatre-Temps de septembre",
+    "qualite": "Férie des Quatre-Temps",
+    "classe": "IIe classe",
+    "couleur": "violet",
+    "commemoraisons": [
+     "saints Cyprien et Justine, martyrs"
+    ]
+   },
+   "propre": {
+    "lecon": {
+     "titre": "Première leçon",
+     "reference": "Lévitique 23, 26-32",
+     "latin": [
+      "In diébus illis: Locútus est Dóminus ad Móysen, dicens: Décimo die mensis huius séptimi, dies expiatiónum erit celebérrimus, et vocábitur sanctus: affligetísque ánimas vestras in eo, et offerétis holocáustum Dómino. Omne opus servíle non faciétis in témpore diéi huius: quia dies propitiatiónis est, ut propitiétur vobis Dóminus, Deus vester. Omnis ánima, quæ afflícta non fúerit die hac, períbit de pópulis suis: et quæ óperis quídpiam fécerit, delébo eam de pópulo suo. Nihil ergo óperis faciétis in eo: legítimum sempitérnum erit vobis in cunctis generatiónibus et habitatiónibus vestris. Sábbatum requietiónis est, et affligétis ánimas vestras die nono mensis: a véspera usque ad vésperam celebrábitis sábbata vestra: dicit Dóminus omnípotens."
+     ],
+     "francais": [
+      "Yahweh parla à Moïse, en disant : « Le dixième jour de ce septième mois est le jour des Expiations : vous aurez une sainte assemblée, vous affligerez vos âmes, et vous offrirez à Yahweh des sacrifices faits par le feu. Vous ne ferez ce jour-là aucun travail, car c’est un jour d’expiation, où doit être faite l’expiation pour vous devant Yahweh, votre Dieu.",
+      "Toute personne qui ne s’affligera pas ce jour-là sera retranchée de son peuple ; et toute personne qui fera ce jour-là un ouvrage quelconque, je la ferai périr du milieu de son peuple. Vous ne ferez aucun travail. C’est une loi perpétuelle pour vos descendants, dans tous les lieux où vous demeurerez. Ce sera pour vous un sabbat, un repos absolu, et vous affligerez vos âmes ; le neuvième jour du mois, au soir, du soir jusqu’au soir suivant, vous observerez votre sabbat. »"
+     ]
+    },
+    "supplement": [
+     {
+      "titre": "Deuxième leçon",
+      "reference": "Lévitique 23, 39-43",
+      "latin": [
+       "In diébus illis: Locútus est Dóminus ad Móysen, dicens: A quintodécimo die mensis séptimi, quando congregavéritis omnes fructus terræ vestræ, celebrábitis férias Dómini septem diébus: die primo et die octávo erit sábbatum, id est réquies. Sumetísque vobis die primo fructus arbóris pulchérrimæ, spatulásque palmárum, et ramos ligni densárum fróndium, et sálices de torrénte, et lætabímini coram Dómino, Deo vestro. Celebrabitísque sollemnitátem eius septem diébus per annum: legítimum sempitérnum erit in generatiónibus vestris. Mense séptimo festa celebrábitis, et habitábitis in umbráculis septem diébus. Omnis, qui de génere est Israël, manébit in tabernáculis: ut discant pósteri vestri, quod in tabernáculis habitáre fécerim fílios Israël, cum edúcerem eos de terra Ægýpti. Ego Dóminus, Deus vester."
+      ],
+      "francais": [
+       "Le quinzième jour du septième mois, quand vous aurez récolté les produits du pays, vous célébrerez la fête de Yahweh pendant sept jours ; le premier jour sera un repos solennel, et le huitième jour un repos solennel. Vous prendrez, le premier jour, du fruit de beaux arbres, des branches de palmiers, des rameaux d’arbres touffus et des saules de rivière ; et vous vous réjouirez devant Yahweh, votre Dieu, pendant sept jours.",
+       "Vous célébrerez cette fête en l’honneur de Yahweh sept jours chaque année. C’est une loi perpétuelle pour vos descendants ; vous la célébrerez le septième mois. Vous demeurerez pendant sept jours sous des huttes de feuillage : tous les indigènes en Israël demeureront dans des huttes ; afin que vos descendants sachent que j’ai fait habiter sous des huttes les enfants d’Israël, lorsque je les ai fait sortir du pays d’Égypte. Je suis Yahweh, votre Dieu."
+      ]
+     },
+     {
+      "titre": "Troisième leçon",
+      "reference": "Michée 7, 14. 16. 18-20",
+      "latin": [
+       "Dómine, Deus noster, pasce pópulum tuum in virga tua, gregem hereditátis tuæ, habitántes solos in saltu, iuxta dies antíquos. Vidébunt gentes, et confundéntur super omni fortitúdine sua. Quis Deus símilis tui, qui aufers iniquitátem, et transis peccátum reliquiárum hereditátis tuæ? Non immíttet ultra furórem suum, quóniam volens misericórdiam est. Revertétur, et miserébitur nostri: depónet iniquitátes nostras, et proiíciet in profúndum maris ómnia peccáta nostra. Dabis veritátem Iacob, misericórdiam Abraham: quæ iurásti pátribus nostris a diébus antíquis: Dómine, Deus noster."
+      ],
+      "francais": [
+       "Pais ton peuple avec ta houlette, le troupeau de ton héritage, qui habite solitaire dans la forêt, comme aux jours anciens ! Les nations le verront, et seront confuses de toute leur puissance.",
+       "Quel Dieu est semblable à vous, qui ôtez l’iniquité, et qui pardonnez la transgression au reste de votre héritage ? Il ne fait pas à toujours prévaloir sa colère, car il prend plaisir, lui, à faire grâce. Il aura encore pitié de nous, il foulera encore aux pieds nos iniquités ! Vous jetterez au fond de la mer tous leurs péchés ; vous ferez voir à Jacob votre fidélité, à Abraham la miséricorde, que vous avez jurée à nos pères, dès les jours anciens."
+      ]
+     },
+     {
+      "titre": "Quatrième leçon",
+      "reference": "Zacharie 8, 14-19",
+      "latin": [
+       "In diébus illis: Factum est verbum Dómini ad me, dicens: Hæc dicit Dóminus exercítuum: Sicut cogitávi, ut afflígerem vos, cum ad iracúndiam provocássent patres vestri me, dicit Dóminus, et non sum misértus: sic convérsus cogitávi in diébus istis, ut benefáciam dómui Iuda et Ierúsalem: nolíte timére. Hæc sunt ergo verba, quæ faciétis: Loquímini veritátem, unusquísque cum próximo suo: veritátem et iudícium pacis iudicáte in portis vestris. Et unusquísque malum contra amícum suum ne cogitétis in córdibus vestris: et iuraméntum mendax ne diligátis: ómnia enim hæc sunt, quæ odi, dicit Dóminus. Et factum est verbum Dómini exercítuum ad me, dicens: Hæc dicit Dóminus exercítuum: Ieiúnium quarti et ieiúnium quinti et ieiúnium séptimi et ieiúnium décimi erit dómui Iuda in gáudium et lætítiam et in sollemnitátes præcláras: veritátem tantum et pacem dilígite: dicit Dóminus exercítuum."
+      ],
+      "francais": [
+       "Car ainsi parle Yahweh des armées : Comme j’ai eu le dessein de vous faire du mal lorsque vos pères provoquaient ma colère, dit Yahweh des armées, et que je ne m’en suis pas repenti, ainsi j’ai en ces jours-ci, au contraire, le dessein de faire du bien à Jérusalem et à la maison de Juda ; ne craignez point !",
+       "Voici les paroles que vous observerez : Dites la vérité, chacun à votre prochain ; rendez la justice dans vos portes selon la vérité et pour la paix ; ne méditez pas dans vos cœurs le mal les uns des autres ; et n’aimez pas le faux serment ; car ce sont là toutes choses que je hais, — oracle de Yahweh.",
+       "La parole de Yahweh des armées me fut adressée en ces termes : Ainsi parle Yahweh des armées : Le jeûne du quatrième mois, le jeûne du cinquième, le jeûne du septième et le jeûne du dixième mois seront changés pour la maison de Juda en réjouissance et en allégresse, et en solennités joyeuses. Aimez seulement la vérité et la paix."
+      ],
+      "note": "La dernière phrase, « Aimez seulement la vérité et la paix », ne figure pas dans le texte de la Crampon 1923 relevé sur Wikisource ; elle est traduite du latin liturgique (veritatem tantum et pacem diligite) par Ad Fontes."
+     },
+     {
+      "titre": "Cinquième leçon",
+      "reference": "Daniel 3, 47-51",
+      "latin": [
+       "In diébus illis: Angelus Dómini descéndit cum Azaría et sóciis eius in fornácem: et excússit flammam ignis de fornáce, et fecit médium fornácis quasi ventum roris flantem. Flamma autem effundebátur super fornácem cúbitis quadragínta novem: et erúpit, et incéndit, quos répperit iuxta fornácem de Chaldǽis, minístros regis, qui eam incendébant. Et non tétigit eos omníno ignis, neque contristávit, nec quidquam moléstiæ íntulit. Tunc hi tres quasi ex uno ore laudábant, et glorificábant, et benedicébant Deum in fornáce, dicéntes:"
+      ],
+      "francais": [
+       "La flamme s’élevait quarante-neuf coudées au-dessus de la fournaise ; et, s’étant élancée, elle brûla les Chaldéens qu’elle rencontra près de la fournaise. Mais l’ange du Seigneur était descendu dans la fournaise avec Azarias et ses compagnons, et il écartait de la fournaise la flamme de feu. Et il rendit le milieu de la fournaise tel que si un vent de rosée y avait soufflé ; et le feu ne les toucha même pas, il ne les blessa point et ne leur causa point le moindre mal. Alors ces trois hommes, comme d’une seule bouche, louaient, glorifiaient et bénissaient Dieu dans la fournaise, en disant :"
+      ],
+      "note": "Cette leçon est suivie, à la messe, du cantique des trois enfants (Daniel 3, 52-59)."
+     }
+    ],
+    "epitre": {
+     "titre": "Épître",
+     "reference": "Hébreux 9, 2-12",
+     "incipit": "Mes frères :",
+     "latin": [
+      "Fratres: Tabernáculum factum est primum, in quo erant candelábra, et mensa, et proposítio panum, quæ dícitur Sancta. Post velaméntum autem secúndum, tabernáculum, quod dícitur Sancta sanctórum: áureum habens thuríbulum, et arcam testaménti circumtéctam ex omni parte auro, in qua urna áurea habens manna, et virga Aaron, quæ frondúerat, et tábulæ testaménti, supérque eam erant Chérubim glóriæ obumbrántia propitiatórium: de quibus non est modo dicéndum per síngula. His vero ita compósitis; in prióri quidem tabernáculo semper introíbant sacerdótes, sacrificiórum offícia consummántes: in secúndo autem semel in anno solus póntifex, non sine sánguine, quem offert pro sua et pópuli ignorántia: hoc significánte Spíritu Sancto, nondum propalátam esse sanctórum viam, adhuc prióre tabernáculo habénte statum. Quæ parábola est témporis instántis: iuxta quam múnera et hóstiæ offerúntur, quæ non possunt iuxta consciéntiam perféctum fácere serviéntem, solúmmodo in cibis, et in pótibus, et váriis baptismátibus, et iustítiis carnis usque ad tempus correctiónis impósitis. Christus autem assístens póntifex futurórum bonórum, per ámplius et perféctius tabernáculum non manufáctum, id est, non huius creatiónis; neque per sánguinem hircórum aut vitulórum, sed per próprium sánguinem introívit semel in Sancta, ætérna redemptióne invénta."
+     ],
+     "francais": [
+      "En effet, on a construit un tabernacle, avec une partie antérieure, appelée le lieu saint, où étaient le chandelier, la table et les pains de proposition. Derrière le second voile, se trouvait la partie du tabernacle appelée le Saint des Saints, ayant un autel d’or pour les parfums et l’arche de l’alliance toute recouverte d’or. Dans l’arche se trouvait une urne d’or renfermant la manne, la verge d’Aaron qui avait fleuri, et les tables de l’alliance. Au dessus étaient des chérubins de la gloire, couvrant de leur ombre le propitiatoire. Mais ce n’est pas ici le lieu de parler sur ce sujet en détail.",
+      "Or, ces choses étant ainsi disposées, les prêtres entrent en tout temps dans la partie antérieure du tabernacle, lorsqu’ils font le service du culte ; le grand prêtre seul, une seule fois l’année, entre dans la seconde partie, mais avec du sang qu’il offre pour lui-même et pour les péchés du peuple. L’Esprit-Saint montre par là que le chemin du Saint des Saints n’a pas encore été ouvert, tant que subsiste le premier tabernacle. C’est une figure qui a rapport au temps présent ; elle signifie que les oblations et les sacrifices offerts ne peuvent amener à la perfection, au point de vue de la conscience, celui qui rend ce culte. Car avec les prescriptions relatives aux aliments, aux boissons et aux diverses ablutions, ce ne sont que des ordonnances charnelles, imposées seulement jusqu’à une époque de réformation.",
+      "Mais le Christ ayant paru comme grand prêtre des biens à venir, c’est en passant par un tabernacle plus excellent et plus parfait, qui n’est pas construit de main d’homme, c’est-à-dire, qui n’appartient pas à cette création-ci, et ce n’est pas avec le sang des boucs et des taureaux, mais avec son propre sang, qu’il est entré une fois pour toutes dans le saint des Saints, après avoir acquis une rédemption éternelle."
+     ]
+    },
+    "evangile": {
+     "reference": "Luc 13, 6-17",
+     "incipit": "En ce temps-là, Jésus disait aux foules cette parabole :",
+     "latin": [
+      "In illo témpore: Dicébat Iesus turbis hanc similitúdinem: Arbórem fici habébat quidam plantátam in vínea sua, et venit quærens fructum in illa, et non invénit. Dixit autem ad cultórem víneæ: Ecce, anni tres sunt, ex quo vénio quærens fructum in ficúlnea hac, et non invénio: succíde ergo illam: ut quid étiam terram óccupat? At ille respóndens, dicit illi: Dómine, dimítte illam et hoc anno, usque dum fódiam circa illam et mittam stércora: et si quidem fécerit fructum: sin autem, in futúrum succídes eam. Erat autem docens in synagóga eórum sábbatis. Et ecce múlier, quæ habébat spíritum infirmitátis annis decem et octo: et erat inclináta, nec omníno póterat sursum respícere. Quam cum vidéret Iesus, vocávit eam ad se, et ait illi: Múlier, dimíssa es ab infirmitáte tua. Et impósuit illi manus, et conféstim erécta est, et glorificábat Deum. Respóndens autem archisynagógus, indígnans quia sábbato curásset Iesus, dicébat turbæ: Sex dies sunt, in quibus opórtet operári: in his ergo veníte, et curámini, et non in die sábbati. Respóndens autem ad illum Dóminus, dixit: Hypócritæ, unusquísque vestrum sábbato non solvit bovem suum aut ásinum a præsépio, et ducit adaquáre? Hanc autem fíliam Abrahæ, quam alligávit sátanas, ecce decem et octo annis, non opórtuit solvi a vínculo isto die sábbati? Et cum hæc díceret, erubescébant omnes adversárii eius: et omnis pópulus gaudébat in univérsis, quæ glorióse fiébant ab eo."
+     ],
+     "francais": [
+      "« Un homme avait un figuier planté dans sa vigne ; il vint pour y chercher des fruits, et n’en trouvant point, il dit au vigneron : Voilà trois ans que je viens chercher du fruit à ce figuier, et je n’en trouve point ; coupe-le donc : pourquoi rend-il la terre improductive ? Le vigneron lui répondit : Seigneur, laissez-le encore cette année, jusqu’à ce que j’aie creusé et mis du fumier tout autour. Peut-être portera-t-il du fruit ensuite ; sinon, vous le couperez. »",
+      "Jésus enseignait dans une synagogue un jour de sabbat. Or, il y avait là une femme possédée depuis dix-huit ans d’un esprit qui la rendait infirme : elle était courbée, et ne pouvait absolument pas se redresser. L’ayant vue, Jésus l’appela et lui dit : « Femme, tu es délivrée de ton infirmité. » Et il lui imposa les mains ; aussitôt elle se redressa, et elle glorifiait Dieu.",
+      "Mais le chef de synagogue, indigné de ce que Jésus avait fait cette guérison un jour de sabbat, prit la parole et dit au peuple : « Il y a six jours pour travailler, venez donc vous faire guérir ces jours-là et non pas le jour du sabbat. — Hypocrite, lui répondit le Seigneur, est-ce que chacun de vous, le jour du sabbat, ne détache pas de la crèche son bœuf ou son âne, pour le mener boire ? Et cette fille d’Abraham, que Satan tenait liée depuis dix-huit ans, il ne fallait pas la délivrer de cette chaîne le jour du sabbat ! » Pendant qu’il parlait ainsi, tous ses adversaires étaient couverts de confusion, et tout le peuple était ravi de toutes les choses merveilleuses qu’il accomplissait."
+     ]
+    }
+   },
+   "verset": {
+    "texte": "« Cette fille d’Abraham, que Satan tenait liée depuis dix-huit ans, il ne fallait pas la délivrer de cette chaîne le jour du sabbat ! »",
+    "ref": "Luc 13, 16"
+   },
+   "commentaire": {
+    "mode": "direct",
+    "portee": "Épître, Hébreux 9, 2-12, et Évangile, Luc 13, 6-17 (après les cinq leçons, dont Lévitique 23, 26-32)",
+    "verif": "Textes relus : saint Thomas, Super Epistolam ad Hebraeos, cap. 7, lect. 4 et cap. 9, lect. 2-3 ; Super Matthaeum, cap. 12, lect. 1 et cap. 21, lect. 1 ; Somme théologique, II-II, q. 147, a. 5 (Corpus Thomisticum) ; Catena aurea in Lucam, cap. 13 ; Catéchisme de l’Église catholique, n. 1545 ; propre du samedi des Quatre-Temps (Divinum Officium).",
+    "sections": [
+     {
+      "titre": "L’Épître : le voile et le sang",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Une fois l’an, le grand prêtre entrait seul dans le Saint des Saints, avec le sang des victimes. Dans le voile qui fermait ce sanctuaire, saint Thomas lit que **les choses du ciel leur étaient voilées**. Ces rites ne purifiaient pas la conscience, car **ce qui est purement corporel n’agit pas sur l’âme**. Le Christ entre avec *son propre sang*, et une seule fois : une fois entré, il y demeure (Super Hebr., ch. 9, leçons 2-3)."
+      ],
+      "citation": {
+       "texte": "« Il est entré une seule fois : depuis qu’il est entré dans les choses célestes, il y est toujours. »",
+       "ref": "Super Epistolam ad Hebraeos, cap. 9, lect. 3",
+       "url": "https://www.corpusthomisticum.org/che07.html#87959"
+      }
+     },
+     {
+      "titre": "L’Évangile : des feuilles sans fruit",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Commentant le figuier desséché, saint Thomas renvoie lui-même à notre parabole et en donne la clé : l’arbre **avait des feuilles, mais pas de fruit** ; ainsi certains ont une apparence d’honnêteté, et au-dedans sont mauvais (Super Matthaeum, ch. 21, leçon 1). À propos d’une autre guérison faite un jour de sabbat, il explique que le travail servile défendu ce jour-là, c’est d’abord le péché : **il est donc permis, le jour du sabbat, de faire le bien** (ch. 12, leçon 1)."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : la voie ouverte",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Les deux textes disent la même impuissance : les feuilles sans fruit sont pour Thomas **les observances légales**, comme les sacrifices qui ne purifiaient pas la conscience. Et le même remède : sous l’ancienne alliance, la voie des saints, c’est-à-dire le Christ, n’était pas encore venue ; **c’est lui la porte du Saint des Saints**. Saint Grégoire, cité dans la Catena aurea, voit dans le figuier stérile et la femme courbée la même nature humaine, qui a perdu sa droiture."
+      ]
+     },
+     {
+      "titre": "À la lumière du jour : le jeûne des Quatre-Temps",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Le jeûne, dit saint Thomas, sert **à effacer la faute et à élever l’esprit vers les choses d’en haut** ; et comme on confère les ordres sacrés à chacun des quatre temps de l’année, ceux qui ordonnent, ceux qui sont ordonnés et tout le peuple doivent s’y préparer en jeûnant (II-II, q. 147, a. 5). Ces prêtres ne remplacent pas l’unique pontife : **« seul le Christ est le vrai prêtre, les autres sont ses ministres »** (Super Hebr., ch. 7, leçon 4), mot que reprend le Catéchisme (n. 1545)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Le Christ n’est pas entré avec un sang étranger, mais avec le sien ; et là où il est entré, il demeure.",
+    "Dieu ne cherche pas des feuilles mais du fruit : une apparence d’honnêteté ne lui suffit pas.",
+    "Le jeûne efface la faute et redresse l’esprit vers le haut ; aujourd’hui, toute l’Église le fait pour ses prêtres."
+   ],
+   "resolution": "Offrir aujourd’hui une privation précise pour les prêtres ordonnés en ce temps, et faire un acte bon réel là où je me contente d’une apparence.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super Epistolam ad Hebraeos, cap. 7, lect. 4 et cap. 9, lect. 2-3",
+     "detail": "Texte latin, Corpus Thomisticum (la page couvre les chapitres 7 à 10) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/che07.html#87953"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 21, lect. 1 (le figuier sans fruit)",
+     "detail": "Texte latin, Corpus Thomisticum ; Thomas y cite Luc 13, 7 ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cml21.html#87386"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 12, lect. 1 (guérison un jour de sabbat)",
+     "detail": "Texte latin, Corpus Thomisticum (la page couvre Matthieu 6, 19 à 12) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cml0619.html#87361"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 147, a. 5",
+     "detail": "Les temps du jeûne ecclésiastique ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3146.html#44857"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Catena aurea in Lucam, cap. 13, lect. 3",
+     "detail": "Saint Grégoire le Grand sur le figuier et la femme courbée ; texte latin, Corpus Thomisticum (la page couvre les chapitres 9 à 13).",
+     "url": "https://www.corpusthomisticum.org/clc09.html#85881"
+    },
+    {
+     "label": "Catéchisme de l’Église catholique, n. 1545",
+     "detail": "Texte français, site du Saint-Siège ; cite saint Thomas sur Hébreux 7.",
+     "url": "https://www.vatican.va/archive/FRA0013/__P4N.HTM"
+    },
+    {
+     "label": "Missel romain de 1962, samedi des Quatre-Temps de septembre",
+     "detail": "Messe à six lectures (Lévitique, Michée, Zacharie, Daniel, Hébreux) ; propre latin d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/093-6.txt"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Le samedi des Quatre-Temps est, depuis les premiers siècles, le jour où l’évêque confère les ordres sacrés. De là vient la forme singulière de sa messe : cinq leçons, chacune précédée de sa collecte et suivie de son graduel, puis l’épître — six lectures en tout, qui occupaient autrefois la nuit entière pendant que les ordinands veillaient. Les cinq premières viennent de l’ancienne alliance : le jour des Expiations, la fête des Tentes, le pardon promis par Michée, les jeûnes changés en joie chez Zacharie, les trois enfants dans la fournaise. L’épître aux Hébreux vient après elles dire ce qui les accomplit : un sacerdoce entré une fois pour toutes, par son propre sang."
+   }
+  },
+  "meditation": {
+   "titre": "Du triple degré de la charité",
+   "texte": [
+    "**I**",
+    "La charité, dit saint Augustin, quand elle est née, elle se nourrit; ce qui constitue l’état des commençants. En se nourrissant, elle se fortifie; ce qui constitue l’état des progressants; quand elle est fortifiée, elle se parfait; et c’est l’état des parfaits. Il y a donc un triple degré de la charité.",
+    "L’augmentation spirituelle de la charité peut se comparer à ce qui se produit dans le développement de croissance du corps humain. Bien que le corps humain comporte plusieurs parties, il se prête cependant à des distinctions précises d’après les actions ou les efforts ou les étapes qui marquent son développement. Et c’est aussi de cette manière que l’on distingue divers degrés de charité d’après les diverses étapes qui marquent son augmentation progressive dans l’homme.",
+    "**II**",
+    "En effet, le souci premier et principal qui s’impose à l’homme, c’est de quitter le péché et de résister à ses concupiscences, qui poussent en sens contraire à la charité; et c’est là le travail des commençants, qui doivent nourrir et soutenir en eux la charité, de peur qu’elle ne périsse.",
+    "Un second souci succède, celui de s’efforcer au progrès dans le bien; et c’est le travail des progressants, qui doivent tendre principalement à ce que la charité s’affermisse en eux et soit augmentée.",
+    "Le troisième souci, c’est que l’homme tende principalement à l’union et à la jouissance de Dieu; et c’est là le travail des parfaits qui brûlent du *désir de se dissoudre pour être avec le Christ*. (Phil., I, 23.)",
+    "C’est ce que nous constatons dans le mouvement local corporel ou autre; il y a d’abord éloignement d’un terme, d’un point de départ; puis on s’approche d’un autre terme, le point d’arrivée; enfin, c’est le repos au terme où l’on tendait.",
+    "Pour ceux en qui la charité commence, bien qu’ils fassent du progrès, le soin qui leur incombe principalement est cependant de résister aux péchés, qui les tiennent en haleine par leurs vexations. Mais ensuite, quand les assauts sont moins rudes et moins sensibles, alors ils peuvent avec plus de sécurité s’exercer au progrès, d’une part, en y exerçant leur activité, et, d’autre part, en ayant en main le glaive de la défensive, comme il est raconté, au livre d’Esdras, des constructeurs du Temple de Jérusalem.",
+    "Les parfaits eux-mêmes progressent en charité. Mais ce n’est plus là leur souci principal; leur soin se porte surtout sur l’union à Dieu. Et bien que ce soit là aussi ce à quoi tendent les commençants et les progressants, ceux-là cependant éprouvent le besoin de porter ailleurs leur sollicitude, les commençants sur la fuite du péché, les progressants sur le progrès dans les vertus.",
+    "*(2-2, q. 24, a. 9.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "Un souci principal, non un grade",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Saint Thomas ne classe pas les âmes par mérite : il distingue les degrés de la charité selon **l’application principale** où sa croissance conduit l’homme, comme on distingue les âges du corps (II-II, q. 24, a. 9). Le commençant doit d’abord fuir le péché et résister aux convoitises, pour que la charité **soit nourrie et ne se corrompe pas** ; le progressant, avancer dans le bien ; le parfait, s’attacher à Dieu et jouir de lui. Saint Augustin, que Thomas cite, le dit en trois mots : née, la charité se nourrit ; nourrie, elle se fortifie ; fortifiée, elle se parfait."
+      ]
+     },
+     {
+      "titre": "La truelle et l’épée",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Le combat ne cesse pas d’un coup. Ceux qui commencent, note Thomas, progressent déjà, mais leur premier soin est de résister au péché qui les inquiète ; puis, sentant moins l’assaut, ils s’appliquent plus sûrement au progrès, **d’une main faisant l’ouvrage, de l’autre tenant l’épée**, comme les bâtisseurs de Jérusalem (ad 2 ; *Néhémie* 4, 17). Et les parfaits progressent encore, mais leur soin principal est ailleurs : **adhérer à Dieu** (ad 3). Nul n’est dispensé de veiller ; nul n’est condamné à ne faire que se défendre."
+      ],
+      "citation": {
+       "texte": "« Les parfaits aussi progressent dans la charité ; mais ce n’est pas là leur soin principal : leur application porte surtout sur ceci, adhérer à Dieu. »",
+       "ref": "Somme théologique, II-II, q. 24, a. 9, ad 3",
+       "url": "https://www.corpusthomisticum.org/sth3023.html#39852"
+      }
+     },
+     {
+      "titre": "De commencement en commencement",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Comment passe-t-on d’un degré à l’autre ? On ne s’approche pas de Dieu **par les pas du corps, mais par les affections de l’esprit**, et c’est la charité qui fait cette proximité (a. 4). Chaque acte de charité n’accroît pas aussitôt la charité ; mais chacun **dispose à sa croissance**, en rendant plus prompt à aimer encore, jusqu’à ce qu’on s’élance dans un acte plus fervent (a. 6). Le Catéchisme cite saint Grégoire de Nysse : celui qui monte va « de commencement en commencement » (n. 2015)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Les degrés de la charité ne mesurent pas un mérite : ils disent ce qui doit m’occuper d’abord.",
+    "D’une main l’ouvrage, de l’autre l’épée : on progresse sans cesser de veiller.",
+    "Un petit acte d’amour ne semble rien changer, mais il rend prompt au suivant."
+   ],
+   "resolution": "Aujourd’hui, reconnaître le soin principal de mon état présent et poser un acte de charité précis, même petit, dans ce sens.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 178-180",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 24, a. 4, a. 6 et a. 9",
+     "detail": "Référence imprimée par La Moelle : 2-2, q. 24, a. 9. Texte latin de l’édition léonine, Corpus Thomisticum (la page couvre II-II, q. 23-24) ; saint Augustin, sur la première épître de Jean, cité en sed contra ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39812"
+    },
+    {
+     "label": "Vulgate clémentine, Néhémie 4",
+     "detail": "Texte latin (BibleGateway), verset 17.",
+     "url": "https://www.biblegateway.com/passage/?search=Nehemiah+4&version=VULGATE"
+    },
+    {
+     "label": "Catéchisme de l’Église catholique, n. 2015",
+     "detail": "Texte français, site du Saint-Siège ; cite saint Grégoire de Nysse, Homélies sur le Cantique, 8.",
+     "url": "https://www.vatican.va/archive/FRA0013/__P6V.HTM"
+    }
+   ]
+  }
+ },
+ "2026-09-27": {
+  "textes": {
+   "liturgie": {
+    "nom": "XVIIIe dimanche après la Pentecôte",
+    "qualite": "Dimanche après les Quatre-Temps de septembre",
+    "classe": "IIe classe",
+    "couleur": "vert",
+    "commemoraisons": []
+   },
+   "propre": {
+    "epitre": {
+     "titre": "Épître",
+     "reference": "I Corinthiens 1, 4-8",
+     "incipit": "Mes frères :",
+     "latin": [
+      "Fratres: Grátias ago Deo meo semper pro vobis in grátia Dei, quæ data est vobis in Christo Iesu: quod in ómnibus dívites facti estis in illo, in omni verbo et in omni sciéntia: sicut testimónium Christi confirmátum est in vobis: ita ut nihil vobis desit in ulla grátia, exspectántibus revelatiónem Dómini nostri Iesu Christi, qui et confirmábit vos usque in finem sine crímine, in die advéntus Dómini nostri Iesu Christi."
+     ],
+     "francais": [
+      "Je rends à mon Dieu de continuelles actions de grâces à votre sujet, pour la grâce de Dieu qui vous a été faite en Jésus-Christ. Car par votre union avec lui, vous avez été comblés de toute sorte de richesses, en toute parole et en toute connaissance, le témoignage du Christ ayant été solidement établi parmi vous, de sorte que vous ne le cédez à personne en aucun don de grâce, attendant avec confiance la révélation de Notre-Seigneur Jésus-Christ. Il vous affermira aussi jusqu’à la fin, pour que vous soyez irréprochables, au jour de Notre-Seigneur Jésus-Christ."
+     ]
+    },
+    "evangile": {
+     "reference": "Matthieu 9, 1-8",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "In illo témpore: Ascéndens Iesus in navículam, transfretávit et venit in civitátem suam. Et ecce, offerébant ei paralýticum iacéntem in lecto. Et videns Iesus fidem illórum, dixit paralýtico: Confíde, fili, remittúntur tibi peccáta tua. Et ecce, quidam de scribis dixérunt intra se: Hic blasphémat. Et cum vidísset Iesus cogitatiónes eórum, dixit: Ut quid cogitátis mala in córdibus vestris? Quid est facílius dícere: Dimittúntur tibi peccáta tua; an dícere: Surge et ámbula? Ut autem sciátis, quia Fílius hóminis habet potestátem in terra dimitténdi peccáta, tunc ait paralýtico: Surge, tolle lectum tuum, et vade in domum tuam. Et surréxit et ábiit in domum suam. Vidéntes autem turbæ timuérunt, et glorificavérunt Deum, qui dedit potestátem talem homínibus."
+     ],
+     "francais": [
+      "Jésus étant donc monté dans la barque, repassa le lac et vint dans sa ville. Et voilà qu’on lui présenta un paralytique, étendu sur un lit. Jésus, voyant leur foi, dit au paralytique : « Mon fils, aie confiance, tes péchés te sont remis. » Aussitôt quelques Scribes dirent en eux-mêmes : « Cet homme blasphème. »",
+      "Jésus, connaissant leurs pensées, leur dit : « Pourquoi pensez-vous le mal dans vos cœurs ? Lequel est le plus aisé de dire : Tes péchés te sont remis ; ou de dire : Lève-toi et marche ? Or, afin que vous sachiez que le Fils de l’homme a sur la terre le pouvoir de remettre les péchés : Lève-toi, dit-il au paralytique, prends ton lit, et va dans ta maison. » Et il se leva, et s’en alla dans sa maison. La multitude voyant ce prodige fut saisie de crainte, et rendit gloire à Dieu, qui avait donné une telle puissance aux hommes."
+     ]
+    }
+   },
+   "verset": {
+    "texte": "« Mon fils, aie confiance, tes péchés te sont remis. »",
+    "ref": "Matthieu 9, 2"
+   },
+   "commentaire": {
+    "mode": "direct",
+    "portee": "Épître, I Corinthiens 1, 4-8, et Évangile, Matthieu 9, 1-8",
+    "verif": "Textes relus : saint Thomas, Super I Epistolam ad Corinthios, cap. 1, lect. 1 ; Super Matthaeum, cap. 9, lect. 1 ; Somme théologique, I-II, q. 109, a. 2 et q. 110, a. 1 ; II-II, q. 29, a. 3 (Corpus Thomisticum) ; Catéchisme de l’Église catholique, n. 1441 ; propre du XVIIIe dimanche après la Pentecôte (Divinum Officium).",
+    "sections": [
+     {
+      "titre": "L’Épître : rendre grâces pour les dons des autres",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Paul rend grâces « toujours ». Ce *toujours*, dit saint Thomas, vient de ce que **l’action de grâces procède de la charité**, qui faisait se réjouir l’Apôtre des biens des Corinthiens comme des siens. Le Christ les affermira *sans crime* : non pas sans aucun péché, mais **sans péché mortel** ; car Dieu est fidèle, et il ne nous appelle pas à la société de son Fils pour nous refuser le chemin (Super I Cor., ch. 1, leçon 1)."
+      ],
+      "citation": {
+       "texte": "« Ôte l’envie, et ce qu’un autre possède est à toi ; ceux que la convoitise et l’envie séparent, la charité les unit. »",
+       "ref": "Saint Augustin, cité par saint Thomas, Super I ad Corinthios, cap. 1, lect. 1",
+       "url": "https://www.corpusthomisticum.org/c1c.html#86234"
+      }
+     },
+     {
+      "titre": "L’Évangile : le médecin qui soigne la cause",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Pour saint Thomas, le paralytique est **le pécheur couché dans son péché**, que d’autres portent à Dieu par leurs avertissements. Il demandait la santé du corps ; le Seigneur donne d’abord celle de l’âme, parce que le péché était la cause du mal : **il fait comme le bon médecin, qui soigne la cause**. À tout pécheur il dit : *lève-toi*, par la contrition ; *prends ton lit*, par la satisfaction ; *va dans ta maison*, ta conscience ou la maison éternelle (Super Matthaeum, ch. 9, leçon 1)."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : la grâce et l’action de grâces",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Paul rend grâces ; la foule glorifie Dieu. Saint Thomas montre le lien : de l’amour par lequel Dieu nous agrée procède **le don gratuit**, et du don gratuit **naît l’action de grâces** (I-II, q. 110, a. 1). Ce pouvoir de pardonner « donné aux hommes », les apôtres le reçoivent, mais, précise-t-il, par mode de ministère, non d’autorité (Super Matthaeum, ch. 9). Le Catéchisme le redit : « Dieu seul pardonne les péchés » (n. 1441)."
+      ]
+     },
+     {
+      "titre": "À la lumière du dimanche : sans vous, nous ne pouvons vous plaire",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Sans vous, nous ne pouvons vous plaire », avoue la collecte. Saint Thomas le dit avec l’image de l’Évangile : **le malade peut faire quelque mouvement, mais il ne se meut pas comme un homme sain tant que le médecin ne l’a pas guéri** ; l’homme blessé a besoin de la grâce pour être guéri (I-II, q. 109, a. 2). Quant à la paix que demande l’introït, **sans la grâce, il n’y a pas de vraie paix, seulement une paix apparente** (II-II, q. 29, a. 3, ad 1)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Qui aime l’unité se réjouit des dons d’autrui comme des siens : ôter l’envie, c’est tout posséder.",
+    "Le Christ soigne d’abord la cause : il pardonne avant de guérir, et remet debout par la contrition et la satisfaction.",
+    "Le malade ne se guérit pas lui-même : sans la grâce, ni vraie santé ni vraie paix."
+   ],
+   "resolution": "Remercier Dieu aujourd’hui pour un don précis que je vois chez un autre, et fixer le jour de ma prochaine confession.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super I Epistolam ad Corinthios, cap. 1, lect. 1",
+     "detail": "Texte latin, Corpus Thomisticum ; exposition de l’action de grâces (versets 4 à 9) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/c1c.html#86234"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 9, lect. 1",
+     "detail": "Texte latin, Corpus Thomisticum (la page couvre Matthieu 6, 19 à 12) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cml0619.html#87349"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 109, a. 2 et q. 110, a. 1",
+     "detail": "La nécessité de la grâce ; la grâce, le don et l’action de grâces. Texte latin, Corpus Thomisticum (I-II, q. 109-114) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2109.html#38370"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 29, a. 3",
+     "detail": "La paix, effet de la charité ; texte latin, Corpus Thomisticum (II-II, q. 27-33) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3027.html#40207"
+    },
+    {
+     "label": "Catéchisme de l’Église catholique, n. 1441",
+     "detail": "Dieu seul pardonne le péché ; texte français, site du Saint-Siège.",
+     "url": "https://www.vatican.va/archive/FRA0013/__P47.HTM"
+    },
+    {
+     "label": "Missel romain de 1962, XVIIIe dimanche après la Pentecôte",
+     "detail": "Messe « Da pacem », qui suit les Quatre-Temps de septembre : introït et collecte d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/Pent18-0.txt"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Ce dimanche est celui qui suit les Quatre-Temps de septembre, et le Missel lui assigne toujours, à ce titre, la messe du dix-huitième dimanche après la Pentecôte — quel que soit le compte des dimanches écoulés depuis. Elle s’ouvre sur une demande de paix empruntée à l’Ecclésiastique : « Donnez la paix, Seigneur, à ceux qui vous attendent. » Après trois jours de jeûne, l’Église ne demande donc pas d’abord la force, mais la paix ; et la collecte avoue pourquoi : « sans vous, nous ne pouvons vous plaire ». L’Évangile du paralytique lui répond en montrant un homme qui ne peut rien, pas même s’approcher, et à qui tout est donné."
+   }
+  },
+  "meditation": {
+   "titre": "Des conditions requises pour acquérir et augmenter la charité",
+   "texte": [
+    "La charité est chose si utile, qu’il faut s’appliquer à l’acquérir et à l’augmenter. Deux conditions sont spécialement nécessaires pour l’acquérir, et deux pour l’augmenter quand elle est acquise.",
+    "**I**",
+    "**1° Pour acquérir la charité, il faut avoir du zèle pour écouter la parole de Dieu.** Quand nous entendons dire du bien de quelqu’un, nous nous enflammons d’amour pour lui. *Ta parole est ardente comme le feu, et ton serviteur l’aime.* (Ps., 118, 140.) Et les deux disciples d’Emmaüs, tout embrasés d’amour disaient (Luc, XXIV, 32) : *Notre cœur n’était-il pas tout ardent, pendant qu’il nous parlait sur la route et qu’il nous expliquait les Écritures?*",
+    "**2° Les bonnes pensées continuelles.** *Mon cœur s’est embrasé au dedans de moi*, dit le Psalmiste (38, 4). Si vous voulez acquérir le divin amour, méditez les bonnes choses. Ce serait d’une extrême dureté de cœur, qu’après avoir reçu les bienfaits divins, échappé à nombre de périls, et que nous souvenant que la béatitude nous est promise par Dieu, nous ne soyons pas enflammés de l’amour divin. Aussi saint Augustin dit : « Le cœur de l’homme est bien dur, qui, s’il ne veut pas aimer Dieu, du moins ne veuille pas répondre à son amour ». Et à parler en général, de même que les pensées mondaines détruisent la charité, de même les bonnes la font acquérir, la nourrissent et la conservent.",
+    "**II**",
+    "Il y a de même deux conditions pour augmenter la charité.",
+    "**1° La première est la séparation de ce qui est terrestre.** Le cœur ne peut se porter parfaitement sur des choses diverses et opposées. On ne peut aimer Dieu et le monde. Aussi, plus notre âme se dégage de l’amour des choses terrestres, plus elle s’affermit dans l’amour divin. Et saint Augustin dit : « Le poison pour la charité, c’est l’espoir d’acquérir ou de retenir les choses temporelles; son aliment, c’est la diminution de la cupidité; sa perfection, l’absence de toute cupidité ». Quiconque veut donc nourrir sa charité, doit s’efforcer énergiquement de diminuer la cupidité. Or, la cupidité, c’est l’amour d’acquérir ou de garder les choses temporelles. On commence à la diminuer par la crainte de Dieu, qui seul ne peut être craint sans amour. Et c’est pour ce résultat qu’il y a des ordres religieux, dans lesquels on travaille à s’arracher aux choses mondaines et corruptibles et à s’élever aux choses divines. C’est ce que dit le proverbe : *Le soleil brille après avoir été obscurci par les nuées.* Le soleil, c’est l’intelligence humaine; elle est dans les nuages, quand elle s’adonne au terrestre; mais elle brille, quand elle s’éloigne du terrestre et l’abandonne. Alors, en elle, le divin amour resplendit et s’accroît.",
+    "**2° La seconde, c’est une patience ferme dans les épreuves.** Quand nous supportons des épreuves lourdes, pour celui que nous aimons, notre amour pour lui ne périt point, au contraire, il s’accroît. Et les saints qui supportent pour Dieu les adversités, s’affermissent davantage dans son amour; tout comme l’ouvrier aime d’autant plus son ouvrage, qu’il s’y est donné plus de peine. Cela vient que les fidèles, plus ils supportent d’afflictions pour l’amour de Dieu, plus ils progressent dans leur amour.",
+    "*(Sur le Décalogue, c. IV.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "Un don, et une place à lui faire",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Avant de nommer les quatre conditions, saint Thomas pose une limite : **nul ne peut avoir la charité par lui-même, elle est uniquement un don de Dieu** ; *ce n’est pas nous qui avons aimé Dieu, c’est lui qui nous a aimés le premier*. Mais, ajoute-t-il, pour la recevoir, **une disposition est requise de notre part** (Sur les dix commandements, prologue). Les quatre conditions ne fabriquent donc pas l’amour : elles préparent la place où il est donné. Et elles vont dans un ordre : entendre, penser, se détacher, tenir."
+      ],
+      "citation": {
+       "texte": "« Bien que la charité soit un don divin, pour l’avoir une disposition est cependant requise de notre part. »",
+       "ref": "Collationes in decem praeceptis, prologue",
+       "url": "https://www.corpusthomisticum.org/cac.html#86715"
+      }
+     },
+     {
+      "titre": "Entendre et penser",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Les deux premières conditions touchent l’intelligence, et ce n’est pas un hasard. Dans la Somme, saint Thomas en donne la raison : le bien n’est aimé que s’il est connu, aussi **la connaissance est-elle cause de l’amour** (I-II, q. 27, a. 2). Qui entend dire du bien de quelqu’un s’enflamme pour lui ; qui repasse les bienfaits reçus, les périls évités, la béatitude promise, **ne peut rester froid**. Et à l’inverse, les mauvaises pensées détruisent la charité. Le Catéchisme reprend le mot de saint Jérôme : « ignorer les Écritures, c’est ignorer le Christ » (n. 133)."
+      ]
+     },
+     {
+      "titre": "Se détacher et tenir",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Les deux dernières font croître la charité reçue. D’abord, **le cœur ne peut se porter parfaitement vers des choses diverses** : plus il se dégage de l’amour des biens terrestres, plus il s’affermit en Dieu. Ensuite, la patience : quand on supporte de lourdes peines pour celui qu’on aime, **l’amour ne périt pas, il grandit**, comme l’artisan aime davantage l’ouvrage qui lui a le plus coûté. Thomas le lit dans l’arche de Noé : les eaux du déluge, en montant, **l’élevèrent plus haut** (Sur les dix commandements, prologue)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "La charité est un pur don ; ma part est de lui faire de la place.",
+    "On n’aime pas ce qu’on ne connaît pas : écouter la parole de Dieu est la cause de l’amour.",
+    "L’épreuve portée pour Dieu élève l’amour comme les eaux élevaient l’arche."
+   ],
+   "resolution": "Relire lentement aujourd’hui l’évangile du dimanche, puis y repenser une fois dans la journée, à un moment fixé d’avance.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 180-182",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Collationes in decem praeceptis, prologue",
+     "detail": "Référence imprimée par La Moelle : Sur le Décalogue, ch. IV. Reportation de Pierre d’Andria, œuvre authentique ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cac.html#86715"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 27, a. 2",
+     "detail": "La connaissance, cause de l’amour ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2026.html#34676"
+    },
+    {
+     "label": "Catéchisme de l’Église catholique, n. 133",
+     "detail": "Texte français, site du Saint-Siège ; cite saint Jérôme.",
+     "url": "https://www.vatican.va/archive/FRA0013/__PT.HTM"
+    }
+   ]
+  }
+ },
+ "2026-09-28": {
+  "textes": {
+   "liturgie": {
+    "nom": "Saint Wenceslas",
+    "qualite": "Duc et martyr",
+    "classe": "IIIe classe",
+    "couleur": "rouge",
+    "commemoraisons": []
+   },
+   "propre": {
+    "epitre": {
+     "titre": "Épître",
+     "reference": "Sagesse 10, 10-14",
+     "latin": [
+      "Iustum dedúxit Dóminus per vias rectas, et ostendit illi regnum Dei, et dedit illi sciéntiam sanctórum: honestávit illum in labóribus, et complévit labóres illíus. In fraude circumveniéntium illum áffuit illi, et honéstum fecit illum. Custodívit illum ab inimícis, et a seductóribus tutávit illum, et certámen forte dedit illi, ut vínceret et sciret, quóniam ómnium poténtior est sapiéntia. Hæc vénditum iustum non derelíquit, sed a peccatóribus liberávit eum: descendítque cum illo in fóveam, et in vínculis non derelíquit illum, donec afférret illi sceptrum regni, et poténtiam advérsus eos, qui eum deprimébant: et mendáces osténdit, qui maculavérunt illum, et dedit illi claritátem ætérnam, Dóminus, Deus noster."
+     ],
+     "francais": [
+      "C’est elle qui conduisit par des voies droites le juste fuyant la colère de son frère, qui lui montra le royaume de Dieu, et lui donna la science des choses saintes ; elle l’enrichit dans ses pénibles labeurs, et fit fructifier ses travaux. Elle l’assista contre d’avares oppresseurs, et lui fit acquérir des richesses. Elle le garda contre ses ennemis, et le protégea contre ceux qui lui dressaient des embûches ; elle lui donna la victoire dans un rude combat, pour lui apprendre que la piété est plus puissante que tout.",
+      "Elle n’abandonna pas le juste vendu, mais le préserva du péché ; elle descendit avec lui dans la fosse, et ne le quitta pas dans les chaînes, jusqu’à ce qu’elle lui eut procuré le sceptre royal, et la puissance sur ses oppresseurs ; elle convainquit de mensonge ceux qui l’avaient accusé, et lui donna une gloire éternelle."
+     ],
+     "note": "Le latin liturgique lit « le Seigneur conduisit le juste » là où la Crampon, suivant le grec, garde pour sujet la Sagesse elle-même."
+    },
+    "evangile": {
+     "reference": "Matthieu 10, 34-42",
+     "incipit": "En ce temps-là, Jésus dit à ses disciples :",
+     "latin": [
+      "In illo témpore: Dixit Iesus discípulis suis: Nolíte arbitrári, quia pacem vénerim míttere in terram: non veni pacem míttere, sed gládium. Veni enim separáre hóminem advérsus patrem suum, et fíliam advérsus matrem suam, et nurum advérsus socrum suam: et inimíci hóminis doméstici eius. Qui amat patrem aut matrem plus quam me, non est me dignus: et qui amat fílium aut fíliam super me, non est me dignus. Et qui non áccipit crucem suam, et séquitur me, non est me dignus. Qui invénit ánimam suam, perdet illam: et qui perdíderit ánimam suam propter me, invéniet eam. Qui récipit vos, me récipit: et qui me récipit, récipit eum, qui me misit. Qui récipit prophétam in nómine prophétæ, mercédem prophétæ accípiet: et qui récipit iustum in nómine iusti, mercédem iusti accípiet. Et quicúmque potum déderit uni ex mínimis istis cálicem aquæ frígidæ tantum in nómine discípuli: amen, dico vobis, non perdet mercédem suam."
+     ],
+     "francais": [
+      "Ne pensez pas que je sois venu apporter la paix sur la terre ; je suis venu apporter, non la paix, mais le glaive. Je suis venu mettre en lutte le fils avec son père, la fille avec sa mère, et la belle-fille avec sa belle-mère. On aura pour ennemis les gens de sa propre maison.",
+      "Celui qui aime son père ou sa mère plus que moi, n’est pas digne de moi ; et celui qui aime son fils ou sa fille plus que moi, n’est pas digne de moi. Celui qui ne prend pas sa croix et ne me suit pas, n’est pas digne de moi. Celui qui sauvera sa vie, la perdra ; et celui qui perdra sa vie à cause de moi, la sauvera.",
+      "Celui qui vous reçoit, me reçoit, et celui qui me reçoit, reçoit celui qui m’a envoyé. Celui qui reçoit un prophète en qualité de prophète, recevra une récompense de prophète ; et celui qui reçoit un juste en qualité de juste, recevra une récompense de juste. Et quiconque donnera seulement un verre d’eau fraîche à l’un de ces petits parce qu’il est de mes disciples, je vous le dis en vérité, il ne perdra point sa récompense."
+     ]
+    }
+   },
+   "verset": {
+    "texte": "« Celui qui ne prend pas sa croix et ne me suit pas, n’est pas digne de moi. »",
+    "ref": "Matthieu 10, 38"
+   },
+   "commentaire": {
+    "mode": "synthese",
+    "portee": "Épître, Sagesse 10, 10-14, et Évangile, Matthieu 10, 34-42",
+    "verif": "Textes relus : saint Thomas, Super Matthaeum, cap. 10, lect. 2-3 ; Somme théologique, II-II, q. 9, a. 3 ; q. 29, a. 2 ; q. 124, a. 2-3 (Corpus Thomisticum) ; office et collecte de saint Wenceslas (Divinum Officium).",
+    "sections": [
+     {
+      "titre": "L’Épître : la science des saints et le rude combat",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Sagesse donna au juste *la science des saints*. Saint Thomas y voit le don de science, qu’ont seuls **ceux qui, par la grâce, jugent sûrement de ce qu’il faut croire et faire, sans dévier en rien de la droiture** (II-II, q. 9, a. 3, ad 3). Elle lui donna aussi la victoire dans un rude combat : Thomas fait du martyre **un acte de la force**, où l’on ne lâche ni la foi ni la justice devant la mort (q. 124, a. 2)."
+      ]
+     },
+     {
+      "titre": "L’Évangile : deux paix et un glaive",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Le Christ refuse-t-il la paix ? Il y a deux paix, explique saint Thomas : la mauvaise, celle des affections charnelles, le Christ n’est pas venu l’établir ; et son glaive, qui divise, est la parole de Dieu. Faut-il donc désobéir aux siens ? **Tu dois obéir là où ton père ne te détourne pas de l’amour de Dieu ; là où il t’en détourne, tu n’y es pas tenu**, car **rien ne peut remplir tout le cœur, sinon Dieu** (Super Matthaeum, ch. 10, leçons 2-3)."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : la paix vraie",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Pour dire la fausse paix, Thomas cite ce même livre de la Sagesse, où des hommes appellent paix de si grands maux. La paix est le repos du désir ; or tout mal le laisse inquiet et troublé, si bien que **la vraie paix n’existe que dans les bons** (II-II, q. 29, a. 2, ad 3). Le juste de l’épître, vendu et enchaîné, eut celle-là, non celle du monde."
+      ]
+     },
+     {
+      "titre": "À la lumière de la fête : saint Wenceslas",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Le martyre est, en son genre, le plus parfait des actes humains, dit saint Thomas, car **on montre combien on aime une chose à ce qu’on méprise pour elle** ; or, parmi les biens de cette vie, l’homme aime par-dessus tout la vie même. Le martyre est donc **le plus grand signe de la charité** (II-II, q. 124, a. 3). Tué en prière par son frère, rapporte l’office, Wenceslas est passé, dit la collecte, « par la palme du martyre, d’une principauté terrestre à la gloire du ciel »."
+      ],
+      "citation": {
+       "texte": "« On montre d’autant plus qu’on aime une chose qu’on méprise pour elle une chose plus aimée. »",
+       "ref": "Somme théologique, II-II, q. 124, a. 3",
+       "url": "https://www.corpusthomisticum.org/sth3123.html#44159"
+      }
+     }
+    ]
+   },
+   "essentiel": [
+    "La science des saints n’est pas l’érudition : c’est un jugement droit, donné par la grâce, sur ce qu’il faut croire et faire.",
+    "On obéit aux siens tant qu’ils ne détournent pas de l’amour de Dieu ; rien d’autre que Dieu ne remplit tout le cœur.",
+    "La vraie paix n’est que dans le bien ; celle qu’on achète en cédant sur Dieu n’en est que l’apparence."
+   ],
+   "resolution": "Aujourd’hui, rendre un service caché à un proche, et tenir sans aigreur, s’il le faut, sur un point où céder me détournerait de Dieu.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 10, lect. 2-3",
+     "detail": "Texte latin, Corpus Thomisticum (la page couvre Matthieu 6, 19 à 12) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cml0619.html#87356"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 9, a. 3",
+     "detail": "Le don de science ; ad 3 cite Sagesse 10, 10. Texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3001.html#39160"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 29, a. 2",
+     "detail": "La paix vraie et la paix apparente ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3027.html#40197"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 124, a. 2-3",
+     "detail": "Le martyre, acte de la force et plus grand signe de la charité ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3123.html#44151"
+    },
+    {
+     "label": "Bréviaire et Missel romains, saint Wenceslas (28 septembre)",
+     "detail": "Collecte et leçons historiques de l’office, d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Latin/Sancti/09-28.txt"
+    }
+   ],
+   "fete": {
+    "titre": "Le saint du jour",
+    "texte": "La leçon des matines le présente ainsi : Wenceslas, duc de Bohême, naquit d’un père chrétien, Wratislas, et d’une mère païenne, Drahomira. Élevé pieusement par son aïeule sainte Ludmila, il fut remarquable en tout genre de vertu et garda toute sa vie, au prix du plus grand soin, une virginité sans tache. Sa mère, parvenue au gouvernement du royaume par le meurtre de Ludmila, vécut avec son fils cadet Boleslas de manière impie et souleva contre elle l’indignation des grands ; lassés de cette tyrannie, ceux-ci secouèrent le joug et saluèrent Wenceslas roi dans la ville de Prague. Il devait périr de la main de ce frère — ce qui donne à l’Évangile du jour son tranchant littéral."
+   }
+  },
+  "meditation": {
+   "titre": "De l’amour de Dieu souverainement délectable",
+   "texte": [
+    "*Je me suis souvenu de Dieu et j’y ai trouvé ma joie.* (Ps., 76, 4.)",
+    "De même que Dieu dépasse tout ce qui est désirable, de même, il donne plus de joie que tout ce qui est délectable, et cela pour trois raisons : parce qu’il est plus universel, plus intime, plus durable.",
+    "**I**",
+    "Tout autre que Dieu, donne un plaisir particulier : ainsi, les choses qui ont un goût délicieux, ne délectent que le palais, et non l’oreille; la musique charme l’oreille et non les yeux et ainsi de suite. Mais Dieu donne une délectation générale, parce que lui-même est le bien universel et qu’il est la cause de tous les biens particuliers. Saint Anselme dit : « Si chacun des biens est délectable pour qui le goûte dans toutes ses ressources, combien délectable sera le bien qui contient en soi toute la délectation de tous les biens, et non point selon l’expérience que nous faisons des biens créés, mais bien autrement, et autant que le Créateur diffère du créé ».",
+    "**II**",
+    "Les autres biens donnent une délectation de surface et comme extérieure. Mais Dieu satisfait intimement et en profondeur. Dieu seul pénètre substantiellement la substance même de l’âme, et c’est pourquoi il délecte plus délicieusement. Saint Augustin dit : « Lorsque j’adhère à toi de toute mon âme, il n’y a plus pour moi ni labeur ni douleur; ma vie est en sûreté, elle est toute pleine de toi ». Et encore : « Ô Seigneur mon Dieu, qu’est-ce que j’aime quand je t’aime? Ce n’est point la beauté corporelle, ni la beauté du temps, ni l’éclat de cette lumière, amie de mes yeux, ni les caresses d’un corps de chair. Ce n’est pas cela que j’aime quand j’aime Dieu, et cependant j’aime une lumière, une voix, un parfum, un aliment, une étreinte ». Je n’aime pas mon Dieu comme une lumière, une voix, un parfum, un aliment, une étreinte extérieure; mais, c’est tout mon être profond, là où resplendit mon âme qu’un lieu ne contient pas, et une musique que le temps ne mesure pas, et un parfum que l’air ne disperse pas, et une saveur que la voracité n’épuise pas, là où la satiété demeure inséparable de moi-même, c’est cela que j’aime quand j’aime mon Dieu ».",
+    "**III**",
+    "Les autres biens délectent en passant, avec mesure; mais Dieu délecte éternellement. Saint Augustin dit encore : « Toute ma pauvre âme est captive par l’amitié des choses inférieures, elle est écartelée quand elle les perd; mais en toi, Seigneur, personne ne perd rien, sinon celui qui t’abandonne ». La raison en est que toute créature est changeante de par sa nature. Mais, parce que, comme disent les Proverbes (27, 7), *Celui qui est rassasié foule aux pieds le rayon de miel*, l’âme qui se met en quête des créatures, quand elle les poursuit et les atteint, elle en jouit et s’en délecte; et plus elle est remplie du bien créé, moins elle est affamée de l’incréé. Et c’est en jeûnant des biens créés, qu’elle désire l’incréé. C’est en ce sens que le Psalmiste dit (76, 3) : *Mon âme se refuse toute consolation.* Saint Augustin : « Que toute créature soit vide à mes yeux, pour que le Créateur devienne doux à mon cœur ».",
+    "*(De l’amour de Dieu, c. IV.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "Plus universel : le seul bien qui comble",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La méditation dit que Dieu réjouit plus que tout parce qu’il est le bien universel. Saint Thomas en donne la raison : la volonté a pour objet **le bien universel**, et rien ne peut l’apaiser que lui ; or ce bien ne se trouve en aucune créature, car **toute créature n’a qu’une bonté participée**. C’est pourquoi **Dieu seul peut combler la volonté de l’homme**, selon le psaume : *il comble de biens ton désir* (I-II, q. 2, a. 8). Chaque joie créée est une part ; Dieu est la source de toutes."
+      ]
+     },
+     {
+      "titre": "Plus intime : Dieu présent dans celui qui l’aime",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La joie naît de l’amour, par la présence du bien aimé. Or, dit saint Thomas, Dieu aimé **est dans celui qui l’aime par le plus noble de ses effets** : *qui demeure dans la charité demeure en Dieu, et Dieu en lui* ; aussi **la joie spirituelle qu’on a de Dieu est-elle causée par la charité** (II-II, q. 28, a. 1). La délectation vient de ce que le bien est présent, non l’inverse (I-II, q. 3, a. 4) : on n’aime pas pour la douceur ; on aime, et la joie suit."
+      ]
+     },
+     {
+      "titre": "Plus durable : entrer dans la joie",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Les autres joies passent avec leur objet ; la charité est l’amour de Dieu, **dont le bien est immuable** (II-II, q. 28, a. 1). Ici-bas, le désir ne se repose pas encore, car il reste toujours à s’approcher de Dieu ; et aucune créature n’étant à la mesure d’une telle joie, **ce n’est pas elle qui entre dans l’homme, c’est l’homme qui entre en elle** : *entre dans la joie de ton Seigneur* (a. 3). Thomas, commentant le Credo, cite ici saint Augustin : « notre cœur est inquiet jusqu’à ce qu’il repose en toi »."
+      ],
+      "citation": {
+       "texte": "« Aucune chose créée ne rassasie jamais le désir de l’homme : Dieu seul rassasie, et il le dépasse à l’infini. »",
+       "ref": "Collationes in Symbolum Apostolorum, a. 12",
+       "url": "https://www.corpusthomisticum.org/csv.html#86694"
+      }
+     }
+    ]
+   },
+   "essentiel": [
+    "Toute joie créée n’est qu’une part ; Dieu seul comble, parce qu’il est le bien tout entier.",
+    "La joie suit l’amour : on n’aime pas Dieu pour la douceur, la douceur vient de ce qu’on l’aime.",
+    "Ici-bas le désir marche encore ; au terme, ce n’est pas la joie qui entre en nous, c’est nous qui entrons en elle."
+   ],
+   "resolution": "Aujourd’hui, recevoir une joie ordinaire avec gratitude, sans lui demander ce qu’elle ne peut pas donner, et la rapporter à Dieu d’une parole.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 182-184",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : De l’amour de Dieu, ch. IV",
+     "detail": "Le Corpus Thomisticum publie ce traité sous le nom d’Helvicus Theutonicus.",
+     "url": "https://www.corpusthomisticum.org/xao.html"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 2, a. 8 et q. 3, a. 4",
+     "detail": "Texte latin, Corpus Thomisticum (I-II, q. 1-5) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2001.html#33525"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 28, a. 1 et a. 3",
+     "detail": "La joie, effet de la charité ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3027.html#40156"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Collationes in Symbolum Apostolorum, a. 12 (la vie éternelle)",
+     "detail": "Texte latin, Corpus Thomisticum ; saint Augustin, Confessions I, cité par Thomas ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/csv.html#86694"
+    }
+   ],
+   "reserve": "Cette méditation ne repose pas sur une œuvre de saint Thomas : le <i>De dilectione Dei et proximi</i>, que l’édition de 1930 range parmi ses opuscules, est attribué par la critique moderne à Helvic le Teuton, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques."
+  }
+ },
+ "2026-09-29": {
+  "textes": {
+   "liturgie": {
+    "nom": "Dédicace de saint Michel Archange",
+    "qualite": "Archange",
+    "classe": "Ire classe",
+    "couleur": "blanc",
+    "commemoraisons": []
+   },
+   "propre": {
+    "epitre": {
+     "titre": "Épître",
+     "reference": "Apocalypse 1, 1-5",
+     "incipit": "En ces jours-là :",
+     "latin": [
+      "In diébus illis: Significávit Deus, quæ opórtet fíeri cito, mittens per Angelum suum servo suo Ioánni, qui testimónium perhíbuit verbo Dei, et testimónium Iesu Christi, quæcúmque vidit. Beátus, qui legit et audit verba prophetíæ huius: et servat ea, quæ in ea scripta sunt: tempus enim prope est. Ioánnes septem ecclésiis, quæ sunt in Asia. Grátia vobis et pax ab eo, qui est et qui erat et qui ventúrus est: et a septem spirítibus, qui in conspéctu throni eius sunt: et a Iesu Christo, qui est testis fidélis, primogénitus mortuórum et princeps regum terræ, qui diléxit nos et lavit nos a peccátis nostris in sánguine suo."
+     ],
+     "francais": [
+      "Révélation de Jésus-Christ, que Dieu lui a confiée pour découvrir à ses serviteurs les événements qui doivent arriver bientôt ; et qu’il a fait connaître, en l’envoyant par son ange, à Jean, son serviteur, qui a attesté la parole de Dieu et le témoignage de Jésus-Christ en tout ce qu’il a vu. Heureux celui qui lit et ceux qui entendent les paroles de cette prophétie, et qui gardent les choses qui y sont écrites, car le temps est proche !",
+      "Jean aux sept Églises qui sont en Asie : grâce et paix vous soient données de la part de Celui qui est, qui était et qui vient, et de la part des sept esprits qui sont devant son trône, et de la part de Jésus-Christ ; c’est le Témoin fidèle, le Premier-né d’entre les morts et le Prince des rois de la terre. À celui qui nous a aimés, qui nous a lavés de nos péchés par son sang."
+     ]
+    },
+    "evangile": {
+     "reference": "Matthieu 18, 1-10",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "In illo témpore: Accessérunt discípuli ad Iesum, dicéntes: Quis, putas, maior est in regno cœlórum? Et ádvocans Iesus párvulum, státuit eum in médio eórum et dixit: Amen, dico vobis, nisi convérsi fuéritis et efficiámini sicut párvuli, non intrábitis in regnum cœlórum. Quicúmque ergo humiliáverit se sicut párvulus iste, hic est maior in regno cœlórum. Et qui suscéperit unum párvulum talem in nómine meo, me súscipit. Qui autem scandalizáverit unum de pusíllis istis, qui in me credunt, expédit ei, ut suspendátur mola asinária in collo eius, et demergátur in profúndum maris. Væ mundo a scándalis! Necésse est enim, ut véniant scándala: verúmtamen væ hómini illi, per quem scándalum venit! Si autem manus tua vel pes tuus scandalízat te, abscíde eum et proiíce abs te: bonum tibi est ad vitam íngredi débilem vel claudum, quam duas manus vel duos pedes habéntem mitti in ignem ætérnum. Et si óculus tuus scandalízat te, érue eum et proiíce abs te: bonum tibi est cum uno óculo in vitam intráre, quam duos óculos habéntem mitti in gehénnam ignis. Vidéte, ne contemnátis unum ex his pusíllis: dico enim vobis, quia Angeli eórum in cœlis semper vident fáciem Patris mei, qui in cœlis est."
+     ],
+     "francais": [
+      "Les disciples s’approchèrent de Jésus et lui dirent : « Qui donc est le plus grand dans le royaume des cieux ? » Jésus, faisant venir un petit enfant, le plaça au milieu d’eux et leur dit : « Je vous le dis, en vérité, si vous ne vous changez de façon à devenir comme les petits enfants, vous n’entrerez point dans le royaume des cieux. Celui donc qui se fera humble comme ce petit enfant, est le plus grand dans le royaume des cieux. Et celui qui reçoit en mon nom un petit enfant comme celui-ci, c’est moi qu’il reçoit.",
+      "Mais celui qui scandalisera un de ces petits qui croient en moi, il vaudrait mieux pour lui qu’on lui attachât au cou la meule qu’un âne tourne, et qu’on le précipitât au fond de la mer. Malheur au monde à cause des scandales ! Il est nécessaire qu’il arrive des scandales ; mais malheur à l’homme par qui le scandale arrive !",
+      "Si ta main ou ton pied est pour toi une occasion de chute, coupe-les et jette-les loin de toi : il vaut mieux pour toi entrer dans la vie mutilé ou boiteux, que d’être jeté, ayant deux pieds ou deux mains, dans le feu éternel. Et si ton œil est pour toi une occasion de chute, arrache-le et jette-le loin de toi : il vaut mieux pour toi entrer dans la vie avec un seul œil, que d’être jeté, ayant deux yeux, dans la géhenne du feu. Prenez garde de mépriser aucun de ces petits, car je vous dis que leurs anges dans le ciel voient sans cesse la face de mon Père qui est dans les cieux. »"
+     ]
+    }
+   },
+   "verset": {
+    "texte": "« Leurs anges dans le ciel voient sans cesse la face de mon Père qui est dans les cieux. »",
+    "ref": "Matthieu 18, 10"
+   },
+   "commentaire": {
+    "mode": "direct",
+    "portee": "Épître, Apocalypse 1, 1-5, et Évangile, Matthieu 18, 1-10",
+    "verif": "Textes relus : saint Thomas, Super Matthaeum, cap. 18, lect. 1 ; Somme théologique, I, q. 112, a. 1 et q. 113, a. 3-4 ; III, q. 49, a. 1 (Corpus Thomisticum) ; propre de la messe de saint Michel (Divinum Officium).",
+    "sections": [
+     {
+      "titre": "L’Épître : l’ange envoyé et le sang qui lave",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "L’épître s’ouvre sur un ange envoyé. Pour saint Thomas, son action **procède de Dieu comme de son principe et revient à Dieu comme à sa fin** : c’est le propre du ministre, « un instrument intelligent » (I, q. 112, a. 1). Et du verset « il nous a lavés de nos péchés dans son sang », Thomas tire que **la passion est la cause propre du pardon**, car elle provoque notre charité, nous rachète comme les membres de leur tête, et agit comme instrument de la divinité (III, q. 49, a. 1)."
+      ],
+      "citation": {
+       "texte": "« Le ministre est comme un instrument intelligent ; c’est pourquoi les actions des anges sont appelées des ministères. »",
+       "ref": "Somme théologique, I, q. 112, a. 1",
+       "url": "https://www.corpusthomisticum.org/sth1103.html#33094"
+      }
+     },
+     {
+      "titre": "L’Évangile : devenir petit, et le prix des petits",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Les disciples demandent qui est le plus grand. Saint Thomas loue leur désir, qui visait le ciel ; mais **on n’y parvient pas par la grandeur, on y parvient par l’esprit d’humilité**, et comme la charité s’accompagne nécessairement d’humilité, plus on est humble, plus on est haut. Il s’arrête au possessif du dernier verset : *leurs* anges, **parce qu’ils sont députés à leur garde** ; ils portent nos prières jusqu’à Dieu (Super Matthaeum, ch. 18, leçon 1)."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : envoyés sans quitter la face de Dieu",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "L’épître montre un ange envoyé ; l’Évangile, des anges qui voient *sans cesse* la face du Père. Chez nous, note saint Thomas, l’occupation extérieure gêne la contemplation ; mais l’ange règle ses actes par la seule intelligence, si bien que **son service n’empêche pas sa contemplation, il l’aide** (I, q. 112, a. 1, ad 3). Et ils sont nos concitoyens, car **il n’y a qu’une seule société des anges et des hommes** (Super Matthaeum, ch. 18)."
+      ]
+     },
+     {
+      "titre": "À la lumière de la fête : saint Michel et la garde des hommes",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Chaque homme a son ange ; mais **la garde de la multitude humaine**, dit saint Thomas, revient aux Principautés, ou peut-être aux Archanges, et il nomme ici Michel, « que nous appelons Archange », dit en Daniel l’un des princes (I, q. 113, a. 3). L’homme ici-bas marche **comme sur une route peu sûre** : tant qu’il est en chemin, un ange le garde ; au terme, un ange régnera avec lui (a. 4). La collecte demande qu’ils protègent notre vie sur la terre."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "On n’entre pas dans le royaume par la grandeur, mais par l’humilité ; plus on est humble, plus on est haut.",
+    "L’ange qui me garde ne cesse pas de voir Dieu : il me sert en le regardant, et porte mes prières là où il regarde.",
+    "Je suis sur une route peu sûre, mais pas seul : un gardien marche avec moi jusqu’au terme."
+   ],
+   "resolution": "Ce soir, confier à mon ange gardien, puis à saint Michel, une prière précise pour une personne que je suis tenté de mépriser ou d’oublier.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 18, lect. 1",
+     "detail": "Texte latin, Corpus Thomisticum (la page couvre les chapitres 17 à 20) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cml17.html#87379"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 112, a. 1 et q. 113, a. 3-4",
+     "detail": "La mission et la garde des anges ; texte latin, Corpus Thomisticum (I, q. 103-119) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1103.html#33094"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 49, a. 1",
+     "detail": "La passion du Christ, cause de la rémission des péchés ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4046.html#49052"
+    },
+    {
+     "label": "Missel romain de 1962, Dédicace de saint Michel Archange",
+     "detail": "Introït et graduel propres ; collecte, lectures et offertoire repris du 8 mai. D’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/09-29.txt"
+    },
+    {
+     "label": "Missel romain, Apparition de saint Michel (8 mai)",
+     "detail": "Collecte « Deus, qui miro ordine », épître et évangile repris le 29 septembre ; données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/05-08.txt"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "La fête ne célèbre pas seulement l’Archange, mais la dédicace d’une basilique élevée en son honneur, et avec elle tout le monde angélique. La leçon des matines donne l’homélie de saint Grégoire le Grand, qui y dénombre neuf ordres d’anges : Anges, Archanges, Vertus, Puissances, Principautés, Dominations, Trônes, Chérubins et Séraphins. Il en établit la liste par l’Écriture seule — presque toutes les pages attestent les Anges et les Archanges, les prophètes nomment souvent les Chérubins et les Séraphins, et saint Paul énumère les autres en écrivant aux Éphésiens puis aux Colossiens. L’Évangile du jour rappelle pourtant que ces puissances sont données à la garde des plus petits."
+   }
+  },
+  "meditation": {
+   "titre": "Des causes de l’amour",
+   "texte": [
+    "**I**",
+    "La présence nourrit l’amitié. Et sur ce point, Dieu l’emporte pour trois raisons : parce qu’il nous est intimement présent, parce qu’il nous est toujours présent, et en quelque endroit que nous soyons.",
+    "L’homme est présent à quelqu’un, parce qu’il est près de lui; mais Dieu nous est plus présent parce qu’il est en nous. Saint Augustin dit : « Il nous est intime au cœur, et notre cœur s’éloigne de lui ». L’homme est tantôt présent et tantôt absent, c’est inévitable; mais Dieu n’est jamais absent de nous, quoique parfois nous nous éloignions de lui et lui soyons absent. Saint Augustin : « Vous étiez au dedans de moi et moi au dehors et je vous cherchais au dehors, et moi, difforme, je me ruais sur ces choses belles que vous avez faites. Vous étiez avec moi, et moi je n’étais pas avec vous ».",
+    "De même l’homme dont nous sommes l’ami, est quelquefois près de nous en un endroit, et en un autre endroit, il est loin de nous; mais Dieu nous est toujours présent. Les amis, quand nous mourons, et que nous avons alors le plus besoin de la présence de nos amis, nous ne pouvons les avoir, tandis que nous jouissons toujours de la consolation de cet ami qui est Dieu même. Le Psalmiste dit (23, 4) : *Quand même je marcherais au milieu de l’ombre de la mort, je ne craindrais aucuns maux, parce que vous êtes avec moi.*",
+    "**II**",
+    "Nous avons un ami parce qu’il nous est utile. Et ici même, Dieu l’emporte pour trois raisons : parce qu’il nous est plus utile, plus souvent et plus longtemps.",
+    "L’ami nous communique ses biens; mais Dieu nous donne ses biens et se donne lui-même. *Celui qui n’a pas épargné son propre Fils, qui l’a donné pour nous tous, comment pourrait-il ne pas nous donner toutes choses avec lui?* (Rom., VIII, 32.) Quel est l’ami qui nous donnerait son Fils et son Esprit comme Dieu l’a fait? Il donne ses biens et il nous fait des dons plus précieux, plus grands, plus nombreux, plus durables dans le temps, plus utiles et meilleurs pour atteindre notre fin. Il nous a donné de plus grandes choses et de plus nombreuses dans le passé; il nous donne et ne cesse de donner dans le présent, mais il en donnera de plus grandes et de plus nombreuses dans le futur.",
+    "**III**",
+    "Nous avons un ami parce qu’il est aimable. *L’homme dont la société est agréable, sera plus aimé que le frère* disent les Proverbes (XVIII, 24). Trois qualités concourent à l’amabilité : la grâce du visage, l’affabilité dans les paroles et dans la compagnie, la douceur dans les procédés.",
+    "Et Dieu l’emporte encore sur toute la ligne.",
+    "Elle est *trompeuse et vaine* la beauté que donne la santé, le bon tempérament, la jeunesse. La preuve en est que la maladie enlève la santé; la vieillesse enlève la jeunesse, la mort dissout le tempérament. Mais combien est aimable celui dont le visage *est plein de grâces et que les Anges désirent contempler*, dont la beauté ne s’altère pas, mais qui sauve ceux qui la contemplent. Elle ne vieillit pas, mais donne la jeunesse; elle ne meurt pas, mais elle vivifie pour l’éternité. De même, il est désirable par son affabilité. Il est dit dans l’Exode (33, 11) : *Le Seigneur parlait à Moïse comme un ami.* Il est affable, non point seulement avec les justes, mais encore avec les injustes, comme les publicains, et il est ami des pécheurs.",
+    "Enfin, il est aimable par la douceur de ses manières : *Je suis comme un agneau plein de douceur.* (Ps., 57, 71.)",
+    "*(De l’amour de Dieu, c. X, XI, XII.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "La présence : plus intime que tout ami",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La méditation dit que Dieu nous est présent parce qu’il est en nous. Saint Thomas en donne le fondement : Dieu donne l’être à chaque chose **aussi longtemps qu’elle dure**, et l’être est ce qu’il y a de plus intime en elle ; il faut donc que Dieu soit en toutes choses, **et intimement** (I, q. 8, a. 1). Mais il est dans ses amis d’une autre manière, comme le connu dans celui qui connaît et l’aimé dans celui qui aime, et cela, seule la grâce le fait (a. 3)."
+      ]
+     },
+     {
+      "titre": "L’utilité : un ami qui se donne",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Un ami partage ses biens ; Dieu se donne lui-même. Saint Thomas fonde là toute la charité : l’amitié suppose un amour mutuel fondé sur quelque chose de commun ; or Dieu **nous communique sa béatitude**, selon la parole : *Dieu est fidèle, par qui vous avez été appelés à la société de son Fils*. La charité est donc une amitié de l’homme avec Dieu (II-II, q. 23, a. 1). Dès maintenant, par la vie de l’esprit, **nous vivons avec Dieu et avec les anges**, imparfaitement ici-bas, parfaitement dans la patrie (ad 1)."
+      ],
+      "citation": {
+       "texte": "« La charité est une certaine amitié de l’homme avec Dieu. »",
+       "ref": "Somme théologique, II-II, q. 23, a. 1",
+       "url": "https://www.corpusthomisticum.org/sth3023.html#39723"
+      }
+     },
+     {
+      "titre": "L’amabilité : aimé pour devenir aimable",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La méditation dit enfin que Dieu est aimable, et ami des pécheurs. Saint Thomas éclaire ce paradoxe : notre amour est provoqué par la bonté qu’il trouve, **l’amour de Dieu verse et crée la bonté dans les choses** (I, q. 20, a. 2) ; il aime les pécheurs en tant qu’ils sont ses créatures, non en tant qu’ils pèchent (ad 4). Il ne nous aime donc pas parce que nous sommes aimables : **nous devenons aimables parce qu’il nous aime**. Le Catéchisme dit que la charité suscite la réciprocité : elle est amitié et communion (n. 1829)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Dieu me donne l’être à chaque instant ; nul ne m’est plus présent que lui.",
+    "La charité est une amitié : Dieu partage avec moi sa propre béatitude.",
+    "Dieu ne m’aime pas parce que je suis aimable ; je deviens aimable parce qu’il m’aime."
+   ],
+   "resolution": "Aujourd’hui, parler une fois à Dieu comme à un ami présent, d’une chose ordinaire de ma journée, et rendre à quelqu’un de peu aimable un bien gratuit.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 184-186",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : De l’amour de Dieu, ch. X, XI et XII",
+     "detail": "Le Corpus Thomisticum publie ce traité sous le nom d’Helvicus Theutonicus.",
+     "url": "https://www.corpusthomisticum.org/xao.html"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 8, a. 1 et a. 3",
+     "detail": "Dieu présent en toutes choses ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1003.html#28529"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 20, a. 2",
+     "detail": "L’amour de Dieu, cause de la bonté des choses ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1015.html#29294"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 23, a. 1",
+     "detail": "La charité, amitié de l’homme avec Dieu ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39723"
+    },
+    {
+     "label": "Catéchisme de l’Église catholique, n. 1829",
+     "detail": "Texte français, site du Saint-Siège.",
+     "url": "https://www.vatican.va/archive/FRA0013/__P60.HTM"
+    }
+   ],
+   "reserve": "Cette méditation ne repose pas sur une œuvre de saint Thomas : le <i>De dilectione Dei et proximi</i>, que l’édition de 1930 range parmi ses opuscules, est attribué par la critique moderne à Helvic le Teuton, dominicain. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques."
+  }
+ }
+}

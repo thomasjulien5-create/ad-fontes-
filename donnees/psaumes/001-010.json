@@ -1,0 +1,941 @@
+{
+ "1": {
+  "incipit": "Beatus vir",
+  "titre": "Les deux voies",
+  "argument": "Ce Psaume contient comme un précis de toute la doctrine du psautier et un abrégé de toute la morale. Le Psalmiste y représente que le bonheur de l’homme en cette vie consiste à s’éloigner des maximes et des mœurs des impies, et à s’attacher constamment à la loi de Dieu.",
+  "versets": [
+   "Heureux l’homme qui n’est pas allé au conseil des impies, qui ne s’est pas arrêté dans la voie des pécheurs, qui ne s’est pas assis dans la chaire de pestilence ;",
+   "Mais dont la volonté est dans la loi du Seigneur, et qui médite cette loi le jour et la nuit.",
+   "Il sera comme l’arbre planté près des courants des eaux, qui donnera son fruit en son temps ; et sa feuille ne tombera point ; et tout ce qu’il fera prospérera.",
+   "Il n’en est pas ainsi des impies ; non, il n’en est pas ainsi, mais ils sont comme la poussière que le vent emporte de la face de la terre.",
+   "C’est pourquoi les impies ne ressusciteront pas au jugement, ni les pécheurs dans l’assemblée des justes.",
+   "Parce que le Seigneur connaît la voie des justes, et la voie des impies périra."
+  ],
+  "latin": [
+   "Beatus vir qui non abiit in consilio impiorum, et in via peccatorum non stetit, et in cathedra pestilentiæ non sedit ;",
+   "sed in lege Domini voluntas ejus, et in lege ejus meditabitur die ac nocte.",
+   "Et erit tamquam lignum quod plantatum est secus decursus aquarum, quod fructum suum dabit in tempore suo : et folium ejus non defluet ; et omnia quæcumque faciet prosperabuntur.",
+   "Non sic impii, non sic ; sed tamquam pulvis quem projicit ventus a facie terræ.",
+   "Ideo non resurgent impii in judicio, neque peccatores in concilio justorum :",
+   "quoniam novit Dominus viam justorum, et iter impiorum peribit."
+  ],
+  "thomas": true,
+  "commentaire": {
+   "sections": [
+    {
+     "titre": "Trois pas",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "Ce psaume sans titre est, dit saint Thomas, le titre de tout le Psautier : tous cherchent la même béatitude, les chemins diffèrent. Sur celui des impies, trois pas : la délibération (*aller*), le consentement et l’acte (*s’arrêter*), l’entraînement des autres au mal (*s’asseoir*), le pire. « **Tant que l’homme délibère, il est encore en marche** » : il peut revenir. Saint Augustin ajoute que l’homme bienheureux est d’abord le Christ, qui n’a jamais pris ce chemin."
+     ]
+    },
+    {
+     "titre": "Dans la loi, non sous la loi",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "Le juste se soumet à Dieu par la volonté, en obéissant, et par l’intelligence, en méditant. Mais le psaume dit *dans* la loi : **dans la loi par amour, non sous la loi par crainte**, car la loi n’est pas faite pour le juste. Jour et nuit : sans cesse, dans la prospérité comme dans l’adversité. Augustin le dit à sa manière : être dans la loi, c’est la liberté ; sous la loi, l’esclavage."
+     ]
+    },
+    {
+     "titre": "L’arbre et la poussière",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "L’arbre est planté **près des fleuves de la grâce** ; il porte pour fruit les bonnes œuvres, en son temps, tant qu’il est temps d’agir ; sa feuille ne tombe pas, car Dieu n’abandonne le juste en rien, pas même dans ses plus petites œuvres. La poussière est tout le contraire : sans racine, divisée, sèche. Augustin nomme le vent qui la disperse, l’orgueil, et conclut : en Dieu, être connu, c’est être."
+     ],
+     "citation": {
+      "texte": "« En Dieu, être connu, c’est être ; être ignoré, c’est n’être pas. »",
+      "ref": "Saint Augustin, Discours sur le Psaume I, 6 (trad. Péronne et al., éd. Raulx, 1864)",
+      "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+     }
+    }
+   ]
+  },
+  "essentiel": [
+   "Le péché avance par degrés : tant que je délibère, je suis encore en marche et je peux revenir.",
+   "Être dans la loi de Dieu par amour, et non sous la loi par crainte : c’est la liberté.",
+   "Le juste tient parce qu’il est planté près de la grâce ; l’orgueil, lui, n’a pas de racine."
+  ],
+  "resolution": "Aujourd’hui, arrêter au premier pas la première pensée mauvaise qui se présente, avant qu’elle ne devienne acte ; et redire lentement le verset 2 le matin et le soir.",
+  "sources": [
+   {
+    "label": "La sainte Bible selon la Vulgate, trad. de l’abbé J.-B. Glaire (éd. Vigouroux, 1905), Psaume 1",
+    "detail": "Texte et argument relevés sur l’édition de Wikisource",
+    "url": "https://fr.wikisource.org/wiki/La_sainte_Bible_selon_la_Vulgate_(J.-B._Glaire)/Psaumes"
+   },
+   {
+    "label": "Vulgate clémentine, Psalmus 1",
+    "detail": "Texte latin du psaume"
+   },
+   {
+    "label": "Saint Thomas d’Aquin, In psalmos Davidis expositio, Psaume 1",
+    "detail": "Texte latin vérifié sur le Corpus Thomisticum ; traduction française d’Ad Fontes",
+    "url": "https://www.corpusthomisticum.org/cps01.html#86786"
+   },
+   {
+    "label": "Saint Augustin, Discours sur les Psaumes, Psaume I",
+    "detail": "Traduction de Péronne, Vincent, Écalle, Charpentier et Barreau (Œuvres complètes, éd. Raulx, 1864), vérifiée sur Wikisource",
+    "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+   }
+  ]
+ },
+ "2": {
+  "incipit": "Quare fremuerunt gentes",
+  "titre": "Le Roi établi sur Sion",
+  "argument": "En vain les rois et les peuples de la terre s’opposent à l’établissement du règne de Jésus-Christ. David les exhorte à se soumettre à lui.",
+  "versets": [
+   "Pourquoi les nations ont-elles frémi, et les peuples médité des choses vaines ?",
+   "Les rois de la terre se sont levés, et les princes se sont ligués contre le Seigneur et contre son Christ.",
+   "Rompons leurs liens, *ont-ils dit*, et rejetons loin de nous leur joug.",
+   "Celui qui habite dans les cieux se rira d’eux, et le Seigneur se moquera d’eux.",
+   "Alors il leur parlera dans sa colère, et dans sa fureur il les confondra.",
+   "Pour moi, j’ai été établi roi par lui sur Sion, sa montagne sainte, annonçant ses préceptes.",
+   "Le Seigneur m’a dit : Vous êtes mon Fils, c’est moi qui aujourd’hui vous ai engendré.",
+   "Demandez-moi, et je vous donnerai les nations en héritage, et en possession les extrémités de la terre.",
+   "Vous les gouvernerez avec une verge de fer, et vous les briserez comme un vase de potier.",
+   "Et maintenant, ô rois, comprenez ; instruisez-vous, vous qui jugez la terre.",
+   "Servez le Seigneur dans la crainte, et réjouissez-vous en lui avec tremblement.",
+   "Embrassez la doctrine, de peur que quelque jour le Seigneur ne s’irrite, et que vous ne périssiez hors de la voie de la justice.",
+   "Lorsque sa colère s’enflammera en un instant, heureux tous ceux qui se confient en lui."
+  ],
+  "latin": [
+   "Quare fremuerunt gentes, et populi meditati sunt inania?",
+   "Astiterunt reges terrae, et principes convenerunt in unum adversus Dominum, et adversus Christum ejus.",
+   "Dirumpamus vincula eorum, et projiciamus a nobis jugum ipsorum.",
+   "Qui habitat in caelis irridebit eos, et Dominus subsannabit eos.",
+   "Tunc loquetur ad eos in ira sua, et in furore suo conturbabit eos.",
+   "Ego autem constitutus sum rex ab eo super Sion, montem sanctum ejus, praedicans praeceptum ejus.",
+   "Dominus dixit ad me : Filius meus es tu; ego hodie genui te.",
+   "Postula a me, et dabo tibi gentes haereditatem tuam, et possessionem tuam terminos terrae.",
+   "Reges eos in virga ferrea, et tamquam vas figuli confringes eos.",
+   "Et nunc, reges, intelligite; erudimini, qui judicatis terram.",
+   "Servite Domino in timore, et exsultate ei cum tremore.",
+   "Apprehendite disciplinam, nequando irascatur Dominus, et pereatis de via justa.",
+   "Cum exarserit in brevi ira ejus, beati omnes qui confidunt in eo."
+  ],
+  "thomas": true,
+  "commentaire": {
+   "sections": [
+    {
+     "titre": "Rompre les liens",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "Saint Thomas distingue deux sortes de révoltés : les impulsifs, qui *frémissent* comme des bêtes, et les habiles, qui *méditent des choses vaines* ; la question du psalmiste n’interroge pas, elle reproche. Puis il lit le verset au-dedans : le joug du Christ est **la loi de charité**, et ses liens sont la foi, l’espérance et la charité. Pour que la conscience échappe à ce joug, il faut d’abord rompre ces liens un à un : c’est le chemin de celui qui finit par dire *je ne servirai pas*."
+     ]
+    },
+    {
+     "titre": "Aujourd’hui, demande",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Le Seigneur m’a dit* : Dieu engendre en disant, explique saint Thomas, comme l’intelligence conçoit son verbe ; et *aujourd’hui* dit l’éternité, où rien n’est passé ni à venir. Pourtant ce Fils reçoit l’ordre de *demander* ce qui lui revient déjà par héritage. C’est que **Dieu veut que nous recevions ses dons en les demandant** : le Christ nous en a donné l’exemple, lui qui a demandé les nations par sa prière et par sa Passion."
+     ]
+    },
+    {
+     "titre": "Servir dans la joie",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "Servir Dieu, note saint Thomas, ce n’est pas seulement obéir au-dehors : l’âme doit lui être soumise au-dedans. Et pour que ce service ne paraisse pas une misère, le psaume ajoute *réjouissez-vous* : **la crainte du Seigneur n’est pas de misère, mais de joie** ; le *tremblement* garde cette joie de la présomption. *Embrassez la discipline* : que nul ne vive comme il lui plaît, mais comme il convient. Saint Augustin ajoute que perdre la voie de la justice est un grand châtiment pour qui en a goûté la douceur."
+     ],
+     "citation": {
+      "texte": "« C’est là un grand châtiment, que redoutent ceux qui ont déjà goûté les douceurs de la justice. »",
+      "ref": "Saint Augustin, Discours sur le Psaume II, 10 (trad. Péronne et al., éd. Raulx, 1864)",
+      "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+     }
+    }
+   ]
+  },
+  "essentiel": [
+   "On ne rejette pas le joug du Christ d’un seul coup : on dénoue d’abord, un à un, les liens de la foi, de l’espérance et de la charité.",
+   "Dieu veut donner en réponse à nos demandes : le Fils lui-même a demandé ce qui lui revenait.",
+   "La crainte de Dieu n’est pas une tristesse : elle garde la joie de tourner à la présomption."
+  ],
+  "resolution": "Aujourd’hui, demander à Dieu, par une courte prière, une grâce précise dont j’ai besoin au lieu de la supposer acquise ; et le soir, me demander si j’ai vécu comme il me plaisait ou comme il convenait.",
+  "sources": [
+   {
+    "label": "La sainte Bible selon la Vulgate, trad. de l’abbé J.-B. Glaire (éd. Vigouroux, 1905), Psaume 2",
+    "detail": "Texte et argument relevés sur l’édition de Wikisource",
+    "url": "https://fr.wikisource.org/wiki/La_sainte_Bible_selon_la_Vulgate_(J.-B._Glaire)/Psaumes"
+   },
+   {
+    "label": "Vulgate clémentine, Psalmus 2",
+    "detail": "Texte latin du psaume"
+   },
+   {
+    "label": "Saint Thomas d’Aquin, In psalmos Davidis expositio, Super Psalmo 2 (n. 1-10)",
+    "detail": "Texte latin lu sur le Corpus Thomisticum ; traduction d’Ad Fontes",
+    "url": "https://www.corpusthomisticum.org/cps02.html#86789"
+   },
+   {
+    "label": "Saint Augustin, Discours sur les Psaumes, Psaume II",
+    "detail": "Traduction de Péronne, Vincent, Écalle, Charpentier et Barreau (Œuvres complètes, éd. Raulx, 1864), vérifiée sur Wikisource",
+    "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+   }
+  ]
+ },
+ "3": {
+  "incipit": "Domine, quid multiplicati sunt",
+  "titre": "Mais vous, Seigneur",
+  "argument": "David se soutient contre la crainte qu’on veut lui donner de ses ennemis, par le souvenir des secours qu’il a reçus de Dieu, et par l’espérance qu’il a d’en recevoir de nouveaux de sa bonté.",
+  "versets": [
+   "*Psaume de David, lorsqu’il fuyait devant Absalom son fils.*",
+   "Seigneur, pourquoi se sont-ils multipliés, ceux qui me persécutent ? Ils sont bien nombreux, ceux qui s’élèvent contre moi.",
+   "Beaucoup disent à mon âme : Il n’y a point de salut pour elle en son Dieu.",
+   "Mais vous, Seigneur, vous êtes mon soutien, ma gloire, et vous élevez ma tête.",
+   "De ma voix, j’ai crié vers le Seigneur, et il m’a exaucé de sa montagne sainte.",
+   "Pour moi, je me suis endormi, j’ai sommeillé ; et je me suis levé, parce que le Seigneur m’a pris sous sa protection.",
+   "Je ne craindrai point les milliers *d’hommes* du peuple qui m’environne : levez-vous, Seigneur, sauvez-moi mon Dieu.",
+   "Parce que c’est vous qui avez frappé tous ceux qui me combattaient sans raison ; vous avez brisé les dents des pécheurs.",
+   "Au Seigneur appartient le salut ; et c’est sur votre peuple *que se répand* votre bénédiction."
+  ],
+  "latin": [
+   "Psalmus David, cum fugeret a facie Absalom filii sui.",
+   "Domine, quid multiplicati sunt qui tribulant me? Multi insurgunt adversum me;",
+   "multi dicunt animae meae : Non est salus ipsi in Deo ejus.",
+   "Tu autem Domine, susceptor meus es, gloria mea, et exaltans caput meum.",
+   "Voce mea ad Dominum clamavi; et exaudivit me de monte sancto suo.",
+   "Ego dormivi, et soporatus sum; et exsurrexi, quia Dominus suscepit me.",
+   "Non timebo millia populi circumdantis me. Exsurge, Domine; salvum me fac, Deus meus.",
+   "Quoniam tu percussisti omnes adversantes mihi sine causa; dentes peccatorum contrivisti.",
+   "Domini est salus; et super populum tuum benedictio tua."
+  ],
+  "thomas": true,
+  "commentaire": {
+   "sections": [
+    {
+     "titre": "Fuir devant son fils",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "David fuit Absalom, son propre fils, et comprend, dit saint Thomas, que ce malheur lui vient de son adultère et de son meurtre, comme Nathan l’avait annoncé. Pourtant il garde la paix envers ce fils, comme le Christ l’offrit à Judas jusque dans le repas et le baiser. Moralement, David est chaque fidèle ; Absalom, **les vices et les convoitises de la chair**, qui se dressent contre nous et murmurent : *il n’y a point de salut pour elle en son Dieu*."
+     ]
+    },
+    {
+     "titre": "La voix du cœur",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*De ma voix, j’ai crié* : saint Thomas y lit trois qualités de la prière. Attentive : c’est la voix du cœur, car **une voix qui ne vient pas du cœur n’est pas ma voix**. Droite : tournée *vers le Seigneur*, où est le secours. Fervente : on l’appelle cri à cause de la grandeur de l’amour. Saint Augustin ajoute que cette parole n’est vraie en nous que lorsque l’âme, oubliant la chair et toute vue terrestre, parle seule à seul au Seigneur."
+     ],
+     "citation": {
+      "texte": "« Cette parole n’est vraie en nous que quand l’âme, s’éloignant, dans l’oraison, et de la chair, et de toute vue terrestre, parle seule à seul au Seigneur qui l’entend. »",
+      "ref": "Saint Augustin, Discours sur le Psaume III, 4 (trad. Péronne et al., éd. Raulx, 1864)",
+      "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+     }
+    },
+    {
+     "titre": "Dormir et se relever",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Je me suis endormi… et je me suis levé.* Saint Thomas distingue le mort et le dormeur : le mort ne se relève pas, le dormeur se relève. Ainsi, quand l’homme éprouvé ou tenté tombe dans le péché puis se relève, on dit qu’il a dormi : ce fut le cas de David. Le Christ, lui, s’est endormi de lui-même dans sa Passion et s’est relevé. D’où la conclusion : *au Seigneur appartient le salut* ; **c’est donc vers lui que doit se diriger la prière**."
+     ]
+    }
+   ]
+  },
+  "essentiel": [
+   "Ce qui se dresse contre moi peut être le fruit de mes propres fautes : le reconnaître, c’est déjà commencer à guérir.",
+   "Une prière qui ne part pas du cœur n’est pas vraiment la mienne.",
+   "Le pécheur qui se relève n’était pas mort : il avait seulement dormi."
+  ],
+  "resolution": "Aujourd’hui, avant chaque prière, m’arrêter un instant pour que ma voix parte du cœur ; et si je tombe, me relever aussitôt par un acte de contrition, sans attendre le soir.",
+  "sources": [
+   {
+    "label": "La sainte Bible selon la Vulgate, trad. de l’abbé J.-B. Glaire (éd. Vigouroux, 1905), Psaume 3",
+    "detail": "Texte et argument relevés sur l’édition de Wikisource",
+    "url": "https://fr.wikisource.org/wiki/La_sainte_Bible_selon_la_Vulgate_(J.-B._Glaire)/Psaumes"
+   },
+   {
+    "label": "Vulgate clémentine, Psalmus 3",
+    "detail": "Texte latin du psaume"
+   },
+   {
+    "label": "Saint Thomas d’Aquin, In psalmos Davidis expositio, Super Psalmo 3 (n. 1-5)",
+    "detail": "Texte latin lu sur le Corpus Thomisticum ; traduction d’Ad Fontes",
+    "url": "https://www.corpusthomisticum.org/cps02.html#86799"
+   },
+   {
+    "label": "Saint Augustin, Discours sur les Psaumes, Psaume III",
+    "detail": "Traduction de Péronne, Vincent, Écalle, Charpentier et Barreau (Œuvres complètes, éd. Raulx, 1864), vérifiée sur Wikisource",
+    "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+   }
+  ]
+ },
+ "4": {
+  "incipit": "Cum invocarem exaudivit me Deus justitiae meae",
+  "titre": "La paix du soir",
+  "argument": "David, plein de reconnaissance de ce que Dieu a écouté sa prière, l’invoque de nouveau. Il exhorte ses ennemis à ne pas mettre leur confiance dans les biens de ce monde, mais à ne chercher, comme lui, leur repos qu’en Dieu seul.",
+  "versets": [
+   "*Pour la fin, dans les cantiques, psaume de David.*",
+   "Lorsque je l’invoquais, il m’a exaucé, le Dieu de ma justice ; dans la tribulation, vous m’avez mis au large. Ayez pitié de moi, et exaucez ma prière.",
+   "Fils des hommes, jusqu’à quand aurez-vous le cœur appesanti ? pourquoi aimez-vous la vanité, et cherchez-vous le mensonge ?",
+   "Sachez donc que le Seigneur a glorifié son saint : le Seigneur m’exaucera, lorsque je crierai vers lui.",
+   "Irritez-vous et ne péchez pas ; et ce que vous dites en vos cœurs, repassez-le sur vos lits avec componction.",
+   "Offrez un sacrifice de justice, et espérez dans le Seigneur. Beaucoup disent : Qui nous montrera les biens qu’on nous promet ?",
+   "La lumière de votre visage a été marquée sur nous, Seigneur ; vous avez donné la joie à mon cœur.",
+   "Ils ont eu en abondance le fruit de leur froment, de leur vin et de leur huile.",
+   "Dans la paix je m’endormirai et je reposerai tout à la fois,",
+   "Parce que vous, Seigneur, vous seul m’avez établi dans l’espérance."
+  ],
+  "latin": [
+   "In finem, in carminibus. Psalmus David.",
+   "Cum invocarem exaudivit me Deus justitiae meae, in tribulatione dilatasti mihi. Miserere mei, et exaudi orationem meam.",
+   "Filii hominum, usquequo gravi corde? Ut quid diligitis vanitatem, et quaeritis mendacium?",
+   "Et scitote quoniam mirificavit Dominus sanctum suum; Dominus exaudiet me cum clamavero ad eum.",
+   "Irascimini, et nolite peccare; quae dicitis in cordibus vestris, in cubilibus vestris compungimini.",
+   "Sacrificate sacrificium justitiae, et sperate in Domino. Multi dicunt : Quis ostendit nobis bona?",
+   "Signatum est super nos lumen vultus tui, Domine : dedisti laetitiam in corde meo.",
+   "A fructu frumenti, vini, et olei sui, multiplicati sunt.",
+   "In pace in idipsum dormiam, et requiescam;",
+   "quoniam tu, Domine, singulariter in spe constituisti me."
+  ],
+  "thomas": true,
+  "commentaire": {
+   "sections": [
+    {
+     "titre": "Au large dans l’épreuve",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Dans la tribulation, vous m’avez mis au large* : saint Thomas y voit plus qu’une délivrance. Dieu n’a pas seulement ôté l’épreuve, **il a donné, dans l’épreuve même, la largeur du cœur**. Encore faut-il l’ordre de la vraie prière : attribuer à Dieu sa justice, *Dieu de ma justice*, vivre selon elle, crier vers lui, et alors être exaucé. Saint Augustin ajoute que, dans cette dilatation du cœur, Dieu lui-même se répand dans l’âme qui s’entretient avec lui."
+     ]
+    },
+    {
+     "titre": "Le cœur appesanti",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Pourquoi aimez-vous la vanité ?* Les biens temporels, explique saint Thomas, n’ont rien de solide : **c’est un bien qui passe**, et l’avare y cherche une suffisance que l’argent ne donne pas. Le remède : *irritez-vous et ne péchez pas*. Que le mouvement de colère se lève, soit ; qu’il n’aille pas jusqu’à l’acte. Et ce que vous dites en vos cœurs, qu’il y soit vraiment : ne soyez pas une chose au-dedans, une autre au-dehors."
+     ]
+    },
+    {
+     "titre": "La lumière du visage",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Qui nous montrera les biens ?* Réponse : *la lumière de votre visage a été marquée sur nous*. C’est, dit saint Thomas, la raison, reflet de la vérité divine, qui discerne le bien du mal ; c’est aussi le signe de la croix reçu au baptême, **qu’il faut imprimer chaque jour**. Qui possède l’Unique où sont tous les biens peut *s’endormir dans la paix*. Saint Augustin compare cette empreinte à l’image du prince sur la monnaie : rendons à Dieu notre âme marquée de sa lumière."
+     ],
+     "citation": {
+      "texte": "« Cette lumière qui brille à l’esprit et non aux yeux, est tout le bien réel de l’homme. »",
+      "ref": "Saint Augustin, Discours sur le Psaume IV, 8 (trad. Péronne et al., éd. Raulx, 1864)",
+      "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+     }
+    }
+   ]
+  },
+  "essentiel": [
+   "Dieu ne retire pas toujours l’épreuve : il élargit le cœur pour la porter.",
+   "Ce qui passe ne rassasie pas ; et ce que je dis de bouche doit être vrai dans mon cœur.",
+   "La lumière de Dieu est déjà marquée en nous : la raison droite et le signe de la croix."
+  ],
+  "resolution": "Aujourd’hui, faire lentement le signe de la croix au lever et au coucher, en demandant la lumière de son visage ; et si la colère monte, la laisser passer sans lui donner ni parole ni geste.",
+  "sources": [
+   {
+    "label": "La sainte Bible selon la Vulgate, trad. de l’abbé J.-B. Glaire (éd. Vigouroux, 1905), Psaume 4",
+    "detail": "Texte et argument relevés sur l’édition de Wikisource",
+    "url": "https://fr.wikisource.org/wiki/La_sainte_Bible_selon_la_Vulgate_(J.-B._Glaire)/Psaumes"
+   },
+   {
+    "label": "Vulgate clémentine, Psalmus 4",
+    "detail": "Texte latin du psaume"
+   },
+   {
+    "label": "Saint Thomas d’Aquin, In psalmos Davidis expositio, Super Psalmo 4 (n. 1-7)",
+    "detail": "Texte latin lu sur le Corpus Thomisticum ; traduction d’Ad Fontes",
+    "url": "https://www.corpusthomisticum.org/cps02.html#86804"
+   },
+   {
+    "label": "Saint Augustin, Discours sur les Psaumes, Psaume IV",
+    "detail": "Traduction de Péronne, Vincent, Écalle, Charpentier et Barreau (Œuvres complètes, éd. Raulx, 1864), vérifiée sur Wikisource",
+    "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+   }
+  ]
+ },
+ "5": {
+  "incipit": "Verba mea auribus percipe",
+  "titre": "Debout dès le matin",
+  "argument": "Belle prière du psalmiste. Il y représente ce que les méchants doivent craindre de la justice de Dieu, et ce que les justes doivent attendre de sa bonté.",
+  "versets": [
+   "*Pour la fin, pour celle qui obtient l’héritage, psaume de David.*",
+   "Prêtez l’oreille âmes paroles. Seigneur, entendez mon cri.",
+   "Soyez attentif à la voix de ma prière, mon roi et mon Dieu.",
+   "Parce que c’est vous que je prierai ; Seigneur, dès le matin vous entendrez ma voix.",
+   "Dès le matin je me présenterai devant vous, et je verrai que vous n’êtes pas un Dieu qui veut l’iniquité.",
+   "Le méchant n’habitera pas près de vous ; et les hommes injustes ne subsisteront pas devant vos yeux.",
+   "Vous haïssez tous ceux qui opèrent l’iniquité ; vous perdrez tous ceux qui profèrent le mensonge. Le Seigneur aura en abomination un homme de sang et un fourbe.",
+   "Mais moi, grâce à la multitude de vos miséricordes, j’entrerai dans votre maison ; j’adorerai en approchant de votre saint temple, pénétré de votre crainte.",
+   "Seigneur, conduisez-moi dans votre justice ; à cause de mes ennemis dirigez ma voie en votre présence.",
+   "Parce que la vérité n’est pas dans leur bouche : leur cœur est vain.",
+   "C’est un sépulcre ouvert que leur gosier ; avec leurs langues ils agissaient astucieusement : jugez-les, ô Dieu. Qu’ils soient déçus de leurs pensées ; à cause de la multitude de leurs impiétés, chassez-les, parce qu’ils vous ont irrité, Seigneur.",
+   "Mais qu’ils se réjouissent, tous ceux qui espèrent en vous ; éternellement ils tressailliront d’allégresse, et vous habiterez en eux. Et ils se glorifieront en vous, tous ceux qui aiment votre nom ;",
+   "Parce que vous, vous bénirez le juste. Seigneur, vous nous avez couronnés de votre bonne volonté comme d’un bouclier."
+  ],
+  "latin": [
+   "In finem, pro ea quae haereditatem consequitur. Psalmus David.",
+   "Verba mea auribus percipe, Domine; intellige clamorem meum.",
+   "Intende voci orationis meae, rex meus et Deus meus.",
+   "Quoniam ad te orabo, Domine, mane exaudies vocem meam.",
+   "Mane astabo tibi, et videbo quoniam non Deus volens iniquitatem tu es.",
+   "Neque habitabit juxta te malignus, neque permanebunt injusti ante oculos tuos.",
+   "Odisti omnes qui operantur iniquitatem; perdes omnes qui loquuntur mendacium. Virum sanguinum et dolosum abominabitur Dominus.",
+   "Ego autem in multitudine misericordiae tuae introibo in domum tuam; adorabo ad templum sanctum tuum in timore tuo.",
+   "Domine, deduc me in justitia tua : propter inimicos meos dirige in conspectu tuo viam meam.",
+   "Quoniam non est in ore eorum veritas; cor eorum vanum est.",
+   "Sepulchrum patens est guttur eorum; linguis suis dolose agebant, judica illos, Deus. Decidant a cogitationibus suis; secundum multitudinem impietatum eorum expelle eos, quoniam irritaverunt te, Domine.",
+   "Et laetentur omnes qui sperant in te; in aeternum exsultabunt, et habitabis in eis. Et gloriabuntur in te omnes qui diligunt nomen tuum,",
+   "quoniam tu benedices justo. Domine, ut scuto bonae voluntatis tuae coronasti nos."
+  ],
+  "thomas": true,
+  "commentaire": {
+   "sections": [
+    {
+     "titre": "Paroles, cri, prière",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "Celui qui demande, observe saint Thomas, désire d’abord, puis médite ses paroles, puis les présente ; celui qui écoute entend les mots, en saisit le sens, puis se penche pour accorder. D’où les trois demandes : *prêtez l’oreille à mes paroles*, *entendez mon cri*, qui est l’élan intérieur, *soyez attentif à la voix de ma prière*. Et le futur *je vous prierai* marque une prière qui ne s’interrompt pas : **toujours prier, sans jamais se lasser**."
+     ]
+    },
+    {
+     "titre": "Dès le matin",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Dès le matin je me présenterai devant vous.* Le matin, dit saint Thomas, l’homme est libre de soucis et **a le cœur plus libre pour penser à Dieu** ; il se tient devant lui et s’y prépare, car il faut préparer son âme avant la prière. Il y a aussi le matin de la jeunesse, celui de la grâce, quand l’âme se convertit, et celui de l’éternité. Saint Augustin ajoute que se tenir debout, c’est ne plus être couché sur la terre, dans ses plaisirs."
+     ]
+    },
+    {
+     "titre": "Couronnés d’un bouclier",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "Comment un pécheur ose-t-il approcher ? *Grâce à la multitude de vos miséricordes*, répond saint Thomas, non selon ses mérites, et *pénétré de votre crainte*, c’est-à-dire avec révérence. Puis l’image finale : les Romains mettaient dans leurs boucliers ronds l’espoir de la victoire, et au triomphe ce même bouclier leur servait de couronne. Ainsi **la bonne volonté de Dieu nous défend ici et nous couronne là-haut**. Saint Augustin le dit : sa bienveillance précède notre volonté."
+     ],
+     "citation": {
+      "texte": "« Car la bienveillance du Seigneur précède notre volonté. Telles sont les armes pour vaincre notre ennemi. »",
+      "ref": "Saint Augustin, Discours sur le Psaume V, 17 (trad. Péronne et al., éd. Raulx, 1864)",
+      "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+     }
+    }
+   ]
+  },
+  "essentiel": [
+   "Prier, c’est désirer, méditer ses paroles, puis les confier à Dieu ; et continuer sans se lasser.",
+   "Le matin, le cœur est plus libre : c’est l’heure de se présenter devant Dieu.",
+   "J’entre chez Dieu par sa miséricorde, non par mes mérites ; sa bonne volonté est mon bouclier et ma couronne."
+  ],
+  "resolution": "Donner à Dieu les premières minutes libres de la journée, avant tout écran et tout souci, en redisant : *Dès le matin je me présenterai devant vous* ; et aujourd’hui, commencer chaque prière en demandant d’abord miséricorde.",
+  "sources": [
+   {
+    "label": "La sainte Bible selon la Vulgate, trad. de l’abbé J.-B. Glaire (éd. Vigouroux, 1905), Psaume 5",
+    "detail": "Texte et argument relevés sur l’édition de Wikisource",
+    "url": "https://fr.wikisource.org/wiki/La_sainte_Bible_selon_la_Vulgate_(J.-B._Glaire)/Psaumes"
+   },
+   {
+    "label": "Vulgate clémentine, Psalmus 5",
+    "detail": "Texte latin du psaume"
+   },
+   {
+    "label": "Saint Thomas d’Aquin, In psalmos Davidis expositio, Super Psalmo 5 (n. 1-9)",
+    "detail": "Texte latin lu sur le Corpus Thomisticum ; traduction d’Ad Fontes",
+    "url": "https://www.corpusthomisticum.org/cps02.html#86811"
+   },
+   {
+    "label": "Saint Augustin, Discours sur les Psaumes, Psaume V",
+    "detail": "Traduction de Péronne, Vincent, Écalle, Charpentier et Barreau (Œuvres complètes, éd. Raulx, 1864), vérifiée sur Wikisource",
+    "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+   }
+  ]
+ },
+ "6": {
+  "incipit": "Domine, ne in furore tuo arguas me",
+  "titre": "Les larmes du pénitent",
+  "argument": "David, pénétré de douleur de ses péchés et accablé des maux qui en étaient la peine, implore la miséricorde de Dieu. Il est si sûr d’être exaucé, qu’il reproche à ses ennemis d’avoir en vain espéré sa perte.",
+  "versets": [
+   "*Pour la fin, dans les cantiques, psaume de David, pour l’octave.*",
+   "Seigneur, ne me reprenez pas dans votre fureur, et ne me châtiez pas dans votre colère.",
+   "Ayez pitié de moi, Seigneur, parce que je suis infirme ; guérissez-moi, Seigneur, parce que mes os sont ébranlés.",
+   "Et mon âme est troublée à l’excès ; mais vous, Seigneur, jusqu’à quand ?…",
+   "Revenez, Seigneur, et délivrez mon âme ; sauvez-moi à cause de votre miséricorde.",
+   "Parce que nul dans la mort ne se souvient de vous : et dans l’enfer qui vous glorifiera ?",
+   "Je me suis fatigué dans mon gémissement ; je laverai chaque nuit mon lit de mes pleurs ; j’arroserai ma couche de mes larmes.",
+   "Mon œil a été troublé par l’indignation ; j’ai vieilli au milieu de tous mes ennemis.",
+   "Retirez-vous de moi, vous tous qui opérez l’iniquité ; parce que le Seigneur a exaucé la voix de mon pleur.",
+   "Le Seigneur a exaucé ma supplication, le Seigneur a accueilli ma prière.",
+   "Qu’ils rougissent et qu’ils soient remplis de trouble, tous mes ennemis ; qu’ils s’en retournent très promptement et qu’ils rougissent."
+  ],
+  "latin": [
+   "In finem, in carminibus. Psalmus David. Pro octava.",
+   "Domine, ne in furore tuo arguas me, neque in ira tua corripias me.",
+   "Miserere mei, Domine, quoniam infirmus sum; sana me, Domine, quoniam conturbata sunt ossa mea.",
+   "Et anima mea turbata est valde; sed tu, Domine, usquequo?",
+   "Convertere, Domine, et eripe animam meam; salvum me fac propter misericordiam tuam.",
+   "Quoniam non est in morte qui memor sit tui; in inferno autem quis confitebitur tibi?",
+   "Laboravi in gemitu meo; lavabo per singulas noctes lectum meum; lacrimis meis stratum meum rigabo.",
+   "Turbatus est a furore oculus meus; inveteravi inter omnes inimicos meos.",
+   "Discedite a me omnes qui operamini iniquitatem, quoniam exaudivit Dominus vocem fletus mei.",
+   "Exaudivit Dominus deprecationem meam; Dominus orationem meam suscepit.",
+   "Erubescant, et conturbentur vehementer omnes inimici mei; convertantur, et erubescant valde velociter."
+  ],
+  "thomas": true,
+  "commentaire": {
+   "sections": [
+    {
+     "titre": "Reprendre sans colère",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "Voici le premier des sept psaumes de la pénitence : tous, note saint Thomas, commencent dans le deuil et s’achèvent dans la joie, car **par la plainte de la pénitence on parvient au royaume de la gloire**. Le pécheur ne demande pas d’échapper à la correction, mais d’être repris sans fureur : Dieu reprend pour condamner au jugement, mais maintenant pour corriger, par des épreuves temporelles. Thomas cite ici saint Augustin : « Ici brûle, ici tranche, ici n’épargne pas, afin d’épargner pour l’éternité. »"
+     ]
+    },
+    {
+     "titre": "Revenez, Seigneur",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Je suis infirme* : le péché est une maladie de l’âme, dit saint Thomas, quand ses affections perdent leur juste mesure ; il ôte la force et trouble le jugement. D’où le cri : *revenez, Seigneur*. L’œil n’est éclairé par le soleil que s’il lui fait face ; Dieu offre toujours ce regard, mais l’homme se détourne, et **il faut que Dieu le tourne vers lui**. Saint Augustin le dit : nous l’avons perdu, non qu’il se soit retiré, mais parce que nous lui avons tourné le dos."
+     ],
+     "citation": {
+      "texte": "« Nous l’avons perdu, en effet, non qu’il se soit retiré de nous, puisqu’il est présent partout, mais bien parce que nous lui avons tourné le dos. »",
+      "ref": "Saint Augustin, Discours sur le Psaume VI, 5 (trad. Péronne et al., éd. Raulx, 1864)",
+      "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+     }
+    },
+    {
+     "titre": "Laver sa couche",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Je laverai chaque nuit mon lit de mes pleurs.* Moralement, dit saint Thomas, ce lit où l’homme se repose, c’est la conscience, et la couverture étendue dessus, ce sont les péchés : les larmes lavent ce qu’on a honte de confesser. *Chaque nuit*, c’est-à-dire pour chaque péché : **de chacun il faut pleurer**. *Je me suis fatigué* : c’est un labeur de combattre contre soi, mais ce labeur porte du fruit, puisque *le Seigneur a exaucé la voix de mon pleur*."
+     ]
+    }
+   ]
+  },
+  "essentiel": [
+   "Dieu reprend pour guérir, non pour condamner : sa correction d’aujourd’hui épargne l’éternité.",
+   "Si je ne vois plus la lumière, ce n’est pas Dieu qui s’éloigne : c’est moi qui me suis détourné.",
+   "Chaque péché mérite sa larme ; la conscience lavée redevient un lieu de repos."
+  ],
+  "resolution": "Ce soir, avant de dormir, reprendre la journée devant Dieu et nommer un péché précis, un seul, pour en demander pardon avec regret ; puis dire lentement : *Revenez, Seigneur, et délivrez mon âme*.",
+  "sources": [
+   {
+    "label": "La sainte Bible selon la Vulgate, trad. de l’abbé J.-B. Glaire (éd. Vigouroux, 1905), Psaume 6",
+    "detail": "Texte et argument relevés sur l’édition de Wikisource",
+    "url": "https://fr.wikisource.org/wiki/La_sainte_Bible_selon_la_Vulgate_(J.-B._Glaire)/Psaumes"
+   },
+   {
+    "label": "Vulgate clémentine, Psalmus 6",
+    "detail": "Texte latin du psaume"
+   },
+   {
+    "label": "Saint Thomas d’Aquin, In psalmos Davidis expositio, Super Psalmo 6 (n. 1-7)",
+    "detail": "Texte latin lu sur le Corpus Thomisticum ; traduction d’Ad Fontes",
+    "url": "https://www.corpusthomisticum.org/cps02.html#86820"
+   },
+   {
+    "label": "Saint Augustin, Discours sur les Psaumes, Psaume VI",
+    "detail": "Traduction de Péronne, Vincent, Écalle, Charpentier et Barreau (Œuvres complètes, éd. Raulx, 1864), vérifiée sur Wikisource",
+    "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+   }
+  ]
+ },
+ "7": {
+  "incipit": "Domine Deus meus, in te speravi",
+  "titre": "Le silence du juste",
+  "argument": "David, persécuté par Saul, invoque le secours du Seigneur. Il le prend à témoin de son innocence, et il prédit que le mal que son ennemi veut lui faire retombera sur lui.",
+  "versets": [
+   "*Psaume de David qu’il chanta au Seigneur, à cause des paroles de Chus, fils de Jémini. *",
+   "Seigneur, mon Dieu, c’est en vous que j’ai espéré ; sauvez-moi de tous ceux qui me persécutent et délivrez-moi.",
+   "De peur qu’enfin, comme un lion, il ne ravisse mon âme, tandis qu’il n’y a personne qui me délivre et me sauve.",
+   "Seigneur mon Dieu, si j’ai fait cela, si l’iniquité est dans mes mains ;",
+   "Si j’ai rendu le mal à ceux qui m’en avaient fait, que je tombe devant mes ennemis sans défense ; je l’ai mérité.",
+   "Que l’ennemi poursuive mon âme, qu’il la saisisse, et qu’il foule ma vie contre la terre, et qu’il ensevelisse ma gloire dans la poussière.",
+   "Levez-vous, Seigneur, dans votre colère, et paraissez dans votre grandeur au milieu de mes ennemis. Levez-vous, Seigneur mon Dieu, selon le précepte que vous avez établi.",
+   "Et l’assemblée des peuples vous environnera. Et à cause d’elle retournez en haut.",
+   "Le Seigneur juge les peuples. Jugez-moi, Seigneur, selon ma justice, et selon l’innocence qui est en moi.",
+   "La méchanceté des pécheurs sera anéantie, et vous dirigerez le juste, ô Dieu qui sondez les cœurs et les reins.",
+   "Un juste secours me viendra du Seigneur, qui sauve les hommes droits de cœur.",
+   "Dieu est un juge équitable, fort et patient ; est-ce qu’il s’irrite tous les jours ?",
+   "Si vous ne vous convertissez, il fera vibrer son glaive ; il a tendu son arc, et il l’a préparé.",
+   "Il y a adapté des instruments de mort, il a préparé ses flèches contre les ardents persécuteurs.",
+   "Voilà qu’il a enfanté l’injustice : il a conçu la douleur et a mis au monde l’iniquité.",
+   "Il a ouvert un abîme, et il l’a creusé ; et il est tombé dans la fosse qu’il avait faite.",
+   "La douleur qu’il voulait me causer retournera sur sa tête ; et son iniquité descendra sur lui.",
+   "Je louerai le Seigneur selon sa justice ; je chanterai le nom du Dieu très-haut."
+  ],
+  "latin": [
+   "Psalmus David, quem cantavit Domino pro verbis Chusi, filii Jemini.",
+   "Domine Deus meus, in te speravi; salvum me fac ex omnibus persequentibus me, et libera me,",
+   "nequando rapiat ut leo animam meam, dum non est qui redimat, neque qui salvum faciat.",
+   "Domine Deus meus, si feci istud, si est iniquitas in manibus meis,",
+   "si reddidi retribuentibus mihi mala, decidam merito ab inimicis meis inanis.",
+   "Persequatur inimicus animam meam, et comprehendat; et conculcet in terra vitam meam, et gloriam meam in pulverem deducat.",
+   "Exsurge, Domine, in ira tua; et exaltare in finibus inimicorum meorum; et exsurge, Domine Deus meus, in praecepto quod mandasti;",
+   "et synagoga populorum circumdabit te : et propter hanc in altum regredere.",
+   "Dominus judicat populos. Judica me, Domine, secundum justitiam meam, et secundum innocentiam meam super me.",
+   "Consumetur nequitia peccatorum; et diriges justum, scrutans corda et renes, Deus.",
+   "Justum adjutorium meum a Domino, qui salvos facit rectos corde.",
+   "Deus judex justus, fortis, et patiens; numquid irascitur per singulos dies?",
+   "Nisi conversi fueritis, gladium suum vibrabit; arcum suum tetendit, et paravit illum.",
+   "Et in eo paravit vasa mortis, sagittas suas ardentibus effecit.",
+   "Ecce parturiit injustitiam; concepit dolorem, et peperit iniquitatem.",
+   "Lacum aperuit, et effodit eum; et incidit in foveam quam fecit.",
+   "Convertetur dolor ejus in caput ejus, et in verticem ipsius iniquitas ejus descendet.",
+   "Confitebor Domino secundum justitiam ejus, et psallam nomini Domini altissimi."
+  ],
+  "thomas": true,
+  "commentaire": {
+   "sections": [
+    {
+     "titre": "Si j’ai fait cela",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "David proteste de son innocence, et saint Thomas en distingue trois degrés : n’avoir fait tort à personne, *si l’iniquité est dans mes mains* ; avoir remis l’offense, comme lorsqu’il épargna Saül ; enfin avoir fait du bien à ses ennemis, ce qui est le troisième bien. Thomas rappelle Élisée faisant servir un repas à l’armée venue pour le prendre. **Ne pas rendre le mal ne suffit pas : il faut vaincre le mal par le bien.**"
+     ]
+    },
+    {
+     "titre": "Le juge patient",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Dieu est un juge équitable, fort et patient ; est-ce qu’il s’irrite tous les jours ?* Pourquoi ne punit-il pas aussitôt ? Saint Thomas écarte deux fausses raisons : il ne serait pas juste, ou pas assez fort. Reste la vraie : **il est patient**, il dissimule les péchés en vue de la pénitence. Même son arc tendu est une grâce : il ne frappe pas tout de suite, il se prépare pour que tu te convertisses. Saint Augustin ajoute qu’il diffère encore aujourd’hui, appelant chaque jour les pécheurs au repentir."
+     ],
+     "citation": {
+      "texte": "« … il est patient, puisqu’il n’a point livré ses bourreaux au supplice, aussitôt après sa résurrection, mais il a différé afin qu’ils pussent détester cette impiété, et se sauver ; il diffère encore aujourd’hui, réservant le supplice éternel pour le dernier jugement, et chaque jour appelant les pécheurs au repentir. »",
+      "ref": "Saint Augustin, Discours sur le Psaume VII, 12 (trad. Péronne et al., éd. Raulx, 1864)",
+      "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+     }
+    },
+    {
+     "titre": "Les cœurs et les reins",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Ô Dieu qui sondez les cœurs et les reins.* Il y a en l’homme, dit saint Thomas, une chose visible, l’œuvre extérieure, et deux cachées : l’intention, qui est le cœur, et le plaisir, qui sont les reins. Dieu voit **si tu te plais à la louange de Dieu ou à celle des hommes**. Et il *sauve les hommes droits de cœur* : la droiture regarde la fin, et c’est l’intention qui doit être droite."
+     ]
+    }
+   ]
+  },
+  "essentiel": [
+   "L’innocence chrétienne a trois degrés : ne nuire à personne, pardonner l’offense, faire du bien à qui nous a fait du mal.",
+   "Si Dieu tarde à punir, ce n’est ni faiblesse ni indifférence : c’est patience, pour que je me convertisse.",
+   "Dieu regarde l’intention et ce qui me plaît vraiment : sa louange ou celle des hommes."
+  ],
+  "resolution": "Aujourd’hui, faire un bien concret et discret à quelqu’un qui m’a blessé ; et avant une action en vue, me demander : à qui est-ce que je veux plaire ?",
+  "sources": [
+   {
+    "label": "La sainte Bible selon la Vulgate, trad. de l’abbé J.-B. Glaire (éd. Vigouroux, 1905), Psaume 7",
+    "detail": "Texte et argument relevés sur l’édition de Wikisource",
+    "url": "https://fr.wikisource.org/wiki/La_sainte_Bible_selon_la_Vulgate_(J.-B._Glaire)/Psaumes"
+   },
+   {
+    "label": "Vulgate clémentine, Psalmus 7",
+    "detail": "Texte latin du psaume"
+   },
+   {
+    "label": "Saint Thomas d’Aquin, In psalmos Davidis expositio, Super Psalmo 7 (n. 1-10)",
+    "detail": "Texte latin lu sur le Corpus Thomisticum ; traduction d’Ad Fontes",
+    "url": "https://www.corpusthomisticum.org/cps02.html#86827"
+   },
+   {
+    "label": "Saint Augustin, Discours sur les Psaumes, Psaume VII",
+    "detail": "Traduction de Péronne, Vincent, Écalle, Charpentier et Barreau (Œuvres complètes, éd. Raulx, 1864), vérifiée sur Wikisource",
+    "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+   }
+  ]
+ },
+ "8": {
+  "incipit": "Domine, Dominus noster, quam admirabile est nomen tuum",
+  "titre": "Qu’est-ce que l’homme ?",
+  "argument": "Le psalmiste admire la grandeur de Dieu peinte dans ses ouvrages, et l’excès de sa bonté dans le soin qu’il prend de l’homme et dans la puissance qu’il lui a donnée sur toutes les créatures. Ce psaume regarde particulièrement Jésus-Christ.",
+  "versets": [
+   "*Pour la fin, pour les pressoirs, psaume de David.*",
+   "Seigneur, notre Seigneur, que votre nom est admirable dans toute la terre ! Puisque votre magnificence est élevée au-dessus des cieux.",
+   "De la bouche des enfants et de ceux qui sont à la mamelle, vous avez tiré une louange parfaite pour anéantir l’ennemi et son vengeur.",
+   "Je considérerai vos cieux, les œuvres de vos doigts ; la lune et les étoiles que vous avez affermies.",
+   "Qu’est-ce qu’un homme, pour que vous vous souveniez de lui, et le fils d’un homme, pour que vous le visitiez ?",
+   "Vous l’avez abaissé un peu au-dessous des anges, vous l’avez couronné de gloire et d’honneur,",
+   "Et vous l’avez établi sur les œuvres de vos mains.",
+   "Vous avez mis toutes choses sous ses pieds, brebis et bœufs, et de plus les animaux des champs ;",
+   "Les oiseaux du ciel, et les poissons de la mer qui parcourent les sentiers de la mer.",
+   "Seigneur notre Seigneur, que votre nom est admirable dans toute la terre !"
+  ],
+  "latin": [
+   "In finem, pro torcularibus. Psalmus David.",
+   "Domine, Dominus noster, quam admirabile est nomen tuum in universa terra! quoniam elevata est magnificentia tua super caelos.",
+   "Ex ore infantium et lactentium perfecisti laudem propter inimicos tuos, ut destruas inimicum et ultorem.",
+   "Quoniam videbo caelos tuos, opera digitorum tuorum, lunam et stellas quae tu fundasti.",
+   "Quid est homo, quod memor es ejus? aut filius hominis, quoniam visitas eum?",
+   "Minuisti eum paulo minus ab angelis; gloria et honore coronasti eum;",
+   "et constituisti eum super opera manuum tuarum.",
+   "Omnia subjecisti sub pedibus ejus, oves et boves universas, insuper et pecora campi,",
+   "volucres caeli, et pisces maris qui perambulant semitas maris.",
+   "Domine, Dominus noster, quam admirabile est nomen tuum in universa terra!"
+  ],
+  "thomas": true,
+  "commentaire": {
+   "sections": [
+    {
+     "titre": "Pourquoi il reste admirable",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Que votre nom est admirable !* On admire, explique saint Thomas, quand on voit un effet sans en connaître la cause. Dieu n’est pas tout à fait inconnu, puisque ses œuvres le montrent ; mais aucune ne le montre parfaitement : **c’est pourquoi il demeure admirable**. Et les simples, *les enfants et ceux qui sont à la mamelle*, le louent, confondant ceux qui faussent leur instinct naturel. Saint Augustin ajoute que Dieu oblige ainsi quiconque veut connaître sa grandeur à commencer par croire."
+     ]
+    },
+    {
+     "titre": "L’œuvre de vos doigts",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Je considérerai vos cieux, les œuvres de vos doigts.* Saint Thomas reprend l’image de Cicéron : qui entre dans un palais bien ordonné comprend, sans avoir vu les ouvriers, qu’il a été bâti par quelqu’un. Nous entrons ainsi dans le monde : son ordre, surtout celui des astres, **renvoie à une cause intelligente**. Les *doigts* disent un ouvrage attentif et fin, et la facilité de Dieu : ce qui est lourd, on le soulève de l’épaule ; ce qui est léger, du doigt."
+     ]
+    },
+    {
+     "titre": "Qu’est-ce que l’homme ?",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Qu’est-ce qu’un homme, pour que vous vous souveniez de lui ?* Saint Thomas imagine un artisan qui a fait de grandes œuvres, et parmi elles une aiguille : qu’il s’en soucie serait merveilleux. Or Dieu fait plus que se souvenir, il *visite* : seule la nature raisonnable est capable de Dieu, en le connaissant et en l’aimant, et **quand il se rend présent par l’amour ou la connaissance, il nous visite**. Sa couronne de *gloire*, c’est la clarté de l’image divine."
+     ]
+    }
+   ]
+  },
+  "essentiel": [
+   "Dieu se laisse connaître par ses œuvres sans s’y épuiser : on ne finit jamais de l’admirer.",
+   "L’ordre du monde est une signature : un palais bien bâti suppose un architecte.",
+   "L’homme est petit, mais capable de Dieu : chaque acte de foi ou d’amour est une visite."
+  ],
+  "resolution": "Ce soir, prendre deux minutes pour regarder le ciel, ou à défaut une œuvre de la création, et redire lentement : *Seigneur, notre Seigneur, que votre nom est admirable dans toute la terre !*",
+  "sources": [
+   {
+    "label": "La sainte Bible selon la Vulgate, trad. de l’abbé J.-B. Glaire (éd. Vigouroux, 1905), Psaume 8",
+    "detail": "Texte et argument relevés sur l’édition de Wikisource",
+    "url": "https://fr.wikisource.org/wiki/La_sainte_Bible_selon_la_Vulgate_(J.-B._Glaire)/Psaumes"
+   },
+   {
+    "label": "Vulgate clémentine, Psalmus 8",
+    "detail": "Texte latin du psaume"
+   },
+   {
+    "label": "Saint Thomas d’Aquin, In psalmos Davidis expositio, Super Psalmo 8 (n. 1-5)",
+    "detail": "Texte latin lu sur le Corpus Thomisticum ; traduction d’Ad Fontes",
+    "url": "https://www.corpusthomisticum.org/cps02.html#86837"
+   },
+   {
+    "label": "Saint Augustin, Discours sur les Psaumes, Psaume VIII",
+    "detail": "Traduction de Péronne, Vincent, Écalle, Charpentier et Barreau (Œuvres complètes, éd. Raulx, 1864), vérifiée sur Wikisource",
+    "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+   }
+  ]
+ },
+ "9": {
+  "incipit": "Confitebor tibi, Domine",
+  "titre": "Le refuge du pauvre",
+  "argument": "David loue le Seigneur de l’avoir rendu victorieux de ses ennemis, il assure que Dieu protégera de même tous ceux qui auront recours à lui.",
+  "versets": [
+   "*Pour la fin, pour les mystères du Fils, psaume de David.*",
+   "Je vous louerai, Seigneur, en tout mon cœur ; je raconterai toutes vos merveilles.",
+   "Je me réjouirai et je tressaillirai d’allégresse en vous ; je chanterai votre nom, ô Très-Haut.",
+   "Quand vous aurez mis mon ennemi en fuite, ils seront sans force, et ils périront devant votre face.",
+   "Puisque vous m’avez fait justice et pris en main ma cause : vous vous êtes assis sur votre trône, vous qui jugez selon la justice.",
+   "Vous avez gourmande les nations, et l’impie a péri ; vous avez effacé leur nom pour l’éternité, et pour les siècles des siècles.",
+   "Les armes de l’ennemi ont perdu leur force pour toujours, et vous avez détruit leurs villes. Leur mémoire a péri avec bruit :",
+   "Et le Seigneur demeure éternellement. Il a préparé son trône pour le jugement :",
+   "Et lui-même jugera le globe de la terre avec équité, il jugera les peuples avec justice.",
+   "Et le Seigneur s’est fait le refuge du pauvre, son aide au temps du besoin, dans la tribulation.",
+   "Qu’ils espèrent donc en vous ceux qui connaissent votre nom, puisque vous n’avez pas délaissé ceux qui vous cherchent, Seigneur.",
+   "Chantez le Seigneur, qui habite dans Sion ; annoncez ses desseins parmi les nations.",
+   "Puisqu’il s’est souvenu d’eux, en demandant compte du sang, et qu’il n’a pas oublié le cri du pauvre.",
+   "Ayez pitié de moi, Seigneur, voyez l’abaissement où m’ont réduit mes ennemis.",
+   "Vous qui me relevez des portes de la mort, afin que je publie toutes vos louanges aux portes de la fille de Sion.",
+   "Je tressaillirai de joie dans votre salut. Les nations ont été englouties dans le gouffre qu’elles avaient préparé ; Leur pied a été pris dans le même lacet qu’elles avaient caché.",
+   "Ainsi on reconnaîtra que le Seigneur rend justice ; le pécheur a été pris dans les œuvres de ses mains.",
+   "Que de même les pécheurs soient précipités dans l’enfer, et toutes les nations qui oublient Dieu.",
+   "Car le pauvre ne sera pas pour toujours en oubli ; la patience des pauvres ne sera pas toujours vaine.",
+   "Levez-vous, Seigneur, que l’homme ne se fortifie point : que les nations soient jugées en votre présence.",
+   "Établissez, Seigneur, un législateur sur eux, afin que les peuples sachent qu’ils ne sont que des hommes.",
+   "Pourquoi, Seigneur, vous êtes-vous retiré au loin, et avez-vous détourné *de moi* vos regards au temps du besoin, dans la tribulation ?",
+   "Pendant que l’impie s’enorgueillit, le pauvre est persécuté avec ardeur ; ils sont pris dans les projets qu’ils forment.",
+   "Parce que le pécheur est loué dans les désirs de son âme, et que le méchant est béni.",
+   "Le pécheur a irrité le Seigneur ; il ne se mettra pas en peine de la grandeur de sa colère.",
+   "Dieu n’est point devant ses yeux ; ses voies sont souillées en tout temps. Vos jugements sont ôtés de devant sa vue ; il dominera tous ses ennemis.",
+   "Car il a dit dans son cœur : Je ne serai point ébranlé ; de génération en génération je serai sans aucun mal.",
+   "Sa bouche est pleine de malédiction, d’amertume et de fraude : sous sa langue sont le travail et la douleur.",
+   "Il est assis en embuscade avec les riches, dans des lieux cachés, afin de tuer l’innocent.",
+   "Ses yeux observent le pauvre : il lui dresse des embûches dans le secret, comme un lion dans sa caverne. Il dresse des embûches pour prendre le pauvre ; pour prendre le pauvre, tandis qu’il l’attire.",
+   "*Quand il l’aura* dans son filet, il le renversera, il s’inclinera, et tombera, lorsqu’il se sera rendu maître des pauvres.",
+   "Car il a dit dans son cœur : Dieu a perdu le souvenir, il a détourné sa face pour ne rien voir à jamais.",
+   "Levez-vous, Seigneur Dieu, que votre main s’élève : n’oubliez pas les pauvres.",
+   "Pourquoi l’impie a-t-il irrité Dieu ? C’est qu’il a dit dans son cœur : Il n’en recherchera pas la vengeance.",
+   "Vous le voyez ; car vous considérez le travail et la douleur, afin de livrer les oppresseurs entre vos mains. Le pauvre vous est abandonné ; c’est vous qui serez le protecteur de l’orphelin.",
+   "Brisez le bras du pécheur et du méchant ; l’on cherchera son péché, et on ne le trouvera pas.",
+   "Le Seigneur régnera éternellement et dans les siècles des siècles : nations, vous serez exterminées de la terre.",
+   "Le Seigneur a exaucé le désir des pauvres : votre oreille a entendu la préparation de leur cœur :",
+   "Afin de rendre justice à l’orphelin et au faible, afin que l’homme cesse de s’élever d’orgueil sur la terre."
+  ],
+  "latin": [
+   "In finem, pro occultis filii. Psalmus David.",
+   "Confitebor tibi, Domine, in toto corde meo; narrabo omnia mirabilia tua.",
+   "Laetabor et exsultabo in te; psallam nomini tuo, Altissime.",
+   "In convertendo inimicum meum retrorsum; infirmabuntur, et peribunt a facie tua.",
+   "Quoniam fecisti judicium meum et causam meam; sedisti super thronum, qui judicas justitiam.",
+   "Increpasti gentes, et periit impius : nomen eorum delesti in aeternum, et in saeculum saeculi.",
+   "Inimici defecerunt frameae in finem, et civitates eorum destruxisti. Periit memoria eorum cum sonitu;",
+   "et Dominus in aeternum permanet. Paravit in judicio thronum suum;",
+   "et ipse judicabit orbem terrae in aequitate, judicabit populos in justitia.",
+   "Et factus est Dominus refugium pauperi; adjutor in opportunitatibus, in tribulatione.",
+   "Et sperent in te qui noverunt nomen tuum, quoniam non dereliquisti quaerentes te, Domine.",
+   "Psallite Domino qui habitat in Sion; annuntiate inter gentes studia ejus,",
+   "quoniam requirens sanguinem eorum recordatus est; non est oblitus clamorem pauperum.",
+   "Miserere mei, Domine : vide humilitatem meam de inimicis meis,",
+   "qui exaltas me de portis mortis, ut annuntiem omnes laudationes tuas in portis filiae Sion.",
+   "Exultabo in salutari tuo. Infixae sunt gentes in interitu quem fecerunt; in laqueo isto quem absconderunt comprehensus est pes eorum.",
+   "Cognoscetur Dominus judicia faciens; in operibus manuum suarum comprehensus est peccator.",
+   "Convertantur peccatores in infernum, omnes gentes quae obliviscuntur Deum.",
+   "Quoniam non in finem oblivio erit pauperis; patientia pauperum non peribit in finem.",
+   "Exsurge, Domine; non confortetur homo : judicentur gentes in conspectu tuo.",
+   "Constitue, Domine, legislatorem super eos, ut sciant gentes quoniam homines sunt.",
+   "Ut quid, Domine, recessisti longe, despicis in opportunitatibus, in tribulatione?",
+   "Dum superbit impius, incenditur pauper : comprehenduntur in consiliis quibus cogitant.",
+   "Quoniam laudatur peccator in desideriis animae suae, et iniquus benedicitur.",
+   "Exacerbavit Dominum peccator, secundum multitudinem irae suae, non quaeret.",
+   "Non est Deus in conspectu ejus, inquinatae sunt viae illius in omni tempore. Auferuntur judicia tua a facie ejus; omnium inimicorum suorum dominabitur.",
+   "Dixit enim in corde suo : Non movebor a generatione in generationem, sine malo.",
+   "Cujus maledictione os plenum est, et amaritudine, et dolo; sub lingua ejus labor et dolor.",
+   "Sedet in insidiis cum divitibus in occultis, ut interficiat innocentem.",
+   "Oculi ejus in pauperem respiciunt; insidiatur in abscondito, quasi leo in spelunca sua. Insidiatur ut rapiat pauperem; rapere pauperem dum attrahit eum.",
+   "In laqueo suo humiliabit eum; inclinabit se, et cadet cum dominatus fuerit pauperum.",
+   "Dixit enim in corde suo : Oblitus est Deus; avertit faciem suam, ne videat in finem.",
+   "Exsurge, Domine Deus, exaltetur manus tua; ne obliviscaris pauperum.",
+   "Propter quid irritavit impius Deum? dixit enim in corde suo : Non requiret.",
+   "Vides, quoniam tu laborem et dolorem consideras, ut tradas eos in manus tuas. Tibi derelictus est pauper; orphano tu eris adjutor.",
+   "Contere brachium peccatoris et maligni; quaeretur peccatum illius, et non invenietur.",
+   "Dominus regnabit in aeternum, et in saeculum saeculi; peribitis, gentes, de terra illius.",
+   "Desiderium pauperum exaudivit Dominus; praeparationem cordis eorum audivit auris tua,",
+   "judicare pupillo et humili, ut non apponat ultra magnificare se homo super terram."
+  ],
+  "thomas": true,
+  "commentaire": {
+   "sections": [
+    {
+     "titre": "De tout mon cœur",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Je vous louerai, Seigneur, en tout mon cœur.* Pourquoi *tout* le cœur ? Parce que Dieu est plus grand que notre cœur, répond saint Thomas, et que **celui qui ne donne pas à Dieu tout son cœur, mais veut garder autre chose avec lui, le perd**. *Je raconterai toutes vos merveilles* : non qu’on puisse tout dire, mais l’intention ne doit s’arrêter nulle part ; et Thomas cite saint Hilaire : qui poursuit pieusement l’infini, même s’il n’y parvient jamais, avance en marchant."
+     ]
+    },
+    {
+     "titre": "Le refuge du pauvre",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Le Seigneur s’est fait le refuge du pauvre, son aide au temps du besoin.* La miséricorde, note saint Thomas, se mesure à qui la reçoit, l’indigent, et au moment où elle vient, la tribulation, car c’est alors que les hommes se tournent vers Dieu. Et plus loin : *le pauvre vous est abandonné* ; ceux qui n’ont ni richesses ni amis pour les défendre, **leur secours regarde Dieu seul**. Saint Augustin précise qu’il est le refuge de ceux qui choisissent la pauvreté, sans s’attacher à ce qui passe."
+     ],
+     "citation": {
+      "texte": "« Il sera leur refuge, si dans ce monde, dont Satan est le prince, ils choisissent la pauvreté, ne s’attachant à rien de ce qui échappe à notre avidité pendant cette vie, ou que nous abandonnons à la mort. C’est à ces pauvres que le Seigneur sert de refuge. »",
+      "ref": "Saint Augustin, Discours sur le Psaume IX, 10 (trad. Péronne et al., éd. Raulx, 1864)",
+      "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+     }
+    },
+    {
+     "titre": "Dieu devant les yeux",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "De l’impie le psaume dit : *Dieu n’est point devant ses yeux ; ses voies sont souillées*. Quand Dieu n’est plus dans l’intention, explique saint Thomas, l’homme se tourne vers les choses temporelles, et **l’âme se souille en se mêlant à ce qui vaut moins qu’elle** ; unie à Dieu, qui vaut mieux qu’elle, elle ne se souille pas, elle s’éclaire. Et la Glose qu’il rapporte donne la parade : il échappe aisément aux pièges de la terre, celui qui garde toujours les yeux au ciel."
+     ]
+    }
+   ]
+  },
+  "essentiel": [
+   "Garder quelque chose à côté de Dieu, c’est risquer de le perdre : il veut tout le cœur.",
+   "Celui qui n’a que Dieu n’est pas sans secours : il est confié à Dieu seul.",
+   "L’âme prend la couleur de ce à quoi elle se mêle : souillée par ce qui vaut moins qu’elle, éclairée par Dieu."
+  ],
+  "resolution": "Aujourd’hui, faire un geste concret envers un pauvre ou une personne seule (une visite, un appel, une aumône) ; et dans la tentation, lever les yeux et redire : *Le Seigneur s’est fait le refuge du pauvre*.",
+  "sources": [
+   {
+    "label": "La sainte Bible selon la Vulgate, trad. de l’abbé J.-B. Glaire (éd. Vigouroux, 1905), Psaume 9",
+    "detail": "Texte et argument relevés sur l’édition de Wikisource",
+    "url": "https://fr.wikisource.org/wiki/La_sainte_Bible_selon_la_Vulgate_(J.-B._Glaire)/Psaumes"
+   },
+   {
+    "label": "Vulgate clémentine, Psalmus 9",
+    "detail": "Texte latin du psaume"
+   },
+   {
+    "label": "Saint Thomas d’Aquin, In psalmos Davidis expositio, Super Psalmo 9 (n. 1-25)",
+    "detail": "Texte latin lu sur le Corpus Thomisticum ; traduction d’Ad Fontes",
+    "url": "https://www.corpusthomisticum.org/cps02.html#86842"
+   },
+   {
+    "label": "Saint Augustin, Discours sur les Psaumes, Psaume IX",
+    "detail": "Traduction de Péronne, Vincent, Écalle, Charpentier et Barreau (Œuvres complètes, éd. Raulx, 1864), vérifiée sur Wikisource",
+    "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+   }
+  ]
+ },
+ "10": {
+  "incipit": "In Domino confido",
+  "titre": "Le passereau confiant",
+  "argument": "David se fortifie contre la crainte qu’on voulait lui donner de ses ennemis, par la vue de La justice de Dieu, et de son attention à punir les impies et à protéger les innocents.",
+  "versets": [
+   "*Pour la fin, psaume de David.*",
+   "Je me confie dans le Seigneur : comment dites-vous à mon âme : Émigré sur la montagne comme un passereau ?",
+   "Parce que voilà que les pécheurs ont tendu un arc ; ils ont préparé leurs flèches dans un carquois, pour percer dans les ténèbres *les hommes* droits de cœur.",
+   "Parce que, ce que vous avez établi, ils l’ont détruit ; mais le juste, qu’a-t-il fait ?",
+   "Le Seigneur est dans son saint temple ; le Seigneur, son trône est dans le ciel. Ses yeux observent le pauvre : ses paupières interrogent les enfants des hommes.",
+   "Le Seigneur interroge le juste et l’impie ; mais celui qui aime l’iniquité hait son âme.",
+   "Il fera pleuvoir sur les pécheurs des pièges ; le feu, le soufre et le vent des tempêtes sont la part de leur calice.",
+   "Car le Seigneur est juste et il aime la justice : son visage a vu l’équité."
+  ],
+  "latin": [
+   "In finem. Psalmus David.",
+   "In Domino confido; quomodo dicitis animae meae : Transmigra in montem sicut passer?",
+   "Quoniam ecce peccatores intenderunt arcum; paraverunt sagittas suas in pharetra, ut sagittent in obscuro rectos corde;",
+   "quoniam quae perfecisti destruxerunt; justus autem quid fecit?",
+   "Dominus in templo sancto suo; Dominus in caelo sedes ejus. Oculi ejus in pauperem respiciunt, palpebrae ejus interrogant filios hominum.",
+   "Dominus interrogat justum et impium; qui autem diligit iniquitatem, odit animam suam.",
+   "Pluet super peccatores laqueos; ignis et sulphur, et spiritus procellarum, pars calicis eorum.",
+   "Quoniam justus Dominus, et justitias dilexit : aequitatem vidit vultus ejus."
+  ],
+  "thomas": true,
+  "commentaire": {
+   "sections": [
+    {
+     "titre": "Le passereau et le nid",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Je me confie dans le Seigneur : comment dites-vous à mon âme : Émigre sur la montagne comme un passereau ?* On pressait David de fuir et de se cacher dans les hauteurs. Saint Thomas y lit aussi le fidèle que l’hérétique invite à le rejoindre, comme si le Christ était chez lui : céder, ce serait devenir **un passereau léger, et non un oiseau qui demeure**. Saint Augustin répond de même : j’ai un nid où me reposer, puisque ma confiance est dans le Seigneur."
+     ],
+     "citation": {
+      "texte": "« J’ai un nid où je puis reposer, puisque ma confiance est dans le Seigneur. »",
+      "ref": "Saint Augustin, Discours sur le Psaume X, 1 (trad. Péronne et al., éd. Raulx, 1864)",
+      "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+     }
+    },
+    {
+     "titre": "Le temple et le ciel",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Le Seigneur est dans son saint temple ; son trône est dans le ciel.* Un juge qui punit toujours est cruel, note saint Thomas ; qui pardonne toujours est relâché. Dieu fait l’un et l’autre : le temple est **le tribunal de la miséricorde**, ce trône de grâce dont on s’approche avec confiance ; le ciel, le siège de la justice. Et ce temple, c’est aussi l’âme fidèle : on y prie le Père dans le secret, la porte close, et on y offre un esprit brisé."
+     ]
+    },
+    {
+     "titre": "Ses paupières interrogent",
+     "source": "Saint Thomas d’Aquin",
+     "paragraphes": [
+      "*Ses paupières interrogent les enfants des hommes.* Les paupières, qui guident le regard, signifient pour saint Thomas le discernement de Dieu : il éprouve, tantôt en punissant, tantôt en épargnant, tantôt en donnant, tantôt en retirant. Il reprend le mot de saint Grégoire : **la peine infligée demande si celui qui souffre aime Dieu en vérité**. Et *celui qui aime l’iniquité hait son âme* : il aime en lui la part sensible et hait la part raisonnable."
+     ]
+    }
+   ]
+  },
+  "essentiel": [
+   "La fidélité ne vole pas d’une montagne à l’autre : elle demeure là où est le Christ.",
+   "Dieu n’est ni cruel ni relâché : dans son temple il fait miséricorde, dans le ciel il rend justice.",
+   "Chaque épreuve est une question de Dieu : m’aimes-tu en vérité ?"
+  ],
+  "resolution": "Aujourd’hui, devant la première contrariété, répondre intérieurement : « Seigneur, tu m’interroges : oui, je t’aime » ; et prendre cinq minutes de prière dans le secret, porte close.",
+  "sources": [
+   {
+    "label": "La sainte Bible selon la Vulgate, trad. de l’abbé J.-B. Glaire (éd. Vigouroux, 1905), Psaume 10",
+    "detail": "Texte et argument relevés sur l’édition de Wikisource",
+    "url": "https://fr.wikisource.org/wiki/La_sainte_Bible_selon_la_Vulgate_(J.-B._Glaire)/Psaumes"
+   },
+   {
+    "label": "Vulgate clémentine, Psalmus 10",
+    "detail": "Texte latin du psaume"
+   },
+   {
+    "label": "Saint Thomas d’Aquin, In psalmos Davidis expositio, Super Psalmo 10 (n. 1-4)",
+    "detail": "Texte latin lu sur le Corpus Thomisticum ; traduction d’Ad Fontes",
+    "url": "https://www.corpusthomisticum.org/cps02.html#86867"
+   },
+   {
+    "label": "Saint Augustin, Discours sur les Psaumes, Psaume X",
+    "detail": "Traduction de Péronne, Vincent, Écalle, Charpentier et Barreau (Œuvres complètes, éd. Raulx, 1864), vérifiée sur Wikisource",
+    "url": "https://fr.wikisource.org/wiki/Discours_sur_les_psaumes_(Augustin)/Psaumes_I_%C3%A0_X"
+   }
+  ]
+ }
+}

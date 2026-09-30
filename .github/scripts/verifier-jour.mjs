@@ -15,40 +15,21 @@
             ou 1 (au moins une journée incomplète).
    ============================================================ */
 
-import { readFileSync, writeFileSync } from "node:fs";
-import { runInNewContext } from "node:vm";
+import { readFileSync, writeFileSync, readdirSync } from "node:fs";
+import { join } from "node:path";
 
-const SOURCE = process.env.ADF_SOURCE || "index.html";
+const SOURCE = process.env.ADF_SOURCE || "donnees/jours";
 const FENETRE = Number(process.env.ADF_FENETRE || 7); // jours vérifiés, aujourd'hui inclus
 const FUSEAU = "Europe/Paris";
 
 /* ---------- Chargement des données ----------
-   Aujourd'hui les journées vivent dans l'objet JOURS, inscrit
-   directement dans index.html. Si le dépôt passe un jour à des
-   fichiers de données mensuels, seule cette fonction change. */
-function chargerJours(chemin) {
-  const src = readFileSync(chemin, "utf8");
-  const depart = src.indexOf("const JOURS");
-  if (depart === -1) throw new Error(`Objet JOURS introuvable dans ${chemin}`);
-
-  // Repérage de la fin du littéral par comptage d'accolades,
-  // en ignorant celles qui se trouvent à l'intérieur d'une chaîne.
-  const ouvrante = src.indexOf("{", depart);
-  let profondeur = 0, guillemet = null, fin = -1;
-  for (let i = ouvrante; i < src.length; i++) {
-    const c = src[i];
-    if (guillemet) {
-      if (c === "\\") i++;
-      else if (c === guillemet) guillemet = null;
-      continue;
-    }
-    if (c === '"' || c === "'" || c === "`") { guillemet = c; continue; }
-    if (c === "{") profondeur++;
-    else if (c === "}" && --profondeur === 0) { fin = i + 1; break; }
-  }
-  if (fin === -1) throw new Error("Littéral JOURS non refermé");
-
-  return runInNewContext("(" + src.slice(ouvrante, fin) + ")");
+   Les journées vivent dans des fichiers mensuels donnees/jours/AAAA-MM.json,
+   chargés à la demande par l'application ; on les réunit ici en un seul objet. */
+function chargerJours(dossier) {
+  const jours = {};
+  for (const f of readdirSync(dossier).filter(f => /^\d{4}-\d{2}\.json$/.test(f)).sort())
+    Object.assign(jours, JSON.parse(readFileSync(join(dossier, f), "utf8")));
+  return jours;
 }
 
 /* ---------- Schéma exigé ----------
