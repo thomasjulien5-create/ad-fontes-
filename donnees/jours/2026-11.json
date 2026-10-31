@@ -1,0 +1,216 @@
+{
+ "2026-11-01": {
+  "textes": {
+   "liturgie": {
+    "nom": "La Toussaint",
+    "qualite": "Fête de tous les Saints",
+    "classe": "Ire classe",
+    "couleur": "blanc",
+    "commemoraisons": [
+     "le XXIIIe dimanche après la Pentecôte"
+    ]
+   },
+   "propre": {
+    "lecon": {
+     "titre": "Leçon",
+     "reference": "Apocalypse 7, 2-12",
+     "incipit": "En ces jours-là :",
+     "note": "Le missel ouvre la leçon par « Ecce, ego Ioannes vidi », « Voici que moi, Jean, je vis » ; la Crampon, qui commence le verset 2 par « Et je vis », est reproduite telle quelle.",
+     "latin": [
+      "In diébus illis: Ecce, ego Ioánnes vidi álterum Angelum ascendéntem ab ortu solis, habéntem signum Dei vivi: et clamávit voce magna quátuor Angelis, quibus datum est nocére terræ et mari, dicens: Nolíte nocére terræ et mari neque arbóribus, quoadúsque signémus servos Dei nostri in fróntibus eórum. Et audívi númerum signatórum, centum quadragínta quátuor mília signáti, ex omni tribu filiórum Israël. Ex tribu Iuda duódecim mília signáti. Ex tribu Ruben duódecim mília signáti. Ex tribu Gad duódecim mília signati. Ex tribu Aser duódecim mília signáti. Ex tribu Néphthali duódecim mília signáti. Ex tribu Manásse duódecim mília signáti. Ex tribu Símeon duódecim mília signáti. Ex tribu Levi duódecim mília signáti. Ex tribu Issachar duódecim mília signati. Ex tribu Zábulon duódecim mília signáti. Ex tribu Ioseph duódecim mília signati. Ex tribu Béniamin duódecim mília signáti. Post hæc vidi turbam magnam, quam dinumeráre nemo póterat, ex ómnibus géntibus et tríbubus et pópulis et linguis: stantes ante thronum et in conspéctu Agni, amícti stolis albis, et palmæ in mánibus eórum: et clamábant voce magna, dicéntes: Salus Deo nostro, qui sedet super thronum, et Agno. Et omnes Angeli stabant in circúitu throni et seniórum et quátuor animálium: et cecidérunt in conspéctu throni in fácies suas et adoravérunt Deum, dicéntes: Amen. Benedíctio et cláritas et sapiéntia et gratiárum áctio, honor et virtus et fortitúdo Deo nostro in sǽcula sæculórum. Amen."
+     ],
+     "francais": [
+      "Et je vis un autre ange qui montait du côté où le soleil se lève, tenant le sceau du Dieu vivant, et il cria d’une voix forte aux quatre anges à qui il avait été donné de nuire à la terre et à la mer, en ces termes : « Ne faites point de mal à la terre, ni à la mer, ni aux arbres, jusqu’à ce que nous ayons marqué du sceau, sur le front, les serviteurs de notre Dieu. » Et j’entendis le nombre de ceux qui avaient été marqués du sceau, cent quarante-quatre mille de toutes les tribus des enfants d’Israël : de la tribu de Juda, douze mille marqués du sceau ; de la tribu de Ruben, douze mille [marqués] ; de la tribu de Gad, douze mille [marqués] ; de la tribu d’Aser, douze mille [marqués] ; de la tribu de Nephthali, douze mille [marqués] ; de la tribu de Manassé, douze mille [marqués] ; de la tribu de Siméon, douze mille [marqués] ; de la tribu de Lévi, douze mille [marqués] ; de la tribu d’Issachar, douze mille [marqués] ; de la tribu de Zabulon, douze mille [marqués] ; de la tribu de Joseph, douze mille [marqués] ; de la tribu de Benjamin, douze mille marqués du sceau.",
+      "Après cela, je vis une foule immense que personne ne pouvait compter, de toute nation, de toute tribu, de tout peuple et de toute langue. Ils étaient debout devant le trône et devant l’Agneau, vêtus de robes blanches et tenant des palmes à la main. Et ils criaient d’une voix forte, disant : « Le salut vient de notre Dieu qui est assis sur le trône, et à l’Agneau ! » Et tous les anges se tenaient autour du trône, autour des vieillards et des quatre animaux ; et ils se prosternèrent sur leurs faces devant le trône, en disant : « Amen ! La louange, la gloire, la sagesse, l’action de grâces, l’honneur, la puissance et la force soient à notre Dieu, pour les siècles des siècles ! »"
+     ]
+    },
+    "evangile": {
+     "reference": "Matthieu 5, 1-12",
+     "incipit": "En ce temps-là :",
+     "note": "Le missel arrête le verset 12 à « dans les cieux » ; la fin du verset, « c’est ainsi qu’ils ont persécuté les prophètes qui ont été avant vous », n’est pas lue.",
+     "latin": [
+      "In illo témpore: Videns Iesus turbas, ascéndit in montem, et cum sedísset, accessérunt ad eum discípuli eius, et apériens os suum, docébat eos, dicens: Beáti páuperes spíritu: quóniam ipsórum est regnum cœlórum. Beáti mites: quóniam ipsi possidébunt terram. Beáti, qui lugent: quóniam ipsi consolabúntur. Beáti, qui esúriunt et sítiunt iustítiam: quóniam ipsi saturabúntur. Beáti misericórdes: quóniam ipsi misericórdiam consequántur. Beáti mundo corde: quóniam ipsi Deum vidébunt. Beáti pacífici: quóniam fílii Dei vocabúntur. Beáti, qui persecutiónem patiúntur propter iustítiam: quóniam ipsórum est regnum cœlórum. Beáti estis, cum maledíxerint vobis et persecúti vos fúerint, et díxerint omne malum advérsum vos, mentiéntes, propter me: gaudete et exsultáte, quóniam merces vestra copiósa est in cœlis."
+     ],
+     "francais": [
+      "Jésus, voyant cette foule, monta sur la montagne, et lorsqu’il se fut assis, ses disciples s’approchèrent de lui. Alors, ouvrant sa bouche, il se mit à les enseigner, en disant :",
+      "« Heureux les pauvres en esprit, car le royaume des cieux est à eux ! Heureux ceux qui sont doux, car ils posséderont la terre ! Heureux ceux qui pleurent, car ils seront consolés ! Heureux ceux qui ont faim et soif de la justice, car ils seront rassasiés ! Heureux les miséricordieux, car ils obtiendront miséricorde ! Heureux ceux qui ont le cœur pur, car ils verront Dieu ! Heureux les pacifiques, car ils seront appelés enfants de Dieu ! Heureux ceux qui souffrent persécution pour la justice, car le royaume des cieux est à eux !",
+      "Heureux êtes-vous, lorsqu’on vous insultera, qu’on vous persécutera, et qu’on dira faussement toute sorte de mal contre vous, à cause de moi. Réjouissez-vous et soyez dans l’allégresse, car votre récompense est grande dans les cieux."
+     ]
+    }
+   },
+   "verset": {
+    "texte": "« Heureux ceux qui ont le cœur pur, car ils verront Dieu ! »",
+    "ref": "Matthieu 5, 8"
+   },
+   "commentaire": {
+    "mode": "direct",
+    "portee": "Leçon, Apocalypse 7, 2-12, et Évangile, Matthieu 5, 1-12",
+    "verif": "Textes relus : saint Thomas, Super Matthaeum, cap. 5, lect. 1-2 ; In Symbolum Apostolorum, a. 9 ; Somme théologique, II-II, q. 83, a. 11 (Corpus Thomisticum) ; propre de la messe de la Toussaint et leçons du bréviaire (Divinum Officium) ; Crampon 1923 (Wikisource).",
+    "sections": [
+     {
+      "titre": "La Leçon : une foule que personne ne pouvait compter",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Saint Thomas n’a pas commenté l’Apocalypse, mais il dit ce que la Leçon fait voir quand il explique « la sainte Église catholique ». Catholique veut dire **universelle** : par le lieu, car elle est répandue dans le monde entier ; par la condition des hommes, car **personne n’en est rejeté** ; par le temps, car elle a commencé avec Abel et demeurera au ciel après la fin du monde. Et elle a **trois parties : l’une sur la terre, l’autre au ciel, la troisième au purgatoire** (In Symbolum, a. 9). La foule « de toute nation » en est la part déjà arrivée."
+      ]
+     },
+     {
+      "titre": "L’Évangile : Dieu, récompense de tous les désirs",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Tous les hommes veulent être heureux, explique saint Thomas, mais ils se trompent sur le bonheur : les uns le mettent dans l’abondance des biens, d’autres dans l’assouvissement de leurs désirs. Le Seigneur corrige ces erreurs : heureux les pauvres, et non les riches ; heureux les doux, et non les vengeurs. Chaque béatitude comprend **un mérite et une récompense**, et la récompense est toujours **Dieu lui-même** (Super Matthaeum, ch. 5, leçon 2)."
+      ],
+      "citation": {
+       "texte": "« Les hommes cherchent des biens divers ; mais tout ce qu’on peut trouver dans n’importe quelle vie, le Seigneur l’a promis tout entier en Dieu. »",
+       "ref": "Super Matthaeum, cap. 5, lect. 2",
+       "url": "https://www.corpusthomisticum.org/cma0500.html#87340"
+      }
+     },
+     {
+      "titre": "Ce que la Leçon et l’Évangile disent ensemble : ils verront Dieu",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Leçon montre les saints **debout devant le trône et devant l’Agneau** ; l’Évangile promet aux cœurs purs qu’ils verront Dieu. Saint Thomas remarque que le Seigneur ne dit pas « ils voient », mais « **ils verront** » : la félicité dernière est la vision de Dieu, et les vertus de cette vie en sont le chemin. Ces récompenses se possèdent **parfaitement dans la patrie**, et **en commencement dans la vie présente** : les saints d’ici-bas goûtent déjà les prémices de ce bonheur (Super Matthaeum, ch. 5, leçon 2)."
+      ]
+     },
+     {
+      "titre": "À la lumière de la fête : des intercesseurs multipliés",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La collecte demande la miséricorde par la multitude des intercesseurs. Saint Thomas l’explique : prier pour autrui vient de la charité ; aussi, **plus les saints du ciel ont une charité parfaite, plus ils prient pour ceux qui sont en chemin**, et plus ils sont unis à Dieu, plus leur prière est efficace. Et Dieu veut que nous soyons aidés par tous : il faut implorer non seulement les plus grands saints, mais aussi **les plus humbles** (II-II, q. 83, a. 11, et ad 4), ceux que la Toussaint honore sans les nommer."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "L’Église est une seule famille en trois demeures : la terre, le ciel et le purgatoire.",
+    "Tout ce que je cherche dans le monde, Dieu l’a promis en lui-même, mieux et pour toujours.",
+    "Plus les saints aiment, plus ils prient pour moi : il est bon de les invoquer, les grands comme les humbles."
+   ],
+   "resolution": "Aujourd’hui, choisir une béatitude, la pauvreté de cœur, la douceur ou la miséricorde, et la pratiquer par un acte précis ; puis confier ma journée à un saint, connu ou inconnu, dont la vie me montre ce chemin.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super Matthaeum, cap. 5, lect. 2",
+     "detail": "Commentaire direct de l’Évangile (reportation de Pierre d’Andria) ; texte latin, Corpus Thomisticum (la page couvre Mt 5, 1-10a) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cma0500.html#87340"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, In Symbolum Apostolorum, a. 9",
+     "detail": "« La sainte Église catholique » : une, sainte, universelle et ferme ; ses trois parties. Texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/csv.html#86688"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 83, a. 11",
+     "detail": "Les saints du ciel prient-ils pour nous ? Texte latin, Corpus Thomisticum (II-II, q. 82-91) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3082.html#42554"
+    },
+    {
+     "label": "Missel romain de 1962, la Toussaint (1er novembre)",
+     "detail": "Ire classe, blanc ; introït « Gaudeamus omnes in Domino », collecte « Omnipotens sempiterne Deus, qui nos omnium Sanctorum tuorum merita », leçon propre ; l’évangile renvoie à celui du 5 juin (Matthieu 5, 1-12). Données libres du projet Divinum Officium (textes latin et français).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/11-01.txt"
+    },
+    {
+     "label": "Missel romain, évangile Matthieu 5, 1-12",
+     "detail": "Texte latin de l’évangile auquel renvoie la messe de la Toussaint, d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/06-05.txt"
+    },
+    {
+     "label": "Bréviaire romain, office de la Toussaint",
+     "detail": "Sermon de saint Bède le Vénérable (4e à 6e leçons), texte français d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Francais/Sancti/11-01.txt"
+    },
+    {
+     "label": "Bible Crampon 1923, Apocalypse 7, 2-12",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Apocalypse"
+    },
+    {
+     "label": "Bible Crampon 1923, Matthieu 5, 1-12",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Matthieu"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "« Réjouissons-nous ensemble dans le Seigneur, car la fête que nous célébrons aujourd’hui est celle de tous les saints. Cette solennité réjouit les anges, et tous en chœur louent le Fils de Dieu. » L’introït donne le ton d’une fête où l’Église honore d’un seul regard tous ceux qui sont déjà auprès de Dieu, connus ou inconnus. Saint Bède, dont le bréviaire lit le sermon, le dit ainsi : « leur société réjouit les cieux, leur protection console la terre, leur triomphe couronne la sainte Église ». Il y voit les roses des martyrs et les lis des vierges, et rappelle que le temps du combat est court, quand la récompense est éternelle. La collecte en tire une prière confiante : puisque nous vénérons les mérites de tous les saints dans une même solennité, que Dieu nous accorde l’abondance de sa miséricorde, **les intercesseurs étant multipliés**. Cette année, la fête prend la place du vingt-troisième dimanche après la Pentecôte, qui est commémoré."
+   }
+  },
+  "meditation": {
+   "titre": "Du bonheur des saints",
+   "texte": [
+    "*Venez les bénis de mon Père, prenez possession du royaume qui vous a été préparé dès le commencement du monde.* (Matth., XXV, 34.)",
+    "Le royaume des cieux, c’est la gloire du paradis. Rien d’étonnant, car un royaume n’est pas autre chose qu’un gouvernement. Le meilleur gouvernement c’est celui où rien ne se fait contre la volonté de celui qui gouverne. Or la volonté de Dieu, c’est le salut des hommes, car Dieu *veut que tous les hommes soient sauvés* (I Tim., 2, 4.) Et cela se réalisera surtout au paradis où rien ne s’opposera plus au salut des hommes. *Ils enlèveront de son royaume tous les scandales.* (Matth., XIII, 41.) Et quand nous demandons *Que votre règne arrive* nous prions pour être participants du royaume céleste et de la gloire du paradis.",
+    "Ce royaume est fort désirable pour trois raisons :",
+    "1° A cause de la souveraine justice qui y triomphe. *Ton peuple ne comptera que des justes,* dit Isaïe (60, 21.) Ici-bas, les mauvais sont mêlés aux justes; mais là, il n’y aura ni mauvais, ni pécheurs.",
+    "2° A cause de la liberté très parfaite. Ici-bas, il n’y a pas de liberté, malgré que tous la désirent naturellement. Mais là, il y aura toute liberté, contre toute servitude. *La nature elle-même sera délivrée de l’esclavage de la corruption.* (Rom., VIII, 21.) Et non seulement les hommes y seront libres, mais ils y seront rois. *Et vous les avez faits rois,* dit l’Apocalypse (V, 10). La raison en est qu’ils n’auront qu’une seule volonté avec Dieu et que Dieu voudra tout ce que les Saints voudront, et les saints, tout ce que Dieu voudra. Et c’est avec la volonté de Dieu que se fera leur volonté; et ainsi tous règneront, parce que la volonté de tous s’accomplira, et Dieu sera la couronne de tous. *En ce jour-là, Dieu sera un brillant diadème et une couronne de gloire et de réjouissance pour le reste de son peuple.* (Is., 28, 5.)",
+    "3° A cause de l’admirable abondance. *L’œil de l’homme n’a point vu, hors vous seul, ô Dieu, ce que vous avez préparé à ceux qui vous attendent.* (Is., 64, 4.) *Il remplit votre désir en vous comblant de ses biens.* (Ps., 103, 5.)",
+    "Et remarquez que l’homme trouvera tout en Dieu seul, plus excellemment et plus parfaitement que tout ce que l’on cherche dans le monde. Si vous cherchez la joie, vous la trouverez suprême en Dieu. *Vous verrez ces choses, et votre cœur sera dans la joie.* (Is., 66, 14.) *Ils seront comblés et couronnés d’une éternelle allégresse.* (Ibid., 51, 11.) Si vous cherchez la durée, c’est l’éternité. *Les justes iront dans la vie éternelle.* (Matth., 25, 46.) Si vous cherchez les richesses, vous trouverez là tout ce que peuvent procurer les richesses, et ainsi de suite.",
+    "Saint Augustin dit : « Tout ce que votre âme peut saintement désirer, tout sera là : Dieu ».",
+    "*(Sur l’Oraison dominicale.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "Dieu seul rassasie",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La méditation affirme que l’homme trouvera tout en Dieu seul. Saint Thomas en donne la raison dans la Somme : le bonheur est le bien parfait, qui apaise entièrement le désir ; or l’objet de la volonté est **le bien universel**, qui ne se trouve dans aucune créature, car toute créature n’a qu’une bonté reçue. C’est pourquoi le bonheur de l’homme ne consiste qu’en Dieu, et il cite le même psaume que La Moelle : « il remplit ton désir de ses biens » (I-II, q. 2, a. 8)."
+      ],
+      "citation": {
+       "texte": "« Dieu seul peut combler la volonté de l’homme. »",
+       "ref": "Somme théologique, I-II, q. 2, a. 8",
+       "url": "https://www.corpusthomisticum.org/sth2001.html#33529"
+      }
+     },
+     {
+      "titre": "Une seule volonté avec Dieu",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Dieu voudra tout ce que les saints voudront, et les saints tout ce que Dieu voudra. » Saint Thomas explique que la droiture de la volonté accompagne nécessairement le bonheur : celui qui voit l’essence de Dieu, qui est la bonté même, **aime nécessairement tout ce qu’il aime en rapport avec Dieu**. Mais elle le précède aussi : **nul ne parvient au bonheur sans une volonté droite**, ordonnée à la fin dernière (I-II, q. 4, a. 4). L’accord parfait du ciel se prépare dans l’obéissance d’aujourd’hui."
+      ]
+     },
+     {
+      "titre": "Libres parce qu’ils ne peuvent plus pécher",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Moelle promet « toute liberté, contre toute servitude ». Saint Thomas montre que cette liberté n’est pas celle de pouvoir mal faire : choisir entre des biens divers en gardant l’ordre de la fin appartient à **la perfection de la liberté** ; choisir en se détournant de la fin, ce qui est pécher, appartient à **son défaut**. Aussi y a-t-il plus de liberté chez les anges bienheureux, qui ne peuvent pécher, que chez nous, qui le pouvons (I, q. 62, a. 8, ad 3). Les saints sont rois parce qu’ils ne peuvent plus être esclaves."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Aucune créature ne peut combler mon désir : Dieu seul le peut.",
+    "Au ciel, la volonté des saints ne fait qu’un avec celle de Dieu ; on y entre dès ici-bas par une volonté droite.",
+    "Pouvoir pécher n’est pas la liberté, mais son défaut : la liberté parfaite est de ne plus pouvoir s’écarter du bien."
+   ],
+   "resolution": "Dire aujourd’hui lentement « Que votre règne arrive », en pensant au royaume des saints ; et devant un désir qui m’agite, me demander s’il m’approche de Dieu ou m’en détourne.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome II, p. 261-262",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées, ainsi que la référence imprimée « Matth., xv, 34 », qui est Matthieu 25, 34.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : Sur l’Oraison dominicale",
+     "detail": "Vérification faite sur le Corpus Thomisticum : In orationem dominicam, a. 2, « Que votre règne arrive », œuvre authentique. La Moelle suit une recension un peu plus développée que le texte du Corpus pour le dernier alinéa (la joie et la durée, avec Isaïe 66, 14 ; 51, 11 et Matthieu 25, 46, et le mot de saint Augustin).",
+     "url": "https://www.corpusthomisticum.org/csu02.html#86697"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 2, a. 8",
+     "detail": "Le bonheur de l’homme ne consiste en aucun bien créé ; texte latin, Corpus Thomisticum (I-II, q. 1-5) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2001.html#33529"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 4, a. 4",
+     "detail": "La droiture de la volonté est requise pour le bonheur ; texte latin, Corpus Thomisticum (I-II, q. 1-5) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2001.html#33634"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 62, a. 8, ad 3",
+     "detail": "Le libre arbitre des bienheureux, qui ne peuvent pécher ; texte latin, Corpus Thomisticum (I, q. 50-64) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1050.html#31032"
+    }
+   ]
+  }
+ }
+}
