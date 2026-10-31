@@ -1,7 +1,8 @@
 # Ad Fontes — préparer une journée (Textes du jour et Méditation quotidienne)
 
 Ce document fixe les règles en vigueur pour préparer une journée. Il sert à la
-préparation manuelle comme à l'action nocturne (`.github/workflows/generation-nocturne.yml`).
+préparation manuelle comme à la génération nocturne (tâche planifiée de Claude Code à 3 h,
+heure de Paris ; secours manuel : `.github/workflows/generation-nocturne.yml`).
 Une journée n'est publiée que lorsqu'elle est **complète et vérifiée** : aucune
 mention de brouillon, de travail en cours, de « à vérifier » ou de modèle ne doit
 subsister dans les données publiées.
