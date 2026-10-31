@@ -90,6 +90,7 @@ jobs:
           git -C "$RUNNER_TEMP/sources/do" sparse-checkout set \
             web/www/missa/Latin web/www/missa/Francais \
             web/www/horas/Latin/Sancti web/www/horas/Francais/Sancti \
+            web/www/horas/Latin/Commune web/www/horas/Francais/Commune \
             web/www/horas/Latin/Tempora web/www/horas/Francais/Tempora \
             web/www/Tabulae/Kalendaria
           ls -la "$RUNNER_TEMP/sources/moelle"

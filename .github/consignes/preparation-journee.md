@@ -41,7 +41,8 @@ subsister dans les données publiées.
 ### Liturgie (fiche)
 - **Missel romain de 1962, rubriques de 1960**, d'après les données libres du projet
   Divinum Officium (`web/www/missa/Latin/…` et `web/www/missa/Francais/…`,
-  calendrier `web/www/Tabulae/Kalendaria/`). Le site divinumofficium.com est protégé :
+  calendrier `web/www/Tabulae/Kalendaria/`). Les communs de la messe (C2, C4, C8…) sont dans
+  `web/www/horas/{Latin,Francais}/Commune/` (sections [Introitus], [Lectio], [Evangelium]…). Le site divinumofficium.com est protégé :
   lire les fichiers du dépôt GitHub `DivinumOfficium/divinum-officium` (raw.githubusercontent.com).
 - `nom` en français (« Saint Martin », « Mardi de la XXIIIe semaine après la Pentecôte »),
   `qualite` (« Évêque et Confesseur », « Férie », « Dimanche »…), `classe` (« Ire classe »…
