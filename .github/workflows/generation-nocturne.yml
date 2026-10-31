@@ -1,29 +1,19 @@
 name: Génération nocturne
 
-# Objectif : chaque nuit à 3 h, heure de Paris, préparer les journées
-# (Textes du jour et Méditation quotidienne) pour qu'il y en ait toujours
-# 30 d'avance, aujourd'hui inclus, puis les publier sur main.
+# Secours manuel de la génération nocturne.
 #
-# Le travail est fait par Claude Code (anthropics/claude-code-action),
-# selon la charte .github/consignes/preparation-journee.md. Il faut, dans
-# les secrets du dépôt, ANTHROPIC_API_KEY (clé de la console Anthropic)
-# ou CLAUDE_CODE_OAUTH_TOKEN (jeton d'un abonnement Claude, obtenu par
-# « claude setup-token »).
+# La génération de chaque nuit, à 3 h (heure de Paris), est assurée par une
+# tâche planifiée de Claude Code liée au compte du propriétaire : elle suit
+# la même charte (.github/consignes/preparation-journee.md), les mêmes
+# contrôles (controler-journees.py) et publie sur main. Aucun secret n'est
+# nécessaire pour elle.
 #
-# Le cron de GitHub Actions est en UTC et ne connaît pas l'heure d'été :
-# on déclenche à 01:00 (CEST) et à 02:00 (CET) UTC, puis on écarte le
-# déclenchement qui ne tombe pas sur 3 h locales.
-#
-# Garde-fous : au plus MAX journées par nuit (une seule en régime normal),
-# seules des modifications de donnees/jours/*.json sont publiées, et
-# chaque journée doit passer controler-journees.py avant publication.
-# La vérification de 7 h (verification-quotidienne.yml) prévient par
-# courriel si l'avance tombe sous 10 jours.
+# Ce workflow ne se lance qu'à la main (onglet Actions) et seulement si le
+# dépôt possède le secret ANTHROPIC_API_KEY ou CLAUDE_CODE_OAUTH_TOKEN.
+# Garde-fous : au plus MAX journées par exécution, seules des modifications
+# de donnees/jours/*.json sont publiées, chaque journée passe le contrôle.
 
 on:
-  schedule:
-    - cron: "0 1 * * *"
-    - cron: "0 2 * * *"
   workflow_dispatch:
     inputs:
       fenetre:
