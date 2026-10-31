@@ -33,7 +33,8 @@ subsister dans les données publiées.
 
 - Dans les textes, `**gras**` met une proposition en valeur, `*italique*` marque les citations
   de l'Écriture dans la méditation.
-- `node .github/scripts/verifier-jour.mjs` doit passer pour les jours préparés.
+- Contrôle : `python3 .github/scripts/controler-journees.py fragment <fichier>` avant insertion
+  (`.github/scripts/inserer-journees.py`), puis `valider AAAA-MM-JJ` ; `verifier-jour.mjs` (7 h) doit passer.
 
 ## 2. Textes du jour
 
@@ -57,6 +58,7 @@ subsister dans les données publiées.
   **et en français** dans la **Bible Crampon 1923**, relevée sur Wikisource
   (`https://fr.wikisource.org/w/index.php?title=Bible_Crampon_1923/<Livre>&action=render`),
   sans les appels de note `[n]`, en gardant les crochets propres à la Crampon (`[Dieu]`).
+- Latin : texte du missel avec « i » à la place de « j » (Iesus, eius), accents et æ/œ conservés.
 - `incipit` : formule liturgique traduite du missel (« Mes frères : », « En ce temps-là : »,
   « Mes bien-aimés : »…). Lorsque le missel s'écarte du texte biblique (début abrégé,
   conclusion liturgique, versets omis), le signaler dans `note`, et traduire « par Ad Fontes »
@@ -96,7 +98,11 @@ subsister dans les données publiées.
   ou le sujet, « texte latin, Corpus Thomisticum (…) ; traduction d’Ad Fontes »,
   **url avec l'ancre du paragraphe** (`https://www.corpusthomisticum.org/sth3082.html#42575`).
   Les ancres sont les numéros entre crochets (`[42575]`) des pages du Corpus : les relever
-  dans la page, ne jamais les deviner.
+  dans la page, ne jamais les deviner. Fichiers utiles du Corpus : Somme `sth1…` (I), `sth2…` (I-II),
+  `sth3…` (II-II), `sth4…` (III), nommés d'après la première question du lot (voir l'index
+  `iopera.html`) ; Super Matthaeum `cma…`/`cml…` ; Super Ioannem `cih…` ; Catena aurea `cmt`, `cmc`,
+  `clc`, `cjo` ; épîtres `cro`, `c1c`, `c2c`, `cgl`, `cep`, `cpl` (Philippiens), `ccl`… ;
+  `cph` est In Ieremiam ; In Symbolum `csv` ; In orationem dominicam `csu…`.
 - Le missel (fichier Divinum Officium du jour, classe, couleur, collecte citée), le bréviaire si
   l'encadré s'en sert, la Crampon (une source par lecture, URL Wikisource du livre).
 

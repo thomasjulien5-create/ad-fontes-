@@ -1,0 +1,162 @@
+name: Génération nocturne
+
+# Objectif : chaque nuit à 3 h, heure de Paris, préparer les journées
+# (Textes du jour et Méditation quotidienne) pour qu'il y en ait toujours
+# 30 d'avance, aujourd'hui inclus, puis les publier sur main.
+#
+# Le travail est fait par Claude Code (anthropics/claude-code-action),
+# selon la charte .github/consignes/preparation-journee.md. Il faut, dans
+# les secrets du dépôt, ANTHROPIC_API_KEY (clé de la console Anthropic)
+# ou CLAUDE_CODE_OAUTH_TOKEN (jeton d'un abonnement Claude, obtenu par
+# « claude setup-token »).
+#
+# Le cron de GitHub Actions est en UTC et ne connaît pas l'heure d'été :
+# on déclenche à 01:00 (CEST) et à 02:00 (CET) UTC, puis on écarte le
+# déclenchement qui ne tombe pas sur 3 h locales.
+#
+# Garde-fous : au plus MAX journées par nuit (une seule en régime normal),
+# seules des modifications de donnees/jours/*.json sont publiées, et
+# chaque journée doit passer controler-journees.py avant publication.
+# La vérification de 7 h (verification-quotidienne.yml) prévient par
+# courriel si l'avance tombe sous 10 jours.
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+    inputs:
+      fenetre:
+        description: "Nombre de jours d'avance à garantir (aujourd'hui inclus)"
+        required: false
+        default: "30"
+      max:
+        description: "Nombre maximal de journées à préparer pendant cette exécution"
+        required: false
+        default: "3"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generation-nocturne
+  cancel-in-progress: false
+
+jobs:
+  generer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Ne garder que le déclenchement de 3 h à Paris
+        id: heure
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "poursuivre=oui" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          heure=$(TZ=Europe/Paris date +%H)
+          echo "Il est ${heure} h à Paris."
+          if [ "$heure" = "03" ]; then echo "poursuivre=oui" >> "$GITHUB_OUTPUT"
+          else echo "poursuivre=non" >> "$GITHUB_OUTPUT"; fi
+
+      - name: Lister les journées à préparer
+        id: dates
+        if: steps.heure.outputs.poursuivre == 'oui'
+        run: |
+          dates=$(python3 .github/scripts/controler-journees.py a-preparer \
+            --fenetre "${{ github.event.inputs.fenetre || '30' }}" \
+            --max "${{ github.event.inputs.max || '3' }}" | tr '\n' ' ' | sed 's/ *$//')
+          echo "liste=${dates}" >> "$GITHUB_OUTPUT"
+          if [ -z "$dates" ]; then echo "Les ${{ github.event.inputs.fenetre || '30' }} prochains jours sont prêts."
+          else echo "À préparer : ${dates}"; fi
+
+      - name: Préparer les sources (La Moelle, Divinum Officium, outils)
+        if: steps.dates.outputs.liste != ''
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils > /dev/null
+          mkdir -p "$RUNNER_TEMP/sources/moelle"
+          base=https://archive.org/download
+          curl -sSfL -o "$RUNNER_TEMP/sources/moelle/tome1.pdf" \
+            "$base/la-moelle-de-saint-thomas-d-aquin-tome-1-000000942/La_moelle_de_saint_Thomas_d_Aquin_(tome_1)_000000942.pdf"
+          curl -sSfL -o "$RUNNER_TEMP/sources/moelle/tome2.pdf" \
+            "$base/la-moelle-de-saint-thomas-d-aquin-tome-2-000000990/La_moelle_de_saint_Thomas_d_Aquin_(tome_2)_000000990.pdf"
+          git clone -q --depth 1 --filter=blob:none --sparse \
+            https://github.com/DivinumOfficium/divinum-officium.git "$RUNNER_TEMP/sources/do"
+          git -C "$RUNNER_TEMP/sources/do" sparse-checkout set \
+            web/www/missa/Latin web/www/missa/Francais \
+            web/www/horas/Latin/Sancti web/www/horas/Francais/Sancti \
+            web/www/horas/Latin/Tempora web/www/horas/Francais/Tempora \
+            web/www/Tabulae/Kalendaria
+          ls -la "$RUNNER_TEMP/sources/moelle"
+
+      - name: Préparer les journées avec Claude Code
+        if: steps.dates.outputs.liste != ''
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: >-
+            --model claude-opus-5-5
+            --max-turns 400
+            --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebFetch"
+          prompt: |
+            Tu prépares, pour l'application Ad Fontes (dépôt courant), les journées suivantes :
+            ${{ steps.dates.outputs.liste }}
+
+            1. Lis entièrement .github/consignes/preparation-journee.md : ce sont les règles en vigueur.
+               Suis-les à la lettre (Missel de 1962 d'après Divinum Officium, Épître et Évangile en
+               latin et dans la Crampon 1923, fiche liturgique, encadré, commentaire en quatre
+               mouvements appuyé d'abord sur saint Thomas, trois points, résolution, méditation de
+               La Moelle transcrite sur les images du scan, sources vérifiées, aucune mention de brouillon).
+            2. Prends pour modèles de ton, de longueur et de format les journées déjà publiées dans
+               donnees/jours/ (au moins une fête, une férie et un dimanche du mois précédent), et lis
+               les journées voisines déjà prêtes pour ne pas répéter leurs commentaires quand la même
+               messe revient.
+            3. Sources locales déjà téléchargées :
+               - La Moelle : ${{ runner.temp }}/sources/moelle/tome1.pdf et tome2.pdf ; rends les pages
+                 avec « pdftoppm -f N -l M -r 110 -png <pdf> <préfixe> » et lis les images (outil Read).
+                 Trouve la page de la date avec « pdftotext -f N -l N <pdf> - » (OCR fautif : il ne sert
+                 qu'à se repérer). Tome II : page imprimée = page PDF − 2 environ ; lis le numéro sur l'image.
+               - Divinum Officium : ${{ runner.temp }}/sources/do/web/www/… (missa, horas, Tabulae).
+                 N'exécute aucun script Perl ; lis les fichiers texte et suis leurs renvois (@Commune/…).
+               - Crampon (Wikisource, action=render) et Corpus Thomisticum : récupère-les avec curl
+                 ou WebFetch ; relève les ancres [NNNNN] des paragraphes cités dans la page.
+            4. Écris chaque journée dans un fichier temporaire hors du dépôt, vérifie-la avec
+               « python3 .github/scripts/controler-journees.py fragment <fichier> », puis insère-la
+               avec « python3 .github/scripts/inserer-journees.py <fichier> ».
+            5. Ne modifie aucun autre fichier du dépôt et ne fais aucune opération git : la
+               publication est faite après toi, si toutes les journées passent le contrôle.
+            6. Si une source est inaccessible ou si une journée ne peut pas être établie avec
+               certitude, ne l'insère pas et explique pourquoi dans ton dernier message.
+
+      - name: Contrôler et publier sur main
+        if: steps.dates.outputs.liste != ''
+        run: |
+          autres=$(git status --porcelain | awk '{print $2}' | grep -v '^donnees/jours/[0-9-]*\.json$' || true)
+          if [ -n "$autres" ]; then
+            echo "Fichiers modifiés hors de donnees/jours : publication refusée."; echo "$autres"; exit 1
+          fi
+          if git diff --quiet -- donnees/jours; then
+            echo "Aucune journée insérée cette nuit."; exit 1
+          fi
+          pretes=""
+          for d in ${{ steps.dates.outputs.liste }}; do
+            if python3 .github/scripts/controler-journees.py valider "$d" > /dev/null; then pretes="$pretes $d"; fi
+          done
+          # Toute journée insérée doit être complète : sinon on ne publie rien.
+          python3 .github/scripts/controler-journees.py valider $(git diff -U0 -- donnees/jours \
+            | grep -o '^+ "[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}"' | tr -d '+ "' | sort -u)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add donnees/jours
+          git commit -q -m "Génération nocturne : textes du jour et méditations (${pretes# })"
+          for i in 1 2 3 4; do
+            git push origin HEAD:main && exit 0
+            sleep $((2 ** i)); git pull -q --rebase origin main
+          done
+          exit 1
