@@ -747,7 +747,11 @@ function vApropos(){
 const LOTS = {};
 function lot10(n){ const a=Math.floor((n-1)/10)*10+1, p=x=>String(x).padStart(3,"0"); return p(a)+"-"+p(a+9); }
 function lot(url, cible){
-  return LOTS[url] || (LOTS[url] = fetch(url).then(r=>r.ok?r.json():{}).then(d=>{ Object.assign(cible,d); }).catch(()=>{ delete LOTS[url]; }));
+  // Un lot absent ou en échec n'est pas mémorisé : il sera redemandé à la prochaine ouverture de la vue
+  // (un mois publié pendant que l'application est ouverte s'affiche alors sans redémarrage).
+  return LOTS[url] || (LOTS[url] = fetch(url, { cache: "no-cache" })
+    .then(r=>{ if(!r.ok){ delete LOTS[url]; return {}; } return r.json(); })
+    .then(d=>{ Object.assign(cible,d); }).catch(()=>{ delete LOTS[url]; }));
 }
 function lotsVue(){
   const v=state.view;
@@ -772,9 +776,18 @@ const VUES = {
   apropos:   { r:"r-apropos", tab:"apropos",    f:vApropos }
 };
 const state={ view:"accueil", date:todayKey(), ps:1, pb:17 };
+/* Passage au jour suivant : une application restée ouverte (ou reprise le lendemain sur téléphone)
+   suit la date du jour, sauf si l'on consulte volontairement une autre date. */
+let jourOuvert=todayKey();
+function suivreAujourdhui(){
+  const t=todayKey(); if(t===jourOuvert) return false;
+  if(state.date===jourOuvert) state.date=t;
+  jourOuvert=t; return true;
+}
 const app=document.getElementById("app");
 let rendu=0;
 function render(){
+  suivreAujourdhui();
   const n=++rendu, attente=lotsVue();
   if(attente.length) Promise.all(attente).then(()=>{ if(n===rendu) afficher(); });
   else afficher();
@@ -808,6 +821,8 @@ document.addEventListener("change",e=>{
   if(e.target.matches(".dpill input") && e.target.value){ state.date=e.target.value; render(); }
   if(e.target.matches(".dpill select")){ state.ps=Number(e.target.value); render(); window.scrollTo(0,0); }
 });
+["visibilitychange","focus","pageshow"].forEach(ev=>window.addEventListener(ev,()=>{ if(document.visibilityState!=="hidden" && suivreAujourdhui()) render(); }));
+setInterval(()=>{ if(document.visibilityState!=="hidden" && suivreAujourdhui()) render(); }, 60000);
 render();
 lot("donnees/jours/"+todayKey().slice(0,7)+".json", JOURS); // la journée du jour, prête avant qu'on l'ouvre
 if ("serviceWorker" in navigator && location.protocol === "https:") {
