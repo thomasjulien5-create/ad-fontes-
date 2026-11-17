@@ -2600,5 +2600,860 @@
     }
    ]
   }
+ },
+ "2026-12-13": {
+  "textes": {
+   "liturgie": {
+    "nom": "IIIe dimanche de l’Avent",
+    "qualite": "Dimanche",
+    "classe": "Ire classe",
+    "couleur": "rose",
+    "commemoraisons": []
+   },
+   "propre": {
+    "epitre": {
+     "titre": "Épître",
+     "reference": "Philippiens 4, 4-7",
+     "incipit": "Mes frères :",
+     "latin": [
+      "Fratres: Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus prope est. Nihil sollíciti sitis: sed in omni oratióne et obsecratióne, cum gratiárum actióne, petitiónes vestræ innotéscant apud Deum. Et pax Dei, quæ exsúperat omnem sensum, custódiat corda vestra et intellegéntias vestras, in Christo Iesu, Dómino nostro."
+     ],
+     "francais": [
+      "Réjouissez-vous dans le Seigneur en tout temps ; je le répète, réjouissez-vous. Que votre modération soit connue de tous les hommes : le Seigneur est proche. Ne vous inquiétez de rien ; mais en toute circonstance faites connaître vos besoins à Dieu par des prières et des supplications, avec des actions de grâce. Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées dans le Christ Jésus."
+     ],
+     "note": "Au verset 5, le latin dit « modestia vestra » (votre modestie), que la Crampon rend par « votre modération ». Le missel achève par « in Christo Iesu, Domino nostro » (dans le Christ Jésus, notre Seigneur) ; la Crampon n’a pas « notre Seigneur »."
+    },
+    "evangile": {
+     "reference": "Jean 1, 19-28",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "In illo tempore: Misérunt Iudǽi ab Ierosólymis sacerdótes et levítas ad Ioánnem, ut interrogárent eum: Tu quis es? Et conféssus est, et non negávit: et conféssus est: Quia non sum ego Christus. Et interrogavérunt eum: Quid ergo? Elías es tu? Et dixit: Non sum. Prophéta es tu? Et respondit: Non. Dixérunt ergo ei: Quis es, ut respónsum demus his, qui misérunt nos? Quid dicis de te ipso? Ait: Ego vox clamántis in desérto: Dirígite viam Dómini, sicut dixit Isaías Prophéta. Et qui missi fúerant, erant ex pharisǽis. Et interrogavérunt eum, et dixérunt ei: Quid ergo baptízas, si tu non es Christus, neque Elías, neque Prophéta? Respóndit eis Ioánnes, dicens: Ego baptízo in aqua: médius autem vestrum stetit, quem vos nescítis. Ipse est, qui post me ventúrus est, qui ante me factus est: cuius ego non sum dignus ut solvam eius corrígiam calceaménti. Hæc in Bethánia facta sunt trans Iordánem, ubi erat Ioánnes baptízans."
+     ],
+     "francais": [
+      "Les Juifs envoyèrent de Jérusalem des prêtres et des lévites pour lui demander : « Qui êtes-vous ? » Il déclara, et ne le nia point ; il déclara : « Je ne suis point le Christ. » Et ils lui demandèrent : « Quoi donc ! Êtes-vous Élie ? » Il dit : « Je ne le suis point — Êtes-vous le prophète ? » Il répondit : « Non. — Qui êtes-vous donc, lui dirent-ils, afin que nous donnions une réponse à ceux qui nous ont envoyés. Que dites-vous de vous-même ? » Il répondit : « Je suis la voix de celui qui crie dans le désert : Aplanissez le chemin du Seigneur, comme l’a dit le prophète Isaïe. »",
+      "Or ceux qu’on lui avait envoyés étaient des Pharisiens. Et ils l’interrogèrent, et lui dirent : « Pourquoi donc baptisez-vous, si vous n’êtes ni le Christ, ni Élie, ni le Prophète ? » Jean leur répondit : « Moi je baptise dans l’eau ; mais au milieu de vous il y a quelqu’un que vous ne connaissez pas, c’est celui qui vient après moi ; je ne suis pas digne de délier la courroie de sa chaussure. » Cela se passait à Béthanie, au delà du Jourdain, où Jean baptisait."
+     ],
+     "note": "La Crampon ouvre le verset 19 par « Et voici le témoignage que rendit Jean, lorsque » ; le missel commence à « Miserunt Iudaei ». Au verset 27, le latin ajoute « qui ante me factus est » (qui a été placé avant moi), que la Crampon, traduite du grec, ne lit pas ici."
+    }
+   },
+   "verset": {
+    "texte": "« Réjouissez-vous dans le Seigneur en tout temps ; je le répète, réjouissez-vous. »",
+    "ref": "Philippiens 4, 4"
+   },
+   "commentaire": {
+    "mode": "direct",
+    "portee": "Épître, Philippiens 4, 4-7, et Évangile, Jean 1, 19-28",
+    "verif": "Textes relus : saint Thomas, Super Epistolam ad Philippenses, cap. 4, lect. 1 ; Super Ioannem, cap. 1, lect. 12-13 ; Somme théologique, II-II, q. 28, a. 2 (Corpus Thomisticum) ; propre du IIIe dimanche de l’Avent, texte latin et français (Divinum Officium) ; Crampon 1923 (Wikisource).",
+    "sections": [
+     {
+      "titre": "L’Épître : les quatre qualités de la joie",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Réjouissez-vous dans le Seigneur en tout temps. » Pour avancer dans le bien, dit saint Thomas, il faut la joie spirituelle, et l’Apôtre en donne quatre qualités. Elle doit être **droite**, c’est-à-dire « dans le Seigneur », car le bien propre de l’homme n’est rien de créé, mais Dieu ; **continue**, « en tout temps », ce qu’elle est quand le péché ne l’interrompt pas ; **multipliée**, « je le répète » : qui se réjouit de Dieu doit se réjouir de son Incarnation, de ses œuvres, de la contemplation, du bien d’autrui et du bien à venir ; enfin **mesurée**, « que votre modestie soit connue », pour ne pas se dissiper comme la joie du monde (Super Phil., ch. 4, leçon 1)."
+      ],
+      "citation": {
+       "texte": "« Si tu te réjouis de Dieu, il te revient de te réjouir de son Incarnation : “Je vous annonce une grande joie : il vous est né un Sauveur.” »",
+       "ref": "Super ad Philippenses, cap. 4, lect. 1",
+       "url": "https://www.corpusthomisticum.org/cpl.html#87843"
+      }
+     },
+     {
+      "titre": "L’Évangile : la voix avant le Verbe",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Jean, que beaucoup prenaient pour le Christ, « déclara et ne nia point : Je ne suis pas le Christ ». Saint Thomas y voit son humilité : si grand qu’on le tînt, **il n’usurpa pas un honneur qui n’était pas le sien**. Puis, quand on lui demande qui il est, il ne répond pas : « fils de Zacharie », mais seulement ce en quoi il suivait le Christ : « Je suis la voix ». Car la voix vient après le verbe dans l’ordre de l’origine, mais **elle est connue avant lui** : on ne connaît la parole conçue dans le cœur que par la voix qui la profère. Ainsi Jean, venu dans le temps, annonce le Verbe conçu de toute éternité (Super Ioannem, ch. 1, leçon 12)."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : le Seigneur est proche, et on ne le connaît pas",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Le Seigneur est proche », dit l’Apôtre, et saint Thomas énumère ses proximités : par la présence de sa majesté, par la parenté de la chair, par la grâce qui habite en nous, par la clémence qui exauce (Super Phil., ch. 4, leçon 1). Jean, lui, dit : « au milieu de vous il y a quelqu’un que vous ne connaissez pas ». Avec saint Grégoire, saint Jean Chrysostome et saint Augustin, saint Thomas l’entend de la vie du Christ parmi les hommes : **il apparaissait semblable aux autres**, et l’on ne savait pas combien il était grand selon sa nature divine. **C’est pourquoi la lampe a été allumée, pour qu’on trouve le Christ** (Super Ioannem, ch. 1, leçon 13)."
+      ]
+     },
+     {
+      "titre": "À la lumière du dimanche de Gaudete : une joie que rien ne mêle",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Au milieu d’un temps de pénitence, l’Église se réjouit. Saint Thomas montre comment les deux s’accordent. La charité cause deux joies : l’une, **de la bonté de Dieu considérée en elle-même**, qui ne souffre aucun mélange de tristesse, comme ce bien n’admet aucun mal, et c’est d’elle que l’Apôtre dit « réjouissez-vous toujours » ; l’autre, de la bonté de Dieu en tant que nous y participons, qui peut se mêler de tristesse quand quelque chose l’empêche en nous ou dans le prochain (II-II, q. 28, a. 2). L’Avent garde la seconde tristesse, celle du péché ; il ne touche pas à la première joie."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "La vraie joie est droite, continue, multipliée et mesurée.",
+    "La voix vient après le Verbe, mais c’est par elle qu’on le connaît.",
+    "La joie de la bonté de Dieu en elle-même ne souffre aucun mélange de tristesse."
+   ],
+   "resolution": "Faire aujourd’hui un acte de joie délibéré : remercier Dieu de l’Incarnation par une prière précise, et apporter une joie mesurée à quelqu’un de triste, par une visite, un appel ou un service.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super Epistolam ad Philippenses, cap. 4, lect. 1",
+     "detail": "Commentaire direct de l’Épître (versets 4 à 7) : les qualités de la joie, les proximités du Seigneur ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cpl.html#87843"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 1, lect. 12-13",
+     "detail": "Commentaire direct de l’Évangile (versets 19 à 28) : l’humilité de Jean, la voix et le Verbe, « au milieu de vous » ; texte latin, Corpus Thomisticum (la page couvre le chapitre 1) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih01.html#87430"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 28, a. 2",
+     "detail": "Si la joie spirituelle de la charité admet un mélange de tristesse ; texte latin, Corpus Thomisticum (II-II, q. 27-33) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3027.html#40168"
+    },
+    {
+     "label": "Missel romain de 1962, IIIe dimanche de l’Avent",
+     "detail": "Ire classe, rose ou violet, sans Gloria, avec Credo ; introït « Gaudete in Domino semper », collecte « Aurem tuam, quaesumus, Domine », épître, évangile et communion « Dicite : Pusillanimes », d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/Adv3-0.txt"
+    },
+    {
+     "label": "Missel romain, IIIe dimanche de l’Avent (texte français)",
+     "detail": "Traduction française des pièces de la messe, d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Francais/Tempora/Adv3-0.txt"
+    },
+    {
+     "label": "Bible Crampon 1923, Philippiens 4, 4-7",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Philippiens"
+    },
+    {
+     "label": "Bible Crampon 1923, Jean 1, 19-28",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Jean"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Le troisième dimanche de l’Avent prend son nom du premier mot de l’introït : « Gaudete », « Réjouissez-vous toujours dans le Seigneur ; de nouveau je vous le dis : réjouissez-vous… le Seigneur est proche. » Au milieu de l’attente, l’Église laisse paraître sa joie : le violet peut faire place au rose. La collecte demande : « Prêtez l’oreille à nos prières, Seigneur, et éclairez les ténèbres de notre esprit par la grâce de votre venue. » L’Évangile fait entendre une dernière fois Jean-Baptiste, qui se dit seulement « la voix de celui qui crie dans le désert » et annonce celui qui est déjà au milieu de nous. La communion reprend Isaïe : « Dites : Faibles, soyez forts, et ne craignez point ; voici que notre Dieu va venir et il va nous sauver. » La fête de sainte Lucie, qui tombe ce jour, cède au dimanche."
+   }
+  },
+  "meditation": {
+   "titre": "Il était mieux que le Fils de Dieu, en s’incarnant, s’unît une nature humaine tirée de la race d’Adam",
+   "texte": [
+    "**I**",
+    "Comme le dit saint Augustin : « Dieu pouvait prendre un homme ailleurs que dans la race d’Adam, qui avait enchaîné le genre humain à son péché ; mais il jugea qu’il valait mieux prendre, dans une race de vaincus, un homme qui deviendrait vainqueur de l’ennemi du genre humain » ; et cela pour trois raisons : La première, c’est qu’il semble appartenir à la justice, que celui qui a péché satisfasse : il convenait donc que ce fût de la nature corrompue par le péché, que fût tiré ce qui servirait à satisfaire pour toute la nature… La seconde, c’est qu’il est plus digne de l’homme que le vainqueur du diable sorte de la race qui a été vaincue par le diable… La troisième enfin, c’est que la puissance de Dieu se trouve, par là, davantage manifestée, puisque, d’une nature corrompue et infirme, Dieu tire quelque chose pour l’élever à une telle perfection et à une si haute dignité.",
+    "Le Christ devait être séparé des pécheurs, sous le rapport de la faute qu’il venait de détruire, non sous le rapport de la nature qu’il venait sauver, et qui devait le rendre en tout semblable à ses frères ; comme il est écrit dans l’Épître aux Hébreux (II, 17). Le merveilleux était précisément qu’une nature, tirée ainsi de cette race de péché, gardât cependant une telle pureté.",
+    "*(III, q. IV, a. 6.)*",
+    "**II**",
+    "Et saint Jean dit fort à propos : *Il vint chez lui et les siens ne l’ont pas reçu.* La lumière, bien que présente dans le monde, évidente et manifeste par ses effets, n’était cependant pas connue par le monde, et c’est pourquoi *il est venu chez les siens*, pour être connu. Mais il faut prendre garde quand on dit qu’il *vint*, de ne pas l’entendre d’un mouvement local, comme si pour venir, il cessait d’être où il était auparavant, et qu’il commençait d’être, là où il n’était pas ; on dit *chez les siens* pour dire, dans ce qui était à lui par création. Et il vint là où il était déjà ; il y vint en prenant un corps ; il était invisible, il vint pour être visible. *Chez lui*, c’est-à-dire en Judée, qui était sienne plus spécialement, mais en un meilleur sens, dans le monde créé par lui.",
+    "*Et les siens ne l’ont pas reçu* : « les siens », ce sont les hommes qu’il a formés, qu’il a faits à son image. Mais nous pouvons mieux dire encore ; car *les siens* ce sont les Juifs qui n’ont pas voulu le recevoir par la foi et le respect. Les Juifs sont *siens*, parce qu’ils ont été choisis par lui-même comme un peuple particulier : *Jéhovah a fait déclarer aujourd’hui que tu lui serais un peuple particulier.* (Deut., XXVI, 18.) *Les siens*, c’est encore sa famille ; ou bien ceux qu’il a comblés de ses bienfaits, selon la parole d’Isaïe : *J’ai nourri des enfants et je les ai élevés, et eux ils se sont révoltés contre moi.* (Is., I, 2.)",
+    "*(Sur saint Jean, c. I.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "Guérir la nature à sa source",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Pourquoi prendre une chair issue d’Adam ? Saint Thomas répond par une raison très simple : **le Christ a pris la nature humaine pour la purifier de sa corruption** ; or la nature n’avait besoin d’être purifiée qu’en tant qu’elle était atteinte par l’origine viciée qui descend d’Adam. Il convenait donc qu’il prît une chair tirée de cette matière, **pour que la nature elle-même fût guérie par l’assomption** (III, q. 31, a. 1). Le médecin ne soigne pas une autre chair que celle qui est malade : il la prend."
+      ],
+      "citation": {
+       "texte": "« Il convenait qu’il prît chair d’une matière dérivée d’Adam, afin que la nature elle-même fût guérie par cette assomption. »",
+       "ref": "Somme théologique, III, q. 31, a. 1",
+       "url": "https://www.corpusthomisticum.org/sth4027.html#48162"
+      }
+     },
+     {
+      "titre": "Semblable à ses frères",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La méditation cite l’Épître aux Hébreux : il devait être « en tout semblable à ses frères ». Saint Thomas précise : en tout ce en quoi ils sont frères, **non dans la faute, mais dans la peine** ; il devait donc avoir une nature capable de souffrir. Et il donne le fruit de cette ressemblance : le Christ médiateur est juge du genre humain et notre avocat auprès du Père ; or **on désire avant tout la miséricorde chez un juge, et la fidélité chez un avocat**, et il nous a montré l’une et l’autre par sa passion (Super Hebr., ch. 2, leçon 4)."
+      ]
+     },
+     {
+      "titre": "Pourquoi sans péché",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Tiré d’une race pécheresse, le Christ devait pourtant rester pur. Saint Thomas en donne trois raisons, tirées des motifs mêmes pour lesquels il a pris nos faiblesses. Il les a prises **pour satisfaire pour nous** : or le péché n’aide pas à satisfaire, il l’empêche. Il les a prises **pour montrer la vérité de sa nature humaine** : or le péché n’appartient pas à la nature, dont Dieu est l’auteur, il y a été semé par le diable. Il les a prises **pour nous donner l’exemple de la vertu** : or le péché est contraire à la vertu (III, q. 15, a. 1)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Le Christ a pris la chair d’Adam pour guérir la nature à sa source.",
+    "Il nous est semblable dans la peine, non dans la faute : miséricordieux comme juge, fidèle comme avocat.",
+    "Le péché n’appartient pas à la nature humaine : le Christ l’a prise tout entière, sans le péché."
+   ],
+   "resolution": "Recevoir aujourd’hui le Christ « chez soi » : préparer un coin de la maison pour la crèche, ou prendre dix minutes d’oraison devant le tabernacle, pour ne pas être de ceux qui ne l’ont pas reçu.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome I, p. 44-45",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-1-000000942"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 4, a. 6",
+     "detail": "Référence imprimée par La Moelle pour la partie I (III q. IV, a. 6), exacte, précédée de l’astérisque qui signale un emprunt à la traduction de la Revue des Jeunes. Texte latin, Corpus Thomisticum (III, q. 2-15).",
+     "url": "https://www.corpusthomisticum.org/sth4002.html#46999"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 1, lect. 6",
+     "detail": "Référence imprimée par La Moelle pour la partie II (Sur saint Jean, c. I), exacte : commentaire de Jean 1, 11. Texte latin, Corpus Thomisticum (la page couvre le chapitre 1).",
+     "url": "https://www.corpusthomisticum.org/cih01.html#87424"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 31, a. 1",
+     "detail": "Le Christ a pris chair d’Adam ; texte latin, Corpus Thomisticum (III, q. 27-39) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4027.html#48162"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Epistolam ad Hebraeos, cap. 2, lect. 4",
+     "detail": "Sur Hébreux 2, 17 : semblable à ses frères, miséricordieux et fidèle ; texte latin, Corpus Thomisticum (la page couvre les chapitres 1 à 6) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/che01.html#87937"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 15, a. 1",
+     "detail": "Le Christ n’a pas pris le péché ; texte latin, Corpus Thomisticum (III, q. 2-15) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4002.html#47475"
+    }
+   ]
+  }
+ },
+ "2026-12-14": {
+  "textes": {
+   "liturgie": {
+    "nom": "Lundi de la IIIe semaine de l’Avent",
+    "qualite": "Férie",
+    "classe": "IIIe classe",
+    "couleur": "violet",
+    "commemoraisons": []
+   },
+   "propre": {
+    "epitre": {
+     "titre": "Épître",
+     "reference": "Philippiens 4, 4-7",
+     "incipit": "Mes frères :",
+     "latin": [
+      "Fratres: Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus prope est. Nihil sollíciti sitis: sed in omni oratióne et obsecratióne, cum gratiárum actióne, petitiónes vestræ innotéscant apud Deum. Et pax Dei, quæ exsúperat omnem sensum, custódiat corda vestra et intellegéntias vestras, in Christo Iesu, Dómino nostro."
+     ],
+     "francais": [
+      "Réjouissez-vous dans le Seigneur en tout temps ; je le répète, réjouissez-vous. Que votre modération soit connue de tous les hommes : le Seigneur est proche. Ne vous inquiétez de rien ; mais en toute circonstance faites connaître vos besoins à Dieu par des prières et des supplications, avec des actions de grâce. Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées dans le Christ Jésus."
+     ],
+     "note": "Au verset 5, le latin dit « modestia vestra » (votre modestie), que la Crampon rend par « votre modération ». Le missel achève par « in Christo Iesu, Domino nostro » (dans le Christ Jésus, notre Seigneur) ; la Crampon n’a pas « notre Seigneur »."
+    },
+    "evangile": {
+     "reference": "Jean 1, 19-28",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "In illo tempore: Misérunt Iudǽi ab Ierosólymis sacerdótes et levítas ad Ioánnem, ut interrogárent eum: Tu quis es? Et conféssus est, et non negávit: et conféssus est: Quia non sum ego Christus. Et interrogavérunt eum: Quid ergo? Elías es tu? Et dixit: Non sum. Prophéta es tu? Et respondit: Non. Dixérunt ergo ei: Quis es, ut respónsum demus his, qui misérunt nos? Quid dicis de te ipso? Ait: Ego vox clamántis in desérto: Dirígite viam Dómini, sicut dixit Isaías Prophéta. Et qui missi fúerant, erant ex pharisǽis. Et interrogavérunt eum, et dixérunt ei: Quid ergo baptízas, si tu non es Christus, neque Elías, neque Prophéta? Respóndit eis Ioánnes, dicens: Ego baptízo in aqua: médius autem vestrum stetit, quem vos nescítis. Ipse est, qui post me ventúrus est, qui ante me factus est: cuius ego non sum dignus ut solvam eius corrígiam calceaménti. Hæc in Bethánia facta sunt trans Iordánem, ubi erat Ioánnes baptízans."
+     ],
+     "francais": [
+      "Les Juifs envoyèrent de Jérusalem des prêtres et des lévites pour lui demander : « Qui êtes-vous ? » Il déclara, et ne le nia point ; il déclara : « Je ne suis point le Christ. » Et ils lui demandèrent : « Quoi donc ! Êtes-vous Élie ? » Il dit : « Je ne le suis point — Êtes-vous le prophète ? » Il répondit : « Non. — Qui êtes-vous donc, lui dirent-ils, afin que nous donnions une réponse à ceux qui nous ont envoyés. Que dites-vous de vous-même ? » Il répondit : « Je suis la voix de celui qui crie dans le désert : Aplanissez le chemin du Seigneur, comme l’a dit le prophète Isaïe. »",
+      "Or ceux qu’on lui avait envoyés étaient des Pharisiens. Et ils l’interrogèrent, et lui dirent : « Pourquoi donc baptisez-vous, si vous n’êtes ni le Christ, ni Élie, ni le Prophète ? » Jean leur répondit : « Moi je baptise dans l’eau ; mais au milieu de vous il y a quelqu’un que vous ne connaissez pas, c’est celui qui vient après moi ; je ne suis pas digne de délier la courroie de sa chaussure. » Cela se passait à Béthanie, au delà du Jourdain, où Jean baptisait."
+     ],
+     "note": "La Crampon ouvre le verset 19 par « Et voici le témoignage que rendit Jean, lorsque » ; le missel commence à « Miserunt Iudaei ». Au verset 27, le latin ajoute « qui ante me factus est » (qui a été placé avant moi), que la Crampon, traduite du grec, ne lit pas ici."
+    }
+   },
+   "verset": {
+    "texte": "« Ne vous inquiétez de rien ; mais en toute circonstance faites connaître vos besoins à Dieu par des prières et des supplications, avec des actions de grâce. »",
+    "ref": "Philippiens 4, 6"
+   },
+   "commentaire": {
+    "mode": "synthese",
+    "portee": "Épître, Philippiens 4, 4-7, et Évangile, Jean 1, 19-28",
+    "verif": "Textes relus : saint Thomas, Super Epistolam ad Philippenses, cap. 4, lect. 1 ; Catena aurea in Ioannem, cap. 1, lect. 19-20 (saint Grégoire, Origène, saint Jean Chrysostome) ; Super Ioannem, cap. 1, lect. 13 ; Somme théologique, I-II, q. 109, a. 1 (Corpus Thomisticum) ; messe du IIIe dimanche de l’Avent et rubrique de la férie (Divinum Officium) ; Crampon 1923 (Wikisource).",
+    "sections": [
+     {
+      "titre": "L’Épître : au lieu de l’inquiétude, la prière",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Ne vous inquiétez de rien. » Saint Paul ne condamne-t-il pas ailleurs la négligence ? Saint Thomas distingue deux sollicitudes : l’une est **le soin diligent de chercher ce qui manque**, et elle est louable ; l’autre est **l’anxiété de l’âme qui désespère et craint de ne pas obtenir**, et c’est elle que l’Apôtre interdit. À sa place, il faut recourir à Dieu, et l’Apôtre nomme quatre choses requises dans toute prière : l’élévation de l’esprit vers Dieu, la supplication qui s’appuie sur sa miséricorde, l’action de grâces, car l’ingrat est indigne de recevoir encore, et enfin la demande (Super Phil., ch. 4, leçon 1)."
+      ],
+      "citation": {
+       "texte": "« Si nous les considérons bien, ces quatre choses se trouvent dans toutes les oraisons de l’Église. »",
+       "ref": "Super ad Philippenses, cap. 4, lect. 1",
+       "url": "https://www.corpusthomisticum.org/cpl.html#87843"
+      }
+     },
+     {
+      "titre": "L’Évangile avec les Pères : la voix qui fait entendre la parole",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Catena aurea, où saint Thomas recueille les Pères, fait entendre saint Grégoire : Jean nia ce qu’il n’était pas, mais ne nia pas ce qu’il était, et **en disant la vérité, il devint membre de celui dont il refusait d’usurper le nom**. Il se dit voix, car dans notre parole la voix résonne d’abord, pour que le verbe puisse être entendu. Il crie dans le désert, dit encore saint Grégoire, parce qu’il apporte à la Judée délaissée la consolation du Rédempteur ; et **la voie du Seigneur est préparée vers le cœur quand la parole de vérité est écoutée avec humilité** (Catena in Ioannem, ch. 1, leçon 19)."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : le baptême qui prépare",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Pourquoi baptisez-vous ? » Saint Thomas fait répondre Jean : ne vous étonnez pas, **car mon baptême n’est pas achevé, il est imparfait**. Le baptême parfait demande que soient lavés le corps et l’âme ; l’eau lave le corps, l’esprit seul lave l’âme. Jean lave le corps ; celui qui vient baptisera dans l’eau et l’Esprit Saint, en sorte que **la sanctification de l’esprit rejaillira jusqu’au corps** (Super Ioannem, ch. 1, leçon 13). L’Épître montre le fruit de ce baptême achevé : non plus l’inquiétude, mais « la paix de Dieu qui surpasse toute intelligence »."
+      ]
+     },
+     {
+      "titre": "À la lumière du temps de l’Avent : éclairer les ténèbres de l’esprit",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La collecte de la semaine demande : « éclairez les ténèbres de notre esprit par la grâce de votre venue ». Saint Thomas explique pourquoi l’esprit a besoin de cette lumière. Toute connaissance de la vérité vient de Dieu, qui donne à l’intelligence sa lumière naturelle et la meut ; mais pour connaître ce qui dépasse la nature, **il faut une lumière plus haute, celle de la grâce**, ajoutée à la lumière naturelle (I-II, q. 109, a. 1). Les ténèbres dont parle la collecte ne sont pas seulement celles du péché : ce sont celles d’un esprit qui ne voit pas encore celui qui est au milieu de lui."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Le soin diligent est louable ; l’anxiété qui désespère est défendue : à sa place, la prière.",
+    "La voie du Seigneur est préparée vers le cœur quand la parole de vérité est écoutée avec humilité.",
+    "Pour voir ce qui dépasse la nature, il faut à l’esprit la lumière de la grâce."
+   ],
+   "resolution": "Mettre par écrit aujourd’hui ce qui m’inquiète, puis le présenter à Dieu en une prière qui ait ses quatre parties : élever mon esprit vers lui, implorer sa miséricorde, rendre grâces, demander.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super Epistolam ad Philippenses, cap. 4, lect. 1",
+     "detail": "Commentaire direct du verset 6 : la sollicitude permise et défendue, les quatre éléments de la prière ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cpl.html#87843"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Catena aurea in Ioannem, cap. 1, lect. 19",
+     "detail": "Recueil des Pères sur Jean 1, 19-23 : Origène, Théophylacte, saint Jean Chrysostome, saint Augustin, saint Grégoire ; texte latin, Corpus Thomisticum (la page couvre le chapitre 1) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cjo01.html#85992"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 1, lect. 13",
+     "detail": "Commentaire direct de Jean 1, 24-28 : le baptême de Jean, imparfait ; texte latin, Corpus Thomisticum (la page couvre le chapitre 1) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih01.html#87431"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 109, a. 1",
+     "detail": "Si l’homme peut connaître la vérité sans la grâce ; texte latin, Corpus Thomisticum (I-II, q. 109-114) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2109.html#38366"
+    },
+    {
+     "label": "Missel romain de 1962, IIIe dimanche de l’Avent",
+     "detail": "Messe reprise aux féries de la semaine : introït « Gaudete », collecte « Aurem tuam, quaesumus, Domine », épître et évangile, d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/Adv3-0.txt"
+    },
+    {
+     "label": "Missel romain de 1962, lundi de la IIIe semaine de l’Avent",
+     "detail": "Férie de l’Avent, sans Gloria ni Credo ; la rubrique « Oratio Dominica » renvoie à la messe du dimanche, d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/Adv3-1.txt"
+    },
+    {
+     "label": "Missel romain, IIIe dimanche de l’Avent (texte français)",
+     "detail": "Traduction française des pièces de la messe, d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Francais/Tempora/Adv3-0.txt"
+    },
+    {
+     "label": "Bible Crampon 1923, Philippiens 4, 4-7",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Philippiens"
+    },
+    {
+     "label": "Bible Crampon 1923, Jean 1, 19-28",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Jean"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Aux féries de la troisième semaine de l’Avent revient la messe de Gaudete, en violet cette fois. L’introït garde sa joie : « Réjouissez-vous toujours dans le Seigneur… le Seigneur est proche. Ne soyez en souci de rien, mais qu’en de fréquentes prières vos supplications montent auprès de Dieu. » La collecte demande à Dieu de prêter l’oreille à nos prières et d’éclairer les ténèbres de notre esprit par la grâce de sa venue. L’Évangile rapporte le témoignage de Jean-Baptiste aux envoyés de Jérusalem : il n’est ni le Christ, ni Élie, ni le prophète, mais la voix qui prépare le chemin. Cette semaine est aussi celle des Quatre-Temps d’hiver : mercredi, vendredi et samedi, l’Église jeûnera et prendra des messes propres, qui annoncent toutes la venue prochaine du Sauveur."
+   }
+  },
+  "meditation": {
+   "titre": "L’Incarnation convenait mieux au Fils de Dieu qu’au Père et au Saint-Esprit",
+   "texte": [
+    "Saint Jean Damascène écrit : « Dans le mystère de l’Incarnation ont été manifestées la sagesse et la puissance de Dieu : sa sagesse, car, à la situation la plus difficile, il a su donner la solution la meilleure ; sa puissance, car, d’un vaincu, il a fait un vainqueur ». Mais la puissance et la sagesse appartiennent par appropriation, au Fils, puisqu’il est dit dans l’Épître aux Corinthiens (I Cor., I, 24) : *Le Christ, puissance de Dieu et sagesse de Dieu.* Il convenait donc que la personne du Fils s’incarnât.",
+    "Il convenait parfaitement à la personne du Fils de s’incarner, et cela pour plusieurs raisons : *a*) Tout d’abord du point de vue de l’union, il convient que celle-ci se fasse entre des éléments semblables. Or, la personne du Fils, qui est le Verbe de Dieu, possède un rapport de similitude commune avec toute créature. Le verbe ou la conception de l’artiste, en effet, est l’exemplaire idéal de ses œuvres ; et le Verbe divin qui est le concept éternel de Dieu, est aussi l’exemplaire idéal de toute créature. Dès lors, puisque par la participation à cet exemplaire idéal, les créatures sont constituées dans leurs espèces propres, tout en restant soumises à la corruption, il était normal que, par l’union personnelle au Verbe, et non plus seulement par simple participation, la créature déchue fût rétablie dans son ordre à la perfection éternelle et immuable : c’est en effet, par le moyen de la conception idéale qui lui a fait produire son œuvre, que l’artiste la restaure, lorsque celle-ci vient à déchoir.",
+    "D’autre part, le Verbe de Dieu possède un rapport de similitude spéciale avec la nature humaine ; car, le Verbe est le concept de l’éternelle Sagesse, de laquelle toute sagesse humaine dérive. C’est pourquoi le progrès de l’homme dans la sagesse, en laquelle se réalise sa perfection d’être raisonnable, se mesure à sa participation au Verbe de Dieu : ainsi le disciple s’instruit dans la mesure où il reçoit la parole du maître, expression de son verbe intérieur. De là ce mot de l’Ecclésiastique : *La source de la sagesse, c’est le Verbe de Dieu au plus haut des cieux.* (Eccli., I, 5.) Il convenait donc, pour l’achèvement de la perfection de l’homme, que le Verbe de Dieu fût uni personnellement à la nature humaine… *b*) L’on peut encore trouver une nouvelle raison de convenance, en considérant la fin de l’union hypostatique : cette fin, c’est le salut de ceux qui ont été prédestinés à l’héritage céleste, lequel n’appartient qu’aux fils, selon cette parole de l’Épître aux Romains : *Si nous sommes fils, nous sommes aussi héritiers.* (Rom., VIII, 17.) Il revenait donc à celui qui est le Fils naturel de Dieu, de communiquer aux hommes une image de cette filiation, par l’adoption divine, ainsi que l’Apôtre l’écrit au même passage : *Ceux qu’il a distingués d’avance, il les a aussi prédestinés à être conformes à l’image de son Fils…* *c*) Enfin une troisième raison de convenance se tire du péché de notre premier père, auquel vient remédier l’Incarnation. Le premier homme, en effet, a péché en désirant la science, comme il ressort des paroles mêmes du serpent, lui promettant la science du bien et du mal. Il convenait donc qu’après s’être éloigné de Dieu par un désir déréglé de science, l’homme fût ramené à Dieu par le Verbe de la vraie sagesse.",
+    "*(III, q. 3, a. 8.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "Puissance, sagesse, bonté",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La méditation part de l’appropriation : la puissance et la sagesse sont dites du Fils. Saint Thomas précise ce qu’on approprie à chaque personne quand on considère en Dieu la vertu de causer. **La puissance** a raison de principe : elle ressemble au Père, principe de toute la divinité. **La sagesse** ressemble au Fils, car le Verbe n’est rien d’autre que la conception de la sagesse. **La bonté**, raison et objet de l’amour, ressemble à l’Esprit, qui est amour (I, q. 39, a. 8). Ce sont trois manières de nous faire connaître, par des choses communes aux trois, ce qui est propre à chacun."
+      ],
+      "citation": {
+       "texte": "« La sagesse a ressemblance avec le Fils céleste, en tant qu’il est le Verbe, qui n’est rien d’autre que la conception de la sagesse. »",
+       "ref": "Somme théologique, I, q. 39, a. 8",
+       "url": "https://www.corpusthomisticum.org/sth1028.html#30062"
+      }
+     },
+     {
+      "titre": "Une adoption qui rend digne",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Le Fils naturel nous communique « une image de cette filiation ». Saint Thomas explique ce qu’est l’adoption : un homme adopte quand, par bonté, il admet un autre à son héritage. Dieu, dont la bonté est infinie, admet les créatures raisonnables à l’héritage de sa propre béatitude. Mais **l’adoption divine a ceci de plus que l’humaine : Dieu rend digne, par le don de la grâce, celui qu’il adopte**, tandis que l’homme choisit celui qui est déjà digne (III, q. 23, a. 1). Nous ne sommes pas adoptés parce que nous sommes aimables ; nous le devenons parce que nous sommes adoptés."
+      ]
+     },
+     {
+      "titre": "Le désir désordonné de la science",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La troisième raison rappelle que le premier homme a péché en désirant la science. Saint Thomas le précise : il n’a pas voulu être égal à Dieu, ce que nul sage ne conçoit, mais **lui ressembler d’une manière désordonnée**, en voulant déterminer par la seule force de sa nature ce qui est bon et ce qui est mauvais à faire. Lui et le démon ont voulu en quelque sorte s’égaler à Dieu **en s’appuyant sur eux-mêmes, au mépris de la règle divine** (II-II, q. 163, a. 2). Le Verbe de la vraie sagesse vient rendre à l’homme la science qu’il avait voulu prendre."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "On approprie au Père la puissance, au Fils la sagesse, à l’Esprit la bonté.",
+    "Dieu ne choisit pas ceux qui sont dignes : il rend dignes ceux qu’il adopte.",
+    "Le premier péché fut de vouloir décider seul du bien et du mal ; le Verbe nous rend la vraie sagesse."
+   ],
+   "resolution": "Avant une décision de la journée, au lieu de trancher seul, demander conseil : à Dieu dans une courte prière, puis, s’il le faut, à une personne sage.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome I, p. 46-47",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-1-000000942"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 3, a. 8",
+     "detail": "Référence imprimée par La Moelle (III q. 3, a. 8), exacte : argument « sed contra » (saint Jean Damascène, I Corinthiens 1, 24) et corps de l’article. Le livre la fait précéder de l’astérisque qui signale un emprunt à la traduction de la Revue des Jeunes. Texte latin, Corpus Thomisticum (III, q. 2-15).",
+     "url": "https://www.corpusthomisticum.org/sth4002.html#46948"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 39, a. 8",
+     "detail": "Les appropriations ; texte latin, Corpus Thomisticum (I, q. 28-43) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1028.html#30062"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 23, a. 1",
+     "detail": "L’adoption divine ; texte latin, Corpus Thomisticum (III, q. 16-26) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4016.html#47880"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 163, a. 2",
+     "detail": "Le premier péché, désir désordonné de la ressemblance divine ; texte latin, Corpus Thomisticum (II-II, q. 155-169) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3155.html#45603"
+    }
+   ]
+  }
+ },
+ "2026-12-15": {
+  "textes": {
+   "liturgie": {
+    "nom": "Mardi de la IIIe semaine de l’Avent",
+    "qualite": "Férie",
+    "classe": "IIIe classe",
+    "couleur": "violet",
+    "commemoraisons": []
+   },
+   "propre": {
+    "epitre": {
+     "titre": "Épître",
+     "reference": "Philippiens 4, 4-7",
+     "incipit": "Mes frères :",
+     "latin": [
+      "Fratres: Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus prope est. Nihil sollíciti sitis: sed in omni oratióne et obsecratióne, cum gratiárum actióne, petitiónes vestræ innotéscant apud Deum. Et pax Dei, quæ exsúperat omnem sensum, custódiat corda vestra et intellegéntias vestras, in Christo Iesu, Dómino nostro."
+     ],
+     "francais": [
+      "Réjouissez-vous dans le Seigneur en tout temps ; je le répète, réjouissez-vous. Que votre modération soit connue de tous les hommes : le Seigneur est proche. Ne vous inquiétez de rien ; mais en toute circonstance faites connaître vos besoins à Dieu par des prières et des supplications, avec des actions de grâce. Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées dans le Christ Jésus."
+     ],
+     "note": "Au verset 5, le latin dit « modestia vestra » (votre modestie), que la Crampon rend par « votre modération ». Le missel achève par « in Christo Iesu, Domino nostro » (dans le Christ Jésus, notre Seigneur) ; la Crampon n’a pas « notre Seigneur »."
+    },
+    "evangile": {
+     "reference": "Jean 1, 19-28",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "In illo tempore: Misérunt Iudǽi ab Ierosólymis sacerdótes et levítas ad Ioánnem, ut interrogárent eum: Tu quis es? Et conféssus est, et non negávit: et conféssus est: Quia non sum ego Christus. Et interrogavérunt eum: Quid ergo? Elías es tu? Et dixit: Non sum. Prophéta es tu? Et respondit: Non. Dixérunt ergo ei: Quis es, ut respónsum demus his, qui misérunt nos? Quid dicis de te ipso? Ait: Ego vox clamántis in desérto: Dirígite viam Dómini, sicut dixit Isaías Prophéta. Et qui missi fúerant, erant ex pharisǽis. Et interrogavérunt eum, et dixérunt ei: Quid ergo baptízas, si tu non es Christus, neque Elías, neque Prophéta? Respóndit eis Ioánnes, dicens: Ego baptízo in aqua: médius autem vestrum stetit, quem vos nescítis. Ipse est, qui post me ventúrus est, qui ante me factus est: cuius ego non sum dignus ut solvam eius corrígiam calceaménti. Hæc in Bethánia facta sunt trans Iordánem, ubi erat Ioánnes baptízans."
+     ],
+     "francais": [
+      "Les Juifs envoyèrent de Jérusalem des prêtres et des lévites pour lui demander : « Qui êtes-vous ? » Il déclara, et ne le nia point ; il déclara : « Je ne suis point le Christ. » Et ils lui demandèrent : « Quoi donc ! Êtes-vous Élie ? » Il dit : « Je ne le suis point — Êtes-vous le prophète ? » Il répondit : « Non. — Qui êtes-vous donc, lui dirent-ils, afin que nous donnions une réponse à ceux qui nous ont envoyés. Que dites-vous de vous-même ? » Il répondit : « Je suis la voix de celui qui crie dans le désert : Aplanissez le chemin du Seigneur, comme l’a dit le prophète Isaïe. »",
+      "Or ceux qu’on lui avait envoyés étaient des Pharisiens. Et ils l’interrogèrent, et lui dirent : « Pourquoi donc baptisez-vous, si vous n’êtes ni le Christ, ni Élie, ni le Prophète ? » Jean leur répondit : « Moi je baptise dans l’eau ; mais au milieu de vous il y a quelqu’un que vous ne connaissez pas, c’est celui qui vient après moi ; je ne suis pas digne de délier la courroie de sa chaussure. » Cela se passait à Béthanie, au delà du Jourdain, où Jean baptisait."
+     ],
+     "note": "La Crampon ouvre le verset 19 par « Et voici le témoignage que rendit Jean, lorsque » ; le missel commence à « Miserunt Iudaei ». Au verset 27, le latin ajoute « qui ante me factus est » (qui a été placé avant moi), que la Crampon, traduite du grec, ne lit pas ici."
+    }
+   },
+   "verset": {
+    "texte": "« Je suis la voix de celui qui crie dans le désert : Aplanissez le chemin du Seigneur. »",
+    "ref": "Jean 1, 23"
+   },
+   "commentaire": {
+    "mode": "synthese",
+    "portee": "Épître, Philippiens 4, 4-7, et Évangile, Jean 1, 19-28",
+    "verif": "Textes relus : saint Thomas, Super Epistolam ad Philippenses, cap. 4, lect. 1 ; Catena aurea in Ioannem, cap. 1, lect. 20 (saint Jean Chrysostome, saint Grégoire, saint Augustin, Théophylacte) ; Super Ioannem, cap. 1, lect. 12 (Corpus Thomisticum) ; messe du IIIe dimanche de l’Avent et rubrique de la férie (Divinum Officium) ; Crampon 1923 (Wikisource).",
+    "sections": [
+     {
+      "titre": "L’Épître : la paix de Dieu",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs. » Saint Thomas reprend la définition de saint Augustin : **la paix est la tranquillité de l’ordre**. Elle est d’abord en Dieu, principe de tout ordre ; de lui elle passe parfaitement aux bienheureux, que rien ne trouble plus, puis aux saints de la terre, **et plus un homme est saint, moins son esprit est troublé**. Comme notre cœur ne peut être délivré de tout trouble que par Dieu, l’Apôtre dit « la paix de Dieu » ; et elle surpasse toute intelligence : en Dieu, celle de toute créature ; au ciel, celle des anges ; chez les saints d’ici-bas, celle des hommes qui n’ont pas la grâce (Super Phil., ch. 4, leçon 1)."
+      ],
+      "citation": {
+       "texte": "« La paix, selon saint Augustin, est la tranquillité de l’ordre ; le trouble de l’ordre est la destruction de la paix. »",
+       "ref": "Super ad Philippenses, cap. 4, lect. 1",
+       "url": "https://www.corpusthomisticum.org/cpl.html#87843"
+      }
+     },
+     {
+      "titre": "L’Évangile avec les Pères : celui qui vient après et passe devant",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Catena aurea, où saint Thomas recueille les Pères, explique la fin de l’Évangile. « Au milieu de vous il y a quelqu’un » : pour saint Grégoire, par la chair le Seigneur était visible, **et invisible par sa majesté** ; pour saint Jean Chrysostome, il convenait qu’il fût mêlé au peuple comme l’un d’entre eux, pour enseigner partout l’humilité. Il vient après Jean, parce qu’il est né après lui ; il a été placé avant lui, parce qu’il lui est préféré. Et pour montrer qu’on ne peut même pas comparer leur grandeur, Jean ajoute : je ne suis pas digne de délier sa chaussure, **car délier la chaussure est le service du dernier des serviteurs** (Catena in Ioannem, ch. 1, leçon 20)."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : crier pour ceux qui sont loin",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Jean est « la voix de celui qui crie ». Saint Thomas donne quatre raisons de ce cri : il marque **la manifestation**, car le Christ parle désormais à découvert, non plus en énigmes comme dans les prophètes ; on crie **pour ceux qui sont loin**, et les hommes s’étaient éloignés de Dieu ; on crie **pour les sourds** ; on crie enfin **avec indignation**, contre ceux qui avaient mérité la colère. Et Jean crie dans le désert, pour y vivre sans péché et rendre au Christ un témoignage plus croyable (Super Ioannem, ch. 1, leçon 12). L’Épître dit à quoi mène ce cri entendu : à la paix qui garde le cœur."
+      ]
+     },
+     {
+      "titre": "À la lumière du temps de l’Avent : la modestie qui se voit",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Que votre modestie soit connue de tous les hommes. » Saint Thomas y lit une règle de la joie chrétienne : elle doit être **mesurée, pour ne pas se répandre en plaisirs comme la joie du monde**, et la vie doit être si réglée au-dehors **qu’elle ne blesse le regard de personne**, car cela empêcherait le bien qu’elle peut faire (Super Phil., ch. 4, leçon 1). À l’approche des fêtes, l’Avent apprend ainsi à se réjouir sans se dissiper : la joie qui attend le Seigneur se reconnaît à sa mesure."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "La paix est la tranquillité de l’ordre : plus un homme est saint, moins il est troublé.",
+    "Délier la chaussure est le service du dernier serviteur : Jean ne s’en jugeait pas digne.",
+    "La joie chrétienne est mesurée : elle ne blesse le regard de personne."
+   ],
+   "resolution": "Remettre de l’ordre en une chose précise aujourd’hui, un lieu, un horaire ou une relation, pour que la paix de Dieu y trouve sa place ; et rendre à quelqu’un un service humble que je jugeais au-dessous de moi.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super Epistolam ad Philippenses, cap. 4, lect. 1",
+     "detail": "Commentaire direct des versets 5 et 7 : la modestie, la paix de Dieu ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cpl.html#87843"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Catena aurea in Ioannem, cap. 1, lect. 20",
+     "detail": "Recueil des Pères sur Jean 1, 24-28 : Origène, saint Grégoire, saint Jean Chrysostome, saint Augustin, Théophylacte ; texte latin, Corpus Thomisticum (la page couvre le chapitre 1) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cjo01.html#85993"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 1, lect. 12",
+     "detail": "Commentaire direct de Jean 1, 23 : pourquoi Jean crie, et dans le désert ; texte latin, Corpus Thomisticum (la page couvre le chapitre 1) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih01.html#87430"
+    },
+    {
+     "label": "Missel romain de 1962, IIIe dimanche de l’Avent",
+     "detail": "Messe reprise aux féries de la semaine : introït « Gaudete », collecte « Aurem tuam, quaesumus, Domine », épître et évangile, d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/Adv3-0.txt"
+    },
+    {
+     "label": "Missel romain de 1962, mardi de la IIIe semaine de l’Avent",
+     "detail": "Férie de l’Avent, sans Gloria ni Credo ; la rubrique « Oratio Dominica » renvoie à la messe du dimanche, d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/Adv3-2.txt"
+    },
+    {
+     "label": "Missel romain, IIIe dimanche de l’Avent (texte français)",
+     "detail": "Traduction française des pièces de la messe, d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Francais/Tempora/Adv3-0.txt"
+    },
+    {
+     "label": "Bible Crampon 1923, Philippiens 4, 4-7",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Philippiens"
+    },
+    {
+     "label": "Bible Crampon 1923, Jean 1, 19-28",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Jean"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "La messe du troisième dimanche de l’Avent revient ce mardi. Jean-Baptiste y parle pour la dernière fois avant les Quatre-Temps : interrogé par les prêtres et les lévites, il refuse tous les titres qu’on lui offre et ne garde que celui de « voix », pour s’effacer devant celui qui vient après lui et dont il n’est pas digne de délier la chaussure. L’Épître lui répond par la joie de l’Église : « Réjouissez-vous dans le Seigneur en tout temps… le Seigneur est proche », et par la promesse de « la paix de Dieu, qui surpasse toute intelligence ». La collecte demande à Dieu d’éclairer les ténèbres de notre esprit par la grâce de sa venue ; la communion encourage les cœurs faibles : « Soyez forts, et ne craignez point ; voici que notre Dieu va venir et il va nous sauver. » Demain s’ouvrent les Quatre-Temps d’hiver."
+   }
+  },
+  "meditation": {
+   "titre": "L’union de l’Incarnation n’a pas été la conséquence de quelque mérite",
+   "texte": [
+    "Pour ce qui est du Christ lui-même, il est manifeste, qu’aucun de ses mérites n’a pu précéder l’union hypostatique. Nous ne prétendons pas en effet, comme Photin, que le Christ fût d’abord un homme ordinaire, et qu’ensuite, par le mérite d’une vie sainte, il obtint d’être le Fils de Dieu ; mais nous disons que, dès le principe de sa conception d’homme, il fut vraiment le Fils de Dieu, n’ayant d’autre hypostase que celle du Fils de Dieu selon le mot de saint Luc (I, 35) : *L’être saint qui naîtra de toi sera appelé Fils de Dieu.* C’est pourquoi toute activité proprement humaine est conséquente, en lui, à l’union. Aucune de ses actions n’a donc pu mériter cette union.",
+    "Bien plus, les œuvres d’un homme, quel qu’il soit, n’ont pu mériter, en justice, l’union de l’Incarnation. La raison première en est que, les œuvres méritoires de l’homme sont ordonnées à la béatitude, laquelle est la récompense de la vertu, et consiste dans la pleine jouissance de Dieu. Or, l’union de l’Incarnation, qui se réalise en l’être personnel du Verbe, dépasse l’union de l’esprit bienheureux à Dieu, laquelle s’opère par un acte de l’élu. Cette union ne peut donc être l’objet de mérite.",
+    "De plus, la grâce, qui est principe de mérite, n’est pas elle-même objet de mérite. À plus forte raison, l’Incarnation ne l’est-elle pas, elle qui est principe de la grâce, selon cette parole de saint Jean : *La grâce et la vérité nous sont venues par Jésus-Christ.* (I, 17.)",
+    "Enfin l’Incarnation du Christ répare la nature humaine tout entière : elle ne saurait donc être méritée par un homme ordinaire ; car, la bonté d’un individu ne peut être cause de la bonté de toute une nature.",
+    "Cependant, il est exact que les saints Pères, par leurs désirs et leurs prières, ont mérité d’un mérite de convenance, l’Incarnation. Il convenait, en effet, que Dieu exauçât ceux qui lui étaient fidèles.",
+    "On dit que la Bienheureuse Vierge a mérité de porter Notre Seigneur Jésus-Christ, non pas qu’elle ait mérité que Dieu s’incarnât, mais parce qu’en s’appuyant sur la grâce qui lui était donnée, elle a mérité un degré de pureté et de sainteté tel qu’elle puisse dignement être Mère de Dieu.",
+    "*(III, q. 2, a. 11.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "La première grâce ne se mérite pas",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« La grâce, principe du mérite, n’est pas elle-même objet de mérite. » Saint Thomas le montre de deux côtés. Comme don gratuit, la grâce exclut le mérite : « si c’est par les œuvres, ce n’est plus par grâce ». Comme réalité, elle dépasse la nature, et l’homme en état de péché a même un obstacle à la mériter, le péché. Et celui qui l’a déjà ne peut mériter la grâce qu’il possède, **car la récompense est le terme de l’œuvre, tandis que la grâce est le principe de toute bonne œuvre en nous** (I-II, q. 114, a. 5)."
+      ],
+      "citation": {
+       "texte": "« Il est manifeste que nul ne peut se mériter à lui-même la première grâce. »",
+       "ref": "Somme théologique, I-II, q. 114, a. 5",
+       "url": "https://www.corpusthomisticum.org/sth2109.html#38691"
+      }
+     },
+     {
+      "titre": "Le mérite de convenance",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Les patriarches ont pourtant « mérité d’un mérite de convenance ». Saint Thomas explique ce mérite : une œuvre est méritoire en stricte justice par la motion de Dieu qui la porte ; elle l’est par convenance en tant qu’elle vient du libre arbitre, **car il convient que, l’homme usant bien de sa force, Dieu agisse plus excellemment selon sa force à lui**. Ainsi, seul le Christ a pu mériter en justice la grâce pour d’autres ; mais **par convenance, un homme en état de grâce peut mériter pour un autre la première grâce** : celui qui fait la volonté de Dieu, il convient, selon les lois de l’amitié, que Dieu fasse la sienne (I-II, q. 114, a. 6)."
+      ]
+     },
+     {
+      "titre": "Une élévation qui ne pouvait aller plus haut",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Puisque l’union n’a été méritée par aucune œuvre du Christ, elle est en lui pure grâce. Saint Thomas en tire que **le Christ, en tant qu’homme, a été prédestiné à être Fils de Dieu** : sa nature humaine n’a pas toujours été unie au Verbe, et c’est par grâce qu’elle a reçu cette union. Il cite saint Augustin : « fut prédestinée cette élévation de la nature humaine, si grande, si haute, si suprême, **qu’elle ne pouvait être portée plus haut** » (III, q. 24, a. 2). Le premier des prédestinés est aussi le plus grand des dons gratuits de Dieu."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "La grâce est le principe de toute bonne œuvre : on ne peut donc la mériter.",
+    "Celui qui fait la volonté de Dieu, il convient que Dieu fasse la sienne : ainsi l’on peut mériter pour d’autres.",
+    "Le Christ en tant qu’homme a été prédestiné, par pure grâce, à l’élévation la plus haute."
+   ],
+   "resolution": "Prier aujourd’hui, comme les patriarches, pour une personne éloignée de Dieu, en offrant pour elle un acte de fidélité accompli dans la journée.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome I, p. 48-49",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-1-000000942"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 2, a. 11",
+     "detail": "Référence imprimée par La Moelle (III q. 2, a. II), exacte : corps de l’article et réponse à la troisième objection (la Vierge). Le livre la fait précéder de l’astérisque qui signale un emprunt à la traduction de la Revue des Jeunes. Texte latin, Corpus Thomisticum (III, q. 2-15).",
+     "url": "https://www.corpusthomisticum.org/sth4002.html#46875"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 114, a. 5 et 6",
+     "detail": "Nul ne peut mériter la première grâce pour soi ; on peut la mériter pour autrui par convenance ; texte latin, Corpus Thomisticum (I-II, q. 109-114) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2109.html#38691"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 24, a. 2",
+     "detail": "Le Christ, en tant qu’homme, prédestiné à être Fils de Dieu ; texte latin, Corpus Thomisticum (III, q. 16-26) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4016.html#47921"
+    }
+   ]
+  }
+ },
+ "2026-12-16": {
+  "textes": {
+   "liturgie": {
+    "nom": "Mercredi des Quatre-Temps de l’Avent",
+    "qualite": "Férie des Quatre-Temps",
+    "classe": "IIe classe",
+    "couleur": "violet",
+    "commemoraisons": [
+     "saint Eusèbe de Verceil, évêque et martyr"
+    ]
+   },
+   "propre": {
+    "lecon": {
+     "titre": "Première leçon",
+     "reference": "Isaïe 2, 2-5",
+     "incipit": "En ces jours-là, le prophète Isaïe dit :",
+     "latin": [
+      "In diébus illis: Dixit Isaias Prophéta: Erit in novíssimis diébus præparátus mons domus Dómini in vértice móntium, et elevábitur super colles, et fluent ad eum omnes gentes. Et ibunt pópuli multi, et dicent: Veníte et ascendámus ad montem Dómini, et ad domum Dei Iacob, et docébit nos vias suas, et ambulábimus in sémitis eius: quia de Sion exíbit lex, et verbum Dómini de Ierúsalem. Et iudicábit gentes, et árguet pópulos multos: et conflábunt gládios suos in vómeres, et lánceas suas in falces. Non levábit gens contra gentem gládium: nec exercebúntur ultra ad prǽlium. Domus Iacob, veníte, et ambulémus in lúmine Dómini, Dei nostri."
+     ],
+     "francais": [
+      "Il arrivera, à la fin des jours, que la Montagne de la maison de Yahweh sera établie au sommet des montagnes et élevée au-dessus des collines. Et vers elle toutes les nations afflueront, et des nations nombreuses viendront et diront : « Venez et montons à la montagne de Yahweh, à la maison du Dieu de Jacob ; il nous instruira de ses voies, et nous marcherons dans ses sentiers. » Car de Sion sortira la loi, et de Jérusalem la parole de Yahweh. Il sera l’arbitre des peuples et le juge de nations nombreuses. Ils forgeront leurs épées en socs de charrue ; et leurs lances en faucilles. Une nation ne lèvera plus l’épée contre l’autre, et l’on n’apprendra plus la guerre. Maison de Jacob, venez, et marchons à la lumière de Yahweh."
+     ],
+     "note": "Le missel ouvre la leçon par « In diebus illis : Dixit Isaias Propheta », rendu dans l’incipit, et lit « Dominus » (le Seigneur) là où la Crampon, traduite de l’hébreu, garde le nom divin « Yahweh ». Au verset 4, le latin dit « iudicabit gentes, et arguet populos multos » (il jugera les nations et reprendra des peuples nombreux). Traduction du latin par Ad Fontes."
+    },
+    "supplement": [
+     {
+      "titre": "Seconde leçon",
+      "reference": "Isaïe 7, 10-15",
+      "incipit": "En ces jours-là :",
+      "latin": [
+       "In diébus illis: Locútus est Dóminus ad Achaz, dicens: Pete tibi signum a Dómino, Deo tuo, in profúndum inférni, sive in excélsum supra. Et dixit Achaz: Non petam et non tentábo Dóminum. Et dixit: Audíte ergo, domus David: Numquid parum vobis est, moléstos esse homínibus, quia molesti estis et Deo meo? Propter hoc dabit Dóminus ipse vobis signum. Ecce, Virgo concípiet et páriet fílium, et vocábitur nomen eius Emmánuel. Butýrum et mel cómedet, ut sciat reprobare malum et elígere bonum."
+      ],
+      "francais": [
+       "Yahweh parla encore à Achaz, en disant : « Demande un signe à Yahweh, ton Dieu, demande-le dans les profondeurs du schéol ou dans les hauteurs du ciel. » Mais Achaz dit : « Je ne le demanderai pas, je ne tenterai pas Yahweh. » Et Isaïe dit : « Écoutez, maison de David : Est-ce trop peu pour vous de fatiguer les hommes, que vous fatiguiez aussi mon Dieu ? C’est pourquoi le Seigneur lui-même vous donnera un signe : Voici que la Vierge a conçu, et elle enfante un fils, et elle lui donne le nom d’Emmanuel. Il mangera de la crème et du miel, jusqu’à ce qu’il sache rejeter le mal et choisir le bien. »"
+      ],
+      "note": "Le missel lit « Locutus est Dominus ad Achaz », sans « encore ». Au verset 14, il met le futur : « Ecce, Virgo concipiet et pariet filium, et vocabitur nomen eius Emmanuel » (Voici que la Vierge concevra et enfantera un fils, et on l’appellera Emmanuel), que reprend la communion du jour ; la Crampon, traduite de l’hébreu, met le présent. Au verset 15, le latin dit « butyrum et mel comedet, ut sciat » (il mangera du beurre et du miel, pour qu’il sache). Traductions du latin par Ad Fontes."
+     }
+    ],
+    "evangile": {
+     "reference": "Luc 1, 26-38",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "In illo tempore: Missus est Angelus Gábriel a Deo in civitatem Galilǽæ, cui nomen Názareth, ad Vírginem desponsátam viro, cui nomen erat Ioseph, de domo David, et nomen Vírginis María. Et ingréssus Angelus ad eam, dixit: Ave, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Quæ cum audísset, turbáta est in sermóne eius: et cogitábat, qualis esset ista salutátio. Et ait Angelus ei: Ne tímeas, María, invenísti enim grátiam apud Deum: ecce, concípies in útero, et páries fílium, et vocábis nomen eius Iesum. Hic erit magnus, et Fílius Altíssimi vocábitur, et dabit illi Dóminus Deus sedem David, patris eius: et regnábit in domo Iacob in ætérnum, et regni eius non erit finis. Dixit autem María ad Angelum: Quómodo fiet istud, quóniam virum non cognósco? Et respóndens Angelus, dixit ei: Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi. Ideóque et quod nascétur ex te Sanctum, vocábitur Fílius Dei. Et ecce, Elísabeth, cognáta tua, et ipsa concépit fílium in senectúte sua: et hic mensis sextus est illi, quæ vocátur stérilis: quia non erit impossíbile apud Deum omne verbum. Dixit autem María: Ecce ancílla Dómini, fiat mihi secúndum verbum tuum."
+     ],
+     "francais": [
+      "L’ange Gabriel fut envoyé de Dieu dans une ville de Galilée appelée Nazareth, auprès d’une vierge qui était fiancée à un homme de la maison de David, nommé Joseph, et le nom de la vierge était Marie. L’ange étant entré où elle était, lui dit : « Je vous salue, pleine de grâce ; le Seigneur est avec vous, vous êtes bénie entre les femmes. » Marie l’ayant aperçu, fut troublée de ses paroles, et elle se demandait ce que pouvait signifier cette salutation. L’ange lui dit : « Ne craignez point, Marie, car vous avez trouvé grâce devant Dieu. Voici que vous concevrez en votre sein, et vous enfanterez un fils, et vous lui donnerez le nom de Jésus. Il sera grand, on l’appellera le Fils du Très-Haut ; le Seigneur Dieu lui donnera le trône de David son père ; il régnera éternellement sur la maison de Jacob, et son règne n’aura point de fin. » Marie dit à l’ange : « Comment cela se fera-t-il, puisque je ne connais point d’homme ? »",
+      "L’ange lui répondit : « L’Esprit-Saint viendra sur vous, et la vertu du Très-Haut vous couvrira de son ombre. C’est pourquoi l’être saint qui naîtra (de vous) sera appelé Fils de Dieu. Déjà Élisabeth, votre parente, a conçu elle aussi, un fils dans sa vieillesse, et c’est actuellement son sixième mois, à elle que l’on appelle stérile : car rien ne sera impossible à Dieu. » Marie dit alors : « Voici la servante du Seigneur, qu’il me soit fait selon votre parole. »"
+     ],
+     "note": "La Crampon ouvre le verset 26 par « Au sixième mois », que le missel ne lit pas : la leçon commence à « Missus est Angelus Gabriel ». Elle s’arrête à « fiat mihi secundum verbum tuum » ; la fin du verset 38, « Et l’ange la quitta », n’est pas lue."
+    }
+   },
+   "verset": {
+    "texte": "« L’Esprit-Saint viendra sur vous, et la vertu du Très-Haut vous couvrira de son ombre. »",
+    "ref": "Luc 1, 35"
+   },
+   "commentaire": {
+    "mode": "direct",
+    "portee": "Leçons, Isaïe 2, 2-5 et 7, 10-15, et Évangile, Luc 1, 26-38",
+    "verif": "Textes relus : saint Thomas, Super Isaiam, cap. 2, lect. 1 et cap. 7, lect. 2 ; Catena aurea in Lucam, cap. 1, lect. 11 (saint Ambroise, saint Grégoire de Nysse, saint Jean Chrysostome) ; Somme théologique, III, q. 28, a. 1 (Corpus Thomisticum) ; propre du mercredi des Quatre-Temps de l’Avent, collecte du commun d’un martyr pontife pour la commémoraison de saint Eusèbe, leçons du bréviaire (Divinum Officium) ; Crampon 1923 (Wikisource).",
+    "sections": [
+     {
+      "titre": "Les Leçons : la montagne et le signe",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Il arrivera, à la fin des jours… » Ces derniers jours, dit saint Thomas, sont **le temps de la grâce, appelé dernier parce qu’aucune autre forme de culte ne lui succédera**. Puis Achaz refuse le signe que Dieu lui offre, sous prétexte de ne pas tenter Dieu ; mais il comprenait mal, car il pouvait le demander sur l’autorité même du Seigneur, comme Gédéon. Dieu donne donc lui-même le signe : **une vierge, demeurant vierge, concevra**, et l’enfant sera appelé Emmanuel, « Dieu avec nous ». Et il remarque qu’il n’y a là rien de semblable ailleurs : **c’est la chose nouvelle**, quand il n’y a rien de nouveau sous le soleil (Super Isaiam, ch. 2, leçon 1 ; ch. 7, leçon 2)."
+      ],
+      "citation": {
+       "texte": "« Ce temps est appelé le dernier, parce qu’aucune autre observance de religion ne lui succédera. »",
+       "ref": "Super Isaiam, cap. 2, lect. 1",
+       "url": "https://www.corpusthomisticum.org/cis01b.html#84948"
+      }
+     },
+     {
+      "titre": "L’Évangile avec les Pères : la question de Marie",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Catena aurea, où saint Thomas recueille les Pères, compare Marie à Zacharie avec saint Ambroise : **Zacharie demandait une preuve, Marie demande la manière** ; elle ne doute pas que la chose se fera, elle cherche comment. Elle avait lu : « une vierge concevra », mais non comment cela se ferait, car un tel mystère devait être annoncé par la bouche d’un ange. Saint Grégoire de Nysse voit dans sa réponse « je ne connais point d’homme » le signe de la virginité qu’elle avait résolu de garder. Et saint Jean Chrysostome fait dire à l’ange : **ne cherche pas l’ordre de la nature, là où ce qui se fait dépasse la nature** (Catena in Lucam, ch. 1, leçon 11)."
+      ]
+     },
+     {
+      "titre": "Ce que les Leçons et l’Évangile disent ensemble : conçu d’une vierge",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Isaïe annonce le signe, l’ange l’accomplit. Saint Thomas montre pourquoi il convenait que le Christ fût conçu d’une vierge. D’abord pour la dignité du Père qui envoie : le Fils de Dieu par nature ne devait pas avoir d’autre père que Dieu. Ensuite pour ce qui est propre au Fils, qui est le Verbe : **le verbe est conçu sans aucune corruption du cœur**, il convenait donc que la chair du Verbe fût conçue sans corruption de la mère. Enfin pour la dignité de son humanité, en laquelle le péché ne devait avoir aucune place, puisque par elle était ôté le péché du monde (III, q. 28, a. 1)."
+      ]
+     },
+     {
+      "titre": "À la lumière des Quatre-Temps : la rosée et le miel",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "L’introït chante : « Cieux, répandez d’en-haut votre rosée, et que les nuées fassent pleuvoir le Juste. » Dans la seconde leçon, saint Thomas lit de même le beurre et le miel dont se nourrira l’Emmanuel. Avec saint Augustin, il voit dans le beurre, qui vient de la terre, **l’humanité**, et dans le miel, recueilli de la rosée du ciel, **la divinité** ; avec saint Bernard, il ajoute que le Christ a pris notre nature sans corruption, comme le beurre sans le fromage, et nous a apporté la consolation sans le jugement, **comme le miel sans l’aiguillon**, car il n’est pas venu juger le monde, mais le sauver (Super Isaiam, ch. 7, leçon 2). L’Église fait aussi mémoire de saint Eusèbe de Verceil."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Le temps de la grâce est le dernier : aucun autre culte ne lui succédera.",
+    "Marie ne demande pas une preuve, mais la manière : elle croit, et cherche comment.",
+    "Le Christ apporte le miel sans l’aiguillon : il vient non pour juger, mais pour sauver."
+   ],
+   "resolution": "Observer aujourd’hui le jeûne des Quatre-Temps, ou une privation précise si l’on en est dispensé, et réciter l’Angélus de midi en s’arrêtant sur la réponse de Marie : « qu’il me soit fait selon votre parole ».",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super Isaiam, cap. 2, lect. 1 et cap. 7, lect. 2",
+     "detail": "Commentaire direct des deux leçons : les derniers jours, le signe de la Vierge, le beurre et le miel ; texte latin, Corpus Thomisticum (la page couvre Isaïe 1, 2 à 33) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cis01b.html#84948"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Catena aurea in Lucam, cap. 1, lect. 11",
+     "detail": "Recueil des Pères sur Luc 1, 34-35 : saint Ambroise, saint Grégoire de Nysse, saint Basile, un auteur grec, saint Jean Chrysostome ; texte latin, Corpus Thomisticum (la page couvre Luc 1, 5 à 2) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/clc012.html#85737"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 28, a. 1",
+     "detail": "La Mère du Christ vierge dans la conception ; texte latin, Corpus Thomisticum (III, q. 27-39) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4027.html#48067"
+    },
+    {
+     "label": "Missel romain de 1962, mercredi des Quatre-Temps de l’Avent",
+     "detail": "IIe classe, violet ; introït « Rorate », première leçon (Isaïe 2) avec la collecte « Festina, quaesumus, Domine, ne tardaveris », seconde leçon (Isaïe 7), collecte « Praesta, quaesumus, omnipotens Deus : ut redemptionis nostrae ventura sollemnitas », évangile et communion « Ecce Virgo concipiet », d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/Adv3-3.txt"
+    },
+    {
+     "label": "Missel romain, mercredi des Quatre-Temps de l’Avent (texte français)",
+     "detail": "Traduction française des pièces de la messe, d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Francais/Tempora/Adv3-3.txt"
+    },
+    {
+     "label": "Missel romain de 1962, commémoraison de saint Eusèbe de Verceil, évêque et martyr (16 décembre)",
+     "detail": "Collecte du commun d’un martyr pontife, « Deus, qui nos beati N. Martyris tui atque Pontificis annua solemnitate laetificas », d’après les données libres du projet Divinum Officium (Sancti/12-16.txt, renvoyant à Commune/C2-1).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/12-16.txt"
+    },
+    {
+     "label": "Bréviaire romain, office de saint Eusèbe de Verceil",
+     "detail": "Vie du saint (leçons), texte français d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Francais/Sancti/12-16.txt"
+    },
+    {
+     "label": "Bible Crampon 1923, Isaïe 2, 2-5 et 7, 10-15",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Isa%C3%AFe"
+    },
+    {
+     "label": "Bible Crampon 1923, Luc 1, 26-38",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Luc"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Les Quatre-Temps d’hiver s’ouvrent ce mercredi : jours de jeûne et de prière, ils sanctifient le début de la saison et préparent, le samedi, les ordinations. Toute la messe regarde vers l’Incarnation. L’introït emprunte à Isaïe le cri de l’Avent : « Cieux, répandez d’en-haut votre rosée, et que les nuées fassent pleuvoir le Juste ; que la terre s’ouvre, et qu’elle fasse germer le Sauveur. » Deux leçons d’Isaïe précèdent l’Évangile : la montagne du Seigneur vers laquelle afflueront les nations, et le signe donné à la maison de David, « Voici que la Vierge concevra ». L’Évangile en rapporte l’accomplissement : l’Annonciation. La collecte demande que la solennité prochaine de notre rédemption nous soit un secours pour la vie présente et nous obtienne les récompenses de l’éternelle béatitude, et la communion reprend la prophétie : « Voici que la Vierge concevra, elle enfantera un fils, et on l’appellera Emmanuel. » La messe fait mémoire de saint Eusèbe, évêque de Verceil, qui défendit la foi de Nicée contre les ariens et en souffrit l’exil."
+   }
+  },
+  "meditation": {
+   "titre": "Le don du Fils de Dieu dans l’Incarnation",
+   "texte": [
+    "*C’est en ceci que Dieu a manifesté son amour pour nous, en envoyant son Fils unique dans le monde, afin que nous vivions par lui.* (I Joan., IV, 9.)",
+    "*En ceci*, c’est-à-dire, voici le signe très certain. *Dieu a manifesté son amour*, c’est-à-dire, l’a montré envers nous. *En envoyant son Fils*, et non pas un serviteur. Saint Grégoire s’écrie : « N’est-ce pas une ineffable dilection de charité, que Dieu ait livré son propre Fils pour racheter l’esclave ? » *Son Fils*, c’est-à-dire, consubstantiel à lui-même, son Fils par nature, et non point par adoption. *Unique*, et non pas un entre plusieurs.",
+    "*C’est Dieu le Père qui l’envoie*, Lui, si grand, à nous si petits ! *Dans le monde*, pour sauver le monde. *Afin que nous vivions*, nous qui étions morts par le péché. *Par lui*, qui nous ressuscite à la vie de la gloire.",
+    "Et saint Paul dit de même dans son Épître aux Éphésiens (2, 4) : *À cause du grand amour dont il nous a aimés, et alors que nous étions morts par nos offenses, Dieu nous a rendus vivants avec le Christ.*",
+    "Quatre raisons font qu’un don doit être agréable et bien accueilli :",
+    "*a*) Du côté du donateur : quand celui qui donne le fait par grand amour et grande dilection. Aussi, on fait quelquefois moins de cas de ce qui est donné, que du sentiment du donateur. Et certes, ici, le don qui nous est fait, procède de l’extrême dilection ou charité de Dieu le Père. C’est ce qui est exprimé dans notre texte : *C’est en ceci que Dieu a manifesté son amour pour nous.*",
+    "*b*) Du côté du don, de Celui qui est envoyé ; car, plus le don est excellent et précieux, plus il doit être agréable, et mieux il doit être accueilli, et plus il doit plaire. Et en vérité, le don qui nous est fait, est le plus grand qui se puisse faire. C’est ce qui est exprimé par les termes : *son Fils unique.*",
+    "*c*) Du côté de l’obligé, de celui qui est l’objet du bienfait, de son besoin, de son extrême indigence. Or, qui dira le besoin que nous avions d’un tel don, c’est-à-dire de la vie, nous qui étions morts, et qu’il fallait ressusciter ? C’est ce que marque saint Jean : *afin que par lui nous vivions.*",
+    "*d*) Enfin, du côté de l’intermédiaire, de celui qui est chargé de transmettre le don : car, le don tire quelquefois une valeur nouvelle de la grâce personnelle du messager. C’est ainsi qu’il est agréable de recevoir un don des mains d’une gracieuse jeune fille. Et pour nous, le don de Dieu doit nous être d’autant plus agréable, que nous le recevons par l’entremise de la Vierge immaculée et pleine de grâce. C’est ce que notre texte laisse entendre par ces mots : *En envoyant son Fils unique*, car, nous savons que c’est par Marie qu’il l’a envoyé : *Dieu a envoyé son Fils formé d’une femme*, dit saint Paul aux Galates (IV, 4).",
+    "*(Sur la première Épître de saint Jean, c. 4.)*"
+   ],
+   "reserve": "Cette méditation ne repose pas sur une œuvre de saint Thomas : le commentaire de la première épître de saint Jean que La Moelle cite sous son nom est publié par le Corpus Thomisticum parmi les écrits d’autres auteurs, sous le nom du dominicain Nicolas de Gorran (<i>Nicolaus de Gorran</i>), dans son explication des sept épîtres catholiques. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques.",
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "Quatre signes du plus grand amour",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Saint Thomas, commentant « Dieu a tant aimé le monde qu’il a donné son Fils unique », montre la grandeur de cet amour par quatre signes, proches de ceux de la méditation. **Celui qui aime** : c’est Dieu, et il aime sans mesure. **Celui qui est aimé** : l’homme, attaché au monde, charnel, pécheur. **La grandeur du don**, car la preuve de l’amour est l’œuvre, et Dieu a donné son Fils, naturel, consubstantiel, unique, pour montrer qu’il ne partage pas son amour entre plusieurs fils mais le met tout entier en celui qu’il donne. **La grandeur du fruit** : par lui nous avons la vie éternelle (Super Ioannem, ch. 3, leçon 3)."
+      ],
+      "citation": {
+       "texte": "« L’amour se prouve par le don ; or Dieu nous a fait le plus grand don, car il a donné son Fils unique. »",
+       "ref": "Super Ioannem, cap. 3, lect. 3",
+       "url": "https://www.corpusthomisticum.org/cih03.html#87440"
+      }
+     },
+     {
+      "titre": "Comment le Père a livré son Fils",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Dieu a livré son propre Fils », dit le texte cité de saint Grégoire. Saint Thomas précise en quel sens le Père a livré le Christ, qui a souffert volontairement, par obéissance. Il l’a livré de trois manières : **par sa volonté éternelle**, qui a ordonné la Passion à la délivrance du genre humain ; **en lui inspirant la volonté de souffrir pour nous**, par la charité qu’il a répandue en lui ; **en ne le protégeant pas** contre ses persécuteurs, mais en l’exposant à eux (III, q. 47, a. 3). Le don du Fils commence à la crèche et s’achève à la croix."
+      ]
+     },
+     {
+      "titre": "Envoyé là où il était déjà",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« En envoyant son Fils dans le monde. » Comment le Fils peut-il être envoyé, lui qui est égal au Père ? Saint Thomas répond que l’envoi n’implique ni infériorité ni déplacement : il signifie d’un côté que l’envoyé procède de celui qui envoie, ici **par l’origine, comme la fleur sort de l’arbre** ; de l’autre, qu’il commence à être quelque part d’une manière nouvelle. **Ainsi le Fils est envoyé dans le monde parce qu’il a commencé d’y être visiblement par la chair**, lui qui y était déjà (I, q. 43, a. 1)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "L’amour se prouve par le don, et Dieu a donné ce qu’il avait de plus grand : son Fils unique.",
+    "Le Père a livré le Fils par sa volonté éternelle, par la charité qu’il lui a inspirée, et en ne le protégeant pas.",
+    "Le Fils est envoyé là où il était déjà : il y commence d’être visiblement par la chair."
+   ],
+   "resolution": "Préparer aujourd’hui un don pour Noël en pensant d’abord à celui qui le recevra et à son besoin réel, et le confier à la Vierge, par qui nous avons reçu le Don de Dieu.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome I, p. 49-51",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-1-000000942"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : Sur la première Épître de saint Jean, c. 4",
+     "detail": "Vérification faite sur le Corpus Thomisticum, le texte se lit, souvent mot pour mot, dans l’explication de I Jean 4, 9 de Nicolas de Gorran (In VII epistolas canonicas expositio, pars 4, cap. 4 : « tangit quatuor rationes quare donum debet esse gratum et acceptum »), publiée parmi les écrits d’autres auteurs.",
+     "url": "https://www.corpusthomisticum.org/xec4.html#89307"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 3, lect. 3",
+     "detail": "Sur Jean 3, 16 : les quatre signes du plus grand amour ; texte latin, Corpus Thomisticum (la page couvre les chapitres 3 et 4) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih03.html#87440"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 47, a. 3",
+     "detail": "Si Dieu le Père a livré le Christ à la Passion ; texte latin, Corpus Thomisticum (III, q. 46-52) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4046.html#48974"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 43, a. 1",
+     "detail": "La mission des personnes divines ; texte latin, Corpus Thomisticum (I, q. 28-43) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1028.html#30214"
+    }
+   ]
+  }
  }
 }
