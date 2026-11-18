@@ -3455,5 +3455,229 @@
     }
    ]
   }
+ },
+ "2026-12-17": {
+  "textes": {
+   "liturgie": {
+    "nom": "Jeudi de la IIIe semaine de l’Avent",
+    "qualite": "Férie",
+    "classe": "IIe classe",
+    "couleur": "violet",
+    "commemoraisons": []
+   },
+   "propre": {
+    "epitre": {
+     "titre": "Épître",
+     "reference": "Philippiens 4, 4-7",
+     "incipit": "Mes frères :",
+     "latin": [
+      "Fratres: Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus prope est. Nihil sollíciti sitis: sed in omni oratióne et obsecratióne, cum gratiárum actióne, petitiónes vestræ innotéscant apud Deum. Et pax Dei, quæ exsúperat omnem sensum, custódiat corda vestra et intellegéntias vestras, in Christo Iesu, Dómino nostro."
+     ],
+     "francais": [
+      "Réjouissez-vous dans le Seigneur en tout temps ; je le répète, réjouissez-vous. Que votre modération soit connue de tous les hommes : le Seigneur est proche. Ne vous inquiétez de rien ; mais en toute circonstance faites connaître vos besoins à Dieu par des prières et des supplications, avec des actions de grâce. Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées dans le Christ Jésus."
+     ],
+     "note": "Au verset 5, le latin dit « modestia vestra » (votre modestie), que la Crampon rend par « votre modération ». Le missel achève par « in Christo Iesu, Domino nostro » (dans le Christ Jésus, notre Seigneur) ; la Crampon n’a pas « notre Seigneur »."
+    },
+    "evangile": {
+     "reference": "Jean 1, 19-28",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "In illo tempore: Misérunt Iudǽi ab Ierosólymis sacerdótes et levítas ad Ioánnem, ut interrogárent eum: Tu quis es? Et conféssus est, et non negávit: et conféssus est: Quia non sum ego Christus. Et interrogavérunt eum: Quid ergo? Elías es tu? Et dixit: Non sum. Prophéta es tu? Et respondit: Non. Dixérunt ergo ei: Quis es, ut respónsum demus his, qui misérunt nos? Quid dicis de te ipso? Ait: Ego vox clamántis in desérto: Dirígite viam Dómini, sicut dixit Isaías Prophéta. Et qui missi fúerant, erant ex pharisǽis. Et interrogavérunt eum, et dixérunt ei: Quid ergo baptízas, si tu non es Christus, neque Elías, neque Prophéta? Respóndit eis Ioánnes, dicens: Ego baptízo in aqua: médius autem vestrum stetit, quem vos nescítis. Ipse est, qui post me ventúrus est, qui ante me factus est: cuius ego non sum dignus ut solvam eius corrígiam calceaménti. Hæc in Bethánia facta sunt trans Iordánem, ubi erat Ioánnes baptízans."
+     ],
+     "francais": [
+      "Les Juifs envoyèrent de Jérusalem des prêtres et des lévites pour lui demander : « Qui êtes-vous ? » Il déclara, et ne le nia point ; il déclara : « Je ne suis point le Christ. » Et ils lui demandèrent : « Quoi donc ! Êtes-vous Élie ? » Il dit : « Je ne le suis point — Êtes-vous le prophète ? » Il répondit : « Non. — Qui êtes-vous donc, lui dirent-ils, afin que nous donnions une réponse à ceux qui nous ont envoyés. Que dites-vous de vous-même ? » Il répondit : « Je suis la voix de celui qui crie dans le désert : Aplanissez le chemin du Seigneur, comme l’a dit le prophète Isaïe. »",
+      "Or ceux qu’on lui avait envoyés étaient des Pharisiens. Et ils l’interrogèrent, et lui dirent : « Pourquoi donc baptisez-vous, si vous n’êtes ni le Christ, ni Élie, ni le Prophète ? » Jean leur répondit : « Moi je baptise dans l’eau ; mais au milieu de vous il y a quelqu’un que vous ne connaissez pas, c’est celui qui vient après moi ; je ne suis pas digne de délier la courroie de sa chaussure. » Cela se passait à Béthanie, au delà du Jourdain, où Jean baptisait."
+     ],
+     "note": "La Crampon ouvre le verset 19 par « Et voici le témoignage que rendit Jean, lorsque » ; le missel commence à « Miserunt Iudaei ». Au verset 27, le latin ajoute « qui ante me factus est » (qui a été placé avant moi), que la Crampon, traduite du grec, ne lit pas ici."
+    }
+   },
+   "verset": {
+    "texte": "« Et ils lui demandèrent : Quoi donc ! Êtes-vous Élie ? Il dit : Je ne le suis point. »",
+    "ref": "Jean 1, 21"
+   },
+   "commentaire": {
+    "mode": "synthese",
+    "portee": "Épître, Philippiens 4, 4-7, et Évangile, Jean 1, 19-28",
+    "verif": "Textes relus : saint Thomas, Super Epistolam ad Philippenses, cap. 4, lect. 1 ; Super Ioannem, cap. 1, lect. 12 ; Catena aurea in Ioannem, cap. 1, lect. 19 (saint Jean Chrysostome) ; sermon Ecce Rex tuus, pars 3 (Corpus Thomisticum) ; messe du IIIe dimanche de l’Avent et rubrique des féries majeures (Divinum Officium) ; Crampon 1923 (Wikisource).",
+    "sections": [
+     {
+      "titre": "L’Épître : des demandes connues de Dieu",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Que vos demandes soient connues de Dieu. » Le Seigneur les ignore-t-il donc ? Saint Thomas donne, après la Glose, trois manières de l’entendre. Qu’elles soient **approuvées devant Dieu**, et paraissent dignes et saintes, comme l’encens qui monte en sa présence. Ou bien qu’elles nous soient connues à nous-mêmes **comme étant toujours devant Dieu** : ne priez pas pour la faveur du peuple, mais entrez dans votre chambre, fermez la porte et priez votre Père dans le secret. Ou enfin qu’elles soient connues de ceux qui sont auprès de Dieu, **les anges, par le ministère desquels elles lui sont portées**, non qu’il les ignore, mais parce qu’ils intercèdent pour nous : « la fumée des parfums monta, avec les prières des saints, de la main de l’ange devant Dieu » (Super Phil., ch. 4, leçon 1)."
+      ],
+      "citation": {
+       "texte": "« Qu’elles soient connues de ceux qui sont auprès de Dieu, c’est-à-dire des anges, par le ministère desquels elles sont portées à Dieu, non comme à quelqu’un qui les ignore, mais parce qu’ils intercèdent pour nous. »",
+       "ref": "Super ad Philippenses, cap. 4, lect. 1",
+       "url": "https://www.corpusthomisticum.org/cpl.html#87843"
+      }
+     },
+     {
+      "titre": "L’Évangile : Élie, non en personne, mais en esprit",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Êtes-vous Élie ? » Les Juifs attendaient Élie avant le Christ, selon Malachie : « Je vous enverrai Élie. » Saint Thomas écarte l’idée que l’âme d’Élie serait passée dans le corps de Jean : Origène note qu’il serait déraisonnable qu’un prophète éclairé par l’Esprit sur le Fils unique de Dieu s’ignorât lui-même. Ils pensaient plutôt qu’Élie, enlevé vivant au ciel, était soudain reparu. Jean n’était donc pas Élie **en personne, mais « dans l’esprit et la vertu d’Élie »**, parce qu’il lui ressemblait en trois choses : **par l’office**, car il a précédé le premier avènement comme Élie précédera le second ; **par la manière de vivre**, au désert, d’une nourriture pauvre et d’un vêtement rude ; **par le zèle**, puisqu’il est mort pour la vérité (Super Ioannem, ch. 1, leçon 12)."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : refuser la gloire offerte",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Dans la Catena aurea, saint Thomas recueille le mot de saint Jean Chrysostome sur la réponse de Jean : « Je ne suis point le Christ. » **Il est d’un serviteur dévoué, non seulement de ne pas ravir la gloire de son maître, mais de la refuser quand beaucoup la lui offrent** ; car ces envoyés, par malice, espéraient l’attirer par des flatteries (Catena in Ioannem, ch. 1, leçon 19). L’Épître demande que « votre modestie soit connue de tous les hommes » : Jean en donne l’exemple, qui ne garde rien des titres qu’on lui présente, et ne laisse connaître de lui que la voix qui annonce un autre."
+      ]
+     },
+     {
+      "titre": "À la lumière du temps de l’Avent : la douceur de celui qui vient",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Dans le sermon Ecce Rex tuus, saint Thomas montre que le Seigneur vient maintenant avec douceur, et qu’il faut le recevoir avec douceur. Cette douceur paraît en quatre choses : **dans sa manière de vivre**, toute pacifique : « apprenez de moi que je suis doux et humble de cœur », et il monte à Jérusalem sur une ânesse, non sur un cheval ; **dans sa manière de reprendre**, car il supporte les outrages sans colère ; **dans son accueil des pécheurs**, avec lesquels il mange, au scandale des pharisiens, d’où cette conséquence : **ceux qui ont à gouverner les autres doivent être doux** ; **dans sa passion** enfin, où il va comme un agneau (sermon Ecce Rex tuus, 3e partie). À l’entrée des grandes féries, l’Église apprend à attendre ce roi doux en lui ressemblant."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Nos demandes sont portées à Dieu par les anges, qui intercèdent pour nous.",
+    "Jean est Élie par l’esprit et la vertu : par l’office, la manière de vivre et le zèle.",
+    "Le serviteur dévoué refuse la gloire que les autres lui offrent."
+   ],
+   "resolution": "Recevoir aujourd’hui avec douceur une personne qui m’agace ou me contredit, et refuser simplement un éloge qui ne me revient pas, en le rapportant à Dieu.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super Epistolam ad Philippenses, cap. 4, lect. 1",
+     "detail": "Commentaire direct du verset 6 : les trois sens de « innotescant apud Deum » selon la Glose ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cpl.html#87843"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 1, lect. 12",
+     "detail": "Commentaire direct de Jean 1, 21 : Jean n’est pas Élie en personne, mais en esprit et en vertu ; texte latin, Corpus Thomisticum (la page couvre le chapitre 1) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih01.html#87430"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Catena aurea in Ioannem, cap. 1, lect. 19",
+     "detail": "Recueil des Pères sur Jean 1, 19-23 : saint Jean Chrysostome sur le refus de la gloire offerte ; texte latin, Corpus Thomisticum (la page couvre le chapitre 1) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cjo01.html#85992"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, sermon Ecce Rex tuus, pars 3",
+     "detail": "La douceur du Christ en quatre choses ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/her.html#86781"
+    },
+    {
+     "label": "Missel romain de 1962, IIIe dimanche de l’Avent",
+     "detail": "Messe reprise aux féries de la semaine : introït « Gaudete », collecte « Aurem tuam, quaesumus, Domine », épître et évangile, d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/Adv3-0.txt"
+    },
+    {
+     "label": "Missel romain de 1962, jeudi de la IIIe semaine de l’Avent",
+     "detail": "Férie de l’Avent, sans Gloria ni Credo ; la rubrique « Oratio Dominica » renvoie à la messe du dimanche, d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/Adv3-4.txt"
+    },
+    {
+     "label": "Missel romain, IIIe dimanche de l’Avent (texte français)",
+     "detail": "Traduction française des pièces de la messe, d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Francais/Tempora/Adv3-0.txt"
+    },
+    {
+     "label": "Bible Crampon 1923, Philippiens 4, 4-7",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Philippiens"
+    },
+    {
+     "label": "Bible Crampon 1923, Jean 1, 19-28",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Jean"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Avec ce 17 décembre commencent les féries majeures de l’Avent : jusqu’au 23, elles sont de IIe classe et l’emportent sur les fêtes des saints. À l’office s’ouvrent les grandes antiennes « Ô », chantées au Magnificat, qui appellent le Messie par ses noms, et dont la première invoque la Sagesse sortie de la bouche du Très-Haut. Ce jeudi, la messe reprend celle du troisième dimanche, Gaudete : l’Épître redit « le Seigneur est proche », et l’Évangile montre Jean-Baptiste refusant les titres de Christ, d’Élie et de prophète pour n’être que la voix qui prépare le chemin. L’attente se fait plus pressante à mesure que Noël approche."
+   }
+  },
+  "meditation": {
+   "titre": "L’Incarnation dans ses rapports par appropriation, au Saint-Esprit",
+   "texte": [
+    "*Le Saint-Esprit viendra sur vous.* (Luc, I, 35.)",
+    "**I**",
+    "La formation du corps de Jésus-Christ, qui a été achevée par la puissance divine, est très justement attribuée au Saint-Esprit, bien qu’elle soit commune à la Trinité tout entière.",
+    "Et cela s’harmonise avec l’Incarnation du Verbe ; car, de même que notre parole intérieure, conçue dans notre esprit, demeure invisible, mais est perçue sensiblement, quand elle est extérieurement proférée, de même le Verbe de Dieu qui existe invisiblement dans le cœur du Père qui l’engendre éternellement, est devenu comme sensible pour nous, par l’Incarnation. De sorte que l’Incarnation du Verbe de Dieu est comparable à l’expression vocale et sensible de notre verbe mental. Et comme l’expression de notre parole intérieure, se fait par notre souffle, d’où se forme la voix qui parle notre pensée, il s’ensuit qu’on dit très justement, que c’est par l’Esprit qu’a été réalisée la formation du corps du Fils de Dieu.",
+    "Cette manière de dire convient de même, pour insinuer qu’elle est la cause motrice de l’Incarnation du Verbe, et qui n’a pu être que l’amour de Dieu pour l’homme, dont il a voulu épouser la nature, dans l’unité de personne. Et comme, en Dieu, c’est le Saint-Esprit qui procède par voie d’amour, il s’ensuit qu’attribuer à l’Esprit-Saint l’œuvre de l’Incarnation, est tout indiqué.",
+    "Et puis, il y a encore ceci, que dans la Sainte Écriture, toute grâce est attribuée au Saint-Esprit, parce que tout don gratuit semble procéder de l’amour du donateur. Et comme il n’a jamais été donné à l’homme, une grâce plus excellente que celle de l’Incarnation, et de l’union à Dieu en la personne, c’est bien dire que d’attribuer cette œuvre à l’Esprit-Saint.",
+    "*(Cont. Gent., IV, c. 46.)*",
+    "**II**",
+    "En toute opération qui réalise un effet créé, il y a lieu à une appropriation aux personnes divines. C’est ainsi que dans l’Incarnation, d’après saint Jean Damascène, sont manifestées la bonté, la sagesse, et la puissance : la bonté, parce que Dieu n’a pas dédaigné la faiblesse de la créature qu’il a façonnée ; la puissance, parce qu’il unit des extrêmes infiniment distants ; la sagesse, parce qu’il a trouvé le moyen le plus convenable, de réaliser ce qui semblait impossible.",
+    "Et cependant, chaque opération s’approprie mieux à l’une des personnes divines, parce que l’attribut de cette personne y est plus évidemment manifesté.",
+    "Or, plus un don quelconque est gratuit, et dépasse tout mérite de la créature, plus il manifeste la grâce et la bonté de Dieu. Et c’est bien le cas pour l’Incarnation ; c’est pourquoi on l’approprie, de plein droit, au Saint-Esprit, qui est le principe de la grâce.",
+    "La Puissance est attribuée au Père, il est vrai ; mais, si la puissance éclate dans l’Incarnation, la Bonté s’y manifeste davantage encore ; car, la puissance est dans l’œuvre même, tandis que la bonté est dans la fin de l’œuvre ; et la fin est la cause des causes : et par conséquent, c’est plutôt elle qui doit déterminer les dénominations.",
+    "*(III Dist., 4, q. unic. a. I.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "Trois raisons d’attribuer la conception à l’Esprit-Saint",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Dans la Somme, saint Thomas reprend la question : toute la Trinité a opéré la conception du corps du Christ, mais on l’attribue au Saint-Esprit pour trois raisons. **Du côté de Dieu**, parce que l’Esprit est l’amour du Père et du Fils, et que l’Incarnation vient du plus grand amour : « Dieu a tant aimé le monde qu’il a donné son Fils unique. » **Du côté de la nature assumée**, parce qu’elle a été prise sans aucun mérite, par la seule grâce, que l’on attribue à l’Esprit. **Du côté du terme**, parce que l’homme conçu devait être saint et Fils de Dieu, et que c’est par l’Esprit que les hommes sont sanctifiés et faits fils de Dieu (III, q. 32, a. 1)."
+      ],
+      "citation": {
+       "texte": "« Cela vient du plus grand amour de Dieu, que le Fils de Dieu ait pris chair dans le sein virginal. »",
+       "ref": "Somme théologique, III, q. 32, a. 1",
+       "url": "https://www.corpusthomisticum.org/sth4027.html#48233"
+      }
+     },
+     {
+      "titre": "L’amour, premier don",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Moelle dit que « tout don gratuit semble procéder de l’amour du donateur ». Saint Thomas en fait la raison du nom propre de l’Esprit, le Don. Le don est ce qui se donne sans retour, gratuitement ; or la raison du don gratuit est l’amour, car nous donnons gratuitement à quelqu’un parce que nous lui voulons du bien. **Ce que nous lui donnons d’abord, c’est l’amour même par lequel nous lui voulons du bien** ; l’amour est ainsi le premier don, par lequel tous les autres sont donnés. Et parce que l’Esprit procède comme amour, il procède comme premier don (I, q. 38, a. 2)."
+      ]
+     },
+     {
+      "titre": "Une union faite par grâce",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "En quel sens l’union de l’Incarnation est-elle une grâce ? Saint Thomas distingue : la nature humaine est élevée vers Dieu par l’opération, quand les saints le connaissent et l’aiment, et, dans le seul Christ, **par l’être personnel**, puisqu’elle appartient à la personne du Fils. Si l’on appelle grâce la volonté de Dieu qui donne gratuitement, l’union s’est faite par grâce ; si l’on appelle grâce le don lui-même, l’union est une grâce **parce qu’elle s’est faite sans aucun mérite précédent**, non par l’intermédiaire d’une grâce habituelle (III, q. 2, a. 10). C’est le don le plus gratuit, et par là celui qui convient le mieux à l’Esprit."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "La conception du Christ est l’œuvre de toute la Trinité, mais elle est attribuée à l’Esprit, qui est Amour.",
+    "L’amour est le premier don, par lequel tous les autres sont donnés.",
+    "L’union du Verbe à notre nature est une grâce, puisque rien ne l’a méritée."
+   ],
+   "resolution": "Invoquer l’Esprit-Saint au début de chaque prière de la journée, en lui demandant de former le Christ en moi comme il l’a formé dans le sein de la Vierge.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome I, p. 51-53",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-1-000000942"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme contre les Gentils, IV, c. 46",
+     "detail": "Référence imprimée par La Moelle (Cont. Gent., IV, c. 46), exacte : le premier point la suit librement, sans le paragraphe sur la génération humaine (n. 3). Texte latin, Corpus Thomisticum.",
+     "url": "https://www.corpusthomisticum.org/scg4027.html#27711"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Scriptum super Sententiis, III, d. 4, q. 1, a. 1",
+     "detail": "Référence imprimée par La Moelle (III Dist., 4, q. unic. a. I), exacte : la question unique est numérotée q. 1 dans le Corpus ; le second point suit le corps du premier sous-article. Texte latin, Corpus Thomisticum (distinctions 2-4).",
+     "url": "https://www.corpusthomisticum.org/snp3002.html#7939"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 32, a. 1",
+     "detail": "Pourquoi la conception du Christ est attribuée au Saint-Esprit ; texte latin, Corpus Thomisticum (III, q. 27-39) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4027.html#48233"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 38, a. 2",
+     "detail": "Le Don, nom propre du Saint-Esprit ; texte latin, Corpus Thomisticum (I, q. 28-43) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1028.html#29980"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 2, a. 10",
+     "detail": "L’union de l’Incarnation s’est-elle faite par grâce ; texte latin, Corpus Thomisticum (III, q. 2-15) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4002.html#46867"
+    }
+   ]
+  }
  }
 }
