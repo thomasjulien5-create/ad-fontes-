@@ -3679,5 +3679,213 @@
     }
    ]
   }
+ },
+ "2026-12-18": {
+  "textes": {
+   "liturgie": {
+    "nom": "Vendredi des Quatre-Temps de l’Avent",
+    "qualite": "Férie des Quatre-Temps",
+    "classe": "IIe classe",
+    "couleur": "violet",
+    "commemoraisons": []
+   },
+   "propre": {
+    "lecon": {
+     "titre": "Leçon",
+     "reference": "Isaïe 11, 1-5",
+     "incipit": "Ainsi parle le Seigneur Dieu :",
+     "latin": [
+      "Hæc dicit Dóminus Deus: Egrediétur virga de radíce Iesse, et flos de radíce eius ascéndet. Et requiéscet super eum spíritus Dómini: spíritus sapiéntiæ et intelléctus, spíritus consílii et fortitúdinis, spíritus sciéntiæ et pietátis; et replébit eum spíritus timóris Dómini. Non secundum visiónem oculórum iudicábit: neque secúndum audítum áurium árguet: sed iudicábit in iustítia páuperes, et árguet in æquitáte pro mansuétis terræ: et percútiet terram virga oris sui, et spíritu labiórum suórum interfíciet ímpium. Et erit iustítia cíngulum lumbórum eius: et fides cinctórium renum eius."
+     ],
+     "francais": [
+      "Un rameau sortira du tronc de Jessé, et de ses racines croîtra un rejeton. Sur lui reposera l’Esprit de Yahweh, esprit de sagesse et d’intelligence, esprit de conseil et de force, esprit de connaissance et de crainte de Yahweh ; il mettra ses délices dans la crainte de Yahweh. Il ne jugera point sur ce qui paraîtra à ses yeux, et il ne prononcera point sur ce qui frappera ses oreilles. Il jugera les petits avec justice, et prononcera selon le droit pour les humbles de la terre. Il frappera la terre de la verge de sa bouche, et par le souffle de ses lèvres il fera mourir le méchant. La justice ceindra ses flancs, et la fidélité sera la ceinture de ses reins."
+     ],
+     "note": "Le missel ouvre la leçon par « Haec dicit Dominus Deus », rendu dans l’incipit, et lit « Dominus » (le Seigneur) là où la Crampon, traduite de l’hébreu, garde le nom divin « Yahweh ». Aux versets 2 et 3, le latin compte sept esprits : « spiritus scientiae et pietatis ; et replebit eum spiritus timoris Domini » (esprit de science et de piété ; et l’esprit de crainte du Seigneur le remplira) ; c’est sur ce texte que saint Thomas commente les sept dons. Au verset 4, il dit « iudicabit in iustitia pauperes, et arguet in aequitate pro mansuetis terrae » (il jugera les pauvres avec justice, et reprendra avec équité en faveur des doux de la terre). Traductions du latin par Ad Fontes."
+    },
+    "evangile": {
+     "reference": "Luc 1, 39-47",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "In illo témpore: Exsúrgens María ábiit in montána cum festinatióne in civitátem Iuda: et intrávit in domum Zacharíæ et salutávit Elísabeth. Et factum est, ut audivit salutatiónem Maríæ Elísabeth, exsultávit infans in útero eius: et repléta est Spíritu Sancto Elísabeth, et exclamávit voce magna et dixit: Benedícta tu inter mulíeres, et benedíctus fructus ventris tui. Et unde hoc mihi, ut véniat Mater Dómini mei ad me? Ecce enim, ut facta est vox salutatiónis tuæ in áuribus meis, exsultávit in gáudio infans in útero meo. Et beáta, quæ credidísti, quóniam perficiéntur ea, quæ dicta sunt tibi a Dómino. Et ait María: Magníficat ánima mea Dóminum: et exsultávit spíritus meus in Deo, salutári meo."
+     ],
+     "francais": [
+      "Marie se levant, s’en alla en hâte au pays des montagnes, en une ville de Juda. Et elle entra dans la maison de Zacharie, et salua Élisabeth. Or, dès qu’Élisabeth eut entendu la salutation de Marie, l’enfant tressaillit dans son sein, et elle fut remplie du Saint-Esprit. Et élevant la voix, elle s’écria : « Vous êtes bénie entre les femmes, et le fruit de vos entrailles est béni. Et d’où m’est-il donné que la mère de mon Seigneur vienne à moi ? Car votre voix, lorsque vous m’avez saluée, n’a pas plus tôt frappé mes oreilles, que mon enfant a tressailli de joie dans mon sein. Heureuse celle qui a cru ! car elles seront accomplies les choses qui lui ont été dites de la part du Seigneur ! » Et Marie dit : « Mon âme glorifie le Seigneur. Et mon esprit tressaille de joie en Dieu, mon Sauveur. »"
+     ],
+     "note": "La Crampon ouvre le verset 39 par « En ces jours-là », que le missel ne lit pas : il commence à « Exsurgens Maria ». L’évangile s’arrête au verset 47, sur les premiers mots du Magnificat."
+    }
+   },
+   "verset": {
+    "texte": "« Un rameau sortira du tronc de Jessé, et de ses racines croîtra un rejeton. Sur lui reposera l’Esprit de Yahweh. »",
+    "ref": "Isaïe 11, 1-2"
+   },
+   "commentaire": {
+    "mode": "direct",
+    "portee": "Leçon, Isaïe 11, 1-5, et Évangile, Luc 1, 39-47",
+    "verif": "Textes relus : saint Thomas, Super Isaiam, cap. 11 ; Catena aurea in Lucam, cap. 1, lect. 13 et 14 (saint Ambroise, Origène, un auteur grec) ; Somme théologique, III, q. 27, a. 6 (Corpus Thomisticum) ; propre du vendredi des Quatre-Temps de l’Avent (Divinum Officium) ; Crampon 1923 (Wikisource).",
+    "sections": [
+     {
+      "titre": "La Leçon : la tige, la fleur et l’Esprit qui repose",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Un rameau sortira du tronc de Jessé. » Saint Thomas retient, avec saint Jérôme et tous les Pères, l’explication qui voit ici le Christ : la tige est **la Vierge, issue de la race royale de David**, la fleur est le Christ né d’elle. Le prophète dit « de la racine », et non « de la tige », pour écarter deux erreurs : que le Christ n’aurait pas eu une vraie chair, ou qu’il aurait reçu une chair créée à part, qui ne viendrait pas d’Adam. Puis « l’Esprit reposera sur lui » : la grâce en lui ne croît pas, n’est interrompue par aucune faute, n’est troublée par aucun combat de la chair. Les autres saints ont reçu tel ou tel don ; **le Christ les a tous eus parfaitement**, car Dieu ne lui donne pas l’Esprit avec mesure (Super Isaiam, ch. 11)."
+      ],
+      "citation": {
+       "texte": "« Le Christ a tout possédé parfaitement : car Dieu ne donne pas l’Esprit avec mesure. »",
+       "ref": "Super Isaiam, cap. 11",
+       "url": "https://www.corpusthomisticum.org/cis01b.html#84971"
+      }
+     },
+     {
+      "titre": "L’Évangile avec les Pères : la hâte et l’humilité de Marie",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Catena aurea, où saint Thomas recueille les Pères, montre Marie partant pour les montagnes, non qu’elle doute de l’ange, mais **« joyeuse de son vœu, religieuse dans son service, hâtive par la joie »**, dit saint Ambroise ; et il ajoute : **la grâce du Saint-Esprit ne connaît pas les lenteurs**. Elle va, la plus jeune vers la plus âgée, et salue la première : le supérieur vient à l’inférieur pour l’aider, Marie à Élisabeth, le Christ à Jean. Puis saint Ambroise distingue : Élisabeth a entendu la voix la première, mais **Jean a senti la grâce le premier** ; elle a entendu l’arrivée de Marie, lui a senti celle du Seigneur (Catena in Lucam, ch. 1, leçon 13)."
+      ]
+     },
+     {
+      "titre": "Ce que la Leçon et l’Évangile disent ensemble : l’Esprit qui se répand",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "L’Esprit repose sur la fleur de Jessé, et dès que celui qui le porte en plénitude entre dans la maison de Zacharie, Élisabeth est remplie de l’Esprit et l’enfant tressaille. Saint Thomas tient que Jean, comme Jérémie, **fut sanctifié dans le sein de sa mère**, sans avoir encore l’usage du libre arbitre, comme les enfants sanctifiés par le baptême. Ces privilèges, dit-il, sont donnés pour l’utilité des autres ; et celui-ci préfigurait la sanctification que le Christ apporterait : par sa passion, que Jérémie annonça, et **par le baptême, auquel Jean préparait les hommes par le sien** (III, q. 27, a. 6)."
+      ]
+     },
+     {
+      "titre": "À la lumière des Quatre-Temps : agrandir l’image",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "L’introït chante : « Vous êtes proche, Seigneur. » Ce vendredi de jeûne s’achève, à l’Évangile, sur les premiers mots du Magnificat. La Catena aurea rapporte la question d’Origène : comment l’âme peut-elle grandir le Seigneur, qui ne reçoit ni accroissement ni diminution ? C’est que le Sauveur est l’image du Dieu invisible, et notre âme faite à son image, **image de l’image** : comme chez le peintre, **quand j’agrandis mon âme par l’œuvre, la pensée et la parole, l’image de Dieu devient grande en moi**, et le Seigneur lui-même y est magnifié (Catena in Lucam, ch. 1, leçon 14). Le jeûne des Quatre-Temps sert à cela : faire place en nous à celui qui est proche."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Le Christ, fleur de Jessé, a reçu tous les dons de l’Esprit sans mesure.",
+    "La grâce du Saint-Esprit ne connaît pas les lenteurs : Marie part en hâte et salue la première.",
+    "Agrandir son âme par l’œuvre, la pensée et la parole, c’est y magnifier le Seigneur."
+   ],
+   "resolution": "Garder aujourd’hui le jeûne des Quatre-Temps, ou une privation précise si l’on en est dispensé, et rendre sans tarder un service à un proche âgé ou isolé, en le visitant ou en l’appelant le premier.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super Isaiam, cap. 11",
+     "detail": "Commentaire direct de la leçon : la tige et la fleur, l’Esprit qui repose, les sept dons, le roi juste ; texte latin, Corpus Thomisticum (la page couvre Isaïe 1, 2 à 33) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cis01b.html#84971"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Catena aurea in Lucam, cap. 1, lect. 13 et 14",
+     "detail": "Recueil des Pères sur Luc 1, 39-47 : saint Ambroise, Origène, Théophylacte, un auteur grec, saint Basile ; texte latin, Corpus Thomisticum (la page couvre Luc 1, 5 à 2) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/clc012.html#85739"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 27, a. 6",
+     "detail": "La sanctification de Jérémie et de Jean-Baptiste dans le sein de leur mère ; texte latin, Corpus Thomisticum (III, q. 27-39) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4027.html#48056"
+    },
+    {
+     "label": "Missel romain de 1962, vendredi des Quatre-Temps de l’Avent",
+     "detail": "IIe classe, violet ; introït « Prope es tu, Domine », collecte « Excita, quaesumus, Domine, potentiam tuam, et veni », leçon (Isaïe 11), graduel « Ostende nobis », évangile de la Visitation, communion « Ecce Dominus veniet », d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/Adv3-5.txt"
+    },
+    {
+     "label": "Missel romain, vendredi des Quatre-Temps de l’Avent (texte français)",
+     "detail": "Traduction française des pièces de la messe, d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Francais/Tempora/Adv3-5.txt"
+    },
+    {
+     "label": "Bible Crampon 1923, Isaïe 11, 1-5",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Isa%C3%AFe"
+    },
+    {
+     "label": "Bible Crampon 1923, Luc 1, 39-47",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Luc"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Deuxième des trois jours des Quatre-Temps d’hiver, ce vendredi est un jour de jeûne et de prière. La messe n’a qu’une leçon : Isaïe annonce le rameau qui sortira du tronc de Jessé, sur lequel reposera l’Esprit du Seigneur avec ses sept dons. L’Évangile montre la Vierge, qui porte déjà ce rejeton promis, partant en hâte vers la maison de Zacharie : à sa salutation, Jean tressaille dans le sein d’Élisabeth, qui la proclame bénie entre les femmes, et Marie commence le Magnificat. L’introït répète au Seigneur : « Vous êtes proche » ; la collecte reprend le cri de l’Avent, « Réveillez votre puissance, Seigneur, et venez », et la communion annonce : « Voici que le Seigneur va venir, et tous ses saints avec lui ; et il y aura en ce jour-là une grande lumière. »"
+   }
+  },
+  "meditation": {
+   "titre": "L’Attente du divin enfantement de la Bienheureuse Vierge Marie",
+   "reserve": "Cette méditation ne repose pas sur une œuvre de saint Thomas : le « Sermon 46 » que La Moelle cite sous son nom est le sermon « Beatus venter qui te portavit » des <i>Sermones dominicales</i> d’Aldobrandino Cavalcanti (Aldobrandinus de Cavalcantibus), que le Corpus Thomisticum range parmi les œuvres faussement attribuées à saint Thomas. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques.",
+   "texte": [
+    "*Bienheureux le sein qui vous a porté.* (Luc, XI, 27.)",
+    "Bien des raisons justifient cette louange.",
+    "D’abord, parce que Marie a porté en elle celui qui est la souveraine béatitude. Saint Paul l’appelle : *Le bienheureux et seul Souverain, le Roi des rois et le Seigneur des seigneurs.* (I Tim., VI, 15.)",
+    "Ensuite, à cause que Marie a joui de la béatitude suprême et trinitaire. Elle a été et l’épouse du Père, et la mère du Fils, et le temple du Saint-Esprit selon cette parole : *Salut, mère de la piété et noble tabernacle de la Trinité tout entière.*",
+    "Elle a conçu dans l’intégrité.",
+    "Elle a porté sans labeur.",
+    "Elle a enfanté sans douleur.",
+    "Saint Luc résume tout cela quand il dit : *Le Saint-Esprit viendra sur toi.* (c. I.) Et c’est ainsi qu’elle a conçu sans douleur et sans dommage pour sa virginité. *Et la vertu du Très-Haut te couvrira de son ombre,* c’est-à-dire tu porteras sans fatigue. *C’est pourquoi l’Être saint qui naîtra de toi sera appelé Fils de Dieu,* c’est-à-dire tu enfanteras sans douleur.",
+    "Une autre raison, c’est que Marie a porté le prix de notre rédemption. Il est dit au livre des Nombres (XX, 6) : *Seigneur Dieu, écoutez le cri de ce peuple et ouvrez-leur votre trésor, une fontaine d’eau vive, afin qu’étant désaltérés, ils cessent de murmurer. Et la gloire de Jéhovah leur apparut.*",
+    "Une autre encore : parce que Marie a bénéficié de tous les états : elle a l’intégrité des vierges, la fécondité des époux, la chasteté des continents.",
+    "Enfin, parce que Marie sera à jamais bénie par tous et proclamée bienheureuse. Elle dit elle-même : *Toutes les générations me proclameront bienheureuse.* (Luc., II.)",
+    "*(Sermon 46.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "Un enfantement sans douleur, dans la joie",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Moelle dit que Marie « a enfanté sans douleur ». Saint Thomas l’enseigne dans la Somme, avec saint Augustin qui dit à la Vierge : « ni dans la conception tu n’as été trouvée sans pudeur, ni dans l’enfantement avec douleur. » La douleur de l’enfantement vient de l’ouverture du passage par où sort l’enfant ; or le Christ est sorti du sein fermé de sa mère : **il n’y eut donc là aucune douleur, comme aucune corruption, mais la plus grande joie**, de ce qu’un homme-Dieu naissait au monde. La sentence portée contre Ève, « tu enfanteras dans la douleur », ne regardait pas la Vierge, qui avait conçu sans péché et sans union charnelle (III, q. 35, a. 6)."
+      ],
+      "citation": {
+       "texte": "« Il n’y eut dans cet enfantement aucune douleur, comme aucune corruption, mais une très grande joie, de ce que l’Homme-Dieu naissait au monde. »",
+       "ref": "Somme théologique, III, q. 35, a. 6",
+       "url": "https://www.corpusthomisticum.org/sth4027.html#48376"
+      }
+     },
+     {
+      "titre": "Le fruit qu’Ève n’a pas trouvé",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Bienheureux le sein… » : saint Thomas, commentant l’Ave Maria, regarde le fruit de ce sein. **Ève a cherché un fruit et n’y a pas trouvé ce qu’elle désirait ; la Vierge a trouvé dans le sien tout ce qu’Ève avait désiré.** Ève voulait être comme Dieu : par le Christ nous sommes unis à Dieu et rendus semblables à lui. Elle cherchait la délectation et trouva la honte : dans le fruit de la Vierge nous trouvons la douceur et le salut, « qui mange ma chair a la vie éternelle ». Elle le trouvait beau à voir : plus beau est le fruit de la Vierge, sur qui les anges désirent arrêter leurs regards. **Ce que nous désirons, cherchons-le donc dans le fruit de la Vierge** (Super Ave Maria, a. 3)."
+      ]
+     },
+     {
+      "titre": "Bienheureuse, à cause des grandes choses que Dieu a faites",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Toutes les générations me diront bienheureuse. » La Catena aurea, où saint Thomas recueille les Pères, montre d’où vient cette béatitude. Saint Augustin loue **la vraie humilité, qui a enfanté Dieu aux hommes** : elle a été l’échelle par laquelle Dieu est descendu sur la terre. Saint Bède ajoute : celle dont l’humilité a été regardée est justement appelée bienheureuse par tous. Et Théophylacte : la Vierge montre qu’elle n’est pas proclamée bienheureuse par sa propre vertu, mais **parce que le Tout-Puissant a fait pour elle de grandes choses** : créature, enfanter le Créateur ; servante, engendrer le Seigneur (Catena in Lucam, ch. 1, leçons 16 et 17)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Le Christ est sorti du sein fermé de sa mère : sans douleur, dans la plus grande joie.",
+    "Ce que nous désirons, cherchons-le dans le fruit de la Vierge.",
+    "Marie est bienheureuse par l’humilité que Dieu a regardée et les grandes choses qu’il a faites en elle."
+   ],
+   "resolution": "Réciter aujourd’hui le chapelet, ou du moins une dizaine du deuxième mystère joyeux, en demandant à la Vierge de porter le Christ jusqu’à une personne qui l’attend sans le savoir.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome I, p. 53-54",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées (« Saint-Esprti » corrigé en « Saint-Esprit »). La citation finale « Toutes les générations me proclameront bienheureuse » est donnée sous la référence « Luc., II » : elle est en Luc 1, 48.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-1-000000942"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : Sermon 46",
+     "detail": "Vérification faite sur le Corpus Thomisticum, le texte est le sermon « Beatus venter qui te portavit » (Aldobrandinus de Cavalcantibus, Sermones, pars 1, n. 46), que le Corpus publie parmi les œuvres faussement attribuées à saint Thomas (« Opera aliqua false adscripta Thomae »). La Moelle en suit les huit raisons et omet la fin, sur les « ubera » de la Vierge.",
+     "url": "https://www.corpusthomisticum.org/xaw1.html#88551"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 35, a. 6",
+     "detail": "Le Christ né sans douleur pour sa mère ; texte latin, Corpus Thomisticum (III, q. 27-39) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4027.html#48376"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Expositio salutationis angelicae, a. 3",
+     "detail": "« Benedictus fructus ventris tui » : le fruit de la Vierge et celui d’Ève ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cst.html#86714"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Catena aurea in Lucam, cap. 1, lect. 16 et 17",
+     "detail": "Recueil des Pères sur Luc 1, 48-49 : saint Augustin, saint Bède, Théophylacte ; texte latin, Corpus Thomisticum (la page couvre Luc 1, 5 à 2) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/clc012.html#85742"
+    }
+   ]
+  }
  }
 }
