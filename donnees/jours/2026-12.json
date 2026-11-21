@@ -4165,5 +4165,220 @@
     }
    ]
   }
+ },
+ "2026-12-20": {
+  "textes": {
+   "liturgie": {
+    "nom": "IVe dimanche de l’Avent",
+    "qualite": "Dimanche",
+    "classe": "Ire classe",
+    "couleur": "violet",
+    "commemoraisons": []
+   },
+   "propre": {
+    "epitre": {
+     "reference": "1 Corinthiens 4, 1-5",
+     "incipit": "Mes frères :",
+     "latin": [
+      "Fratres: Sic nos exístimet homo ut minístros Christi, et dispensatóres mysteriórum Dei. Hic iam quǽritur inter dispensatóres, ut fidélis quis inveniátur. Mihi autem pro mínimo est, ut a vobis iúdicer aut ab humáno die: sed neque meípsum iúdico. Nihil enim mihi cónscius sum: sed non in hoc iustificátus sum: qui autem iúdicat me, Dóminus est. Ítaque nolíte ante tempus iudicáre, quoadúsque véniat Dóminus: qui et illuminábit abscóndita tenebrárum, et manifestábit consília córdium: et tunc laus erit unicúique a Deo."
+     ],
+     "francais": [
+      "Ainsi, qu’on nous regarde comme des serviteurs du Christ et des dispensateurs des mystères de Dieu. Eh bien ! ce que l’on cherche dans les dispensateurs, c’est que chacun soit trouvé fidèle. Pour moi, il m’importe fort peu d’être jugé par vous ou par un tribunal humain ; je ne me juge pas moi-même ; car, quoique je ne me sente coupable de rien, je ne suis pas pour cela justifié : mon juge, c’est le Seigneur. C’est pourquoi ne jugez de rien avant le temps jusqu’à ce que vienne le Seigneur : il mettra en lumière ce qui est caché dans les ténèbres et manifestera les desseins des cœurs, et alors chacun recevra de Dieu la louange qui lui est due."
+     ],
+     "note": "Au verset 3, le latin dit « aut ab humano die » (ou par le jour de l’homme), que la Crampon rend par « un tribunal humain » ; saint Thomas y lit le jugement des hommes en ce temps. Traduction du latin par Ad Fontes."
+    },
+    "evangile": {
+     "reference": "Luc 3, 1-6",
+     "incipit": "Suite du saint Évangile selon saint Luc.",
+     "latin": [
+      "Anno quintodécimo impérii Tibérii Cǽsaris, procuránte Póntio Piláto Iudǽam, tetrárcha autem Galilǽæ Heróde, Philíppo autem fratre eius tetrárcha Iturǽæ et Trachonítidis regionis, et Lysánia Abilínæ tetrárcha, sub princípibus sacerdotum Anna et Cáipha: factum est verbum Domini super Ioannem, Zacharíæ filium, in deserto. Et venit in omnem regiónem Iordánis, prǽdicans baptísmum pæniténtiæ in remissiónem peccatórum, sicut scriptum est in libro sermónum Isaíæ Prophétæ: Vox clamántis in desérto: Paráte viam Dómini: rectas fácite sémitas eius: omnis vallis implébitur: et omnis mons et collis humiliábitur: et erunt prava in dirécta, et áspera in vias planas: et vidébit omnis caro salutáre Dei."
+     ],
+     "francais": [
+      "La quinzième année du règne de Tibère César, Ponce Pilate étant gouverneur de la Judée ; Hérode, tétrarque de la Galilée ; Philippe, son frère, tétrarque de l’Iturée et du pays de la Trachonite, et Lysanias, tétrarque de l’Abilène ; au temps des grands prêtres Anne et Caïphe, la parole du Seigneur se fit entendre à Jean, fils de Zacharie, dans le désert. Et il vint dans toute la contrée du Jourdain, prêchant le baptême de pénitence pour la rémission des péchés, ainsi qu’il est écrit au livre des oracles du prophète Isaïe : « Une voix a retenti au désert : Préparez le chemin du Seigneur, aplanissez ses sentiers. Toute vallée sera comblée, toute montagne et toute colline seront abaissées ; les chemins tortueux deviendront droits, et les raboteux unis. Et toute chair verra le salut de Dieu. »"
+     ],
+     "note": "Le missel n’ajoute ici aucune formule comme « In illo tempore » : après l’annonce « Sequentia sancti Evangelii secundum Lucam », rendue dans l’incipit, il lit directement « Anno quintodecimo »."
+    }
+   },
+   "verset": {
+    "texte": "« Et toute chair verra le salut de Dieu. »",
+    "ref": "Luc 3, 6"
+   },
+   "commentaire": {
+    "mode": "direct",
+    "portee": "Épître, 1 Corinthiens 4, 1-5, et Évangile, Luc 3, 1-6",
+    "verif": "Textes relus : saint Thomas, Super I ad Corinthios, cap. 4, lect. 1 ; Catena aurea in Lucam, cap. 3, lect. 1 (saint Grégoire, Origène, saint Ambroise) ; Somme théologique, III, q. 38, a. 1 et q. 30, a. 4 (Corpus Thomisticum) ; messe du IVe dimanche de l’Avent (Divinum Officium) ; Crampon 1923 (Wikisource).",
+    "sections": [
+     {
+      "titre": "L’Épître : des dispensateurs fidèles",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Qu’on nous regarde comme des serviteurs du Christ et des dispensateurs des mystères de Dieu. » Saint Thomas y voit l’office des pasteurs : **médiateurs entre le Christ qu’ils servent et ses membres, à qui ils dispensent ses dons**, la doctrine et les sacrements où la vertu divine opère en secret. Le dispensateur fidèle cherche en tout l’honneur de Dieu et le bien de ses membres. Quant au jugement des hommes, l’Apôtre le tient pour très peu de chose, non pour rien : il compte pour l’édification des autres, mais pour soi on ne recherche ni la gloire humaine ni ne craint l’opprobre. Et nul ne doit s’absoudre lui-même : « je ne me sens coupable de rien », **mais des péchés peuvent se cacher en moi que j’ignore** (Super I Cor., ch. 4, leçon 1)."
+      ],
+      "citation": {
+       "texte": "« Ils sont médiateurs entre le Christ et le peuple. »",
+       "ref": "Super I ad Corinthios, cap. 4, lect. 1",
+       "url": "https://www.corpusthomisticum.org/c1c.html#86244"
+      }
+     },
+     {
+      "titre": "L’Évangile avec les Pères : l’heure de la parole",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Pourquoi saint Luc date-t-il si soigneusement la prédication de Jean ? La Catena aurea, où saint Thomas recueille les Pères, répond avec saint Grégoire : Jean annonçait celui qui rachèterait quelques-uns de la Judée et beaucoup des nations ; il nomme donc **l’empereur des nations et les princes des Juifs**, et aussi les grands prêtres, parce que le Christ serait à la fois roi et prêtre. Origène remarque que les prophètes étaient datés par les seuls rois de Juda, mais que l’Évangile, destiné au monde entier, l’est par Tibère, maître de l’univers. Et saint Ambroise : « la parole du Seigneur fut sur Jean », **pour que l’Église ne commence pas par un homme, mais par la Parole** (Catena in Lucam, ch. 3, leçon 1)."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : préparer à la grâce",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Jean prêche « le baptême de pénitence » ; Paul se dit dispensateur des mystères. Saint Thomas montre ce que fut le baptême de Jean : il ne donnait pas la grâce, mais il convenait pour quatre raisons : que le Christ fût baptisé par Jean et consacrât le baptême ; que le Christ fût manifesté aux foules ; que les hommes fussent habitués au baptême du Christ ; qu’ils y fussent préparés par la pénitence. Et il cite saint Bède : il en est encore ainsi des **ministres de l’Église, qui d’abord instruisent, puis reprennent les péchés, et enfin promettent la rémission dans le baptême du Christ** (III, q. 38, a. 1)."
+      ]
+     },
+     {
+      "titre": "À la lumière du temps de l’Avent : la salutation de l’ange",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "À l’offertoire, l’Église reprend la salutation de Gabriel : « Je vous salue, Marie, pleine de grâce… » Saint Thomas montre que l’ange voulait d’abord rendre l’esprit de la Vierge attentif par une salutation nouvelle : **« pleine de grâce » disait qu’elle était prête à concevoir, « le Seigneur est avec vous » exprimait la conception, « bénie entre les femmes » annonçait l’honneur qui en suivrait**. Il l’instruisit ensuite du mystère, puis l’amena au consentement par l’exemple d’Élisabeth et la toute-puissance de Dieu (III, q. 30, a. 4). La communion chante l’accomplissement tout proche : « Voici que la Vierge concevra et enfantera un fils. »"
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Le prêtre est médiateur entre le Christ et son peuple : on cherche en lui la fidélité.",
+    "L’Église ne commence pas par un homme, mais par la Parole de Dieu.",
+    "Instruire, reprendre le péché, promettre le pardon : c’est ainsi que Jean préparait au Christ."
+   ],
+   "resolution": "Prier aujourd’hui pour les prêtres qui m’ont donné les sacrements, en remerciant Dieu par leur nom, et me préparer à la confession de Noël sans me juger innocent d’avance.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super I Epistolam ad Corinthios, cap. 4, lect. 1",
+     "detail": "Commentaire direct de l’Épître : les serviteurs du Christ et dispensateurs des mystères, le jugement des hommes ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/c1c.html#86244"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Catena aurea in Lucam, cap. 3, lect. 1",
+     "detail": "Recueil des Pères sur Luc 3, 1-2 : saint Grégoire, Origène, saint Bède, saint Ambroise ; texte latin, Corpus Thomisticum (la page couvre Luc 3) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/clc03.html#85779"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 38, a. 1",
+     "detail": "Pourquoi il convenait que Jean baptise ; texte latin, Corpus Thomisticum (III, q. 27-39) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4027.html#48509"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 30, a. 4",
+     "detail": "L’ordre de l’Annonciation et la salutation de l’ange ; texte latin, Corpus Thomisticum (III, q. 27-39) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4027.html#48153"
+    },
+    {
+     "label": "Missel romain de 1962, IVe dimanche de l’Avent",
+     "detail": "Ire classe, violet ; introït « Rorate, caeli, desuper », collecte « Excita, quaesumus, Domine, potentiam tuam, et veni : et magna nobis virtute succurre », offertoire « Ave, Maria », communion « Ecce, Virgo concipiet » ; évangile et secrète repris du samedi des Quatre-Temps, d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/Adv4-0.txt"
+    },
+    {
+     "label": "Missel romain, IVe dimanche de l’Avent (texte français)",
+     "detail": "Traduction française des pièces de la messe, d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Francais/Tempora/Adv4-0.txt"
+    },
+    {
+     "label": "Bible Crampon 1923, 1 Corinthiens 4, 1-5",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/1_Corinthiens"
+    },
+    {
+     "label": "Bible Crampon 1923, Luc 3, 1-6",
+     "detail": "Texte relevé sur l’édition de Wikisource.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Luc"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Dernier dimanche avant Noël, le quatrième dimanche de l’Avent rassemble toute l’attente de l’Église. L’introït reprend le cri d’Isaïe : « Cieux, répandez d’en haut votre rosée, et que les nuées fassent pleuvoir le Juste ; que la terre s’ouvre, et qu’elle fasse germer le Sauveur. » La collecte supplie le Seigneur de réveiller sa puissance et de venir, pour que son indulgence hâte le salut qu’entravent nos péchés. Saint Paul rappelle que le Seigneur viendra mettre en lumière ce qui est caché, et l’Évangile, repris du samedi des Quatre-Temps, montre Jean-Baptiste parcourant la contrée du Jourdain pour préparer le chemin du Seigneur. Le graduel annonce : « Le Seigneur est proche de tous ceux qui l’invoquent. » À l’offertoire, l’Église salue Marie avec l’ange, et la communion chante : « Voici que la Vierge concevra et enfantera un fils, et on l’appellera Emmanuel. »"
+   }
+  },
+  "meditation": {
+   "titre": "Les dignes fruits de pénitence",
+   "texte": [
+    "*Qui vous a appris à fuir la colère à venir ? Faites donc un digne fruit de pénitence.* (Matth., III, 7.)",
+    "**I**",
+    "Deux motifs engagent à la pénitence : l’aveu de ses péchés et la crainte des jugements de Dieu. *La crainte du Seigneur détourne du mal.* (Prov., XV.) *Sachez qu’il y a une justice.* (Job, XIX, 29.)",
+    "Saint Ambroise et saint Jean Chrysostome expliquent au futur : Qui vous apprendra à quitter les voies mauvaises ? c’est-à-dire : Personne, si ce n’est Dieu. *Seigneur, faites-nous voir votre bonté et accordez-nous votre salut.* (Ps. 84.)",
+    "Raban Maur explique au futur, et dans ce sens : « Il est nécessaire que vous fassiez pénitence ; autrement qui vous apprendra à échapper à la colère ? » *Où aller pour me dérober à ta connaissance ? où fuir pour échapper à ton regard ?* (Ps. 138, 8.)",
+    "La colère de Dieu doit s’entendre ici, non pas du sentiment intérieur, mais de l’effet de cette colère, c’est-à-dire de la vengeance, du châtiment.",
+    "Parmi ceux qui refusent de se repentir, il y a ceux qui ne croient pas au jugement. C’est à eux qu’il est dit : *Ne vous appuyez pas sur vos richesses et ne dites pas : j’ai assez de biens.* (Eccli., V, 1.) Et encore : *Ce jour-là craignez pour vous le glaive, parce que terribles sont les vengeances du glaive.* (Job, XIX, 20.) D’autres s’appuient sur les délais de la justice. Saint Pierre leur déclare : *Non, le Seigneur ne retarde pas l’accomplissement de sa promesse, comme quelques-uns se l’imaginent ; il use de patience envers vous, ne voulant pas qu’aucun périsse, mais que tous viennent à la pénitence.* (2 Pet., III, 9.)",
+    "Jean-Baptiste ruine tous ces prétextes, quand il affirme : *Déjà la cognée est à la racine des arbres,* c’est-à-dire : La justice ne tardera pas.",
+    "**II**",
+    "*Faites donc un digne fruit de pénitence.* Les fleurs précèdent les fruits des arbres, et si les fruits ne viennent pas, l’arbre ne vaut rien. La fleur de la pénitence, c’est la contrition ; mais le fruit, c’est l’exécution du ferme propos. *Mes fleurs ont donné des fruits de gloire et de richesse.* (Eccli., XXIV, 17.)",
+    "Autre est le fruit de justice, autre le fruit de pénitence. Il est exigé davantage de celui qui se repent, que de celui qui n’a point péché.",
+    "Le digne fruit de pénitence est triple :",
+    "*a*) Il faut punir en soi-même le péché commis ; et cela se fait par la sentence du prêtre : *Après que tu m’as fait revenir, je me suis repenti, et après avoir compris, j’ai frappé mes épaules.* (Jér., 31, 19), c’est-à-dire, j’ai affligé ma chair.",
+    "*b*) Il faut fuir le péché et les occasions de péché. C’est pourquoi on enseigne que satisfaire, c’est détruire les causes du péché : *Mon fils, as-tu péché, ne le fais plus ; mais prie pour tes fautes passées. Fuis le péché comme un serpent.* (Eccli., XXI, 1.)",
+    "*c*) Il faut s’appliquer à bien agir avec autant de zèle qu’on a mis à pécher. C’est ce que dit saint Paul : *De même que vous avez livré vos membres comme esclaves à l’impureté et à l’injustice, pour arriver à l’injustice, de même livrez maintenant vos membres comme esclaves à la justice pour arriver à la sainteté.* (Rom., VI, 19.)",
+    "*(Sur saint Matthieu, c. 3.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "Une réconciliation d’amitié",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Moelle distingue la fleur de la pénitence, la contrition, et son fruit. Saint Thomas montre pourquoi la pénitence a trois parties. Dans la justice qui punit, la réparation se fait au jugement du juge ; dans la pénitence, elle se fait selon la volonté du pécheur et au jugement de Dieu offensé, **car on n’y cherche pas seulement à rétablir l’égalité de la justice, mais bien plutôt la réconciliation de l’amitié**. Il faut donc d’abord la volonté de réparer, c’est la contrition ; puis se soumettre au jugement du prêtre tenant la place de Dieu, c’est la confession ; enfin réparer selon ce jugement, c’est la satisfaction (III, q. 90, a. 2)."
+      ],
+      "citation": {
+       "texte": "« On n’y cherche pas seulement le rétablissement de l’égalité de la justice, mais bien plutôt la réconciliation de l’amitié. »",
+       "ref": "Somme théologique, III, q. 90, a. 2",
+       "url": "https://www.corpusthomisticum.org/sth4084.html#51535"
+      }
+     },
+     {
+      "titre": "De la crainte à l’amour",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La crainte du jugement, premier motif de La Moelle, n’est que le commencement. Saint Thomas décrit la suite des mouvements de la pénitence : d’abord **Dieu qui convertit le cœur**, « convertissez-nous, Seigneur, et nous serons convertis » ; puis la foi ; puis la crainte servile, qui retire du péché par peur des châtiments ; puis l’espérance du pardon, qui fait prendre la résolution de s’amender ; puis la charité, par laquelle le péché déplaît pour lui-même et non plus à cause des peines ; enfin la crainte filiale, **qui offre volontiers réparation à Dieu par respect pour lui** (III, q. 85, a. 5)."
+      ]
+     },
+     {
+      "titre": "Satisfaire, c’est guérir et préserver",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Satisfaire, c’est détruire les causes du péché. » Saint Thomas commente cette définition de saint Augustin : la satisfaction est **un remède, qui guérit les péchés passés et préserve des péchés à venir**. Mais l’âme n’est pas un corps : le libre arbitre n’est pas contraint, et l’on peut pécher encore une fois les causes ôtées. Ces causes prochaines sont l’inclination laissée par l’habitude du péché et **les occasions extérieures, comme le lieu ou les mauvaises compagnies** : la satisfaction les enlève en cette vie (Super Sent., IV, d. 15, q. 1, a. 1, qc. 3)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "La pénitence cherche moins l’égalité de la justice que la réconciliation de l’amitié.",
+    "On commence par la crainte du châtiment, on achève par l’amour qui offre réparation.",
+    "La satisfaction guérit le passé et préserve l’avenir en ôtant les occasions."
+   ],
+   "resolution": "Nommer devant Dieu une occasion précise de péché, un lieu, une compagnie ou un usage, et la retrancher dès aujourd’hui, en offrant cet effort comme réparation.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome I, p. 56-58",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées. Deux références scripturaires imprimées sont inexactes : « Ce jour-là craignez pour vous le glaive » est en Job 19, 29 (et non XIX, 20), et « Où aller pour me dérober… » au Psaume 138, 7 (et non 8).",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-1-000000942"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Evangelium Matthaei, cap. 3, lect. 1",
+     "detail": "Référence imprimée par La Moelle (Sur saint Matthieu, c. 3), exacte : commentaire de Matthieu 3, 7-10. La Moelle place à la fin du premier point ce que saint Thomas dit, après les trois fruits, des prétextes qui retiennent de la pénitence (« Iam enim securis »). Texte latin de l’édition de Turin 1951 (reportation de Pierre d’Andria), Corpus Thomisticum.",
+     "url": "https://www.corpusthomisticum.org/cma03.html#87334"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 90, a. 2",
+     "detail": "Les trois parties de la pénitence ; texte latin, Corpus Thomisticum (III, q. 84-90) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4084.html#51535"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 85, a. 5",
+     "detail": "L’origine de la pénitence, de la conversion du cœur à la crainte filiale ; texte latin, Corpus Thomisticum (III, q. 84-90) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4084.html#51338"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Scriptum super Sententiis, IV, d. 15, q. 1, a. 1, qc. 3",
+     "detail": "La définition de la satisfaction, « causas peccatorum excidere » ; texte latin, Corpus Thomisticum (IV, d. 15) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/snp4015.html#16324"
+    }
+   ]
+  }
  }
 }
