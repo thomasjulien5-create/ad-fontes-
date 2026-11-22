@@ -4380,5 +4380,229 @@
     }
    ]
   }
+ },
+ "2026-12-21": {
+  "textes": {
+   "liturgie": {
+    "nom": "Saint Thomas",
+    "qualite": "Apôtre",
+    "classe": "IIe classe",
+    "couleur": "rouge",
+    "commemoraisons": [
+     "la férie de l’Avent (lundi de la IVe semaine)"
+    ]
+   },
+   "propre": {
+    "epitre": {
+     "reference": "Éphésiens 2, 19-22",
+     "incipit": "Mes frères :",
+     "latin": [
+      "Fratres: Iam non estis hóspites et ádvenæ: sed estis cives sanctórum et doméstici Dei: superædificáti super fundaméntum Apostolórum et Prophetárum, ipso summo angulári lápide Christo Iesu: in quo omnis ædificátio constrúcta crescit in templum sanctum in Dómino, in quo et vos coædificámini in habitáculum Dei in Spíritu."
+     ],
+     "francais": [
+      "Vous n’êtes plus des étrangers, ni des hôtes de passage ; mais vous êtes concitoyens des saints, et membres de la famille de Dieu, édifiés que vous êtes sur le fondement des apôtres et des prophètes, dont Jésus-Christ lui-même est la pierre angulaire. C’est en lui que tout l’édifice bien ordonné s’élève, pour former un temple saint dans le Seigneur ; c’est en lui que, vous aussi, vous êtes édifiés, pour être par l’Esprit-Saint, une demeure où Dieu habite."
+     ],
+     "note": "La Crampon ouvre le verset 19 par « Ainsi donc », que le missel ne lit pas : il commence à « Iam non estis hospites et advenae »."
+    },
+    "evangile": {
+     "reference": "Jean 20, 24-29",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "In illo témpore: Thomas, unus ex duódecim, qui dícitur Dídymus, non erat cum eis, quando venit Iesus. Dixérunt ergo ei alii discípuli: Vídimus Dóminum. Ille autem dixit eis: Nisi videro in mánibus eius fixúram clavórum, et mittam dígitum meum in locum clavórum, et mittam manum meam in latus eius, non credam. Et post dies octo, íterum erant discípuli eius intus, et Thomas cum eis. Venit Iesus iánuis clausis, et stetit in médio, et dixit: Pax vobis. Deinde dicit Thomæ: Inter dígitum tuum huc, et vide manus meas, et affer manum tuam, et mitte in latus meum: et noli esse incrédulus, sed fidélis. Respóndit Thomas et dixit ei: Dóminus meus et Deus meus. Dixit ei Iesus: Quia vidisti me, Thoma, credidísti: beáti, qui non vidérunt, et credidérunt."
+     ],
+     "francais": [
+      "Thomas, l’un des douze, celui qu’on appelle Didyme, n’était pas avec eux lorsque Jésus vint. Les autres disciples lui dirent donc : « Nous avons vu le Seigneur. » Mais il leur dit : « Si je ne vois dans ses mains la marque des clous, et si je ne mets mon doigt à la place des clous, et ma main dans son côté, je ne croirai point. » Huit jours après, les disciples étant encore dans le même lieu, et Thomas avec eux, Jésus vint, les portes étant fermées, et se tenant au milieu d’eux, il leur dit : « Paix avec vous ! » Puis il dit à Thomas : « Mets ici ton doigt, et regarde mes mains ; approche aussi ta main, et mets-la dans mon côté ; et ne sois pas incrédule, mais croyant. » Thomas lui répondit : « Mon Seigneur, et mon Dieu ! » Jésus lui dit : « Parce que tu m’as vu, [Thomas], tu as cru. Heureux ceux qui n’ont pas vu et qui ont cru. »"
+     ],
+     "note": "La Crampon ouvre le verset 24 par « Mais », que le missel ne lit pas : la leçon commence à « Thomas, unus ex duodecim »."
+    }
+   },
+   "verset": {
+    "texte": "« Heureux ceux qui n’ont pas vu et qui ont cru. »",
+    "ref": "Jean 20, 29"
+   },
+   "commentaire": {
+    "mode": "direct",
+    "portee": "Épître, Éphésiens 2, 19-22, et Évangile, Jean 20, 24-29",
+    "verif": "Textes relus : saint Thomas, Super Epistolam ad Ephesios, cap. 2, lect. 6 ; Super Ioannem, cap. 20, lect. 6 ; Catena aurea in Ioannem, cap. 20, lect. 3 (saint Grégoire) ; Super Psalmos, Ps. 18, n. 2 et 3 (Corpus Thomisticum) ; messe de saint Thomas, apôtre, commémoraison de la férie (collecte du IVe dimanche de l’Avent), leçons du bréviaire (Divinum Officium) ; Crampon 1923 (Wikisource).",
+    "sections": [
+     {
+      "titre": "L’Épître : la cité et la maison",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Vous n’êtes plus des étrangers, ni des hôtes de passage. » Saint Thomas explique pourquoi l’Apôtre emploie deux mots : l’hôte est étranger à une maison, l’étranger de passage à une cité. Or l’assemblée des fidèles est l’une et l’autre : **une maison, si l’on regarde celui qui la gouverne, car c’est un Père**, « Notre Père qui êtes aux cieux » ; **une cité, si l’on regarde ses membres, qui ont en commun les actes principaux, la foi, l’espérance et la charité**. Et il rappelle saint Augustin : deux amours ont fait deux cités, l’amour de Dieu jusqu’au mépris de soi, Jérusalem ; l’amour de soi jusqu’au mépris de Dieu, Babylone (Super Eph., ch. 2, leçon 6)."
+      ],
+      "citation": {
+       "texte": "« Deux amours font deux cités. »",
+       "ref": "Super ad Ephesios, cap. 2, lect. 6",
+       "url": "https://www.corpusthomisticum.org/cep.html#87800"
+      }
+     },
+     {
+      "titre": "L’Évangile : la main posée sous celui qui tombe",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Pourquoi le Seigneur apparaît-il à Thomas au milieu des autres, et non à lui seul ? Pour montrer, dit saint Thomas, que **ce qui plaît à Dieu n’est pas la singularité, mais la communauté de la charité**. Puis il y voit la bonté divine envers les élus : ils tombent parfois, comme les réprouvés, mais autrement, car **le Seigneur met aussitôt sa main sous eux pour qu’ils se relèvent**. Il accepte les conditions que Thomas avait posées, et Thomas devient aussitôt **« un bon théologien »** : « Mon Seigneur » confesse l’humanité du Christ, « mon Dieu », sa divinité (Super Ioannem, ch. 20, leçon 6)."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : une foi qui fonde la nôtre",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Nous sommes bâtis sur le fondement des apôtres, et le doute de l’un d’eux est devenu une pierre de ce fondement. La Catena aurea, où saint Thomas recueille les Pères, rapporte saint Grégoire : **l’incrédulité de Thomas a plus servi à notre foi que la foi des disciples qui croyaient**, car tandis qu’il est ramené à la foi en touchant, notre esprit s’affermit sans plus aucun doute. Thomas a vu un homme et confessé un Dieu. Et la dernière parole nous regarde : « Heureux ceux qui n’ont pas vu et qui ont cru », **pourvu que nos œuvres suivent notre foi** (Catena in Ioannem, ch. 20, leçon 3)."
+      ]
+     },
+     {
+      "titre": "À la lumière de la fête : jusqu’aux extrémités de la terre",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "L’offertoire chante des apôtres : « Leur voix a retenti par toute la terre, et leurs paroles jusqu’aux extrémités du monde. » Commentant ce psaume, saint Thomas voit dans les cieux les apôtres, et dans le soleil le Christ, le « soleil de justice ». La distance arrête d’ordinaire un enseignement ; **non celui des apôtres, dont non seulement le bruit, mais les paroles mêmes sont parvenues aux confins de la terre** (Super Psalmos, Ps. 18). Thomas l’a vécu : le bréviaire le montre portant l’Évangile aux Parthes, aux Mèdes, aux Perses, jusqu’aux Indes. Quatre jours avant Noël, l’apôtre qui a touché les plaies du Ressuscité annonce le soleil qui va se lever."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Deux amours font deux cités : l’amour de Dieu bâtit Jérusalem.",
+    "Quand l’élu tombe, le Seigneur met aussitôt sa main sous lui.",
+    "Le doute de Thomas a affermi notre foi : il a vu un homme et confessé un Dieu."
+   ],
+   "resolution": "Dire lentement aujourd’hui, à l’élévation ou devant le tabernacle, la confession de saint Thomas : « Mon Seigneur et mon Dieu », et la redire dans une difficulté de foi.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super Epistolam ad Ephesios, cap. 2, lect. 6",
+     "detail": "Commentaire direct de l’Épître : la maison et la cité, les deux amours ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cep.html#87800"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 20, lect. 6",
+     "detail": "Commentaire direct de l’Évangile : l’apparition à Thomas, sa confession ; texte latin, Corpus Thomisticum (la page couvre Jean 20-21) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih20.html#87557"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Catena aurea in Ioannem, cap. 20, lect. 3",
+     "detail": "Recueil des Pères sur Jean 20, 24-29 : saint Grégoire, saint Bède, saint Jean Chrysostome, saint Augustin ; texte latin, Corpus Thomisticum (la page couvre Jean 12-21) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cjo12.html#86157"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Psalmos, Ps. 18, n. 2 et 3",
+     "detail": "« In omnem terram exivit sonus eorum » : les cieux figurent les apôtres, le soleil le Christ ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cps11.html#86934"
+    },
+    {
+     "label": "Missel romain de 1962, saint Thomas, apôtre (21 décembre)",
+     "detail": "IIe classe, rouge ; introït « Mihi autem nimis honorati sunt amici tui, Deus », collecte « Da nobis, quaesumus, Domine, beati Apostoli tui Thomae sollemnitatibus gloriari », offertoire « In omnem terram », communion « Mitte manum tuam », d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/12-21.txt"
+    },
+    {
+     "label": "Missel romain, saint Thomas, apôtre (texte français)",
+     "detail": "Traduction française des pièces de la messe, d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Francais/Sancti/12-21.txt"
+    },
+    {
+     "label": "Missel romain de 1962, commémoraison de la férie de l’Avent",
+     "detail": "Collecte du IVe dimanche de l’Avent, « Excita, quaesumus, Domine, potentiam tuam, et veni », d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/Adv4-0.txt"
+    },
+    {
+     "label": "Bréviaire romain, office de saint Thomas, apôtre",
+     "detail": "Vie du saint (quatrième leçon), texte français d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Francais/Sancti/12-21.txt"
+    },
+    {
+     "label": "Bible Crampon 1923, Éphésiens 2, 19-22",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/%C3%89ph%C3%A9siens"
+    },
+    {
+     "label": "Bible Crampon 1923, Jean 20, 24-29",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Jean"
+    }
+   ],
+   "fete": {
+    "titre": "Le saint du jour",
+    "texte": "L’apôtre Thomas, appelé aussi Didyme, était Galiléen. Absent lors de la première apparition du Ressuscité, il refusa de croire sans voir et toucher ses plaies ; huit jours après, le Seigneur l’invita à mettre son doigt à la place des clous, et Thomas confessa : « Mon Seigneur et mon Dieu ! » Après la Pentecôte, rapporte le bréviaire, il alla prêcher l’Évangile chez les Parthes, les Mèdes, les Perses, les Hircaniens et les Bactriens, puis chez les Indiens, qu’il instruisit dans la religion chrétienne. La sainteté de sa vie, sa doctrine et ses miracles excitèrent chez tous l’admiration et l’amour de Jésus-Christ, mais aussi la colère du roi de ce peuple, adorateur des idoles : condamné par lui et percé de flèches, il couronna son apostolat par le martyre, à Calamine. La collecte demande de suivre, avec la dévotion qui convient, la foi qu’il a prêchée. L’Église fait aussi mémoire de la férie de l’Avent."
+   }
+  },
+  "meditation": {
+   "titre": "La voix qui crie dans le désert",
+   "texte": [
+    "*Je suis la voix de celui qui crie dans le désert : Aplanissez le chemin du Seigneur.* (Joan., I, 23.)",
+    "Jean-Baptiste dit qu’il est une voix, parce que la voix se forme après la parole intérieure ; mais, elle est connue, entendue, avant la parole intérieure. Nous ne connaissons le verbe mental, la parole du cœur, que par les sons proférés et articulés, qui sont les signes de la pensée.",
+    "Dieu a envoyé Jean-Baptiste comme précurseur pour annoncer son Verbe, conçu de toute éternité. Jean-Baptiste dit bien : *Je suis la voix.*",
+    "*De celui qui crie, qui clame,* c’est-à-dire de Jean-Baptiste au désert, où il crie et prêche… ou bien, la voix du Christ, qui crie en lui et par lui.",
+    "Il clame pour quatre raisons :",
+    "1° La clameur, c’est une manifestation. Pour manifester que le Christ parlait par Jean-Baptiste, et en lui, on emploie la clameur. C’est dans le même sens qu’il est dit dans l’Évangile : *Le dernier jour de la fête, qui en est le jour le plus solennel, Jésus debout clamait à haute voix et disait : Si quelqu’un a soif, qu’il vienne et qu’il boive.* (Joan., VII, 37.) Dieu n’a point clamé par les Prophètes, parce que les prophéties ont été données par énigmes et figures.",
+    "2° La clameur s’emploie pour ceux qui sont loin, distants. Or, les Juifs s’étaient éloignés de Dieu ; c’est pourquoi la clameur est nécessaire. *Tu as éloigné de moi mes amis et mes proches,* dit le Psalmiste. (Ps., 88, 19.)",
+    "3° On crie pour les sourds. *Qui est sourd, sinon mon serviteur ?* dit Isaïe. (Is., 42, 19.)",
+    "4° On crie dans l’indignation ; et les Juifs avaient encouru la colère de Dieu. *Alors, il leur parla dans sa colère, et dans sa fureur, il les épouvantera.* (Ps., II, 5.)",
+    "*De celui qui crie dans le désert.* Il demeure au désert pour ne point pécher, et pour être plus digne de rendre témoignage au Christ, et pour que sa vie même donne à son témoignage plus de force et de crédit.",
+    "Mais que clame-t-il ? *Aplanissez le chemin du Seigneur.* Le chemin pour recevoir le Seigneur, le chemin préparé et direct, c’est le chemin de la justice, d’après Isaïe (26, 7) : *Le sentier du juste est uni.*",
+    "C’est alors, en effet, que le sentier du juste est uni, quand l’homme est tout entier soumis à Dieu, c’est-à-dire, son intelligence par la foi, sa volonté par l’amour, sa conduite et ses œuvres par l’obéissance.",
+    "*(Sur saint Jean, c. 1.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "La parole du cœur et la parole de la voix",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Moelle oppose la voix et la parole intérieure. Saint Thomas éclaire cette distinction quand il montre que « Verbe » est en Dieu un nom personnel. En nous, le mot qu’on profère est le plus connu ; mais il vient de l’intérieur, car **la voix ne mérite le nom de parole que parce qu’elle signifie le concept de l’esprit**. Ainsi l’on appelle parole d’abord et principalement le concept intérieur de l’esprit, ensuite la voix qui le signifie, enfin l’image de la voix dans l’imagination (I, q. 34, a. 1). Jean est la voix ; le Verbe qu’il annonce est le concept éternel du Père."
+      ],
+      "citation": {
+       "texte": "« On appelle parole d’abord et principalement le concept intérieur de l’esprit ; secondairement, la voix qui signifie ce concept. »",
+       "ref": "Somme théologique, I, q. 34, a. 1",
+       "url": "https://www.corpusthomisticum.org/sth1028.html#29849"
+      }
+     },
+     {
+      "titre": "Un témoignage que porte la vie",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Jean demeure au désert pour que sa vie rende son témoignage plus croyable. Saint Thomas, se demandant pourquoi le Christ n’a pas vécu dans la même austérité, cite saint Jean Chrysostome : **Jean ne montrait rien d’autre que sa vie et sa justice ; le Christ avait aussi le témoignage des miracles**. Le Seigneur a donc laissé Jean briller par le jeûne et pris le chemin contraire, mangeant à la table des publicains. Les deux vies sont permises et louables, la retraite austère et la vie commune, car **le royaume de Dieu n’est pas le manger et le boire** (III, q. 40, a. 2, ad 1)."
+      ]
+     },
+     {
+      "titre": "La droiture de l’homme soumis à Dieu",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Le chemin du Seigneur est la justice, quand l’homme est tout entier soumis à Dieu. Saint Thomas nomme cette justice : non la vertu particulière qui règle nos actes envers autrui, mais **une droiture de l’ordre dans la disposition intérieure de l’homme, quand ce qu’il a de plus haut est soumis à Dieu, et les puissances inférieures de l’âme à la raison**. La justification est le mouvement vers cette justice : pour le pécheur, elle est le passage de l’état d’injustice à l’état de justice, par la rémission des péchés (I-II, q. 113, a. 1)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "La voix n’est parole que parce qu’elle signifie le concept de l’esprit : Jean est la voix du Verbe.",
+    "Jean ne montrait que sa vie et sa justice : c’est sa vie qui rendait son témoignage croyable.",
+    "La justice est la droiture d’un homme soumis à Dieu, et dont les puissances obéissent à la raison."
+   ],
+   "resolution": "Faire en sorte qu’aujourd’hui une parole sur la foi, dite à un proche, soit précédée d’un acte qui la rende croyable : un service, une patience, une réconciliation.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome I, p. 58-59",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ont été corrigées. La référence « Ps., 88, 19 » suit la numérotation hébraïque ; saint Thomas cite le Psaume LXXXVII, 19 de la Vulgate.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-1-000000942"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 1, lect. 12",
+     "detail": "Référence imprimée par La Moelle (Sur saint Jean, c. 1), exacte : commentaire de Jean 1, 23, que la méditation suit de près ; elle omet les raisons mystiques du désert (les nations, la Judée délaissée). Texte latin, Corpus Thomisticum (la page couvre le chapitre 1).",
+     "url": "https://www.corpusthomisticum.org/cih01.html#87430"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 34, a. 1",
+     "detail": "Le nom de Verbe ; la parole intérieure et la voix ; texte latin, Corpus Thomisticum (I, q. 28-43) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1028.html#29849"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 40, a. 2, ad 1",
+     "detail": "La vie austère de Jean et la vie commune du Christ ; texte latin, Corpus Thomisticum (III, q. 40-45) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4040.html#48640"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I-II, q. 113, a. 1",
+     "detail": "La justification, mouvement vers la droiture de l’ordre intérieur ; texte latin, Corpus Thomisticum (I-II, q. 109-114) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth2109.html#38574"
+    }
+   ]
+  }
  }
 }
