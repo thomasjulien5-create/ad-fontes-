@@ -5034,5 +5034,207 @@
     }
    ]
   }
+ },
+ "2026-12-24": {
+  "textes": {
+   "liturgie": {
+    "nom": "Vigile de la Nativité de Notre-Seigneur",
+    "qualite": "Vigile",
+    "classe": "Ire classe",
+    "couleur": "violet",
+    "commemoraisons": []
+   },
+   "propre": {
+    "epitre": {
+     "reference": "Romains 1, 1-6",
+     "incipit": "Lecture de l’Épître de saint Paul, Apôtre, aux Romains.",
+     "latin": [
+      "Paulus, servus Iesu Christi, vocátus Apóstolus, segregátus in Evangélium Dei, quod ante promíserat per Prophétas suos in Scriptúris sanctis de Fílio suo, qui factus est ei ex sémine David secúndum carnem: qui prædestinátus est Fílius Dei in virtúte secúndum spíritum sanctificatiónis ex resurrectióne mortuórum Iesu Christi, Dómini nostri: per quem accépimus grátiam, et apostolátum ad obœdiéndum fídei in ómnibus géntibus pro nómine eius, in quibus estis et vos vocáti Iesu Christi, Dómini nostri."
+     ],
+     "francais": [
+      "Paul, serviteur du Christ-Jésus, apôtre par son appel, mis à part pour annoncer l’Évangile de Dieu, Évangile que Dieu avait promis auparavant par ses prophètes dans les saintes Écritures, touchant son Fils (né de la postérité de David selon la chair, et déclaré Fils de Dieu miraculeusement, selon l’Esprit de sainteté, par une résurrection d’entre les morts), Jésus-Christ Notre-Seigneur, par qui nous avons reçu la grâce et l’apostolat, pour amener en son nom à l’obéissance de la foi tous les Gentils, du nombre desquels vous êtes, vous aussi, par appel de Jésus-Christ, notre Seigneur."
+     ],
+     "note": "L’épître commence sans « Fratres » : le missel lit directement « Paulus, servus Iesu Christi ». Au verset 4, le latin dit « qui praedestinatus est Filius Dei in virtute » (qui a été prédestiné Fils de Dieu en puissance), que saint Thomas commente. Le missel s’arrête au verset 6 et conclut par « Domini nostri » (notre Seigneur), traduit par Ad Fontes."
+    },
+    "evangile": {
+     "reference": "Matthieu 1, 18-21",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "Cum esset desponsáta Mater Iesu María Ioseph, ántequam convenírent, invénta est in útero habens de Spíritu Sancto. Ioseph autem, vir eius, cum esset iustus et nollet eam tradúcere, vóluit occúlte dimíttere eam. Hæc autem eo cogitánte, ecce, Angelus Dómini appáruit in somnis ei, dicens: Ioseph, fili David, noli timére accípere Maríam cóniugem tuam: quod enim in ea natum est, de Spíritu Sancto est. Páriet autem fílium, et vocábis nomen eius Iesum: ipse enim salvum fáciet pópulum suum a peccátis eórum."
+     ],
+     "francais": [
+      "Marie, sa mère, étant fiancée à Joseph, il se trouva, avant qu’ils eussent habité ensemble, qu’elle avait conçu par la vertu du Saint-Esprit. Joseph, son mari, qui était un homme juste, ne voulant pas la diffamer, résolut de la renvoyer secrètement. Comme il était dans cette pensée, voici qu’un ange du Seigneur lui apparut en songe, et lui dit : « Joseph, fils de David, ne crains point de prendre avec toi Marie ton épouse, car ce qui est formé en elle est l’ouvrage du Saint-Esprit. Et elle enfantera un fils, et tu lui donneras le nom de Jésus ; car il sauvera son peuple de ses péchés. »"
+     ],
+     "note": "La Crampon ouvre le verset 18 par « Or la naissance de Jésus-Christ arriva ainsi », que le missel ne lit pas : il commence à « Cum esset desponsata Mater Iesu Maria Ioseph » (la mère de Jésus, Marie, étant fiancée à Joseph). L’évangile est celui de la fête de saint Joseph."
+    }
+   },
+   "verset": {
+    "texte": "« Et elle enfantera un fils, et tu lui donneras le nom de Jésus ; car il sauvera son peuple de ses péchés. »",
+    "ref": "Matthieu 1, 21"
+   },
+   "commentaire": {
+    "mode": "direct",
+    "portee": "Épître, Romains 1, 1-6, et Évangile, Matthieu 1, 18-21",
+    "verif": "Textes relus : saint Thomas, Super Epistolam ad Romanos, cap. 1, lect. 2 ; Super Matthaeum, cap. 1, lect. 4 et 5 ; Somme théologique, III, q. 35, a. 8 (Corpus Thomisticum) ; messe de la vigile de Noël, évangile renvoyant à la fête de saint Joseph (Divinum Officium) ; Crampon 1923 (Wikisource).",
+    "sections": [
+     {
+      "titre": "L’Épître : l’Évangile promis et le Fils propre",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Saint Thomas montre comment l’Apôtre recommande l’Évangile : par son ancienneté, car il fut annoncé bien avant d’être prêché ; par sa fermeté, car celui qui l’a promis ne ment pas ; par la dignité de ses témoins, les prophètes de Dieu ; et parce qu’il est écrit dans les Écritures saintes. Saint Augustin remarque que les prophéties sur le Christ commencèrent d’être écrites quand Rome fut fondée, **sous l’empire de laquelle le Christ devait naître**. Puis Paul dit « son Fils » : par ce seul mot, il écarte Photin, Sabellius et Arius, car il est, dit saint Hilaire, **Fils véritable et propre, par origine et non par adoption, en vérité et non de nom, par naissance et non par création** (Super Rom., ch. 1, leçon 2)."
+      ],
+      "citation": {
+       "texte": "« Celui-ci est le Fils véritable et propre, par origine et non par adoption, en vérité et non de nom, par naissance et non par création. »",
+       "ref": "Super ad Romanos, cap. 1, lect. 2",
+       "url": "https://www.corpusthomisticum.org/cro011.html#86167"
+      }
+     },
+     {
+      "titre": "L’Évangile : la sagesse et la bonté de Joseph",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Pourquoi Joseph voulut-il renvoyer Marie en secret ? Saint Thomas rapporte plusieurs réponses, et celle de saint Jérôme et d’Origène : Joseph connaissait la pureté de Marie ; il avait lu qu’« une vierge concevra » et que la tige sortirait de Jessé ; il savait Marie de la race de David. Il crut donc plus facilement à l’accomplissement de la prophétie qu’à une faute, et, **se jugeant indigne d’habiter avec une telle sainteté**, voulut se retirer, comme Pierre disant : « Éloignez-vous de moi, Seigneur, car je suis un pécheur. » L’Évangile loue en lui **la sagesse, qui délibère avant d’agir, et la bonté, qui ne divulgue pas** ; et Dieu permit son trouble, comme le doute de Thomas, pour que son témoignage fût plus ferme (Super Matthaeum, ch. 1, leçon 4)."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : le fils de David qui sauve",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Paul annonce le Fils « né de la postérité de David », et l’ange appelle Joseph « fils de David ». Saint Thomas commente : l’ange ne dit pas « elle t’enfantera un fils », **pour montrer qu’il naît pour tous**, pour le monde entier. Joseph doit seulement donner le nom, déjà imposé par Dieu : Jésus, « car il sauvera son peuple de ses péchés ». Les juges d’Israël sauvaient de leurs ennemis ; celui-ci sauve des péchés, **ce qui n’appartient qu’à Dieu**. Ainsi tombe l’erreur de Nestorius : l’homme né de la Vierge et appelé Jésus est Dieu, et ce qui est de Dieu lui convient vraiment (Super Matthaeum, ch. 1, leçon 5)."
+      ]
+     },
+     {
+      "titre": "À la lumière de la fête : l’heure choisie",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Aujourd’hui vous saurez que le Seigneur va venir, et demain matin vous verrez sa gloire. » Saint Thomas fait remarquer que les autres hommes naissent soumis au temps, mais que **le Christ, maître et créateur des temps, a choisi le sien**, comme sa mère et le lieu. Il naît quand le recensement l’inscrit aussitôt parmi les sujets de César, **soumis à la servitude pour notre libération** ; quand le monde, sous un seul prince, connaît la paix, lui qui est notre paix ; quand la lumière du jour commence à croître, pour que les hommes grandissent dans la lumière divine ; et dans la rigueur de l’hiver, pour souffrir déjà pour nous dans sa chair (III, q. 35, a. 8)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Le Christ est le Fils propre du Père, par origine, en vérité, par naissance.",
+    "Joseph se jugea indigne d’une telle sainteté : il délibère avant d’agir et ne divulgue pas.",
+    "Maître des temps, le Christ a choisi l’heure de sa naissance : la paix, la lumière qui croît, la rigueur de l’hiver."
+   ],
+   "resolution": "Garder aujourd’hui le jeûne de la vigile ou une privation précise, et prendre avant la nuit un temps de silence pour confier à saint Joseph la préparation de mon cœur à Noël.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super Epistolam ad Romanos, cap. 1, lect. 2",
+     "detail": "Commentaire direct de l’Épître : l’Évangile promis, le Fils propre du Père ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cro011.html#86167"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Evangelium Matthaei, cap. 1, lect. 4 et 5",
+     "detail": "Commentaire direct de l’Évangile : le doute de Joseph, le nom de Jésus ; texte latin de l’édition de Turin 1951 (reportation de Pierre d’Andria), Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cma01.html#87327"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 35, a. 8",
+     "detail": "Le temps de la naissance du Christ ; texte latin, Corpus Thomisticum (III, q. 27-39) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4027.html#48392"
+    },
+    {
+     "label": "Missel romain de 1962, vigile de la Nativité de Notre-Seigneur (24 décembre)",
+     "detail": "Ire classe, violet ; introït « Hodie scietis », collecte « Deus, qui nos redemptionis nostrae annua exspectatione laetificas », offertoire « Tollite portas », communion « Revelabitur gloria Domini » ; évangile repris de la fête de saint Joseph, d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/12-24.txt"
+    },
+    {
+     "label": "Missel romain, vigile de Noël (texte français)",
+     "detail": "Traduction française des pièces de la messe, d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Francais/Sancti/12-24.txt"
+    },
+    {
+     "label": "Bible Crampon 1923, Romains 1, 1-6",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Romains"
+    },
+    {
+     "label": "Bible Crampon 1923, Matthieu 1, 18-21",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Matthieu"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "La vigile de Noël, de première classe, est le seuil de la fête : l’Avent s’achève dans le violet et le jeûne, mais la messe est déjà toute tournée vers la nuit qui vient. L’introït reprend la parole de Moïse au désert : « Aujourd’hui vous saurez que le Seigneur va venir et qu’il nous sauvera ; et demain matin vous verrez sa gloire. » La collecte remercie Dieu de nous réjouir chaque année par l’attente de notre rédemption, et demande de pouvoir regarder sans crainte, quand il viendra comme juge, celui que nous accueillons avec joie comme Rédempteur. Saint Paul présente le Fils de Dieu né de la postérité de David selon la chair ; l’Évangile rapporte comment l’ange rassura Joseph et lui révéla le nom de l’enfant, Jésus. À l’offertoire, l’Église chante : « Portes, élevez vos linteaux, et le Roi de gloire fera son entrée » ; à la communion : « La gloire du Seigneur sera révélée, et toute chair verra le salut de notre Dieu. »"
+   }
+  },
+  "meditation": {
+   "titre": "L’Incarnation est pour l’homme un secours dans son effort vers la béatitude",
+   "texte": [
+    "Quiconque médite avec zèle et piété les mystères de l’Incarnation y découvrira une profondeur de sagesse qui dépasse toute conception humaine. Et plus on les médite avec piété, plus on est plongé dans l’admiration de ce qu’on découvre. Considérons donc aujourd’hui l’Incarnation, sous l’aspect du secours le plus efficace, qu’elle procure à l’homme, en effort vers la Béatitude.",
+    "1° La béatitude parfaite de l’homme sera la vision immédiate de Dieu. Cette vision pouvait paraître impossible, à cause de l’infinie distance des natures de Dieu et de l’homme. Mais, par là même que Dieu a voulu s’unir la nature humaine en union personnelle, il devient évident que l’homme peut, par son intelligence, être uni à Dieu dans une vision immédiate. Il se trouve donc que cette union, réalisée par l’Incarnation, est le moyen le plus efficace pour soutenir l’espoir de l’homme en la Béatitude. Et c’est après l’Incarnation, que les hommes ont osé, de plus en plus, aspirer à la Béatitude. Saint Jean nous rapporte cette parole de Notre-Seigneur : *Je suis venu pour que les hommes aient la vie et une vie abondante.* (Joan., X, 10.)",
+    "2° Comme la Béatitude parfaite consiste en cette connaissance intuitive de l’essence divine, et qu’elle dépasse toute capacité naturelle de l’intelligence créée, il a fallu qu’il y ait, de cette connaissance, une sorte d’avant-goût dans l’homme, pour qu’il puisse tendre vers cette plénitude de connaissance bienheureuse ; et c’est ce qui a lieu par la foi. Et il faut encore que cette connaissance, par laquelle l’homme se dirige vers sa fin dernière, soit très certaine, parce qu’elle est le principe de toute orientation vers la fin dernière. Il a donc fallu, pour cette parfaite certitude des vérités de la foi, que l’homme soit instruit par le Dieu fait homme lui-même, afin que l’homme pût recevoir l’enseignement divin, selon un mode humain. Et c’est ainsi qu’après l’incarnation nous voyons les hommes s’instruire des choses divines, avec plus de clarté et de certitude, selon le mot d’Isaïe : *Toute la terre sera remplie de la science de Jéhovah.* (Is., XI, 9.)",
+    "3° Parce que la Béatitude parfaite consiste en la jouissance de Dieu, il a fallu que le cœur de l’homme soit disposé à désirer cette divine jouissance. Nous savons, en effet, que le désir de jouir d’une chose a sa racine dans l’amour de cette chose. Il a donc été nécessaire d’amener l’homme à l’amour de Dieu, pour tendre son désir de la Béatitude parfaite, qui est Dieu même. Or, rien ne nous incite davantage à l’amour de quelqu’un, que la certitude d’être aimé de lui. Mais quelle meilleure preuve de l’amour de Dieu pour l’homme, que cette union de Dieu à l’homme en l’union personnelle ? N’est-ce pas le propre de l’amour que d’unir le plus intimement possible ceux qui s’aiment ? Il fallait donc que Dieu se fît homme, pour que l’homme orientât son désir profond vers la Béatitude parfaite.",
+    "De plus, comme l’amitié consiste en une certaine égalité, les êtres qui sont très inégaux, ne semblent pas pouvoir prétendre à l’amitié. Et donc, pour rendre possible une amitié familière entre Dieu et l’homme, il était expédient que Dieu se fît homme ; car, alors, il est naturel à l’homme d’être ami de l’homme ; et ainsi, tandis que Dieu nous est connu visiblement, nous sommes entraînés à l’amour de l’invisible.",
+    "4° Il est évident que la Béatitude est la récompense de la vertu : c’est donc la vertu qui prépare à obtenir la Béatitude. Or, nous sommes excités à la vertu par la parole et par les exemples. Et les exemples ou les paroles nous excitent d’autant plus efficacement à la vertu, que nous avons meilleure opinion de la personne qui les offre. Mais, de la vertu d’aucun homme, on ne saurait avoir une opinion infaillible ; car, même les plus saints ont des imperfections et des faiblesses.",
+    "Il a donc été nécessaire, pour affermir l’homme dans la vertu, que ce soit un Dieu incarné, un Dieu fait homme, qui lui fournît la doctrine et les exemples de vertu.",
+    "*(Cont. Gent., IV, 54.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "Une amitié fondée sur un partage",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Moelle dit que l’Incarnation rend possible une amitié familière entre Dieu et l’homme. Saint Thomas montre ce qu’exige l’amitié : non pas n’importe quel amour, mais **un amour de bienveillance, qui veut du bien à l’autre, et qui soit réciproque**. Une telle bienveillance mutuelle se fonde sur un partage. Or Dieu nous communique sa béatitude, et nous sommes « appelés à la communion de son Fils » : **l’amour fondé sur ce partage est la charité, qui est donc une amitié de l’homme avec Dieu** (II-II, q. 23, a. 1)."
+      ],
+      "citation": {
+       "texte": "« Il est manifeste que la charité est une certaine amitié de l’homme avec Dieu. »",
+       "ref": "Somme théologique, II-II, q. 23, a. 1",
+       "url": "https://www.corpusthomisticum.org/sth3023.html#39727"
+      }
+     },
+     {
+      "titre": "Le disciple de Dieu",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Il fallait, dit La Moelle, que l’homme fût instruit par Dieu lui-même. Saint Thomas montre pourquoi la foi est nécessaire au salut. La béatitude dernière de l’homme est une vision surnaturelle de Dieu, **à laquelle il ne peut parvenir qu’à la manière d’un disciple instruit par Dieu son maître** : « quiconque a entendu le Père et a reçu son enseignement vient à moi ». Or cet enseignement ne se reçoit pas d’un coup, mais peu à peu, selon notre nature, et **tout disciple doit croire pour parvenir à la science parfaite** (II-II, q. 2, a. 3)."
+      ]
+     },
+     {
+      "titre": "Un Dieu qui vit parmi les hommes",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Le dernier point de La Moelle est l’exemple de vertu donné par un Dieu fait homme. Saint Thomas explique ainsi la manière de vivre du Christ : venu manifester la vérité, il n’a pas mené une vie cachée et solitaire, mais a prêché publiquement ; venu sauver les pécheurs, il est allé les chercher, **comme le pasteur la brebis perdue et le médecin le malade** ; venu nous donner accès à Dieu, **il a vécu familièrement avec les hommes pour leur donner confiance de s’approcher de lui** (III, q. 40, a. 1)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "La charité est une amitié de l’homme avec Dieu, fondée sur le partage de sa béatitude.",
+    "On ne parvient à voir Dieu qu’en disciple de Dieu : il faut d’abord croire.",
+    "Le Christ a vécu familièrement parmi les hommes pour nous donner confiance d’aller à lui."
+   ],
+   "resolution": "Devant la crèche, cette nuit ou demain, parler au Christ comme à un ami, en lui confiant simplement une joie et une peine de cette année.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome I, p. 64-66",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-1-000000942"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme contre les Gentils, IV, c. 54",
+     "detail": "Référence imprimée par La Moelle (Cont. Gent., IV, 54), exacte : la méditation suit les n. 1, 2 et 4 à 7 ; elle omet le n. 3 (l’homme n’est pas inférieur aux substances séparées) et les n. 8 à 10 (l’Incarnation et la satisfaction pour le péché). Texte latin, Corpus Thomisticum.",
+     "url": "https://www.corpusthomisticum.org/scg4027.html#27817"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 23, a. 1",
+     "detail": "La charité, amitié de l’homme avec Dieu ; texte latin, Corpus Thomisticum (II-II, q. 23-24) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3023.html#39727"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 2, a. 3",
+     "detail": "Pourquoi il est nécessaire au salut de croire : l’homme, disciple de Dieu ; texte latin, Corpus Thomisticum (II-II, q. 1-16) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3001.html#38861"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 40, a. 1",
+     "detail": "Pourquoi le Christ a vécu parmi les hommes ; texte latin, Corpus Thomisticum (III, q. 40-45) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4040.html#48631"
+    }
+   ]
+  }
  }
 }
