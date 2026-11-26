@@ -5236,5 +5236,217 @@
     }
    ]
   }
+ },
+ "2026-12-25": {
+  "textes": {
+   "liturgie": {
+    "nom": "La Nativité de Notre-Seigneur Jésus-Christ",
+    "qualite": "Fête du Seigneur",
+    "classe": "Ire classe",
+    "couleur": "blanc",
+    "commemoraisons": []
+   },
+   "propre": {
+    "epitre": {
+     "reference": "Tite 2, 11-15",
+     "incipit": "Mon bien-aimé :",
+     "latin": [
+      "Caríssime: Appáruit grátia Dei Salvatóris nostri ómnibus homínibus, erúdiens nos, ut, abnegántes impietátem et sæculária desidéria, sóbrie et iuste et pie vivámus in hoc sǽculo, exspectántes beátam spem et advéntum glóriæ magni Dei et Salvatóris nostri Iesu Christi: qui dedit semetípsum pro nobis: ut nos redímeret ab omni iniquitáte, et mundáret sibi pópulum acceptábilem, sectatórem bonórum óperum. Hæc lóquere et exhortáre: in Christo Iesu, Dómino nostro."
+     ],
+     "francais": [
+      "Car elle s’est manifestée la grâce de Dieu, source de salut pour tous les hommes ; elle nous enseigne à renoncer à l’impiété et aux convoitises mondaines, et à vivre dans le siècle présent avec tempérance, justice et piété, en attendant la bienheureuse espérance et l’apparition glorieuse de notre grand Dieu et Sauveur Jésus-Christ, qui s’est donné lui-même pour nous, afin de nous racheter de toute iniquité et de se faire, en nous purifiant, un peuple qui lui appartienne, et qui soit zélé pour les bonnes œuvres. Voilà ce que tu dois prêcher, recommander, dans le Christ Jésus, notre Seigneur."
+     ],
+     "note": "Le missel lit « Apparuit gratia Dei », sans le « car » de la Crampon. Au verset 15, il s’arrête à « Haec loquere et exhortare » et conclut par « in Christo Iesu, Domino nostro » (dans le Christ Jésus, notre Seigneur), traduit par Ad Fontes ; il omet « et revendiquer avec une pleine autorité. Que personne ne te méprise »."
+    },
+    "evangile": {
+     "reference": "Luc 2, 1-14",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "In illo témpore: Exiit edíctum a Cæsare Augústo, ut describerétur univérsus orbis. Hæc descríptio prima facta est a præside Sýriæ Cyríno: et ibant omnes ut profiteréntur sínguli in suam civitátem. Ascéndit autem et Ioseph a Galilæa de civitáte Názareth, in Iudæam in civitátem David, quæ vocatur Béthlehem: eo quod esset de domo et fámilia David, ut profiterétur cum María desponsáta sibi uxóre prægnánte. Factum est autem, cum essent ibi, impléti sunt dies, ut páreret. Et péperit fílium suum primogénitum, et pannis eum invólvit, et reclinávit eum in præsépio: quia non erat eis locus in diversório. Et pastóres erant in regióne eádem vigilántes, et custodiéntes vigílias noctis super gregem suum. Et ecce, Angelus Dómini stetit iuxta illos, et cláritas Dei circumfúlsit illos, et timuérunt timóre magno. Et dixit illis Angelus: Nolíte timére: ecce enim, evangelízo vobis gáudium magnum, quod erit omni pópulo: quia natus est vobis hódie Salvátor, qui est Christus Dóminus, in civitáte David. Et hoc vobis signum: Inveniétis infántem pannis involútum, et pósitum in præsépio. Et súbito facta est cum Angelo multitúdo milítiæ cœléstis, laudántium Deum et dicéntium: Glória in altíssimis Deo, et in terra pax hóminibus bonæ voluntátis."
+     ],
+     "francais": [
+      "Fut publié un édit de César Auguste, pour le recensement de toute la terre. Ce premier recensement eut lieu pendant que Quirinius commandait la Syrie. Et tous allaient se faire recenser, chacun dans sa ville. Joseph monta de Galilée, de la ville de Nazareth, en Judée, à la ville de David, appelée Bethléem, parce qu’il était de la maison et de la famille de David, pour être recensé avec Marie son épouse, qui était enceinte. Or, pendant qu’ils étaient en ce lieu, le temps où elle devait enfanter s’accomplit. Et elle mit au monde son fils premier-né, l’enveloppa de langes et le coucha dans une crèche, parce qu’il n’y avait pas de place pour eux dans l’hôtellerie. Il y avait aux environs des bergers qui passaient la nuit aux champs, veillant à la garde de leur troupeau. Tout à coup un ange du Seigneur parut auprès d’eux et le rayonnement de la gloire du Seigneur les environna, et ils furent saisis d’une grande crainte. Mais l’ange leur dit : « Ne craignez point, car je vous annonce une nouvelle qui sera pour tout le peuple une grande joie. Il vous est né aujourd’hui, dans la ville de David, un Sauveur, qui est le Christ Seigneur. Et voici ce qui vous servira de signe : vous trouverez un nouveau-né enveloppé de langes et couché dans une crèche. » Au même instant, se joignit à l’ange une troupe de la milice céleste, louant Dieu et disant : « Gloire, dans les hauteurs, à Dieu ! Et, sur la terre, paix aux hommes, objet de la bienveillance divine ! »"
+     ],
+     "note": "La Crampon ouvre le verset 1 par « En ces jours-là », que le missel remplace par « In illo tempore », rendu dans l’incipit. Au verset 14, le latin dit « et in terra pax hominibus bonae voluntatis » (et sur la terre paix aux hommes de bonne volonté)."
+    }
+   },
+   "verset": {
+    "texte": "« Il vous est né aujourd’hui, dans la ville de David, un Sauveur, qui est le Christ Seigneur. »",
+    "ref": "Luc 2, 11"
+   },
+   "commentaire": {
+    "mode": "direct",
+    "portee": "Épître, Tite 2, 11-15, et Évangile, Luc 2, 1-14 (messe de la nuit)",
+    "verif": "Textes relus : saint Thomas, Super Epistolam ad Titum, cap. 2, lect. 3 ; Catena aurea in Lucam, cap. 2, lect. 4 (saint Bède, saint Jean Chrysostome, saint Grégoire, saint Cyrille) ; Somme théologique, III, q. 36, a. 3 et q. 35, a. 2 (Corpus Thomisticum) ; première messe de Noël, épître renvoyant au 1er janvier (Divinum Officium) ; Crampon 1923 (Wikisource).",
+    "sections": [
+     {
+      "titre": "L’Épître : la grâce qui est apparue",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« La grâce de Dieu notre Sauveur est apparue à tous les hommes. » Saint Thomas explique : la grâce dit miséricorde, car ce qui est donné gratuitement est donné par miséricorde. **La miséricorde a toujours été en Dieu, mais elle demeurait cachée aux hommes** ; quand le Fils de Dieu a pris chair, elle est apparue, et non plus pour un seul peuple, mais pour tous. Elle est apparue de deux manières à la Nativité : parce que le Christ nous a été donné par la plus grande grâce de Dieu, et parce qu’**il est venu instruire le genre humain, comme un homme instruit son fils** : renoncer à l’impiété et aux désirs du siècle, vivre avec sobriété, justice et piété (Super Tit., ch. 2, leçon 3)."
+      ],
+      "citation": {
+       "texte": "« La miséricorde a toujours été en Dieu, mais elle demeurait cachée aux hommes ; quand le Fils de Dieu a pris chair, la grâce est apparue. »",
+       "ref": "Super ad Titum, cap. 2, lect. 3",
+       "url": "https://www.corpusthomisticum.org/ctt.html#87921"
+      }
+     },
+     {
+      "titre": "L’Évangile avec les Pères : le chant des anges",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Catena aurea, où saint Thomas recueille les Pères, commente le chant de la nuit. Pour saint Bède, une multitude se joint aussitôt à l’ange, **pour que l’autorité d’un seul ne paraisse pas trop petite** ; et parce qu’un Dieu-homme est né, on chante la gloire à Dieu et la paix aux hommes. Saint Jean Chrysostome remarque qu’autrefois les anges étaient envoyés pour punir ; **maintenant ils chantent sur la terre, rendant grâces à Dieu**. Saint Grégoire ajoute qu’ils se réjouissent de voir leur nombre bientôt complété. Et la paix est pour les hommes de bonne volonté, dit saint Bède, c’est-à-dire **ceux qui reçoivent le Christ nouveau-né** (Catena in Lucam, ch. 2, leçon 4)."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : pour tous les hommes",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La grâce est apparue « à tous les hommes », et la joie est annoncée « à tout le peuple ». Saint Thomas montre que le salut apporté par le Christ regardait toutes les conditions humaines, et que sa naissance l’a figuré : il fut manifesté aux bergers, Israélites et proches, et aux mages, païens et lointains, **qui accoururent ensemble comme vers la pierre angulaire** ; aux simples et aux humbles comme aux sages et aux puissants ; aux justes, Siméon et Anne, et aux pécheurs ; aux hommes et aux femmes, **pour montrer qu’aucune condition humaine n’est exclue du salut du Christ** (III, q. 36, a. 3)."
+      ]
+     },
+     {
+      "titre": "À la lumière de la fête : deux naissances",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "L’introït de la nuit chante : « Le Seigneur m’a dit : Tu es mon Fils, c’est moi qui t’ai engendré aujourd’hui. » Saint Thomas enseigne qu’il faut attribuer au Christ deux naissances, parce qu’il a deux natures : **l’une par laquelle il est né du Père de toute éternité, l’autre par laquelle il est né de sa mère dans le temps**. Le Fils éternel n’avait pas besoin de naître une seconde fois pour lui-même, explique saint Cyrille : c’est **pour nous et pour notre salut**, s’unissant ce qui est humain, qu’il est sorti d’une femme (III, q. 35, a. 2). Les trois messes de Noël célèbrent ce mystère, de la nuit au plein jour."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "La miséricorde était cachée en Dieu ; à Noël, la grâce est apparue à tous les hommes.",
+    "Autrefois les anges venaient punir ; cette nuit, ils chantent la gloire de Dieu et la paix des hommes.",
+    "Né du Père de toute éternité, le Christ est né de Marie dans le temps, pour nous et pour notre salut."
+   ],
+   "resolution": "Réciter aujourd’hui le Gloria de la messe ou le chant des anges devant la crèche, et faire un geste de paix envers une personne avec qui je suis en froid.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super Epistolam ad Titum, cap. 2, lect. 3",
+     "detail": "Commentaire direct de l’Épître : l’apparition de la grâce ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/ctt.html#87921"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Catena aurea in Lucam, cap. 2, lect. 4",
+     "detail": "Recueil des Pères sur Luc 2, 13-14 : saint Bède, saint Jean Chrysostome, saint Grégoire, saint Cyrille ; texte latin, Corpus Thomisticum (la page couvre Luc 1, 5 à 2) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/clc012.html#85768"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 36, a. 3",
+     "detail": "À qui la naissance du Christ devait être manifestée ; texte latin, Corpus Thomisticum (III, q. 27-39) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4027.html#48419"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 35, a. 2",
+     "detail": "Les deux naissances du Christ ; texte latin, Corpus Thomisticum (III, q. 27-39) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4027.html#48343"
+    },
+    {
+     "label": "Missel romain de 1962, Nativité de Notre-Seigneur, messe de la nuit (25 décembre)",
+     "detail": "Ire classe, blanc ; première des trois messes : introït « Dominus dixit ad me », collecte « Deus, qui hanc sacratissimam noctem veri luminis fecisti illustratione clarescere », offertoire « Laetentur caeli », communion « In splendoribus sanctorum » ; épître reprise du 1er janvier, d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/12-25m1.txt"
+    },
+    {
+     "label": "Missel romain, messe de la nuit de Noël (texte français)",
+     "detail": "Traduction française des pièces de la messe, d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Francais/Sancti/12-25m1.txt"
+    },
+    {
+     "label": "Bible Crampon 1923, Tite 2, 11-15",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Tite"
+    },
+    {
+     "label": "Bible Crampon 1923, Luc 2, 1-14",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Luc"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Le jour de Noël, chaque prêtre peut célébrer trois messes : la messe de la nuit, celle de l’aurore et celle du jour. Ad Fontes donne ici les textes de la première, célébrée au cœur de la nuit. Son introït fait entendre la voix du Père au Fils : « Le Seigneur m’a dit : Tu es mon Fils, c’est moi qui t’ai engendré aujourd’hui. » La collecte rend grâces à Dieu d’avoir illuminé cette nuit très sainte de l’éclat de la vraie lumière, et demande de goûter au ciel les joies de celui dont nous avons connu le mystère sur la terre. Saint Paul annonce que la grâce de Dieu notre Sauveur est apparue à tous les hommes ; l’Évangile raconte la naissance à Bethléem, l’enfant couché dans la crèche, l’ange qui annonce aux bergers une grande joie, et la milice céleste qui chante : « Gloire à Dieu au plus haut des cieux. » L’offertoire invite toute la création à la joie : « Que les cieux se réjouissent et que la terre exulte devant la face du Seigneur, car il vient. »"
+   }
+  },
+  "meditation": {
+   "titre": "Combien Jésus dès sa naissance se montre bienveillant, et tout à notre service",
+   "reserve": "Cette méditation ne repose pas sur une œuvre de saint Thomas : le traité <i>De humanitate Domini nostri Iesu Christi</i>, que La Moelle cite sous son nom, est publié par le Corpus Thomisticum comme l’œuvre d’un auteur inconnu ; le passage s’y lit à l’article 4. Le texte de La Moelle est donné tel quel ; le commentaire d’Ad Fontes, lui, ne s’appuie que sur des œuvres authentiques.",
+   "texte": [
+    "**I**",
+    "Notre-Seigneur Jésus-Christ nous prouve sa bonté par la communication de sa divinité : il prouve sa miséricorde en prenant notre nature humaine.",
+    "Sur ces paroles : *Il a fait paraître sa bonté,* saint Bernard dit : « La création manifeste la puissance de Dieu, sa sagesse éclate dans le gouvernement du monde ; mais sa bonté se déclare surtout, dans son humanité. C’est donc une grande preuve de bonté que de joindre à l’humanité le nom de Dieu ».",
+    "Les paroles qui continuent le texte de saint Paul à Tite, à savoir que *Jésus-Christ nous a sauvés, non à cause des œuvres de justice que nous faisons, mais selon sa miséricorde,* sont bien la preuve de cette miséricorde de Dieu pour l’homme. Aussi saint Bernard s’écrie à ce propos : « Quelle preuve plus décisive de sa miséricorde que d’avoir pris notre misère même ».",
+    "**II**",
+    "Notre-Seigneur aussi, nous est utile. Isaïe le déclare (9, 16) : *Un petit enfant nous est né,* dit-il, c’est-à-dire, pour notre utilité. On peut découvrir quatre utilités dans la naissance de Jésus-Christ, et qui se prennent de la condition même des petits enfants, à savoir : la pureté, l’humilité, l’amabilité et la douceur, autant de qualités qui sont si excellemment en Jésus enfant.",
+    "*a*) Nous trouvons en Jésus enfant la souveraine pureté ; car, il est *le resplendissement de la lumière éternelle et le miroir sans tache de l’activité de Dieu et l’image de sa bonté.* (Sap., 7, 26.) Cette pureté se manifeste dans la conception et dans l’enfantement virginal. L’incorruption ne pouvait enfanter la corruption. Aussi Alcuin écrit : « Le Créateur des hommes pour se faire homme et naître de l’homme, a dû se choisir une mère telle, qu’il savait lui convenir et lui plaire. Il l’a donc voulu vierge, pour naître sans tache d’une mère immaculée, et purifier les hommes de toute souillure ».",
+    "*b*) Nous trouvons en Jésus la souveraine humilité. *Il s’est anéanti lui-même* dit saint Paul. (Phil., 2, 7.) « Cette humilité, dit saint Bernard, se montre dans l’étable qui l’abrite, dans les langes qui l’enveloppent et dans la crèche où il repose ».",
+    "*c*) Nous trouvons en Jésus la souveraine amabilité, parce qu’il est, selon le Psalmiste, (44, 3) *le plus beau des fils des hommes et même des milices angéliques.* C’est cette amabilité qui fait l’union de la Divinité avec l’humanité. Et saint Bernard de dire : « C’est un spectacle tout de suavité que de voir cet homme créateur de l’homme ».",
+    "*d*) Enfin, nous trouvons en Jésus la souveraine douceur de caractère ; car, dit Joel (2, 13) : *Il est miséricordieux et compatissant, lent à la colère et riche en bonté.* Et saint Bernard : « Le Christ est petit enfant et il peut *aisément être apaisé. Qui ne sait combien facilement l’enfant pardonne ?* Et si nous n’avons pas de péché grave, nous pouvons être réconciliés à peu de frais ». « À peu de frais, dis-je, mais non sans repentir. »",
+    "Et de même que sa bonté est apparue au-dessus de toute espérance, de même nous pouvons attendre, au delà de toute estimation, un semblable discernement de justice.",
+    "*(De l’humanité du Christ.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "La bonté et l’humanité de Dieu",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Moelle part de la parole de saint Paul à Tite : « la bonté de Dieu notre Sauveur et son humanité sont apparues ». Saint Thomas, commentant ce verset, voit dans la charité de Dieu la cause de notre salut. **La bénignité est l’amour intérieur qui répand ses biens au-dehors** ; elle était en Dieu de toute éternité, car son amour est la cause de toutes choses, mais elle ne paraissait pas. Elle est apparue par son effet, « l’humanité » : soit la nature humaine, **quand Dieu, par bonté, s’est fait homme** ; soit la vertu qui secourt les autres dans leurs manques, car être humain, c’est se pencher vers eux, et Dieu s’est penché sur nos faiblesses (Super Tit., ch. 3, leçon 1)."
+      ],
+      "citation": {
+       "texte": "« La bénignité est l’amour intérieur qui répand ses biens au-dehors. »",
+       "ref": "Super ad Titum, cap. 3, lect. 1",
+       "url": "https://www.corpusthomisticum.org/ctt.html#87922"
+      }
+     },
+     {
+      "titre": "Une miséricorde qui ôte la misère",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Moelle distingue la bonté et la miséricorde. Saint Thomas montre que la miséricorde convient à Dieu au plus haut point, **non comme une tristesse, mais par son effet** : celui qui est miséricordieux a comme le cœur misérable de la misère d’autrui, et agit pour l’en délivrer. S’attrister ne convient pas à Dieu, mais chasser la misère lui convient souverainement. Donner aux choses leurs perfections relève de sa bonté ; les donner selon leur mesure, de sa justice ; les donner sans intérêt, de sa libéralité ; **et en tant que ces perfections ôtent tout manque, de sa miséricorde** (I, q. 21, a. 3)."
+      ]
+     },
+     {
+      "titre": "La pauvreté de la crèche",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "L’humilité de Jésus, dit La Moelle, se montre dans l’étable, les langes et la crèche. Saint Thomas donne les raisons pour lesquelles il convenait que le Christ menât en ce monde une vie pauvre : pour être tout entier libre pour la prédication ; parce que, **comme il a pris la mort corporelle pour nous donner la vie spirituelle, il a supporté la pauvreté corporelle pour nous donner les richesses spirituelles** ; pour que sa prédication ne parût pas intéressée ; et pour que **la puissance de sa divinité paraisse d’autant plus grande qu’il semblait plus abaissé** (III, q. 40, a. 3)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "La bonté de Dieu, cachée de toute éternité, est apparue quand il s’est fait homme.",
+    "Dieu est miséricordieux non par tristesse, mais en chassant notre misère.",
+    "Le Christ s’est fait pauvre pour nous donner les richesses spirituelles."
+   ],
+   "resolution": "Faire aujourd’hui, en l’honneur de l’Enfant de la crèche, un don à une personne pauvre ou seule, et lui consacrer un moment de visite ou d’attention.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome I, p. 67-69",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif ; seules les erreurs manifestes de numérisation ou d’impression ont été corrigées (guillemet ouvrant ajouté à la citation de saint Bernard, au point b). La référence « Isaïe (9, 16) » est inexacte : « Un petit enfant nous est né » est en Isaïe 9, 6 (9, 5 dans la Crampon).",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-1-000000942"
+    },
+    {
+     "label": "Référence imprimée par l’ouvrage : De l’humanité du Christ",
+     "detail": "Le Corpus Thomisticum publie ce traité (De humanitate Domini nostri Iesu Christi), d’après l’édition de Parme (1864), comme l’œuvre d’un auteur inconnu (« Ignotus Auctor ») ; le passage traduit se lit à l’article 4 (« apparuit benignitas », puis « parvulus natus est nobis »). La Moelle omet les quatre différences entre miséricorde et bénignité ; sa dernière phrase rend « similem expectare possumus iudicii districtionem » (nous pouvons attendre une semblable rigueur du jugement).",
+     "url": "https://www.corpusthomisticum.org/xth.html#91166"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Epistolam ad Titum, cap. 3, lect. 1",
+     "detail": "Commentaire de Tite 3, 4 : la bénignité et l’humanité de Dieu ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/ctt.html#87922"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, I, q. 21, a. 3",
+     "detail": "La miséricorde en Dieu ; texte latin, Corpus Thomisticum (I, q. 15-27) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth1015.html#29344"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 40, a. 3",
+     "detail": "Pourquoi le Christ a mené une vie pauvre ; texte latin, Corpus Thomisticum (III, q. 40-45) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4040.html#48647"
+    }
+   ]
+  }
  }
 }
