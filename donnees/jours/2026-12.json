@@ -5448,5 +5448,214 @@
     }
    ]
   }
+ },
+ "2026-12-26": {
+  "textes": {
+   "liturgie": {
+    "nom": "Saint Étienne",
+    "qualite": "Premier Martyr",
+    "classe": "IIe classe",
+    "couleur": "rouge",
+    "commemoraisons": [
+     "l’octave de la Nativité"
+    ]
+   },
+   "propre": {
+    "lecon": {
+     "reference": "Actes 6, 8-10 ; 7, 54-60",
+     "incipit": "En ces jours-là :",
+     "latin": [
+      "In diebus illis: Stéphanus plenus grátia et fortitúdine, faciébat prodígia et signa magna in pópulo. Surrexérunt autem quidam de synagóga, quæ appellátur Libertinórum, et Cyrenénsium, et Alexandrinórum, et eórum, qui erant a Cilícia et Asia, disputántes cum Stéphano: et non póterant resístere sapiéntiæ et Spirítui, qui loquebátur. Audiéntes autem hæc, dissecabántur córdibus suis, et stridébant déntibus in eum. Cum autem esset Stéphanus plenus Spíritu Sancto, inténdens in cœlum, vidit glóriam Dei, et Iesum stantem a dextris Dei. Et ait: Ecce, vídeo cœlos apértos, et Fílium hóminis stantem a dextris Dei. Exclamántes autem voce magna continuérunt aures suas, et ímpetum fecerunt unanímiter in eum. Et eiiciéntes eum extra civitatem, lapidábant: et testes deposuérunt vestiménta sua secus pedes adolescéntis, qui vocabátur Saulus. Et lapidábant Stéphanum invocántem et dicéntem: Dómine Iesu, súscipe spíritum meum. Pósitis autem génibus, clamávit voce magna, dicens: Dómine, ne státuas illis hoc peccátum. Et cum hoc dixísset, obdormívit in Dómino."
+     ],
+     "francais": [
+      "Étienne, plein de grâce et de force, faisait des prodiges et de grands miracles parmi le peuple. Quelques membres de la synagogue dite des Affranchis, et de celle des Cyrénéens et des Alexandrins, avec des Juifs de Cilicie et d’Asie, vinrent disputer avec lui ; mais ils ne purent résister à la sagesse et à l’Esprit avec lesquels il parlait. En entendant ces paroles, la rage déchirait leurs cœurs, et ils grinçaient des dents contre lui. Mais Étienne, qui était rempli de l’Esprit-Saint, ayant fixé les yeux au ciel, vit la gloire de Dieu, et Jésus debout à la droite de son Père. Et il dit : « Voici que je vois les cieux ouverts, et le Fils de l’homme debout à la droite de Dieu. » Les Juifs poussèrent alors de grands cris, en se bouchant les oreilles, et se jetèrent tous ensemble sur lui. Et l’ayant entraîné hors de la ville, ils le lapidèrent. Les témoins déposèrent leurs vêtements aux pieds d’un jeune homme nommé Saul. Pendant qu’ils le lapidaient, Étienne priait en disant : « Seigneur Jésus, recevez mon esprit ! » Puis s’étant mis à genoux, il s’écria d’une voix forte : « Seigneur, ne leur imputez pas ce péché. » Après cette parole, il s’endormit [dans le Seigneur]."
+     ],
+     "note": "La leçon réunit Actes 6, 8-10 et 7, 54-60 (7, 54-59 dans la Vulgate, qui numérote autrement la fin du chapitre). Au verset 55, le latin dit « Iesum stantem a dextris Dei » (Jésus debout à la droite de Dieu). Le missel s’arrête à « obdormivit in Domino » ; la phrase suivante de la Crampon, « Or, Saul avait approuvé le meurtre d’Étienne », n’est pas lue."
+    },
+    "evangile": {
+     "reference": "Matthieu 23, 34-39",
+     "incipit": "En ce temps-là, Jésus disait aux scribes et aux pharisiens :",
+     "latin": [
+      "In illo témpore: Dicébat Iesus scribis et pharisǽis: Ecce, ego mitto ad vos prophétas, et sapiéntes, et scribas, et ex illis occidétis et crucifigétis, et ex eis flagellábitis in synagógis vestris, et persequémini de civitáte in civitátem: ut véniat super vos omnis sanguis iustus, qui effúsus est super terram, a sánguine Abel iusti usque ad sánguinem Zacharíæ, filii Barachíæ, quem occidístis inter templum et altáre. Amen, dico vobis, vénient hæc ómnia super generatiónem istam. Ierúsalem, Ierúsalem, quæ occídis prophétas, et lápidas eos, qui ad te missi sunt, quóies vólui congregáre fílios tuos, quemádmodum gallína cóngregat pullos suos sub alas, et noluísti? Ecce, relinquétur vobis domus vestra desérta. Dico enim vobis, non me vidébitis ámodo, donec dicátis: Benedíctus, qui venit in nómine Dómini."
+     ],
+     "francais": [
+      "Voici que je vous envoie des prophètes, des sages et des docteurs. Vous tuerez et crucifierez les uns, vous battrez de verges les autres dans vos synagogues, et vous les poursuivrez de ville en ville : afin que retombe sur vous tout le sang innocent répandu sur la terre, depuis le sang du juste Abel jusqu’au sang de Zacharie, fils de Barachie, que vous avez tué entre le temple et l’autel. En vérité, je vous le dis, tout cela viendra sur cette génération. « Jérusalem, Jérusalem, qui tue les prophètes et lapides ceux qui lui sont envoyés ! Que de fois j’ai voulu rassembler tes enfants, comme une poule rassemble ses poussins sous ses ailes, et vous ne l’avez pas voulu ! Voici que votre maison vous est laissée solitaire. Car, je vous le dis, vous ne me verrez plus désormais jusqu’à ce que vous disiez : « Béni soit celui qui vient au nom du Seigneur ! »"
+     ],
+     "note": "La Crampon ouvre le verset 34 par « C’est pourquoi », que le missel ne lit pas : il commence à « Ecce, ego mitto ad vos », après une introduction rendue dans l’incipit (« Dicebat Iesus scribis et pharisaeis »)."
+    }
+   },
+   "verset": {
+    "texte": "« Jérusalem, Jérusalem, qui tue les prophètes et lapides ceux qui lui sont envoyés ! Que de fois j’ai voulu rassembler tes enfants, comme une poule rassemble ses poussins sous ses ailes, et vous ne l’avez pas voulu ! »",
+    "ref": "Matthieu 23, 37"
+   },
+   "commentaire": {
+    "mode": "synthese",
+    "portee": "Leçon, Actes 6, 8-10 et 7, 54-60, et Évangile, Matthieu 23, 34-39",
+    "verif": "Textes relus : saint Thomas, Somme théologique, III, q. 58, a. 1, ad 3 ; Super Matthaeum, cap. 23, lect. 3 ; Somme théologique, II-II, q. 25, a. 8 et 9 (Corpus Thomisticum) ; messe de saint Étienne avec commémoraison de l’octave de Noël, leçons du bréviaire (saint Fulgence) (Divinum Officium) ; Crampon 1923 (Wikisource).",
+    "sections": [
+     {
+      "titre": "La Leçon : Jésus debout",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Étienne voit « le Fils de l’homme debout à la droite de Dieu ». Or l’Écriture dit ailleurs que le Christ est assis à la droite du Père. Saint Thomas répond avec saint Grégoire : **être assis convient au juge, être debout à celui qui combat ou qui vient en aide**. Étienne, engagé dans la peine du combat, a vu debout celui qu’il avait pour soutien ; saint Marc, après l’Ascension, le montre assis, parce qu’au terme, après la gloire de son assomption, il apparaîtra comme juge (III, q. 58, a. 1, ad 3). Le premier martyr n’a pas combattu seul : le Christ s’est levé pour lui."
+      ],
+      "citation": {
+       "texte": "« Être assis convient au juge, être debout à celui qui combat ou qui vient en aide. Étienne, engagé dans la peine du combat, a vu debout celui qu’il avait pour soutien. »",
+       "ref": "Somme théologique, III, q. 58, a. 1, ad 3",
+       "url": "https://www.corpusthomisticum.org/sth4053.html#49463"
+      }
+     },
+     {
+      "titre": "L’Évangile : la poule et ses poussins",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Jérusalem, Jérusalem. » Saint Thomas note que **ce mot répété marque l’affection de celui qui a pitié**, comme le Seigneur qui pleura sur la ville ; et il dit « qui tues », non « qui as tué », parce qu’elle persévérait dans sa malice. « Que de fois j’ai voulu rassembler tes enfants » montre l’éternité de sa divinité : c’est lui qui envoyait les prophètes. Et il explique l’image : **aucun animal n’a autant de compassion pour ses petits que la poule** ; elle les défend contre le milan, expose sa vie pour eux et les rassemble sous ses ailes. Ainsi le Christ a porté nos langueurs et s’est exposé au démon pour nous (Super Matthaeum, ch. 23, leçon 3)."
+      ]
+     },
+     {
+      "titre": "Ce que la Leçon et l’Évangile disent ensemble : des sages à qui l’on ne peut résister",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Je vous envoie des prophètes, des sages et des docteurs. » Saint Thomas y voit les dons divers de l’Esprit Saint, que les apôtres reçurent tous : la prophétie, pour annoncer l’avenir ; **la sagesse, selon la promesse « je vous donnerai une bouche et une sagesse à laquelle vos adversaires ne pourront résister »** ; l’intelligence des Écritures. Le Seigneur l’a prédit pour que les disciples, se souvenant de ses paroles, supportent plus facilement la persécution (Super Matthaeum, ch. 23, leçon 3). La Leçon montre la promesse accomplie : les adversaires d’Étienne « ne purent résister à la sagesse et à l’Esprit avec lesquels il parlait »."
+      ]
+     },
+     {
+      "titre": "À la lumière de la fête : aimer ses ennemis",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La collecte demande d’apprendre d’Étienne à aimer nos ennemis, lui qui pria pour ses persécuteurs. Saint Thomas distingue : ne pas exclure ses ennemis de l’amour dû à tout homme, et de la prière commune pour tous, est de nécessité ; être prêt à les aimer et à les secourir s’il le fallait l’est aussi ; mais **leur témoigner, sans y être obligé, un amour et des bienfaits particuliers, appartient à la perfection de la charité**, par laquelle on veut non seulement ne pas être vaincu par le mal, mais **vaincre le mal par le bien** (II-II, q. 25, a. 8 et 9). Le lendemain de Noël, le premier martyr montre jusqu’où va cette charité."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Le Christ est assis comme juge, mais debout pour soutenir celui qui combat.",
+    "Comme la poule pour ses poussins, le Christ s’expose pour nous rassembler.",
+    "La perfection de la charité veut vaincre le mal par le bien."
+   ],
+   "resolution": "Prier aujourd’hui, nommément, pour une personne qui m’a blessé, et lui rendre un service ou une parole bienveillante sans qu’elle me l’ait demandé.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 58, a. 1, ad 3",
+     "detail": "Pourquoi Étienne a vu le Christ debout ; texte latin, Corpus Thomisticum (III, q. 53-59) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4053.html#49463"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Evangelium Matthaei, cap. 23, lect. 3",
+     "detail": "Commentaire direct de l’Évangile : les envoyés, Jérusalem, la poule et ses poussins ; texte latin de l’édition de Turin 1951 (reportation de Léger de Besançon), Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cml21.html#87394"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 25, a. 8 et 9",
+     "detail": "L’amour des ennemis et ses signes ; texte latin, Corpus Thomisticum (II-II, q. 25-26) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3025.html#39962"
+    },
+    {
+     "label": "Missel romain de 1962, saint Étienne, premier martyr (26 décembre)",
+     "detail": "IIe classe, rouge ; introït « Sederunt principes », collecte « Da nobis, quaesumus, Domine, imitari quod colimus », commémoraison de l’octave de la Nativité (oraisons de la troisième messe de Noël), offertoire « Elegerunt Apostoli Stephanum », communion « Video caelos apertos » ; leçon et évangile repris de l’Invention de saint Étienne (3 août), d’après les données libres du projet Divinum Officium (texte latin).",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/12-26.txt"
+    },
+    {
+     "label": "Missel romain, saint Étienne (texte français)",
+     "detail": "Traduction française des pièces de la messe, d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Francais/Sancti/12-26.txt"
+    },
+    {
+     "label": "Bréviaire romain, office de saint Étienne",
+     "detail": "Leçons des Actes et sermon de saint Fulgence (leçons 5 et 6), texte français d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/horas/Francais/Sancti/12-26.txt"
+    },
+    {
+     "label": "Bible Crampon 1923, Actes 6, 8-10 ; 7, 54-60",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Actes_des_Ap%C3%B4tres"
+    },
+    {
+     "label": "Bible Crampon 1923, Matthieu 23, 34-39",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Matthieu"
+    }
+   ],
+   "fete": {
+    "titre": "Le saint du jour",
+    "texte": "Étienne, l’un des sept diacres choisis par les apôtres, « plein de grâce et de force », faisait des prodiges parmi le peuple, et ses adversaires ne pouvaient résister à la sagesse avec laquelle il parlait. Traîné hors de Jérusalem, il fut lapidé en priant : « Seigneur Jésus, recevez mon esprit », et, à genoux : « Seigneur, ne leur imputez pas ce péché. » Il est le premier martyr. Au bréviaire, saint Fulgence rapproche les deux fêtes : « Hier, le Seigneur est sorti du sein d’une Vierge ; aujourd’hui, son soldat est sorti de la prison de la chair. Hier, une étroite crèche a porté le Christ enfant ; aujourd’hui, l’immensité du ciel a reçu Étienne triomphant. » Il montre que l’arme d’Étienne fut la charité, par laquelle il mérita d’avoir pour compagnon au ciel Saul, qui l’avait persécuté sur terre. La collecte demande d’apprendre de lui à aimer nos ennemis. L’Église fait aussi mémoire de l’octave de Noël."
+   }
+  },
+  "meditation": {
+   "titre": "Le Christ est né passible et mortel",
+   "texte": [
+    "*Dieu a envoyé son propre Fils dans une chair semblable à celle du péché.* (Rom., VIII, 3.)",
+    "Dieu ne devait pas prendre une chair impassible et immortelle, mais bien plutôt une chair passible et mortelle.",
+    "1° Il était nécessaire aux hommes de connaître le bienfait de l’Incarnation, pour s’embraser par là d’amour pour Dieu ; et il fallait, pour manifester la vérité de l’Incarnation, que Dieu prenne une chair, semblable à celle des autres hommes, c’est-à-dire passible et mortelle. Sinon, en prenant une chair impassible et immortelle, il eût paru à ceux qui n’auraient rien su de cette chair n’être qu’un fantôme et non une chair véritable.",
+    "2° Il était nécessaire que Dieu prît une chair, afin de satisfaire pour le péché du genre humain ; car, il arrive qu’on satisfait pour un autre. Or, la peine conséquente au péché du genre humain, c’est la mort et les autres souffrances de la vie présente. Il a donc fallu que Dieu s’unît une chair passible et mortelle, sans péché, afin qu’en souffrant et mourant, il satisfît pour nous et détruisît le péché.",
+    "3° En prenant une chair passible et mortelle, il nous donne plus efficacement des exemples de vertu, en triomphant plus fortement des passions de la chair, et en s’en servant vertueusement.",
+    "4° Et puis, nous sommes plus efficacement encouragés à l’espoir de l’immortalité, quand Dieu lui-même a passé, de l’état d’une humanité passible et mortelle, à celui d’impassibilité et d’immortalité ; car, nous pouvons alors espérer qu’il en sera de même pour nous, et pour notre chair passible et mortelle. Tandis que si, dès le commencement, il avait pris une chair impassible et immortelle, nous n’aurions aucun motif d’espérer l’immortalité, nous sentant mortels et corruptibles.",
+    "Et puis, le rôle du médiateur exigeait qu’il eût cela de commun avec nous, une chair passible et mortelle comme la nôtre, et qu’il fût semblable à Dieu par la puissance et la gloire ; de telle sorte que, détruisant ce qu’il avait de commun avec nous, savoir la passion et la mort, il nous fit acquérir ce qu’il avait de commun avec Dieu ; car, s’il est médiateur, c’est pour nous conjoindre avec Dieu.",
+    "*(Cont. Gent., IV, 55.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "Les faiblesses qu’il a voulu prendre",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Dans la Somme, saint Thomas reprend la même question : il convenait que le corps assumé par le Fils de Dieu fût soumis aux faiblesses humaines, pour trois raisons. **Pour satisfaire pour le péché**, car on satisfait pour un autre en prenant sur soi la peine qui lui est due, et la mort, la faim, la soif sont la peine du péché d’Adam. **Pour établir la foi en l’Incarnation**, car sans ces faiblesses il aurait paru n’avoir pas une vraie chair, comme le prétendaient les manichéens. **Pour nous donner l’exemple de la patience**, en supportant vaillamment les souffrances et les manques de notre condition (III, q. 14, a. 1)."
+      ],
+      "citation": {
+       "texte": "« On satisfait pour le péché d’un autre en prenant sur soi la peine due à ce péché. »",
+       "ref": "Somme théologique, III, q. 14, a. 1",
+       "url": "https://www.corpusthomisticum.org/sth4002.html#47439"
+      }
+     },
+     {
+      "titre": "Médiateur parce qu’homme",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Moelle termine sur le rôle du médiateur. Saint Thomas montre que le Christ est médiateur **en tant qu’homme** : le médiateur doit être distant des deux extrêmes et les unir en portant à l’un ce qui est de l’autre. En tant que Dieu, le Christ ne diffère pas du Père et de l’Esprit. Mais en tant qu’homme, il est distant de Dieu par la nature et des hommes par la dignité de la grâce et de la gloire ; et **il unit les hommes à Dieu en leur apportant ses préceptes et ses dons, et en satisfaisant et intercédant pour eux auprès de Dieu** (III, q. 26, a. 2)."
+      ]
+     },
+     {
+      "titre": "L’espérance relevée par la résurrection",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Le quatrième motif de La Moelle est l’espérance de l’immortalité. Saint Thomas compte parmi les raisons de la résurrection du Christ **le relèvement de notre espérance** : en voyant ressusciter le Christ, notre tête, nous espérons ressusciter nous aussi, selon saint Paul : « si l’on prêche que le Christ est ressuscité des morts, comment quelques-uns d’entre vous disent-ils qu’il n’y a pas de résurrection ? » Il ajoute qu’elle sert aussi à **la formation de notre vie**, car « comme le Christ est ressuscité, ainsi nous devons marcher dans une vie nouvelle » (III, q. 53, a. 1)."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Le Christ a pris nos faiblesses pour satisfaire, pour être cru vrai homme, et pour nous apprendre la patience.",
+    "Le Christ est médiateur en tant qu’homme : il porte à Dieu nos prières et nous apporte ses dons.",
+    "La résurrection du Christ relève notre espérance et forme notre vie nouvelle."
+   ],
+   "resolution": "Offrir aujourd’hui, en union avec l’Enfant né passible, une souffrance ou une fatigue précise, sans m’en plaindre, pour une personne qui souffre davantage.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome I, p. 69-70",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-1-000000942"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme contre les Gentils, IV, c. 55",
+     "detail": "Référence imprimée par La Moelle (Cont. Gent., IV, 55), exacte : la méditation traduit le n. 13, réponse à l’objection qui voulait que Dieu prît une chair impassible et immortelle. Texte latin, Corpus Thomisticum.",
+     "url": "https://www.corpusthomisticum.org/scg4027.html#27840"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 14, a. 1",
+     "detail": "Pourquoi le Fils de Dieu a pris un corps soumis aux faiblesses humaines ; texte latin, Corpus Thomisticum (III, q. 2-15) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4002.html#47439"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 26, a. 2",
+     "detail": "Le Christ, médiateur en tant qu’homme ; texte latin, Corpus Thomisticum (III, q. 16-26) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4016.html#48003"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, III, q. 53, a. 1",
+     "detail": "Pourquoi il était nécessaire que le Christ ressuscitât ; texte latin, Corpus Thomisticum (III, q. 53-59) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth4053.html#49266"
+    }
+   ]
+  }
  }
 }
