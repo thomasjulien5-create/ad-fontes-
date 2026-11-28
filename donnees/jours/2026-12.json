@@ -5657,5 +5657,224 @@
     }
    ]
   }
+ },
+ "2026-12-27": {
+  "textes": {
+   "liturgie": {
+    "nom": "Dimanche dans l’octave de la Nativité",
+    "qualite": "Dimanche",
+    "classe": "IIe classe",
+    "couleur": "blanc",
+    "commemoraisons": [
+     "saint Jean, apôtre et évangéliste"
+    ]
+   },
+   "propre": {
+    "epitre": {
+     "reference": "Galates 4, 1-7",
+     "incipit": "Mes frères :",
+     "latin": [
+      "Fratres: Quanto témpore heres párvulus est, nihil differt a servo, cum sit dóminus ómnium: sed sub tutóribus et actóribus est usque ad præfinítum tempus a patre: ita et nos, cum essémus párvuli, sub eleméntis mundi erámus serviéntes. At ubi venit plenitúdo témporis, misit Deus Fílium suum, factum ex mulíere, factum sub lege, ut eos, qui sub lege erant, redímeret, ut adoptiónem filiórum reciperémus. Quóniam autem estis fílii, misit Deus Spíritum Fílii sui in corda vestra, clamántem: Abba, Pater. Itaque iam non est servus, sed fílius: quod si fílius, et heres per Deum."
+     ],
+     "francais": [
+      "Aussi longtemps que l’héritier est enfant, il ne diffère en rien d’un esclave, quoiqu’il soit le maître de tout ; mais il est soumis à des tuteurs et à des curateurs jusqu’au temps marqué par le père. De même, nous aussi, quand nous étions enfants, nous étions sous l’esclavage des rudiments du monde. Mais lorsque est venue la plénitude des temps, Dieu a envoyé son Fils, formé d’une femme, né sous la Loi, pour affranchir ceux qui sont sous la Loi, afin de nous conférer l’adoption. Et parce que vous êtes fils, Dieu a envoyé dans vos cœurs l’Esprit de son Fils, lequel crie : Abba ! Père ! Ainsi tu n’es plus esclave, tu es fils ; et si tu es fils, tu es aussi héritier, grâce à Dieu."
+     ],
+     "note": "La Crampon ouvre le verset 1 par « Or je dis ceci », que le missel ne lit pas : il commence à « Quanto tempore heres parvulus est »."
+    },
+    "evangile": {
+     "reference": "Luc 2, 33-40",
+     "incipit": "En ce temps-là :",
+     "latin": [
+      "In illo témpore: Erat Ioseph et María Mater Iesu, mirántes super his quæ dicebántur de illo. Et benedíxit illis Símeon, et dixit ad Maríam Matrem eius: Ecce, pósitus est hic in ruínam et in resurrectiónem multórum in Israël: et in signum, cui contradicétur: et tuam ipsíus ánimam pertransíbit gládius, ut reveléntur ex multis córdibus cogitatiónes. Et erat Anna prophetíssa, fília Phánuel, de tribu Aser: hæc procésserat in diébus multis, et víxerat cum viro suo annis septem a virginitáte sua. Et hæc vídua usque ad annos octogínta quátuor: quæ non discedébat de templo, ieiúniis et obsecratiónibus sérviens nocte ac die. Et hæc, ipsa hora supervéniens, confitebátur Dómino, et loquebátur de illo ómnibus, qui exspectábant redemptiónem Israël. Et ut perfecérunt ómnia secúndum legem Dómini, revérsi sunt in Galilǽam in civitátem suam Názareth. Puer autem crescébat, et confortabátur, plenus sapiéntia: et grátia Dei erat in illo."
+     ],
+     "francais": [
+      "Le père et la mère de l’Enfant étaient dans l’admiration des choses que l’on disait de lui. Et Siméon les bénit et dit à Marie, sa mère : « Cet Enfant est au monde pour la chute et la résurrection d’un grand nombre en Israël, et pour être un signe en butte à la contradiction ; — vous-même, un glaive transpercera votre âme ; — et ainsi seront révélées les pensées cachées dans le cœur d’un grand nombre. » Il y avait aussi une prophétesse, Anne, fille de Phanuel, de la tribu d’Aser ; elle était fort avancée en âge, ayant vécu, depuis sa virginité, sept ans avec son mari. Restée veuve, et parvenue à quatre-vingt-quatre ans, elle ne quittait point le temple, servant Dieu nuit et jour dans le jeûne et dans la prière. Elle aussi, survenant à cette heure, se mit à louer le Seigneur et à parler de l’Enfant à tous ceux qui, à Jérusalem, attendaient la rédemption. Lorsqu’ils eurent tout accompli selon la loi du Seigneur, ils retournèrent en Galilée, à Nazareth, leur ville. Cependant l’Enfant croissait et se fortifiait, étant rempli de sagesse, et la grâce de Dieu était sur lui."
+     ],
+     "note": "Au verset 33, le missel lit « Erat Ioseph et Maria Mater Iesu mirantes » (Joseph et Marie, la mère de Jésus, étaient dans l’admiration) ; au verset 38, « omnibus qui exspectabant redemptionem Israel » (à tous ceux qui attendaient la rédemption d’Israël)."
+    }
+   },
+   "verset": {
+    "texte": "« Cet Enfant est au monde pour la chute et la résurrection d’un grand nombre en Israël, et pour être un signe en butte à la contradiction. »",
+    "ref": "Luc 2, 34"
+   },
+   "commentaire": {
+    "mode": "direct",
+    "portee": "Épître, Galates 4, 1-7, et Évangile, Luc 2, 33-40",
+    "verif": "Textes relus : saint Thomas, Super Epistolam ad Galatas, cap. 4, lect. 1 ; Catena aurea in Lucam, cap. 2, lect. 10 et 11 (un auteur grec, Origène, saint Jean Chrysostome, saint Ambroise, saint Grégoire de Nysse) ; Super Ioannem, prologue (Corpus Thomisticum) ; messe du dimanche dans l’octave de Noël, commémoraison de saint Jean, tables de translation des rubriques de 1960 (Divinum Officium) ; Crampon 1923 (Wikisource).",
+    "sections": [
+     {
+      "titre": "L’Épître : l’héritier encore enfant",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "« Aussi longtemps que l’héritier est enfant… » Saint Thomas lit cette comparaison de deux manières. L’héritier, c’est le peuple juif, héritier de la promesse faite à Abraham ; c’est aussi **le Christ, héritier de toutes choses, qui s’est fait petit enfant par l’Incarnation**, selon Isaïe : « un petit enfant nous est né ». L’Apôtre compare l’état de la Loi à l’enfance, à cause de l’imperfection de la connaissance, comparée à l’état de grâce ; et ailleurs il compare de même **la vie présente, où nous voyons comme dans un miroir, à l’enfance, au regard de la vie future** où Dieu sera vu tel qu’il est (Super Gal., ch. 4, leçon 1)."
+      ],
+      "citation": {
+       "texte": "« Le Christ, héritier de toutes choses, s’est fait petit enfant par l’Incarnation. »",
+       "ref": "Super ad Galatas, cap. 4, lect. 1",
+       "url": "https://www.corpusthomisticum.org/cgl.html#87765"
+      }
+     },
+     {
+      "titre": "L’Évangile avec les Pères : le signe de contradiction",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Catena aurea, où saint Thomas recueille les Pères, commente la prophétie de Siméon. Un auteur grec remarque qu’il bénit Joseph et Marie, mais adresse à la mère seule l’annonce des choses cachées, **pour la désigner comme la vraie mère**. « Pour la chute et la résurrection d’un grand nombre » : la chute des incrédules, la résurrection des croyants, dit Origène. Et saint Jean Chrysostome : **comme la lumière, même si elle trouble les yeux faibles, reste lumière**, ainsi le Sauveur demeure ce qu’il est, même si beaucoup tombent ; sa mission n’est pas de perdre, c’est leur folie qui les perd (Catena in Lucam, ch. 2, leçon 10)."
+      ]
+     },
+     {
+      "titre": "Ce que l’Épître et l’Évangile disent ensemble : ceux qui attendaient",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Le Fils est venu « pour affranchir ceux qui sont sous la Loi », et Anne parle de l’Enfant à ceux qui attendaient la rédemption. La Catena rapporte saint Ambroise : Siméon avait prophétisé, l’épouse avait prophétisé, la vierge avait prophétisé ; **il fallait que la veuve prophétisât aussi, pour qu’aucun état ni aucun sexe ne manque**. Origène voit dans sa longue chasteté et ses longs jeûnes la raison pour laquelle elle mérita l’esprit de prophétie, et saint Grégoire de Nysse la montre semblable à Siméon : ensemble au temple, ensemble jugés dignes de la grâce prophétique, **rendant grâces de voir le salut du monde** (Catena in Lucam, ch. 2, leçon 11)."
+      ]
+     },
+     {
+      "titre": "À la lumière de la fête : l’aigle qui contemple",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "L’Église fait mémoire de saint Jean, et sa collecte demande que, éclairée par ses enseignements, elle parvienne aux dons éternels. Au début de son commentaire, saint Thomas applique à Jean la vision d’Isaïe : « J’ai vu le Seigneur assis sur un trône haut et élevé. » Les autres évangélistes nous instruisent surtout de la vie active ; **Jean nous instruit aussi de la vie contemplative**. Sa contemplation est haute, ample et parfaite : haute, car, dit saint Augustin, **il a dépassé les montagnes, les cieux et les anges pour parvenir au Créateur de toutes choses** (Super Ioannem, prologue). Au cœur de l’octave de Noël, il nous apprend à regarder dans l’Enfant le Verbe éternel."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "L’héritier de toutes choses s’est fait petit enfant pour nous rendre héritiers.",
+    "La lumière reste lumière, même si elle trouble les yeux faibles.",
+    "Jean a dépassé les montagnes, les cieux et les anges pour parvenir au Créateur."
+   ],
+   "resolution": "Dire aujourd’hui plusieurs fois, comme l’Esprit qui crie en nous : « Abba, Père », et lire lentement le prologue de l’Évangile de saint Jean.",
+   "sources": [
+    {
+     "label": "Saint Thomas d’Aquin, Super Epistolam ad Galatas, cap. 4, lect. 1",
+     "detail": "Commentaire direct de l’Épître : l’héritier encore enfant ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cgl.html#87765"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Catena aurea in Lucam, cap. 2, lect. 10 et 11",
+     "detail": "Recueil des Pères sur Luc 2, 33-40 : un auteur grec, Origène, saint Jean Chrysostome, saint Ambroise, saint Grégoire de Nysse ; texte latin, Corpus Thomisticum (la page couvre Luc 1, 5 à 2) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/clc012.html#85774"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, prologue",
+     "detail": "La contemplation de saint Jean, haute, ample et parfaite ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih00.html#87413"
+    },
+    {
+     "label": "Missel romain de 1962, dimanche dans l’octave de la Nativité",
+     "detail": "IIe classe, blanc ; introït « Dum medium silentium », collecte « Omnipotens sempiterne Deus, dirige actus nostros in beneplacito tuo », offertoire « Deus firmavit orbem terrae », communion « Tolle puerum et matrem eius » ; d’après les données libres du projet Divinum Officium (texte latin). Selon les tables de translation du projet pour les rubriques de 1960, ce dimanche se célèbre le 27 décembre quand il y tombe.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Tempora/Nat1-0.txt"
+    },
+    {
+     "label": "Missel romain, dimanche dans l’octave de Noël (texte français)",
+     "detail": "Traduction française des pièces de la messe, d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Francais/Tempora/Nat1-0.txt"
+    },
+    {
+     "label": "Missel romain de 1962, commémoraison de saint Jean, apôtre et évangéliste (27 décembre)",
+     "detail": "Collecte « Ecclesiam tuam, Domine, benignus illustra », d’après les données libres du projet Divinum Officium.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/missa/Latin/Sancti/12-27.txt"
+    },
+    {
+     "label": "Divinum Officium, table de translation (lettre dominicale d)",
+     "detail": "« 12-27=Tempora/Nat1-0 » pour les rubriques de 1960.",
+     "url": "https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/web/www/Tabulae/Transfer/d.txt"
+    },
+    {
+     "label": "Bible Crampon 1923, Galates 4, 1-7",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Galates"
+    },
+    {
+     "label": "Bible Crampon 1923, Luc 2, 33-40",
+     "detail": "Texte relevé sur l’édition de Wikisource ; incipit liturgique traduit du missel.",
+     "url": "https://fr.wikisource.org/wiki/Bible_Crampon_1923/Luc"
+    }
+   ],
+   "fete": {
+    "titre": "Le sens de la fête",
+    "texte": "Le dimanche qui tombe dans l’octave de Noël prolonge la contemplation de la Nativité. Son introït, tiré du livre de la Sagesse, chante la venue silencieuse du Verbe : « Tandis qu’un profond silence enveloppait toutes choses, et que la nuit atteignait le milieu de sa course, votre Parole toute-puissante, Seigneur, s’élança du ciel, de son trône royal. » La collecte demande que Dieu dirige nos actes selon son bon plaisir, afin qu’au nom de son Fils bien-aimé nous abondions en bonnes œuvres. Saint Paul annonce que, la plénitude des temps venue, Dieu a envoyé son Fils, né d’une femme, pour nous conférer l’adoption ; l’Évangile montre Siméon et Anne au Temple, et l’Enfant qui grandit à Nazareth. La communion rappelle l’ordre de l’ange à Joseph : « Prends l’Enfant et sa mère. » Le dimanche l’emportant cette année sur la fête de saint Jean, apôtre et évangéliste, l’Église fait mémoire du disciple que Jésus aimait."
+   }
+  },
+  "meditation": {
+   "titre": "Saint Jean l’Évangéliste",
+   "texte": [
+    "*Un des disciples de Jésus, celui que Jésus aimait, était couché sur son sein.* (Joan., XIII, 32.)",
+    "Ce disciple, c’est Jean l’Évangéliste, qui parle de soi comme d’une autre personne, pour éviter la jactance, et pour suivre l’usage des autres écrivains inspirés. C’est ainsi que Moïse, dans ses livres, parle de soi comme d’un autre. Il dit : *Le Seigneur parla à Moïse.* Saint Matthieu dit de même : *Et Jésus vit un homme assis au bureau de la douane, nommé Matthieu.* (IX, 9.) Et saint Paul dit : *Je connais un homme…*",
+    "**I**",
+    "Jean dit ici trois choses de lui-même :",
+    "*a*) L’amour qui le faisait se pencher sur Jésus. *Il était couché,* c’est-à-dire, il reposait. Job dit dans le même sens : *Alors tu mettras en Dieu tes délices et tu lèveras vers lui ta face.* (22, 26.) Et le Psaume : *Il me mène près des eaux rafraîchissantes ; il restaure mon âme.* (23, 3.)",
+    "*b*) La connaissance des secrets que le Christ lui révélait, et spécialement pour la rédaction de son Évangile. C’est pourquoi il dit : *Sur le sein de Jésus.* Le sein signifie le secret. Saint Jean dit de lui-même : *Dieu, personne ne le vit jamais ; le Fils unique qui est dans le sein du Père, c’est lui qui l’a fait connaître.* (Joan., I, 18.)",
+    "*c*) L’amour spécial dont Jésus l’aimait, quand il dit : *Celui que Jésus aimait ;* non point d’amour singulier, mais comme si Jésus l’avait aimé plus excellemment, en quelque sorte.",
+    "**II**",
+    "Et il faut savoir que Jean fut plus aimé de Jésus, pour trois raisons :",
+    "*a*) Pour sa pureté ; car, il a été choisi vierge, par Jésus, et il est demeuré vierge toute sa vie. *Celui qui aime la pureté du cœur et qui a la grâce sur les lèvres a le roi pour ami,* dit le livre des Proverbes. (22, 11.)",
+    "*b*) Pour la sublimité de sa sagesse ; car, il a pénétré plus haut que les autres dans les secrets de Dieu : c’est pourquoi il est symbolisé par l’aigle. *La faveur du roi est pour le serviteur intelligent,* disent les Proverbes. (XIV, 35.)",
+    "*c*) À cause de son ardente ferveur d’amour pour le Christ : *J’aime ceux qui m’aiment,* disent encore les Proverbes. (VIII, 17.)",
+    "*(Sur saint Jean, c. XIII.)*"
+   ],
+   "commentaire": {
+    "sections": [
+     {
+      "titre": "La vierge confiée au vierge",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "La Moelle dit que Jean fut aimé pour sa pureté. Saint Thomas, au début de son commentaire, montre que l’Évangile lui rend un double témoignage de virginité. D’abord par **l’amour plus grand dont il fut aimé, dont la pureté était la cause**, car « celui qui aime la pureté du cœur a le roi pour ami ». Ensuite par le fait que **le Seigneur, pendu à la croix, lui confia sa mère, pour qu’un vierge garde la Vierge** (Super Ioannem, prologue)."
+      ],
+      "citation": {
+       "texte": "« Le Seigneur, pendu à la croix, lui confia sa mère, afin que le vierge garde comme il convient la Vierge mère. »",
+       "ref": "Super Ioannem, prologus",
+       "url": "https://www.corpusthomisticum.org/cih00.html#87415"
+      }
+     },
+     {
+      "titre": "Pierre plus aimant, Jean plus aimé",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Mais Pierre aimait davantage le Christ : « m’aimes-tu plus que ceux-ci ? » Pourquoi donc Jean est-il le disciple que Jésus aimait ? Saint Thomas propose plusieurs réponses. Ces deux apôtres figurent **la vie active et la vie contemplative** : l’active aime davantage, parce qu’elle sent plus les angoisses de cette vie et désire plus ardemment en être délivrée ; mais Dieu aime davantage la contemplative, qu’il conserve au-delà de cette vie. Ou bien **Pierre aima davantage le Christ dans ses membres, et reçut l’Église ; Jean l’aima davantage en lui-même, et reçut sa mère** (Super Ioannem, ch. 21, leçon 5)."
+      ]
+     },
+     {
+      "titre": "La contemplation et l’œuvre de l’amour",
+      "source": "Saint Thomas d’Aquin",
+      "paragraphes": [
+       "Saint Thomas tient que la vie contemplative, par son genre, a plus de mérite, parce qu’elle se rapporte plus directement à l’amour de Dieu : elle goûte déjà, dit saint Grégoire, le repos à venir. **Mais il peut arriver qu’on mérite davantage dans l’action**, quand, par l’abondance de l’amour divin, on accepte d’être séparé un temps de la douceur de la contemplation pour faire la volonté de Dieu et procurer sa gloire, comme l’Apôtre souhaitant d’être anathème pour ses frères (II-II, q. 182, a. 2). Jean qui repose sur le cœur du Christ et Pierre qui paît le troupeau se rejoignent dans la même charité."
+      ]
+     }
+    ]
+   },
+   "essentiel": [
+    "Le Christ confia sa mère vierge au disciple vierge.",
+    "Pierre aima le Christ dans ses membres et reçut l’Église ; Jean l’aima en lui-même et reçut sa mère.",
+    "La contemplation a plus de mérite par son genre, mais l’amour peut faire mériter davantage dans l’action."
+   ],
+   "resolution": "Prendre aujourd’hui un temps de silence pour « reposer sur le cœur de Jésus », par exemple un quart d’heure d’oraison devant le Saint-Sacrement ou la crèche, et confier ensuite à Marie une personne que je dois servir.",
+   "sources": [
+    {
+     "label": "La Moelle de saint Thomas d’Aquin, R. P. Mézard, O.P., tome I, p. 71-72",
+     "detail": "Traduction « par un religieux du même Ordre », P. Lethielleux, 1930 ; exemplaire numérisé par la Bibliothèque Saint Libère. Texte transcrit sur les images du scan, l’OCR d’archive.org étant très fautif. Deux références imprimées sont à préciser : le verset cité en tête est Jean 13, 23 (et non XIII, 32) ; le psaume « Il me mène près des eaux rafraîchissantes » est cité selon la numérotation hébraïque (Ps 23), saint Thomas citant le Ps 22, 2 de la Vulgate.",
+     "url": "https://archive.org/details/la-moelle-de-saint-thomas-d-aquin-tome-1-000000942"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 13, lect. 4",
+     "detail": "Référence imprimée par La Moelle (Sur saint Jean, c. XIII), exacte : commentaire de Jean 13, 23, que la méditation traduit fidèlement. Texte latin, Corpus Thomisticum (la page couvre Jean 13-17).",
+     "url": "https://www.corpusthomisticum.org/cih13.html#87508"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, prologue",
+     "detail": "Le double témoignage de la virginité de saint Jean ; texte latin, Corpus Thomisticum ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih00.html#87415"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Super Ioannem, cap. 21, lect. 5",
+     "detail": "Pierre plus aimant, Jean plus aimé ; texte latin, Corpus Thomisticum (la page couvre Jean 20-21) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/cih20.html#87562"
+    },
+    {
+     "label": "Saint Thomas d’Aquin, Somme théologique, II-II, q. 182, a. 2",
+     "detail": "Le mérite de la vie contemplative et de la vie active ; texte latin, Corpus Thomisticum (II-II, q. 179-182) ; traduction d’Ad Fontes.",
+     "url": "https://www.corpusthomisticum.org/sth3179.html#46218"
+    }
+   ]
+  }
  }
 }
